@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SABER Elite Pro v3.0 - Plataforma de Excelência Acadêmica para Concursos Públicos">
+    <meta name="keywords" content="concurso, polícia penal, estudos, simulado, aprovação">
+    <meta name="theme-color" content="#667eea">
+    <title>🎓 SABER Elite Pro v3.0 - Plataforma de Excelência</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --success: linear-gradient(135deg, #10b981 0%, #059669 100%);
+            --danger: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+            --warning: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+            --dark: #0f172a;
+            --light: #f8fafc;
+        }
+
+        html, body {
+            height: 100%;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to bottom, #f8fafc, #f1f5f9);
+            color: var(--dark);
+            overflow-x: hidden;
+        }
+
+        .navbar {
+            background: var(--primary);
+            padding: 1.2rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .navbar h1 {
+            color: white;
+            font-size: 1.8rem;
+            font-weight: 800;
+        }
+
+        .navbar-status {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .status-badge {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            backdrop-filter: blur(10px);
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 2rem;
+            padding: 2rem;
+            min-height: calc(100vh - 80px);
+        }
+
+        .sidebar {
+            background: white;
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+            height: fit-content;
+            position: sticky;
+            top: 100px;
+        }
+
+        .sidebar h2 {
+            background: var(--primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1.5rem;
+            font-size: 1.3rem;
+            font-weight: 700;
+        }
+
+        .nav-btn {
+            display: block;
+            width: 100%;
+            padding: 1rem;
+            margin-bottom: 0.8rem;
+            border: 2px solid transparent;
+            border-radius: 12px;
+            background: #f8fafc;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.95rem;
+            text-align: left;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .nav-btn:hover, .nav-btn.active {
+            background: var(--primary);
+            color: white;
+            transform: translateX(8px);
+        }
+
+        .main {
+            background: white;
+            border-radius: 20px;
+            padding: 2.5rem;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+        }
+
+        .section {
+            display: none;
+        }
+
+        .section.active {
+            display: block;
+            animation: slideIn 0.4s ease-in;
+        }
+
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            background: var(--primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1.5rem;
+            font-size: 2.2rem;
+            font-weight: 800;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+            border: 2px solid rgba(102, 126, 234, 0.2);
+            padding: 1.5rem;
+            border-radius: 15px;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.2);
+        }
+
+        .stat-card .value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: var(--primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .stat-card .label {
+            color: #64748b;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        .question-box {
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            border: 2px solid #e2e8f0;
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-left: 6px solid var(--primary);
+            transition: all 0.3s;
+        }
+
+        .question-box:hover {
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.15);
+            transform: translateY(-2px);
+        }
+
+        .question-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .question-num {
+            background: var(--primary);
+            color: white;
+            padding: 0.6rem 1.2rem;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.95rem;
+        }
+
+        .question-disc {
+            background: var(--success);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 0.85rem;
+        }
+
+        .question-text {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--dark);
+            margin: 1.5rem 0;
+            line-height: 1.8;
+        }
+
+        .options {
+            display: grid;
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .option {
+            background: white;
+            border: 2px solid #e2e8f0;
+            padding: 1.2rem;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-weight: 500;
+        }
+
+        .option:hover {
+            border-color: #667eea;
+            background: rgba(102, 126, 234, 0.05);
+            transform: translateX(8px);
+        }
+
+        .option-letter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 45px;
+            height: 45px;
+            background: #f1f5f9;
+            border-radius: 10px;
+            font-weight: 700;
+            color: #667eea;
+            font-size: 1.1rem;
+            flex-shrink: 0;
+        }
+
+        .option.correct {
+            border-color: #10b981;
+            background: rgba(16, 185, 129, 0.08);
+        }
+
+        .option.correct .option-letter {
+            background: var(--success);
+            color: white;
+        }
+
+        .option.incorrect {
+            border-color: #ef4444;
+            background: rgba(239, 68, 68, 0.08);
+        }
+
+        .option.incorrect .option-letter {
+            background: var(--danger);
+            color: white;
+        }
+
+        .explanation {
+            background: linear-gradient(135deg, rgba(16, 185, 129, 0.1) 0%, rgba(59, 130, 246, 0.1) 100%);
+            border: 2px solid #10b981;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 1.5rem;
+            display: none;
+        }
+
+        .explanation.show {
+            display: block;
+        }
+
+        .explanation h4 {
+            color: #10b981;
+            margin-bottom: 0.8rem;
+            font-weight: 700;
+        }
+
+        .explanation p {
+            color: #334155;
+            line-height: 1.7;
+            font-size: 0.95rem;
+        }
+
+        .btn {
+            padding: 0.8rem 1.5rem;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-success {
+            background: var(--success);
+            color: white;
+            width: 100%;
+        }
+
+        .btn-success:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(16, 185, 129, 0.4);
+        }
+
+        input, textarea, select {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+            transition: all 0.3s;
+        }
+
+        input:focus, textarea:focus, select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .card {
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+            border: 2px solid rgba(102, 126, 234, 0.2);
+            border-radius: 15px;
+            padding: 1.5rem;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 50px rgba(102, 126, 234, 0.25);
+        }
+
+        .card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            color: var(--dark);
+        }
+
+        .card p {
+            color: #64748b;
+            font-size: 0.9rem;
+        }
+
+        .admin-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+        }
+
+        .admin-card {
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            border: 2px solid #e2e8f0;
+            padding: 2rem;
+            border-radius: 15px;
+        }
+
+        .admin-card h3 {
+            background: var(--primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1.5rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+
+        .message {
+            padding: 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-weight: 500;
+            animation: slideIn 0.3s ease-in;
+        }
+
+        .success-msg {
+            background: rgba(16, 185, 129, 0.1);
+            border: 2px solid #10b981;
+            color: #065f46;
+        }
+
+        .error-msg {
+            background: rgba(239, 68, 68, 0.1);
+            border: 2px solid #ef4444;
+            color: #7f1d1d;
+        }
+
+        .button-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .god-mode-header {
+            background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+            color: white;
+            padding: 2rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .professor-mode {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(102, 126, 234, 0.1) 100%);
+            border: 2px solid rgba(59, 130, 246, 0.3);
+            padding: 1.5rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+        }
+
+        .search-filter {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .search-filter input,
+        .search-filter select {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+            }
+
+            .main {
+                padding: 1.5rem;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .button-group {
+                grid-template-columns: 1fr;
+            }
+
+            .navbar {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .navbar-status {
+                width: 100%;
+                justify-content: space-around;
+            }
+        }
+
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary);
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>🎓 SABER Elite Pro v3.0</h1>
+        <div class="navbar-status">
+            <div class="status-badge">📚 <strong id="totalQ">0</strong> Questões</div>
+            <div class="status-badge">🎯 <strong id="totalD">0</strong> Disciplinas</div>
+            <div class="status-badge">🎮 <strong id="totalS">0</strong> Simulados</div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <aside class="sidebar">
+            <h2>🎯 Menu</h2>
+            <button class="nav-btn active" onclick="mostrar('home')">🏠 Home</button>
+            <button class="nav-btn" onclick="mostrar('questoes')">❓ Questões</button>
+            <button class="nav-btn" onclick="mostrar('simulados')">🎮 Simulados</button>
+            <button class="nav-btn" onclick="mostrar('professor')">🎓 Prof. Universitário</button>
+            <button class="nav-btn" onclick="mostrar('deus')">⚡ Modo Deus</button>
+            <button class="nav-btn" onclick="mostrar('admin')">⚙️ Admin Supreme</button>
+        </aside>
+
+        <main class="main">
+            <section id="home" class="section active">
+                <h1>🏠 Bem-vindo à Excelência Acadêmica</h1>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="value" id="homeTotal">0</div>
+                        <div class="label">Questões</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="value" id="homeDis">0</div>
+                        <div class="label">Disciplinas</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="value" id="homeSim">0</div>
+                        <div class="label">Simulados</div>
+                    </div>
+                </div>
+
+                <h2 style="margin-top: 3rem; margin-bottom: 1.5rem;">✨ Recursos Premium</h2>
+                <div class="card-grid">
+                    <div class="card" onclick="mostrar('questoes')">
+                        <h3>❓ Banco Inteligente</h3>
+                        <p>500+ questões com busca avançada</p>
+                    </div>
+                    <div class="card" onclick="mostrar('simulados')">
+                        <h3>🎮 Simulados Dinâmicos</h3>
+                        <p>Sincronizados automaticamente</p>
+                    </div>
+                    <div class="card" onclick="mostrar('professor')">
+                        <h3>🎓 Modo Académico</h3>
+                        <p>Explicações de professor doutor</p>
+                    </div>
+                    <div class="card" onclick="mostrar('deus')">
+                        <h3>⚡ Análise Total</h3>
+                        <p>Tudo revelado para aprovação</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="questoes" class="section">
+                <h1>❓ Banco de Questões Interativas</h1>
+                <div class="search-filter">
+                    <input type="text" id="search" placeholder="🔍 Buscar..." onkeyup="filtrar()">
+                    <select id="disciplina" onchange="filtrar()">
+                        <option value="">📚 Todas</option>
+                    </select>
+                </div>
+                <div id="questoesContainer"></div>
+            </section>
+
+            <section id="simulados" class="section">
+                <h1>🎮 Simulados (GitHub Auto-Sync)</h1>
+                <div id="simuladosContainer"></div>
+            </section>
+
+            <section id="professor" class="section">
+                <div class="professor-mode">
+                    <h2>🎓 Modo Professor Universitário</h2>
+                    <p>Explicações académicas para aprovação garantida</p>
+                </div>
+                <button class="btn btn-primary" onclick="carregaProfessor()">📚 Carregar</button>
+                <div id="professorContainer"></div>
+            </section>
+
+            <section id="deus" class="section">
+                <div class="god-mode-header">
+                    <h2>⚡ MODO DEUS - ANÁLISE SUPREMA</h2>
+                    <p>Visualize tudo para aprovação garantida</p>
+                </div>
+                <button class="btn btn-primary" onclick="carregaDeus()">👁️ Revelar</button>
+                <div id="deusContainer"></div>
+            </section>
+
+            <section id="admin" class="section">
+                <h1>⚙️ Admin Supreme</h1>
+                <div class="admin-grid">
+                    <div class="admin-card">
+                        <h3>🚀 Conversor Profissional</h3>
+                        <input type="text" id="nome" placeholder="Nome do simulado">
+                        <textarea id="texto" placeholder="Cole simulado aqui" style="min-height: 250px;"></textarea>
+                        <button class="btn btn-success" onclick="converter()">🔄 CONVERTER</button>
+                        <div id="resultado"></div>
+                    </div>
+                    <div class="admin-card">
+                        <h3>📊 Estatísticas</h3>
+                        <p style="color: #64748b; line-height: 2; font-size: 0.95rem;">
+                            📚 Total: <strong id="adminTotal">0</strong><br>
+                            🎯 Disciplinas: <strong id="adminDis">0</strong><br>
+                            🎮 Simulados: <strong id="adminSim">0</strong>
+                        </p>
+                        <button class="btn btn-primary" style="width: 100%; margin-top: 1rem;" onclick="exportar()">📤 Exportar</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        const DISCIPLINAS = [
+            "Língua Portuguesa", "Raciocínio Lógico-Matemático", "Informática", "Atualidades",
+            "Ética no Serviço Público", "Noções de Direitos Humanos", "Direito Constitucional",
+            "Direito Administrativo", "Direito Penal", "Processo Penal",
+            "Legislação Institucional da Polícia Penal do Estado", "Legislação Penal e Processual Penal Especial"
+        ];
+
+        let QUESTOES = [], SIMULADOS = [], jsonConverso = null;
+        const GITHUB_USER = 'penalgrupodeestudos-ctrl';
+        const GITHUB_REPO = 'SABER-ELITE-PRO-v3';
+
+        document.addEventListener('DOMContentLoaded', async function() {
+            await carregarGitHub();
+            carregarLocal();
+            atualizar();
+        });
+
+        async function carregarGitHub() {
+            try {
+                const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/simulados-padrao.json`;
+                const res = await fetch(url);
+                if (res.ok) {
+                    const dados = await res.json();
+                    if (dados.simulados) SIMULADOS = dados.simulados;
+                    localStorage.setItem('saber_simulados', JSON.stringify(SIMULADOS));
+                }
+            } catch (e) {}
+        }
+
+        function carregarLocal() {
+            const q = localStorage.getItem('saber_questoes');
+            const s = localStorage.getItem('saber_simulados');
+            if (q) QUESTOES = JSON.parse(q);
+            if (s) SIMULADOS = JSON.parse(s);
+        }
+
+        function salvar() {
+            localStorage.setItem('saber_questoes', JSON.stringify(QUESTOES));
+            localStorage.setItem('saber_simulados', JSON.stringify(SIMULADOS));
+        }
+
+        function atualizar() {
+            const dis = new Set(QUESTOES.map(q => q.disciplina || 'Geral')).size;
+            document.getElementById('totalQ').textContent = QUESTOES.length;
+            document.getElementById('totalD').textContent = dis;
+            document.getElementById('totalS').textContent = SIMULADOS.length;
+            document.getElementById('homeTotal').textContent = QUESTOES.length;
+            document.getElementById('homeDis').textContent = dis;
+            document.getElementById('homeSim').textContent = SIMULADOS.length;
+            document.getElementById('adminTotal').textContent = QUESTOES.length;
+            document.getElementById('adminDis').textContent = dis;
+            document.getElementById('adminSim').textContent = SIMULADOS.length;
+
+            const sel = document.getElementById('disciplina');
+            sel.innerHTML = '<option value="">📚 Todas</option>';
+            DISCIPLINAS.forEach(d => {
+                const opt = document.createElement('option');
+                opt.value = d;
+                opt.textContent = d;
+                sel.appendChild(opt);
+            });
+        }
+
+        function mostrar(id) {
+            document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        function filtrar() {
+            const search = document.getElementById('search').value.toLowerCase();
+            const dis = document.getElementById('disciplina').value;
+            const filtradas = QUESTOES.filter(q => {
+                const s = !search || (q.questao && q.questao.toLowerCase().includes(search));
+                const d = !dis || q.disciplina === dis;
+                return s && d;
+            });
+            renderizar(filtradas);
+        }
+
+        function renderizar(questoes) {
+            let html = `<p style="color: #64748b; margin-bottom: 1.5rem;"><strong>${questoes.length}</strong> de <strong>${QUESTOES.length}</strong></p>`;
+            questoes.forEach((q, i) => {
+                html += `
+                    <div class="question-box">
+                        <div class="question-header">
+                            <span class="question-num">Q${q.numero || i+1}</span>
+                            <span class="question-disc">${q.disciplina || 'Geral'}</span>
+                        </div>
+                        <div class="question-text">${q.questao}</div>
+                        <div class="options">
+                            ${Object.entries(q.opcoes || {}).map(([l, t]) => `
+                                <div class="option" onclick="selecionar(this, '${l}', '${q.resposta_correta}')">
+                                    <div class="option-letter">${l}</div>
+                                    <div>${t}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                        <button class="btn btn-primary" style="margin-top: 1rem;" onclick="this.closest('.question-box').querySelector('.explanation').classList.toggle('show')">📖 Explicação</button>
+                        <div class="explanation">
+                            <h4>✅ Resposta: ${q.resposta_correta}</h4>
+                            <p>${q.explicacao_professor || 'Sem explicação'}</p>
+                        </div>
+                    </div>
+                `;
+            });
+            document.getElementById('questoesContainer').innerHTML = html;
+        }
+
+        function selecionar(el, letra, correta) {
+            el.parentElement.querySelectorAll('.option').forEach(o => o.classList.remove('correct', 'incorrect'));
+            if (letra === correta) {
+                el.classList.add('correct');
+            } else {
+                el.classList.add('incorrect');
+            }
+        }
+
+        function converter() {
+            try {
+                const nome = document.getElementById('nome').value.trim();
+                const texto = document.getElementById('texto').value.trim();
+
+                if (!nome || !texto) {
+                    msg('❌ Preencha tudo!', 'error');
+                    return;
+                }
+
+                let questoes = [];
+                try {
+                    let p = JSON.parse(texto);
+                    if (Array.isArray(p)) questoes = p;
+                    else if (p.questoes) questoes = p.questoes;
+                    else if (p.questions) questoes = p.questions;
+                    else if (p.items) questoes = p.items;
+                    else if (p.simulados) questoes = p.simulados[0].questoes || p.simulados[0];
+                    else {
+                        for (let k in p) {
+                            if (Array.isArray(p[k]) && p[k].length > 0) {
+                                questoes = p[k];
+                                break;
+                            }
+                        }
+                    }
+                } catch (e) {
+                    msg('❌ JSON inválido!', 'error');
+                    return;
+                }
+
+                if (questoes.length === 0) {
+                    msg('❌ Nenhuma questão!', 'error');
+                    return;
+                }
+
+                const sim = {
+                    id: Date.now(),
+                    nome: nome,
+                    dataCriacao: new Date().toISOString(),
+                    questoes: questoes
+                };
+
+                SIMULADOS.push(sim);
+                salvar();
+
+                const json = JSON.stringify({ simulados: SIMULADOS }, null, 2);
+                jsonConverso = json;
+
+                let html = `<div class="message success-msg">✅ ${questoes.length} questões convertidas!</div>`;
+                html += `<textarea readonly style="height: 250px; background: #f8fafc; margin: 1rem 0;">${json}</textarea>`;
+                html += `<div class="button-group">
+                    <button class="btn btn-primary" onclick="copia()">📋 Copiar</button>
+                    <button class="btn btn-primary" onclick="baixa()">💾 Download</button>
+                </div>`;
+
+                document.getElementById('resultado').innerHTML = html;
+                document.getElementById('nome').value = '';
+                document.getElementById('texto').value = '';
+                atualizar();
+
+            } catch (error) {
+                msg('❌ Erro!', 'error');
+            }
+        }
+
+        function copia() {
+            navigator.clipboard.writeText(jsonConverso);
+            alert('✅ Copiado!');
+        }
+
+        function baixa() {
+            const blob = new Blob([jsonConverso], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'simulados-padrao.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function carregaProfessor() {
+            let html = '';
+            QUESTOES.forEach((q, i) => {
+                html += `
+                    <div class="question-box">
+                        <div class="question-header">
+                            <span class="question-num">Q${q.numero || i+1}</span>
+                            <span class="question-disc">${q.disciplina}</span>
+                        </div>
+                        <div class="question-text">${q.questao}</div>
+                        <div class="options">
+                            ${Object.entries(q.opcoes || {}).map(([l, t]) => `
+                                <div class="option ${l === q.resposta_correta ? 'correct' : ''}">
+                                    <div class="option-letter">${l}</div>
+                                    <div>${t}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                        <div class="explanation show">
+                            <h4>✅ Resposta: ${q.resposta_correta}</h4>
+                            <p>${q.explicacao_professor || 'Sem análise'}</p>
+                        </div>
+                    </div>
+                `;
+            });
+            document.getElementById('professorContainer').innerHTML = html;
+        }
+
+        function carregaDeus() {
+            carregaProfessor();
+            document.getElementById('deusContainer').innerHTML = document.getElementById('professorContainer').innerHTML;
+        }
+
+        function exportar() {
+            const dados = {
+                questoes: QUESTOES,
+                simulados: SIMULADOS,
+                exportadoEm: new Date().toISOString()
+            };
+            const json = JSON.stringify(dados, null, 2);
+            const blob = new Blob([json], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `saber-backup-${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function msg(texto, tipo) {
+            const cls = tipo === 'error' ? 'error-msg' : 'success-msg';
+            document.getElementById('resultado').innerHTML = `<div class="message ${cls}">${texto}</div>`;
+        }
+    </script>
+</body>
+</html>
