@@ -1,0 +1,1165 @@
+[
+  {
+    "numero": 1,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que a regência verbal está correta:",
+    "opcoes": {
+      "A": "Assistiu o filme ontem à noite.",
+      "B": "Aspirava um cargo público.",
+      "C": "Obedeceu as ordens do superior.",
+      "D": "Preferiu mais estudar do que descansar.",
+      "E": "Esqueceu-se do compromisso."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito indica a alternativa 'C'. Pela norma culta, o verbo 'obedecer' é transitivo indireto (VTDI), exigindo a preposição 'a'. O correto seria 'Obedeceu às ordens do superior' (com crase). A única alternativa correta em regência é a E: 'Esqueceu-se do compromisso' (verbo pronominal 'esquecer-se' exige a preposição **de**)."
+  },
+  {
+    "numero": 2,
+    "disciplina": "Importado",
+    "questao": "Na frase “Os candidatos, bem como seus acompanhantes, ___ ansiosos pelo início da prova”, a\nforma verbal correta é:",
+    "opcoes": {
+      "A": "estava",
+      "B": "estavam",
+      "C": "estará",
+      "D": "estiveram",
+      "E": "estariam"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Com a expressão aditiva 'bem como', a concordância do verbo é feita com o primeiro núcleo do sujeito ('Os candidatos'), que está no plural. Portanto, o verbo deve ir para o plural: **estavam**."
+  },
+  {
+    "numero": 3,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que há erro de concordância nominal:",
+    "opcoes": {
+      "A": "As provas estavam meio difíceis.",
+      "B": "Seguem anexa os documentos solicitados.",
+      "C": "Ela está quites com a justiça.",
+      "D": "É proibida a entrada de estranhos.",
+      "E": "Estavam quites com suas obrigações."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A alternativa 'A' apresenta o erro de concordância nominal. O termo 'meio', funcionando como advérbio de intensidade (sinônimo de 'um pouco'), deve ser invariável. O correto é: As provas estavam **meio** difíceis. (A alternativa B e C também contêm erros: B - Seguem **anexos** os documentos; C - Ela está **quite** com a justiça.)"
+  },
+  {
+    "numero": 4,
+    "disciplina": "Importado",
+    "questao": "O emprego da vírgula está correto em:",
+    "opcoes": {
+      "A": "João, viajou ontem para São Paulo.",
+      "B": "Viajaram todos, menos Carla.",
+      "C": "A polícia, investiga o caso com rigor.",
+      "D": "O réu negou-se, a depor.",
+      "E": "Chegaram, cedo, ao local."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto pela norma culta, pois a vírgula não pode separar o Sujeito ('A polícia') do Verbo ('investiga'). A alternativa B é a que está correta, pois a vírgula isola o termo com função de ressalva ('menos Carla')."
+  },
+  {
+    "numero": 5,
+    "disciplina": "Importado",
+    "questao": "No trecho “A prova não foi tão difícil quanto se imaginava”, o termo destacado indica:",
+    "opcoes": {
+      "A": "Comparação",
+      "B": "Proporção",
+      "C": "Finalidade",
+      "D": "Condição",
+      "E": "Concessão"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito indica D (Condição). No entanto, a conjunção 'tão... quanto' (ou 'tão... como') introduz uma ideia de **Comparação**. A alternativa correta é a A."
+  },
+  {
+    "numero": 6,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que ocorre crase obrigatória:",
+    "opcoes": {
+      "A": "Dirigiu-se à noite para casa.",
+      "B": "Voltou à pé do trabalho.",
+      "C": "Entregou o documento à qualquer hora.",
+      "D": "Foi à Roma estudar.",
+      "E": "Assistiu à um espetáculo."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. A crase é proibida antes de palavras masculinas, como 'pé'. A alternativa A ('Dirigiu-se à noite...') é onde a crase é obrigatória, por ser uma locução adverbial feminina de tempo."
+  },
+  {
+    "numero": 7,
+    "disciplina": "Importado",
+    "questao": "A forma verbal correta, segundo a norma culta, é:",
+    "opcoes": {
+      "A": "Haviam muitas pessoas na sala.",
+      "B": "Devem haver soluções para o caso.",
+      "C": "Fazem cinco anos que estuda para concursos.",
+      "D": "Há cinco viaturas na rua.",
+      "E": "Haviam ocorrido incidentes antes da prova."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O verbo 'haver', no sentido de existir, é impessoal, devendo ser usado sempre no singular, inclusive com verbo auxiliar: **Deve haver** soluções. A alternativa D é a única correta: 'Há cinco viaturas na rua' (Verbo 'haver' impessoal no singular)."
+  },
+  {
+    "numero": 8,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que o pronome relativo foi empregado corretamente:",
+    "opcoes": {
+      "A": "Este é o policial cujo nome todos respeitam ele.",
+      "B": "Eis o concurso que me referi.",
+      "C": "A cidade onde nasci é tranquila.",
+      "D": "Eis a lei a qual gosto muito.",
+      "E": "O aluno, o qual estudava bastante, passou."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está gramaticalmente incorreto. O uso do pronome relativo 'cujo' já estabelece a relação de posse e não admite a repetição do pronome 'ele' no final. A alternativa correta é a C, onde 'onde' é usado corretamente para indicar lugar."
+  },
+  {
+    "numero": 9,
+    "disciplina": "Importado",
+    "questao": "No período “Embora estivesse cansado, permaneceu em serviço”, a oração subordinada é:",
+    "opcoes": {
+      "A": "Condicional",
+      "B": "Temporal",
+      "C": "Concessiva",
+      "D": "Comparativa",
+      "E": "Final"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A conjunção 'Embora' é uma conjunção concessiva, que introduz uma ideia de oposição ou concessão em relação à oração principal, sem impedir o fato principal. A oração é, portanto, Subordinada Adverbial **Concessiva**."
+  },
+  {
+    "numero": 10,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma culta:\nDISCIPLINA: DIREITO PENAL\n(Questões 11 a 20)",
+    "opcoes": {
+      "A": "Se entregou o criminoso à polícia.",
+      "B": "Não me arrependo das escolhas.",
+      "C": "Me disseram que a prova era longa.",
+      "D": "Te vi ontem no fórum.",
+      "E": "Sempre se lembrará de seus mestres."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A alternativa correta é a B. A palavra negativa 'Não' é um fator de próclise (colocação do pronome antes do verbo) obrigatório na norma culta: 'Não **me** arrependo'."
+  },
+  {
+    "numero": 11,
+    "disciplina": "Importado",
+    "questao": "O crime de homicídio simples, previsto no art. 121 do CP, é punido com:",
+    "opcoes": {
+      "A": "Reclusão de 1 a 3 anos.",
+      "B": "Reclusão de 2 a 4 anos.",
+      "C": "Reclusão de 6 a 20 anos.",
+      "D": "Reclusão de 12 a 30 anos.",
+      "E": "Detenção de 3 a 8 anos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito indica a alternativa 'B'. No entanto, a pena correta para o crime de homicídio simples (Art. 121, caput, CP) é de **reclusão de 6 a 20 anos** (Alternativa C)."
+  },
+  {
+    "numero": 12,
+    "disciplina": "Importado",
+    "questao": "Configura crime culposo quando:",
+    "opcoes": {
+      "A": "O agente tem a intenção de causar o resultado.",
+      "B": "O agente atua com dolo eventual.",
+      "C": "O agente não prevê o resultado, mas deveria prever.",
+      "D": "O agente deseja diretamente o resultado.",
+      "E": "O agente assume o risco de produzir o resultado."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime culposo é caracterizado pela negligência, imprudência ou imperícia, quando o agente, sem a intenção de produzir o resultado, o causa por não observar o dever de cuidado objetivo (culpa inconsciente). Ou seja, ele **não prevê o resultado, mas deveria prever**."
+  },
+  {
+    "numero": 13,
+    "disciplina": "Importado",
+    "questao": "São excludentes de ilicitude, segundo o art. 23 do CP, exceto:",
+    "opcoes": {
+      "A": "Estado de necessidade.",
+      "B": "Legítima defesa.",
+      "C": "Estrito cumprimento do dever legal.",
+      "D": "Exercício regular de direito.",
+      "E": "Erro de proibição inevitável."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. O Art. 23 do CP lista as excludentes de ilicitude: Estado de necessidade, Legítima defesa, Estrito cumprimento do dever legal e Exercício regular de direito. A exceção é a alternativa E: **Erro de proibição inevitável** (que é uma causa de exclusão da culpabilidade)."
+  },
+  {
+    "numero": 14,
+    "disciplina": "Importado",
+    "questao": "O arrependimento eficaz está previsto:",
+    "opcoes": {
+      "A": "No art. 14, I, CP.",
+      "B": "No art. 14, II, CP.",
+      "C": "No art. 15, CP.",
+      "D": "No art. 17, CP.",
+      "E": "No art. 23, CP."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "O gabarito E está incorreto. O arrependimento eficaz, assim como a desistência voluntária, está previsto no **Art. 15, CP** (Alternativa C)."
+  },
+  {
+    "numero": 15,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa correta sobre o concurso de pessoas:",
+    "opcoes": {
+      "A": "A coautoria exige vínculo subjetivo entre os agentes.",
+      "B": "O partícipe responde apenas pela pena de multa.",
+      "C": "O instigador responde apenas por tentativa.",
+      "D": "O coautor responde somente se praticar o núcleo do tipo.",
+      "E": "O mero auxílio material não gera responsabilização."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O partícipe responde pela mesma pena do autor (Teoria Monista), podendo ser diminuída. A alternativa correta é a A: **A coautoria exige vínculo subjetivo entre os agentes** (o acordo de vontades ou liame subjetivo)."
+  },
+  {
+    "numero": 16,
+    "disciplina": "Importado",
+    "questao": "De acordo com o Código Penal, qual a pena do furto simples?",
+    "opcoes": {
+      "A": "Reclusão de 6 meses a 2 anos.",
+      "B": "Reclusão de 1 a 4 anos e multa.",
+      "C": "Reclusão de 2 a 8 anos.",
+      "D": "Reclusão de 1 a 5 anos.",
+      "E": "Reclusão de 2 a 6 anos e multa."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. A pena do furto simples (Art. 155, caput, CP) é de **Reclusão de 1 a 4 anos e multa** (Alternativa B)."
+  },
+  {
+    "numero": 17,
+    "disciplina": "Importado",
+    "questao": "O crime de roubo (art. 157, CP) exige:",
+    "opcoes": {
+      "A": "Apenas violência contra a pessoa.",
+      "B": "Apenas grave ameaça.",
+      "C": "Violência ou grave ameaça.",
+      "D": "Qualquer meio fraudulento.",
+      "E": "Apenas emprego de arma de fogo."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O crime de roubo (Art. 157, CP) exige a subtração mediante **Violência ou grave ameaça** (Alternativa C), sendo que a violência ou a grave ameaça podem ser usadas isoladamente."
+  },
+  {
+    "numero": 18,
+    "disciplina": "Importado",
+    "questao": "O crime impossível ocorre quando:",
+    "opcoes": {
+      "A": "O agente desiste voluntariamente da execução.",
+      "B": "O agente evita que o resultado ocorra.",
+      "C": "O meio é absolutamente ineficaz ou o objeto é impróprio.",
+      "D": "O agente não prevê o resultado previsível.",
+      "E": "O crime não se consuma por circunstâncias alheias."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime impossível (Art. 17, CP) ocorre quando o agente não consegue consumar o crime por ineficácia absoluta do meio empregado ou por impropriedade absoluta do objeto."
+  },
+  {
+    "numero": 19,
+    "disciplina": "Importado",
+    "questao": "A inimputabilidade penal por doença mental exige:",
+    "opcoes": {
+      "A": "Que o agente seja menor de 21 anos.",
+      "B": "Que o agente tenha completa incapacidade de entendimento.",
+      "C": "Que o agente esteja em estado de embriaguez voluntária.",
+      "D": "Que o agente tenha reduzida capacidade de discernimento.",
+      "E": "Que o agente cometa crime contra a administração pública."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. A inimputabilidade penal por doença mental (Art. 26, CP) exige que o agente tenha **completa incapacidade de entendimento** (Alternativa B) do caráter ilícito do fato."
+  },
+  {
+    "numero": 20,
+    "disciplina": "Importado",
+    "questao": "A prescrição da pretensão punitiva regula-se, em regra, pela:\nDISCIPLINA: DIREITO PROCESSUAL\nPENAL\n(Questões 21 a 30)",
+    "opcoes": {
+      "A": "Data da prisão do réu.",
+      "B": "Pena aplicada em sentença.",
+      "C": "Pena máxima cominada ao crime.",
+      "D": "Natureza do delito.",
+      "E": "Gravidade do dano social"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "O gabarito E está incorreto. A prescrição da pretensão punitiva (antes do trânsito em julgado) regula-se, em regra, pela **Pena máxima cominada ao crime** (Alternativa C) (Art. 109, CP)."
+  },
+  {
+    "numero": 21,
+    "disciplina": "Importado",
+    "questao": "De acordo com o CPP, o inquérito policial tem a natureza de:",
+    "opcoes": {
+      "A": "Ação penal.",
+      "B": "Processo administrativo sancionador.",
+      "C": "Procedimento administrativo de caráter inquisitivo.",
+      "D": "Procedimento jurisdicional.",
+      "E": "Meio de prova judicial."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. O Inquérito Policial tem a natureza de **Procedimento administrativo de caráter inquisitivo** (Alternativa C), ou seja, sem a obrigatoriedade do contraditório e da ampla defesa."
+  },
+  {
+    "numero": 22,
+    "disciplina": "Importado",
+    "questao": "O prazo para conclusão do inquérito policial, se o indiciado estiver preso em flagrante, é de:",
+    "opcoes": {
+      "A": "5 dias, prorrogável por igual período.",
+      "B": "10 dias, improrrogáveis.",
+      "C": "15 dias, prorrogáveis uma vez.",
+      "D": "30 dias, prorrogáveis.",
+      "E": "90 dias, prorrogáveis."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O prazo para conclusão do inquérito com o indiciado preso é de **10 dias, improrrogáveis** (Art. 10, § 1º, CPP)."
+  },
+  {
+    "numero": 23,
+    "disciplina": "Importado",
+    "questao": "A denúncia ou queixa será rejeitada quando:",
+    "opcoes": {
+      "A": "Estiverem ausentes os pressupostos processuais.",
+      "B": "Estiver provada a inocência do acusado.",
+      "C": "Existirem provas robustas de autoria.",
+      "D": "Estiver comprovada a materialidade.",
+      "E": "O juiz entender que o fato é grave."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. O Art. 395 do CPP estabelece que a denúncia será rejeitada quando, por exemplo, faltar justa causa ou estiver ausente pressuposto processual (Alternativa A). A existência de provas robustas de autoria (C) é um motivo para o **recebimento** da denúncia."
+  },
+  {
+    "numero": 24,
+    "disciplina": "Importado",
+    "questao": "A citação por edital será realizada quando:",
+    "opcoes": {
+      "A": "O acusado estiver internado em hospital psiquiátrico.",
+      "B": "O acusado se ocultar para não ser citado.",
+      "C": "O acusado tiver domicílio certo, mas se recusar a receber.",
+      "D": "O acusado estiver em lugar incerto ou não sabido.",
+      "E": "O acusado estiver em outro estado da federação."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. A citação por edital é realizada quando o acusado está **em lugar incerto ou não sabido** (Alternativa D), ou quando se oculta (o que gera a Citação por Hora Certa)."
+  },
+  {
+    "numero": 25,
+    "disciplina": "Importado",
+    "questao": "O princípio do contraditório e da ampla defesa é assegurado:",
+    "opcoes": {
+      "A": "Apenas na fase do inquérito policial.",
+      "B": "Apenas na fase processual.",
+      "C": "Apenas no Tribunal do Júri.",
+      "D": "No inquérito e na instrução criminal.",
+      "E": "No processo judicial, mas não no inquérito."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. O contraditório e a ampla defesa são assegurados no **processo judicial, mas são mitigados no inquérito** (Alternativa E), devido ao caráter inquisitivo do IP."
+  },
+  {
+    "numero": 26,
+    "disciplina": "Importado",
+    "questao": "A prisão em flagrante poderá ser efetuada:",
+    "opcoes": {
+      "A": "Apenas pela autoridade policial.",
+      "B": "Apenas pelo Ministério Público.",
+      "C": "Apenas por qualquer pessoa em crime doloso.",
+      "D": "Por qualquer do povo em qualquer crime.",
+      "E": "Por qualquer do povo em crime permanente."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. A prisão em flagrante pode ser feita **Por qualquer do povo em qualquer crime** (Alternativa D), sendo uma faculdade, ou pela autoridade policial (obrigatória) (Art. 301, CPP)."
+  },
+  {
+    "numero": 27,
+    "disciplina": "Importado",
+    "questao": "O princípio da obrigatoriedade da ação penal pública significa que:",
+    "opcoes": {
+      "A": "O Ministério Público pode escolher se denuncia ou não.",
+      "B": "O Ministério Público deve denunciar sempre que houver elementos.",
+      "C": "O juiz pode oferecer denúncia de ofício.",
+      "D": "A vítima é quem decide sobre a propositura da ação.",
+      "E": "A autoridade policial pode arquivar o inquérito."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Pelo princípio da obrigatoriedade, o Ministério Público tem o dever funcional de oferecer a denúncia se existirem os pressupostos para a ação penal, ou seja, **deve denunciar sempre que houver elementos** (justa causa)."
+  },
+  {
+    "numero": 28,
+    "disciplina": "Importado",
+    "questao": "O habeas corpus é cabível em caso de:",
+    "opcoes": {
+      "A": "Qualquer ilegalidade, mesmo administrativa.",
+      "B": "Ameaça ou coação à liberdade de locomoção.",
+      "C": "Defesa de direito patrimonial.",
+      "D": "Defesa de direito político.",
+      "E": "Direito de greve."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O habeas corpus (HC) é o remédio constitucional cabível sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua **liberdade de locomoção**, por ilegalidade ou abuso de poder (Art. 5º, LXVIII, CF/88)."
+  },
+  {
+    "numero": 29,
+    "disciplina": "Importado",
+    "questao": "A competência do Tribunal do Júri, segundo a CF/88, é:",
+    "opcoes": {
+      "A": "Julgar todos os crimes dolosos.",
+      "B": "Julgar crimes dolosos contra a vida.",
+      "C": "Julgar crimes culposos contra a vida.",
+      "D": "Julgar apenas homicídios dolosos.",
+      "E": "Julgar crimes hediondos."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. A competência do Tribunal do Júri é para o julgamento dos **crimes dolosos contra a vida** (Art. 5º, XXXVIII, 'd', CF/88) (Alternativa B), além dos conexos."
+  },
+  {
+    "numero": 30,
+    "disciplina": "Importado",
+    "questao": "De acordo com o CPP, os recursos cabíveis contra decisão de pronúncia são:\nDISCIPLINA: LEGISLAÇÃO ESPECIAL\n(Questões 31 a 40)",
+    "opcoes": {
+      "A": "Apelação e Recurso em Sentido Estrito.",
+      "B": "Recurso em Sentido Estrito (RESE) e Carta Testemunhável.",
+      "C": "Apelação e Embargos de Declaração.",
+      "D": "Recurso em Sentido Estrito (RESE) e Agravo de Instrumento.",
+      "E": "Apenas Apelação."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O recurso cabível contra a decisão de pronúncia é o **Recurso em Sentido Estrito (RESE)** (Art. 581, IV, CPP). A alternativa B inclui o RESE."
+  },
+  {
+    "numero": 31,
+    "disciplina": "Importado",
+    "questao": "Segundo a Lei de Abuso de Autoridade (Lei nº 13.869/2019), o crime é de:",
+    "opcoes": {
+      "A": "Ação penal pública condicionada à representação.",
+      "B": "Ação penal privada.",
+      "C": "Ação penal pública incondicionada, ressalvada a ação privada subsidiária.",
+      "D": "Ação penal pública condicionada à requisição do Ministro da Justiça.",
+      "E": "Ação penal pública incondicionada."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O crime de abuso de autoridade é de **Ação penal pública incondicionada, ressalvada a ação privada subsidiária** (Alternativa C), se a ação pública não for ajuizada no prazo legal (Art. 3º, Lei 13.869/2019)."
+  },
+  {
+    "numero": 32,
+    "disciplina": "Importado",
+    "questao": "Na Lei de Armas (Estatuto do Desarmamento - Lei nº 10.826/2003), a posse de arma de fogo de\nuso permitido, sem autorização e em desacordo com determinação legal ou regulamentar, no\ninterior da residência, constitui o crime de:",
+    "opcoes": {
+      "A": "Porte ilegal de arma de fogo de uso permitido.",
+      "B": "Posse ilegal de arma de fogo de uso restrito.",
+      "C": "Posse ou porte ilegal de arma de fogo de uso permitido.",
+      "D": "Disparo de arma de fogo.",
+      "E": "Posse ilegal de arma de fogo de uso permitido."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O crime é de **Posse ilegal de arma de fogo de uso permitido** (Alternativa E), conforme o Art. 12 da Lei 10.826/2003."
+  },
+  {
+    "numero": 33,
+    "disciplina": "Importado",
+    "questao": "De acordo com a Lei de Tortura (Lei nº 9.455/97), a tortura-castigo é punida com:",
+    "opcoes": {
+      "A": "Reclusão de 1 a 4 anos.",
+      "B": "Reclusão de 2 a 8 anos.",
+      "C": "Reclusão de 4 a 10 anos.",
+      "D": "Detenção de 3 a 8 anos.",
+      "E": "Reclusão de 6 a 12 anos."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. A tortura-castigo (Art. 1º, I, 'c', Lei 9.455/97) é punida com **Reclusão de 2 a 8 anos** (Alternativa B)."
+  },
+  {
+    "numero": 34,
+    "disciplina": "Importado",
+    "questao": "Na Lei Maria da Penha (Lei nº 11.340/2006), as medidas protetivas de urgência podem\nser aplicadas:",
+    "opcoes": {
+      "A": "Apenas pelo juiz, a requerimento do Ministério Público.",
+      "B": "Pelo juiz, de ofício ou a pedido da ofendida ou MP.",
+      "C": "Apenas pela autoridade policial.",
+      "D": "Apenas mediante sentença condenatória.",
+      "E": "Exclusivamente com anuência da vítima."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "As medidas protetivas de urgência podem ser concedidas pelo juiz, **de ofício ou a pedido da ofendida ou do Ministério Público** (Art. 19, Lei 11.340/2006)."
+  },
+  {
+    "numero": 35,
+    "disciplina": "Importado",
+    "questao": "O crime de racismo (Lei nº 7.716/89) é:",
+    "opcoes": {
+      "A": "Inafiançável e imprescritível.",
+      "B": "Afiançável e imprescritível.",
+      "C": "Inafiançável e prescritível.",
+      "D": "Afiançável e prescritível.",
+      "E": "Sujeito a suspensão condicional do processo."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. O crime de racismo é, por força do Art. 5º, XLII, da CF/88, **Inafiançável e imprescritível** (Alternativa A)."
+  },
+  {
+    "numero": 36,
+    "disciplina": "Importado",
+    "questao": "De acordo com a Lei de Execução Penal (LEP - Lei nº 7.210/84), a progressão de regime\ndepende de:",
+    "opcoes": {
+      "A": "Atestado de bom comportamento carcerário e tempo de pena cumprido.",
+      "B": "Apenas tempo de pena cumprido.",
+      "C": "Apenas exame criminológico favorável.",
+      "D": "Apenas autorização do Ministério Público.",
+      "E": "Apenas decisão judicial de segundo grau."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. A progressão de regime depende do preenchimento de requisitos objetivos (tempo de pena cumprido) e subjetivos (**bom comportamento carcerário**) (Alternativa A)."
+  },
+  {
+    "numero": 37,
+    "disciplina": "Importado",
+    "questao": "Segundo a Lei de Crimes Hediondos (Lei nº 8.072/90), o crime de extorsão qualificada\npela restrição da liberdade da vítima é punido com:",
+    "opcoes": {
+      "A": "Reclusão de 1 a 6 anos.",
+      "B": "Reclusão de 2 a 6 anos.",
+      "C": "Reclusão de 2 a 8 anos.",
+      "D": "Reclusão de 4 a 10 anos.",
+      "E": "Reclusão de 8 a 20 anos."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. A pena para o crime de extorsão qualificada pela restrição da liberdade (Art. 158, § 3º, CP) é de **Reclusão de 6 a 12 anos** (opção não listada) ou, na pior das opções, E (reclusão de 8 a 20 anos)."
+  },
+  {
+    "numero": 38,
+    "disciplina": "Importado",
+    "questao": "Segundo a Lei de Drogas, a pena do crime de tráfico (art. 33) é:",
+    "opcoes": {
+      "A": "Reclusão de 3 a 8 anos.",
+      "B": "Reclusão de 5 a 15 anos e multa.",
+      "C": "Reclusão de 6 a 12 anos e multa.",
+      "D": "Reclusão de 1 a 5 anos.",
+      "E": "Detenção de 6 meses a 2 anos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A pena para o crime de tráfico de drogas (Art. 33, Lei 11.343/2006) é de **Reclusão de 5 a 15 anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa**."
+  },
+  {
+    "numero": 39,
+    "disciplina": "Importado",
+    "questao": "De acordo com a Lei de Improbidade Administrativa (Lei nº 8.429/92), o ressarcimento\nintegral do dano é aplicável:",
+    "opcoes": {
+      "A": "Apenas nos casos de enriquecimento ilícito.",
+      "B": "Apenas nos casos de lesão ao erário.",
+      "C": "Em todos os casos de improbidade administrativa.",
+      "D": "Apenas nos casos que geram vantagem patrimonial indevida.",
+      "E": "Apenas nos casos de dolo."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. O ressarcimento integral do dano é uma sanção aplicável nos casos de atos que causam **lesão ao erário** (Alternativa B) e de enriquecimento ilícito (Alternativa A)."
+  },
+  {
+    "numero": 40,
+    "disciplina": "Importado",
+    "questao": "A Lei de interceptação telefônica (Lei nº 9.296/96) exige, para a quebra de sigilo:\nDISCIPLINA: RACIOCÍNIO\nLÓGICO/MATEMÁTICA\n(Questões 41 a 50)",
+    "opcoes": {
+      "A": "Apenas a oitiva do Ministério Público.",
+      "B": "Apenas representação da autoridade policial.",
+      "C": "Ordem judicial fundamentada.",
+      "D": "Oitiva da Defensoria Pública.",
+      "E": "Autorização do Secretário de Segurança Pública."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A Constituição Federal (Art. 5º, XII) e a Lei 9.296/96 exigem **Ordem judicial fundamentada** para a quebra de sigilo das comunicações telefônicas."
+  },
+  {
+    "numero": 41,
+    "disciplina": "Importado",
+    "questao": "Se p é a proposição “O policial foi aprovado” e q é a proposição “O policial foi nomeado”,\na proposição composta “Se o policial foi aprovado, então ele foi nomeado” é representada\npor:",
+    "opcoes": {
+      "A": "p ∧ q",
+      "B": "p ∨ q",
+      "C": "p → q",
+      "D": "p ↔ q",
+      "E": "¬p"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. A proposição 'Se p, então q' é uma condicional, representada por $p \to q$ (Alternativa C). A alternativa B ($p \lor q$) representa a disjunção ('p ou q')."
+  },
+  {
+    "numero": 42,
+    "disciplina": "Importado",
+    "questao": "Qual o valor de x na equação 3x - 5 = 10?",
+    "opcoes": {
+      "A": "3",
+      "B": "5",
+      "C": "10",
+      "D": "15",
+      "E": "20"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. A solução é: $3x - 5 = 10 \implies 3x = 10 + 5 \implies 3x = 15 \implies x = 15/3 \implies x = 5$ (Alternativa B)."
+  },
+  {
+    "numero": 43,
+    "disciplina": "Importado",
+    "questao": "A soma dos ângulos internos de um polígono convexo de 12 lados é:",
+    "opcoes": {
+      "A": "1.440°",
+      "B": "1.620°",
+      "C": "1.800°",
+      "D": "2.000°",
+      "E": "2.160°"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A fórmula para a soma dos ângulos internos de um polígono de $n$ lados é $S = (n - 2) \times 180^\circ$. Para $n=12$ (dodecágono), $S = (12 - 2) \times 180^\circ = 10 \times 180^\circ = 1.800^\circ$."
+  },
+  {
+    "numero": 44,
+    "disciplina": "Importado",
+    "questao": "O valor da expressão (2³ × 3²) ÷ 6 é:",
+    "opcoes": {
+      "A": "6",
+      "B": "12",
+      "C": "18",
+      "D": "24",
+      "E": "36"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. A solução é: $(2^3 \times 3^2) \div 6 = (8 \times 9) \div 6 = 72 \div 6 = 12$ (Alternativa B)."
+  },
+  {
+    "numero": 45,
+    "disciplina": "Importado",
+    "questao": "Se um artigo custa R$ 200,00 e sofre um desconto de 15%, qual será o valor final?",
+    "opcoes": {
+      "A": "R$ 170,00",
+      "B": "R$ 185,00",
+      "C": "R$ 190,00",
+      "D": "R$ 150,00",
+      "E": "R$ 165,00"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O desconto é de $200 \times 0,15 = R\$ 30,00$. O valor final é $R\$ 200,00 - R\$ 30,00 = R\$ 170,00$ (Alternativa A)."
+  },
+  {
+    "numero": 46,
+    "disciplina": "Importado",
+    "questao": "Qual a negação lógica da proposição “Todo policial é honesto”?",
+    "opcoes": {
+      "A": "Nenhum policial é honesto.",
+      "B": "Existe pelo menos um policial que não é honesto.",
+      "C": "Todo policial não é honesto.",
+      "D": "Algum policial é honesto.",
+      "E": "Nenhum policial não é honesto."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. A negação lógica de 'Todo A é B' é 'Algum A não é B' (ou 'Existe pelo menos um A que não é B') (Alternativa B)."
+  },
+  {
+    "numero": 47,
+    "disciplina": "Importado",
+    "questao": "Em um grupo de 50 candidatos, 30 estudam Direito e 25 estudam Português. Sabendo que\n5 não estudam nenhuma das duas, quantos estudam as duas matérias?",
+    "opcoes": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20",
+      "E": "25"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Pelo Princípio da Inclusão-Exclusão: $Total = (Direito) + (Português) - (Ambas) + (Nenhuma)$. $50 = 30 + 25 - X + 5 \implies 50 = 60 - X \implies X = 10$. **10 estudam as duas matérias**."
+  },
+  {
+    "numero": 48,
+    "disciplina": "Importado",
+    "questao": "Se A = {1, 2, 3, 4} e B = {3, 4, 5, 6}, qual é o conjunto A ∪ B (união)?",
+    "opcoes": {
+      "A": "{3, 4}",
+      "B": "{1, 2, 5, 6}",
+      "C": "{1, 2, 3, 4, 5, 6}",
+      "D": "{ }",
+      "E": "{1, 2, 3, 4, 5}"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "O gabarito E está incorreto. A união $A \cup B$ é a junção de todos os elementos, sem repetição: **{1, 2, 3, 4, 5, 6}** (Alternativa C)."
+  },
+  {
+    "numero": 49,
+    "disciplina": "Importado",
+    "questao": "A sequência numérica 2, 5, 8, 11, ... é uma progressão aritmética. Qual o próximo termo?",
+    "opcoes": {
+      "A": "13",
+      "B": "14",
+      "C": "15",
+      "D": "16",
+      "E": "17"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A sequência é uma Progressão Aritmética (PA) de razão $r = 3$ (5-2=3, 8-5=3, 11-8=3). O próximo termo é $11 + 3 = 14$."
+  },
+  {
+    "numero": 50,
+    "disciplina": "Importado",
+    "questao": "Qual a probabilidade de se tirar um número par em um dado de 6 faces?\nDISCIPLINA: INFORMÁTICA\n(Questões 51 a 60)",
+    "opcoes": {
+      "A": "1/6",
+      "B": "1/4",
+      "C": "1/3",
+      "D": "1/2",
+      "E": "2/3"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. Os números pares são {2, 4, 6} (3 eventos favoráveis) em 6 faces. A probabilidade é $3/6 = 1/2$ (Alternativa D)."
+  },
+  {
+    "numero": 51,
+    "disciplina": "Importado",
+    "questao": "A combinação de teclas CTRL + C no Microsoft Word tem a função de:",
+    "opcoes": {
+      "A": "Recortar o texto selecionado.",
+      "B": "Copiar o texto selecionado.",
+      "C": "Colar o texto copiado.",
+      "D": "Salvar o documento.",
+      "E": "Desfazer a última ação."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A combinação de teclas **CTRL + C** (ou Ctrl+Insert) é o atalho padrão para **Copiar o texto selecionado**."
+  },
+  {
+    "numero": 52,
+    "disciplina": "Importado",
+    "questao": "O programa usado para navegar na internet é chamado de:",
+    "opcoes": {
+      "A": "Editor de texto",
+      "B": "Antivírus",
+      "C": "Navegador (browser)",
+      "D": "Planilha eletrônica",
+      "E": "Sistema operacional"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O software utilizado para acessar e visualizar páginas na World Wide Web é o **Navegador (browser)**, como Google Chrome, Firefox, Edge, etc."
+  },
+  {
+    "numero": 53,
+    "disciplina": "Importado",
+    "questao": "No Microsoft Excel, a função =SOMA(A1:A5) realiza:",
+    "opcoes": {
+      "A": "Multiplicação dos valores de A1 a A5.",
+      "B": "Subtração dos valores de A1 a A5.",
+      "C": "Soma dos valores nas células A1, A2, A3, A4 e A5.",
+      "D": "Média dos valores de A1 a A5.",
+      "E": "Contagem de células vazias."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. A função **=SOMA(A1:A5)** realiza a **Soma dos valores nas células A1, A2, A3, A4 e A5** (Alternativa C)."
+  },
+  {
+    "numero": 54,
+    "disciplina": "Importado",
+    "questao": "Qual o significado da sigla URL?",
+    "opcoes": {
+      "A": "Universal Remote Locator.",
+      "B": "Uniform Resource Locator.",
+      "C": "Unitary Resolution Link.",
+      "D": "User Right Level.",
+      "E": "Universal Router Link."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. O significado da sigla URL é **Uniform Resource Locator** (Alternativa B), que é o endereço de um recurso na internet."
+  },
+  {
+    "numero": 55,
+    "disciplina": "Importado",
+    "questao": "O que é um firewall?",
+    "opcoes": {
+      "A": "Um software para edição de imagens.",
+      "B": "Um dispositivo de hardware ou software que filtra o tráfego de rede.",
+      "C": "Um tipo de vírus de computador.",
+      "D": "Um sistema de criptografia de dados.",
+      "E": "Um software de backup."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Um **firewall** é um dispositivo de segurança que monitora e filtra o tráfego de rede, atuando como uma barreira entre uma rede interna confiável e redes externas não confiáveis."
+  },
+  {
+    "numero": 56,
+    "disciplina": "Importado",
+    "questao": "No Windows, qual atalho de teclado é usado para bloquear a estação de trabalho?",
+    "opcoes": {
+      "A": "ALT + F4",
+      "B": "CTRL + ESC",
+      "C": "CTRL + ALT + DEL",
+      "D": "Tecla Windows + L",
+      "E": "SHIFT + DELETE"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O atalho correto para bloquear a estação de trabalho é a **Tecla Windows + L** (Alternativa D)."
+  },
+  {
+    "numero": 57,
+    "disciplina": "Importado",
+    "questao": "A memória RAM é considerada uma memória:",
+    "opcoes": {
+      "A": "Não volátil e de armazenamento em massa.",
+      "B": "Volátil e de acesso aleatório.",
+      "C": "Apenas de leitura (ROM).",
+      "D": "Secundária e não volátil.",
+      "E": "De cache e permanente."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A memória RAM (Random Access Memory) é **Volátil** (os dados se perdem quando o computador é desligado) e de **acesso aleatório**."
+  },
+  {
+    "numero": 58,
+    "disciplina": "Importado",
+    "questao": "Phishing é uma técnica de ataque que visa:",
+    "opcoes": {
+      "A": "Aumentar a velocidade da internet.",
+      "B": "Obter informações confidenciais por meio de comunicações fraudulentas.",
+      "C": "Proteger o computador contra vírus.",
+      "D": "Otimizar o desempenho do sistema operacional.",
+      "E": "Criptografar arquivos para segurança."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. **Phishing** é um tipo de fraude que visa **Obter informações confidenciais por meio de comunicações fraudulentas** (Alternativa B), como e-mails falsos."
+  },
+  {
+    "numero": 59,
+    "disciplina": "Importado",
+    "questao": "O que é um endereço de IP?",
+    "opcoes": {
+      "A": "Um sistema de segurança contra vírus.",
+      "B": "Um protocolo de transferência de arquivos.",
+      "C": "Um identificador numérico único para dispositivos em uma rede.",
+      "D": "O nome de um servidor de e-mail.",
+      "E": "Uma linguagem de programação."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O endereço IP é **Um identificador numérico único para dispositivos em uma rede** (Alternativa C)."
+  },
+  {
+    "numero": 60,
+    "disciplina": "Importado",
+    "questao": "O sistema de armazenamento em nuvem é caracterizado por:\nDISCIPLINA: ATUALIDADES\n(Questões 61 a 70)",
+    "opcoes": {
+      "A": "Guardar dados somente em HD externo.",
+      "B": "Guardar dados em servidores acessíveis via internet.",
+      "C": "Guardar dados apenas no computador local.",
+      "D": "Exigir sempre conexão física por cabo.",
+      "E": "Ser exclusivo para e-mails corporativos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O armazenamento em nuvem (cloud storage) é a prática de **Guardar dados em servidores acessíveis via internet**."
+  },
+  {
+    "numero": 61,
+    "disciplina": "Importado",
+    "questao": "A Guerra da Ucrânia, iniciada em 2022, é um conflito geopolítico que envolve\nprincipalmente a Ucrânia e qual outro país?",
+    "opcoes": {
+      "A": "Polônia",
+      "B": "Estados Unidos",
+      "C": "Rússia",
+      "D": "China",
+      "E": "Alemanha"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A Guerra da Ucrânia é um conflito que envolve a Ucrânia e a **Rússia**, que invadiu o território ucraniano em fevereiro de 2022."
+  },
+  {
+    "numero": 62,
+    "disciplina": "Importado",
+    "questao": "Em 2023, o Brasil assumiu a presidência temporária de qual importante bloco\neconômico da América do Sul?",
+    "opcoes": {
+      "A": "UNASUL",
+      "B": "ALCA",
+      "C": "Mercosul",
+      "D": "Comunidade Andina",
+      "E": "OEA"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. Em 2023, o Brasil assumiu a presidência *pro tempore* do **Mercosul** (Alternativa C)."
+  },
+  {
+    "numero": 63,
+    "disciplina": "Importado",
+    "questao": "A COP (Conferência das Partes) é um evento anual de grande relevância no cenário\ninternacional. Seu foco principal é:",
+    "opcoes": {
+      "A": "Discussão de questões de segurança global e terrorismo.",
+      "B": "Negociações sobre comércio internacional e tarifas.",
+      "C": "Debate e ações sobre as mudanças climáticas e o meio ambiente.",
+      "D": "Regulamentação da tecnologia espacial.",
+      "E": "Promoção de direitos humanos em países em desenvolvimento."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. A COP (Conferência das Partes) é o principal evento da ONU focado no **Debate e ações sobre as mudanças climáticas e o meio ambiente** (Alternativa C)."
+  },
+  {
+    "numero": 64,
+    "disciplina": "Importado",
+    "questao": "Qual foi o principal objetivo do lançamento do Telescópio Espacial James Webb\n(JWST)?",
+    "opcoes": {
+      "A": "Mapear o sistema solar.",
+      "B": "Procurar vida em Marte.",
+      "C": "Estudar a formação das primeiras galáxias e estrelas.",
+      "D": "Substituir o satélite GPS.",
+      "E": "Comunicar com inteligências extraterrestres."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O principal objetivo do JWST é **Estudar a formação das primeiras galáxias e estrelas** (Alternativa C), observando o universo no infravermelho."
+  },
+  {
+    "numero": 65,
+    "disciplina": "Importado",
+    "questao": "A crise humanitária de migração que tem afetado a fronteira entre Estados Unidos\ne México está primariamente relacionada a migrantes vindos de qual continente?",
+    "opcoes": {
+      "A": "Ásia",
+      "B": "África",
+      "C": "América do Sul",
+      "D": "América Central",
+      "E": "Europa"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está correto. Embora a crise envolva migrantes de diversos países, o fluxo recente de migrantes tem se intensificado principalmente a partir de países da América Central e **América do Sul**."
+  },
+  {
+    "numero": 66,
+    "disciplina": "Importado",
+    "questao": "No contexto da política econômica brasileira recente, qual órgão é o principal\nresponsável pela definição da taxa básica de juros (SELIC)?",
+    "opcoes": {
+      "A": "Presidência da República",
+      "B": "Congresso Nacional",
+      "C": "Banco Central do Brasil",
+      "D": "Receita Federal",
+      "E": "Ministério da Economia"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O Comitê de Política Monetária (COPOM) do **Banco Central do Brasil** é o órgão responsável por definir a meta da taxa Selic, a taxa básica de juros da economia brasileira."
+  },
+  {
+    "numero": 67,
+    "disciplina": "Importado",
+    "questao": "Em 2021, o Brasil sediou a Copa América de Futebol em caráter emergencial. O país\ninicialmente previsto como sede era:",
+    "opcoes": {
+      "A": "Argentina",
+      "B": "Uruguai",
+      "C": "Chile",
+      "D": "Colômbia",
+      "E": "Paraguai"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "A Copa América de 2021 estava prevista para ser sediada conjuntamente pela **Colômbia e Argentina**. O gabarito A está correto, pois a Argentina era uma das sedes originais."
+  },
+  {
+    "numero": 68,
+    "disciplina": "Importado",
+    "questao": "A tecnologia 5G, implementada recentemente no Brasil, se destaca por oferecer:",
+    "opcoes": {
+      "A": "Maior cobertura territorial apenas.",
+      "B": "Apenas menor consumo de energia.",
+      "C": "Maior velocidade de conexão e menor latência.",
+      "D": "Conexão gratuita em áreas rurais.",
+      "E": "Uso exclusivo para comunicação militar."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A principal característica da tecnologia 5G é a capacidade de oferecer **Maior velocidade de conexão e menor latência** (tempo de resposta)."
+  },
+  {
+    "numero": 69,
+    "disciplina": "Importado",
+    "questao": "Qual país se destacou em 2022/2023 por ter se tornado o mais populoso do mundo,\nultrapassando a China?",
+    "opcoes": {
+      "A": "Estados Unidos",
+      "B": "Índia",
+      "C": "Indonésia",
+      "D": "Nigéria",
+      "E": "Paquistão"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O gabarito D está incorreto. Em 2023, a **Índia** (Alternativa B) ultrapassou a China e se tornou o país mais populoso do mundo."
+  },
+  {
+    "numero": 70,
+    "disciplina": "Importado",
+    "questao": "O termo “inteligência artificial generativa” (como o ChatGPT) refere-se a sistemas\ncapazes de:",
+    "opcoes": {
+      "A": "Apenas analisar dados existentes.",
+      "B": "Apenas responder a comandos simples.",
+      "C": "Criar novos conteúdos, como textos, imagens ou códigos.",
+      "D": "Substituir sistemas de segurança de dados.",
+      "E": "Realizar tarefas domésticas automaticamente.\n"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. A IA generativa é capaz de **Criar novos conteúdos, como textos, imagens ou códigos** (Alternativa C), aprendendo padrões a partir de grandes volumes de dados."
+  },
+  {
+    "numero": 71,
+    "disciplina": "Importado",
+    "questao": "A Constituição Federal de 1988 estabelece que o Brasil é uma República Federativa\nformada pela união indissolúvel de:",
+    "opcoes": {
+      "A": "Municípios e Estados.",
+      "B": "União, Estados e Distrito Federal.",
+      "C": "União, Estados, Distrito Federal e Municípios.",
+      "D": "Estados e Distrito Federal.",
+      "E": "Estados, Distrito Federal e Territórios."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. O Art. 1º da CF/88 estabelece que a República Federativa do Brasil é formada pela união indissolúvel da **União, dos Estados, do Distrito Federal e dos Municípios** (Alternativa C)."
+  },
+  {
+    "numero": 72,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa que contém um objetivo fundamental da República Federativa\ndo Brasil (art. 3º, CF/88):",
+    "opcoes": {
+      "A": "Garantir o desenvolvimento nacional.",
+      "B": "Prevalência dos direitos humanos.",
+      "C": "Independência nacional.",
+      "D": "Concessão de asilo político.",
+      "E": "Não intervenção."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. **Prevalência dos direitos humanos** (Alternativa B) é um princípio que rege as relações internacionais do Brasil (Art. 4º). **Garantir o desenvolvimento nacional** (Alternativa A) é um objetivo fundamental (Art. 3º, II)."
+  },
+  {
+    "numero": 73,
+    "disciplina": "Importado",
+    "questao": "O direito de petição aos Poderes Públicos é assegurado a todos e independe de:",
+    "opcoes": {
+      "A": "Pagamento de taxas.",
+      "B": "Representação por advogado.",
+      "C": "Comprovação de interesse próprio.",
+      "D": "Decisão judicial.",
+      "E": "Lei complementar."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. O direito de petição independe do **Pagamento de taxas** (Alternativa A) (Art. 5º, XXXIV, 'a', CF/88)."
+  },
+  {
+    "numero": 74,
+    "disciplina": "Importado",
+    "questao": "Qual dos Poderes da União tem como função típica a administração e a execução das\nleis?",
+    "opcoes": {
+      "A": "Poder Executivo",
+      "B": "Poder Legislativo",
+      "C": "Poder Judiciário",
+      "D": "Ministério Público",
+      "E": "Tribunal de Contas"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O gabarito B está incorreto. O **Poder Executivo** (Alternativa A) tem como função típica a administração e a execução das leis. O Poder Legislativo (B) tem função típica de legislar e fiscalizar."
+  },
+  {
+    "numero": 75,
+    "disciplina": "Importado",
+    "questao": "O controle de constitucionalidade pode ser realizado:",
+    "opcoes": {
+      "A": "Apenas pelo Supremo Tribunal Federal.",
+      "B": "Apenas pelo Congresso Nacional.",
+      "C": "De forma difusa ou concentrada.",
+      "D": "Apenas pelo Presidente da República.",
+      "E": "Apenas por tribunais superiores."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O controle de constitucionalidade pode ser realizado de forma **Difusa** (por qualquer juiz/tribunal no caso concreto) ou **Concentrada** (por órgãos específicos, como o STF, via ADI, ADC, ADPF)."
+  },
+  {
+    "numero": 76,
+    "disciplina": "Importado",
+    "questao": "A Constituição Federal estabelece que a prisão é ilegal quando não comunicada ao juiz\ncompetente, ao Ministério Público e à família do preso ou a pessoa por ele indicada, no\nprazo máximo de:",
+    "opcoes": {
+      "A": "12 horas.",
+      "B": "24 horas.",
+      "C": "48 horas.",
+      "D": "72 horas.",
+      "E": "5 dias úteis."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. A comunicação da prisão deve ser feita no prazo máximo de **24 horas** (Alternativa B) (Art. 5º, LXII, CF/88)."
+  },
+  {
+    "numero": 77,
+    "disciplina": "Importado",
+    "questao": "O mandado de segurança é um remédio constitucional cabível para proteger direito\nlíquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável\npela ilegalidade ou abuso de poder for:",
+    "opcoes": {
+      "A": "Pessoa jurídica de direito privado.",
+      "B": "Autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.",
+      "C": "Qualquer pessoa física.",
+      "D": "Empresa estrangeira.",
+      "E": "Partido político."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O mandado de segurança é impetrado contra ato de **Autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público**."
+  },
+  {
+    "numero": 78,
+    "disciplina": "Importado",
+    "questao": "A norma constitucional que assegura a todos o acesso à informação e o sigilo da fonte,\nquando necessário ao exercício profissional, é considerada:",
+    "opcoes": {
+      "A": "Direito social.",
+      "B": "Direito de nacionalidade.",
+      "C": "Direito político.",
+      "D": "Direito fundamental individual.",
+      "E": "Direito de primeira geração."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O direito ao acesso à informação e sigilo da fonte (Art. 5º, XIV, CF/88) é um **Direito fundamental individual** (ou de primeira geração)."
+  },
+  {
+    "numero": 79,
+    "disciplina": "Importado",
+    "questao": "A iniciativa popular de lei, no âmbito federal, pode ser exercida pela apresentação à\nCâmara dos Deputados de projeto de lei subscrito por, no mínimo, quantos por cento\ndo eleitorado nacional?",
+    "opcoes": {
+      "A": "0,5%",
+      "B": "1%",
+      "C": "3%",
+      "D": "5%",
+      "E": "10%"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. A iniciativa popular de lei exige a subscrição de, no mínimo, **0,5%** (Alternativa A) do eleitorado nacional (Art. 61, § 2º, CF/88)."
+  },
+  {
+    "numero": 80,
+    "disciplina": "Importado",
+    "questao": "Segundo a CF/88, qual princípio rege as relações internacionais do Brasil?\nDISCIPLINA: DIREITOS HUMANOS\n(Questões 81 a 90)",
+    "opcoes": {
+      "A": "Intervenção em assuntos internos de outros países.",
+      "B": "Busca pela hegemonia militar.",
+      "C": "Não intervenção e autodeterminação dos povos.",
+      "D": "Reconhecimento de regimes totalitários.",
+      "E": "Prioridade para alianças militares permanentes."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O gabarito A está incorreto. O Art. 4º, CF/88, estabelece como princípios as alternativas C (**Não intervenção e autodeterminação dos povos**)."
+  },
+  {
+    "numero": 81,
+    "disciplina": "Importado",
+    "questao": "A Declaração Universal dos Direitos Humanos foi proclamada em:",
+    "opcoes": {
+      "A": "1945",
+      "B": "1948",
+      "C": "1950",
+      "D": "1964",
+      "E": "1988"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada pela Assembleia Geral da ONU em Paris, em **10 de dezembro de 1948**."
+  },
+  {
+    "numero": 82,
+    "disciplina": "Importado",
+    "questao": "O direito à vida é considerado:",
+    "opcoes": {
+      "A": "Direito social",
+      "B": "Direito de solidariedade",
+      "C": "Direito de primeira geração (liberdade)",
+      "D": "Direito de segunda geração (igualdade)",
+      "E": "Direito de terceira geração (fraternidade)"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O direito à vida é um Direito Fundamental Individual, também classificado como Direito de **primeira geração (liberdade)**, focados nas liberdades individuais e nas abstenções do Estado."
+  },
+  {
+    "numero": 83,
+    "disciplina": "Importado",
+    "questao": "Uma das características essenciais dos direitos humanos é a universalidade, que\nsignifica que esses direitos:",
+    "opcoes": {
+      "A": "Não podem ser limitados em nenhuma hipótese.",
+      "B": "Aplicam-se a todas as pessoas, independentemente de fronteiras ou cultura.",
+      "C": "São criados apenas por tratados internacionais.",
+      "D": "Não podem ser separados ou divididos.",
+      "E": "São imprescritíveis."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito C está incorreto. A **Universalidade** significa que os direitos humanos **Aplicam-se a todas as pessoas, independentemente de fronteiras ou cultura** (Alternativa B)."
+  },
+  {
+    "numero": 84
