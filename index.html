@@ -66,14 +66,7 @@
             padding-bottom: 10px;
         }
 
-        .admin-warning {
-            color: #ffc107;
-            background-color: #3e444a;
-            padding: 10px;
-            border-radius: 5px;
-            margin-top: 15px;
-            font-size: 14px;
-        }
+        /* ADMIN WARNING REMOVIDO DO VISUAL PRINCIPAL */
         
         #simulado-list {
             list-style: none;
@@ -151,6 +144,15 @@
             background-color: var(--bg-light);
         }
 
+        /* Bloqueia o clique nas opções após o feedback (evita troca) */
+        .question-locked .option-label {
+            cursor: default; 
+        }
+
+        .question-locked .option-label:hover {
+            background-color: var(--card-bg); /* Volta ao fundo branco */
+        }
+        
         .option-label input[type="radio"] {
             margin-right: 10px;
             pointer-events: none; /* Desabilita clique direto no rádio */
@@ -210,7 +212,7 @@
             margin-bottom: 5px;
         }
 
-        /* Botão Corrigir (mantido por questões de fluxo, mas menos crucial) */
+        /* Botão Revisão Total (Corrigir Tudo) */
         .btn-check-all {
             padding: 12px 25px;
             background-color: var(--secondary-color);
@@ -232,9 +234,6 @@
 
     <div id="sidebar">
         <h2>Simulados</h2>
-        <p class="admin-warning">
-            Para gerenciamento e atualização de simulados, edite o arquivo <code class="admin-link" title="simulados_manifest.json">/data/simulados_manifest.json</code>.
-        </p>
         <hr style="border-color: #3e444a;">
         <h3 style="font-family: 'Montserrat', sans-serif;">Catálogo</h3>
         <ul id="simulado-list">
@@ -271,18 +270,21 @@
             return localStorage.getItem(key) || '';
         }
 
-        /* NOVO: Função de Correção em Tempo Real */
+        /**
+         * NOVO: Função de Correção em Tempo Real (ativada ao clique)
+         * O elemento é "locked" após o primeiro clique para evitar troca de resposta.
+         */
         function checkSingleAnswer(questionElement, q, index) {
-            const form = questionElement.querySelector('form');
+            // Verifica se a questão já foi corrigida (locked)
+            if (questionElement.classList.contains('question-locked')) {
+                return; 
+            }
+            
             const explanationBox = questionElement.querySelector('.explanation-box');
             
-            // 1. Limpa o feedback visual anterior
-            const labels = questionElement.querySelectorAll('.option-label');
-            labels.forEach(label => {
-                label.classList.remove('correct', 'incorrect');
-                label.style.pointerEvents = 'none'; // Desabilita novos cliques após a correção
-            });
-
+            // 1. Marca a questão como corrigida e a "trava"
+            questionElement.classList.add('question-locked');
+            
             // 2. Marca a resposta correta e a selecionada
             const selected = questionElement.querySelector(`input[name='quiz_q${index}']:checked`);
             let selectedLabel = selected ? selected.closest('.option-label') : null;
@@ -319,7 +321,7 @@
                 const url = DATA_FOLDER + filename;
                 const response = await fetch(url);
                 if (!response.ok) {
-                    throw new Error(`Erro ao buscar o arquivo (Status: ${response.status}). Verifique o nome.`);
+                    throw new Error(`Erro ao buscar o arquivo (Status: ${response.status}). Verifique o nome: ${filename}`);
                 }
 
                 const rawData = await response.json();
@@ -357,9 +359,9 @@
             const container = document.getElementById('quiz-container');
             container.innerHTML = `
                 <h2 style="color: var(--primary-color); font-size: 1.8rem; margin-top: 0;">Revisão Interativa</h2>
-                <p>Este modo oferece feedback imediato para otimizar sua retenção de conteúdo.</p>
+                <p>O feedback é imediato após sua seleção. Concentre-se na análise das explicações e em suas notas pessoais.</p>
                 <div id="questions-area"></div>
-                <button class="btn-check-all" onclick="checkAllAnswers()">Revisão Total (Corrigir Tudo)</button>
+                <button class="btn-check-all" onclick="checkAllAnswers()">Revisão Total (Corrigir Tudo de Uma Vez)</button>
             `;
 
             const questionsArea = document.getElementById('questions-area');
@@ -369,11 +371,14 @@
                 qCard.id = `q-${index}`;
 
                 let optionsHtml = '';
+                // O nome do rádio button é genérico ('quiz_q${index}') para simplificar o JS
+                const radioName = `quiz_q${index}`; 
+                
                 for (const key in q.opcoes) {
-                    const uniqueId = `quiz_q${index}_opt${key}`;
+                    const uniqueId = `${radioName}_opt${key}`;
                     optionsHtml += `
                         <label class="option-label" for="${uniqueId}">
-                            <input type="radio" name="quiz_q${index}" id="${uniqueId}" value="${key}">
+                            <input type="radio" name="${radioName}" id="${uniqueId}" value="${key}">
                             <span>${key}) ${q.opcoes[key]}</span>
                         </label>
                     `;
@@ -399,7 +404,7 @@
                     </div>
                 `;
 
-
+                // A função checkSingleAnswer é chamada ao mudar o estado do formulário (ou seja, ao clicar no rádio button)
                 qCard.innerHTML = `
                     <h4 style="margin-bottom: 5px;">Questão ${q.numero} | <span style="color: #6c757d; font-weight: 400;">${q.disciplina}</span></h4>
                     <p style="font-size: 1.1rem; margin-bottom: 20px;">${q.questao}</p>
@@ -415,7 +420,7 @@
 
 
         /**
-         * NOVO: Função para Corrigir todas as questões de uma vez
+         * Função para Corrigir todas as questões de uma vez
          */
         function checkAllAnswers() {
             if (!currentQuizData) {
@@ -425,7 +430,10 @@
 
             currentQuizData.forEach((q, index) => {
                 const questionElement = document.getElementById(`q-${index}`);
-                checkSingleAnswer(questionElement, q, index); // Reutiliza a função de correção única
+                if (!questionElement.classList.contains('question-locked')) {
+                    // Se a questão não foi respondida, apenas revela a correção.
+                    checkSingleAnswer(questionElement, q, index); 
+                }
             });
 
             document.getElementById('quiz-container').scrollIntoView({ behavior: 'smooth' });
@@ -439,7 +447,7 @@
             linkElement.setAttribute('href', url);
             linkElement.setAttribute('download', filename);
             linkElement.click();
-            alert(`Download do arquivo ${filename} iniciado. Verifique sua pasta de downloads.`);
+            console.log(`Download do arquivo ${filename} iniciado.`);
         }
 
         // Mantida a função de Carregamento da Lista
@@ -470,6 +478,9 @@
                     `;
                     list.appendChild(li);
                 });
+                
+                // Mensagem administrativa discreta no console
+                console.info("AVISO ADMINISTRATIVO: Para atualizar a lista de simulados, edite o arquivo /data/simulados_manifest.json.");
 
             } catch (error) {
                 list.innerHTML = `<li><span style="color:var(--danger-color); font-weight:bold;">ERRO</span>: Manifest ausente ou incorreto.</li>`;
