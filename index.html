@@ -265,27 +265,49 @@
 
         /**
          * Carrega o JSON do simulado selecionado e renderiza na tela.
+         * Esta função foi atualizada para suportar dois formatos JSON diferentes:
+         * 1. Array de Questões (Formato Antigo).
+         * 2. Objeto aninhado com simulados[0].questoes (Formato do arquivo QUESTOES-GERAIS).
          * @param {string} filename - Nome do arquivo JSON.
          */
         async function loadAndRenderQuiz(filename) {
             const container = document.getElementById('quiz-container');
-            container.innerHTML = `<p>Carregando simulado ${filename.replace('.json', '')}...</p>`;
-            currentSimuladoName = filename.replace('.json', '');
+            container.innerHTML = `<p>Carregando simulado ${filename.replace(/\.json$/i, '')}...</p>`;
+            currentSimuladoName = filename.replace(/\.json$/i, '');
 
             try {
                 const url = DATA_FOLDER + filename;
                 const response = await fetch(url);
                 if (!response.ok) {
-                    throw new Error(`Erro ao buscar o arquivo: ${response.status} ${response.statusText}`);
+                    throw new Error(`Erro ao buscar o arquivo (Status: ${response.status}). Verifique o nome do arquivo: ${filename}`);
+                }
+
+                const rawData = await response.json();
+
+                let quizData;
+                
+                // --- LÓGICA DE COMPATIBILIDADE ---
+                if (Array.isArray(rawData)) {
+                    // Estrutura A: O JSON é diretamente um Array de Questões (Simulados Antigos)
+                    quizData = rawData;
+                } else if (rawData && rawData.simulados && Array.isArray(rawData.simulados) && rawData.simulados.length > 0) {
+                    // Estrutura B: O JSON tem a chave 'simulados', e as questões estão aninhadas (Novo Simulado)
+                    // Pega o array de questões dentro do primeiro simulado encontrado.
+                    quizData = rawData.simulados[0].questoes; 
+                } else {
+                    throw new Error("Formato do arquivo JSON é inválido ou não contém o array de questões esperado.");
                 }
                 
-                const quizData = await response.json();
+                if (!quizData || !Array.isArray(quizData)) {
+                     throw new Error("Não foi possível extrair a lista de questões do arquivo JSON.");
+                }
+                
                 currentQuizData = quizData; // Armazena os dados para a correção
                 renderQuizUI(quizData, currentSimuladoName);
 
             } catch (error) {
                 console.error("Erro ao carregar dados do quiz:", error);
-                container.innerHTML = `<h2 style="color:var(--danger-color);">Erro ao carregar simulado</h2><p>${error.message}</p>`;
+                container.innerHTML = `<h2 style="color:var(--danger-color);">Erro ao carregar simulado</h2><p>${error.message}</p><p><strong>Possível causa:</strong> Problema de sintaxe no seu arquivo <code>${filename}</code>, ou a estrutura JSON está muito diferente da esperada.</p>`;
             }
         }
 
