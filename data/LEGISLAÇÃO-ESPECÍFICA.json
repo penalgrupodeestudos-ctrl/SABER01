@@ -85,8 +85,8 @@
         "D": "12x24h, com carga de 180 horas mensais.",
         "E": "24x96h, com carga de 140 horas mensais."
       },
-      "resposta_correta": "B",
-      "explicacao_professor": "O regime de plantão é 24 (vinte e quatro) horas de trabalho por 48 (quarenta e oito) horas de descanso (24x48h), o que corresponde à carga de 160 (cento e sessenta) horas mensais, de acordo com o Art. 18, § 2º."
+      "resposta_correta": "C",
+      "explicacao_professor": "O regime de plantão é 24 (vinte e quatro) horas de trabalho por 72 (setenta e duas) horas de descanso (24x72h), o que corresponde à carga de 168 (cento e sessenta e oito) horas mensais, de acordo com o Art. 18, § 2º."
     },
     {
       "numero": 7,
