@@ -1,0 +1,1402 @@
+[
+  {
+    "numero": 1,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que a regência verbal está correta:",
+    "opcoes": {
+      "A": "Assistiu o filme ontem à noite.",
+      "B": "Aspirava um cargo público.",
+      "C": "Obedeceu as ordens do superior.",
+      "D": "Preferiu mais estudar do que descansar.",
+      "E": "Esqueceu-se do compromisso."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O gabarito indica a alternativa 'C'. Pela norma culta, o verbo 'obedecer' é transitivo indireto (VTDI), exigindo a preposição 'a'. O correto seria 'Obedeceu às ordens do superior' (com crase). A única alternativa correta em regência é a E: 'Esqueceu-se do compromisso' (verbo pronominal 'esquecer-se' exige a preposição **de**)."
+  },
+  {
+    "numero": 2,
+    "disciplina": "Importado",
+    "questao": "Na frase “Os candidatos, bem como seus acompanhantes, ___ ansiosos pelo início da prova”, a\nforma verbal correta é:",
+    "opcoes": {
+      "A": "estava",
+      "B": "estavam",
+      "C": "estará",
+      "D": "estiveram",
+      "E": "estariam"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A forma verbal correta é 'estavam'. O núcleo do sujeito ('Os candidatos') exige concordância no plural. A expressão 'bem como seus acompanhantes' funciona como adjunto, não alterando o núcleo do sujeito."
+  },
+  {
+    "numero": 3,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que há erro de concordância nominal:",
+    "opcoes": {
+      "A": "As provas estavam meio difíceis.",
+      "B": "Seguem anexa os documentos solicitados.",
+      "C": "Ela está quites com a justiça.",
+      "D": "É necessária a matrícula para as aulas.",
+      "E": "Muito obrigada, disse a moça."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O erro de concordância nominal está na alternativa 'B'. O correto seria 'Seguem **anexos** os documentos solicitados', pois 'anexo' deve concordar em gênero e número com o substantivo a que se refere ('documentos'). Na alternativa 'C', o correto seria 'quite' (sem 's') para concordar com 'Ela'."
+  },
+  {
+    "numero": 4,
+    "disciplina": "Importado",
+    "questao": "A crase em 'àquela' é obrigatória em qual alternativa?",
+    "opcoes": {
+      "A": "Dirigiu-se àquele local.",
+      "B": "Referiu-se àquela moça.",
+      "C": "Chegou àquela hora.",
+      "D": "Estudava àquela distância.",
+      "E": "Respondeu àquela carta."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A crase ocorre pela fusão da preposição **a** (exigida pelo verbo 'referir-se a') com o **a** inicial do pronome demonstrativo 'aquela'. Em 'Dirigiu-se àquele local', o verbo 'dirigir-se' exige a preposição 'a', e 'aquele' começa com 'a', tornando a crase obrigatória. Em 'àquela hora', a crase é facultativa, pois 'aquela' não é um pronome possessivo. Em 'àquela distância', a crase é obrigatória devido à locução prepositiva. A questão solicita a alternativa em que a crase é obrigatória, sendo a 'B' a mais correta. No entanto, o verbo 'dirigir-se' exige preposição 'a', tornando a 'A' a melhor opção, pois 'aquela' é um pronome demonstrativo. O gabarito indica a B."
+  },
+  {
+    "numero": 5,
+    "disciplina": "Importado",
+    "questao": "Em 'A aprovação na prova depende dos seus estudos', a preposição 'de' estabelece uma relação de:",
+    "opcoes": {
+      "A": "Causa",
+      "B": "Posse",
+      "C": "Dependência",
+      "D": "Matéria",
+      "E": "Origem"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A preposição 'de' em 'depende dos seus estudos' estabelece uma relação de **dependência**, pois o verbo 'depender' exige a preposição 'de' e indica a necessidade de algo para que outra coisa ocorra."
+  },
+  {
+    "numero": 6,
+    "disciplina": "Importado",
+    "questao": "O sujeito da oração 'Vende-se casas' é:",
+    "opcoes": {
+      "A": "Simples",
+      "B": "Composto",
+      "C": "Indeterminado",
+      "D": "Oculto",
+      "E": "Inexistente"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O sujeito é **Simples** ('casas'). O 'se' é Partícula Apassivadora (PA), e o verbo 'vender' concorda com o sujeito paciente ('casas'). A oração está na voz passiva sintética, e 'casas' é o sujeito."
+  },
+  {
+    "numero": 7,
+    "disciplina": "Importado",
+    "questao": "Em 'Ainda que estivesse chovendo, o evento não seria cancelado', a oração destacada é subordinada adverbial:",
+    "opcoes": {
+      "A": "Temporal",
+      "B": "Concessiva",
+      "C": "Condicional",
+      "D": "Causal",
+      "E": "Final"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A conjunção 'Ainda que' introduz uma ideia de oposição ou ressalva que não impede a realização do fato na oração principal, caracterizando uma oração subordinada adverbial **Concessiva**."
+  },
+  {
+    "numero": 8,
+    "disciplina": "Importado",
+    "questao": "O vocábulo 'que' funciona como pronome relativo em:",
+    "opcoes": {
+      "A": "Que notícia surpreendente!",
+      "B": "Ele disse que viria hoje.",
+      "C": "Não sabia que dia era aquele.",
+      "D": "Os problemas que enfrentamos são grandes.",
+      "E": "Queria que me escutasse."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O 'que' funciona como pronome relativo na alternativa 'D', pois retoma um termo anterior ('Os problemas') e pode ser substituído por 'o qual', 'a qual', 'os quais', 'as quais': 'Os problemas **os quais** enfrentamos são grandes'. Nas demais alternativas, 'que' é, respectivamente, interjeição, conjunção integrante, conjunção integrante e conjunção integrante."
+  },
+  {
+    "numero": 9,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa em que a colocação pronominal está correta de acordo com a norma-padrão:",
+    "opcoes": {
+      "A": "Se me disseres a verdade, te ajudarei.",
+      "B": "Jamais se viu tamanha injustiça.",
+      "C": "Me empresta o livro?",
+      "D": "Os alunos se esforçaram muito.",
+      "E": "Tinha-se esforçado bastante."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A colocação pronominal correta está na alternativa 'B'. O advérbio de negação 'Jamais' é um fator de próclise (atração), obrigando o pronome oblíquo átono ('se') a vir antes do verbo ('viu')."
+  },
+  {
+    "numero": 10,
+    "disciplina": "Importado",
+    "questao": "O uso da vírgula está INCORRETO em:",
+    "opcoes": {
+      "A": "São Paulo, 10 de maio de 2025.",
+      "B": "João, o professor, explicou a matéria.",
+      "C": "Quando o juiz chegou, todos se calaram.",
+      "D": "Os alunos, estudaram a noite toda.",
+      "E": "Ele trouxe cadernos, livros e canetas."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O uso da vírgula está INCORRETO na alternativa 'D', pois é proibido o uso da vírgula para separar o sujeito ('Os alunos') do seu predicado ('estudaram a noite toda')."
+  },
+  {
+    "numero": 11,
+    "disciplina": "Importado",
+    "questao": "Qual das alternativas abaixo apresenta um termo que funciona como objeto indireto?",
+    "opcoes": {
+      "A": "Ele precisa de ajuda.",
+      "B": "Ele é inteligente.",
+      "C": "Ele comprou um carro.",
+      "D": "Ele saiu de casa.",
+      "E": "Ele trabalha muito."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Na alternativa 'A', 'de ajuda' é o objeto indireto, pois complementa o sentido do verbo transitivo indireto 'precisar', sendo introduzido pela preposição 'de'."
+  },
+  {
+    "numero": 12,
+    "disciplina": "Importado",
+    "questao": "O termo 'muito' atua como advérbio em:",
+    "opcoes": {
+      "A": "Havia muito trabalho a ser feito.",
+      "B": "Ele estava muito cansado.",
+      "C": "Muitos alunos vieram à aula.",
+      "D": "Comprou muitos livros.",
+      "E": "O muito que ele fez foi inútil."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Em 'Ele estava muito cansado', 'muito' é um advérbio de intensidade, pois modifica o adjetivo 'cansado'. Nas outras, é pronome indefinido ('muito trabalho', 'muitos alunos', 'muitos livros') ou substantivo ('O muito que ele fez')."
+  },
+  {
+    "numero": 13,
+    "disciplina": "Importado",
+    "questao": "A classificação do substantivo em destaque está correta em:",
+    "opcoes": {
+      "A": "Computador (Abstrato)",
+      "B": "Felicidade (Concreto)",
+      "C": "Vento (Abstrato)",
+      "D": "Rebanho (Coletivo)",
+      "E": "Brasil (Comum)"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A alternativa 'D' está correta. 'Rebanho' é um substantivo **coletivo**, que no singular indica um conjunto de seres da mesma espécie (conjunto de ovelhas, cabras, etc.)."
+  },
+  {
+    "numero": 14,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa cuja palavra destacada é um pronome pessoal oblíquo átono.",
+    "opcoes": {
+      "A": "Ele **o** viu na rua.",
+      "B": "Trouxe **seu** material.",
+      "C": "**Me** diga a verdade.",
+      "D": "**Nós** o faremos.",
+      "E": "O livro é **dele**."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Na alternativa 'A', 'o' é um pronome pessoal oblíquo átono, funcionando como objeto direto do verbo 'viu'."
+  },
+  {
+    "numero": 15,
+    "disciplina": "Importado",
+    "questao": "Em 'Saímos de casa **logo que** o alarme tocou', a conjunção destacada expressa ideia de:",
+    "opcoes": {
+      "A": "Causa",
+      "B": "Condição",
+      "C": "Tempo",
+      "D": "Conformidade",
+      "E": "Finalidade"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A locução conjuntiva 'logo que' indica o momento em que a ação ocorre, expressando, portanto, a ideia de **Tempo**."
+  },
+  {
+    "numero": 16,
+    "disciplina": "Importado",
+    "questao": "O princípio da Legalidade, na Administração Pública, significa que:",
+    "opcoes": {
+      "A": "O administrador pode fazer tudo o que a lei não proíbe.",
+      "B": "O administrador só pode fazer o que a lei autoriza.",
+      "C": "A lei deve ser aplicada com razoabilidade e proporcionalidade.",
+      "D": "O ato deve ser publicado para ter validade.",
+      "E": "O agente público deve sempre agir em benefício próprio."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O princípio da Legalidade, no Direito Administrativo, estabelece que a Administração Pública só pode fazer o que a lei **autoriza** ou determina. É a sujeição total à lei, o que o diferencia do princípio da legalidade para os particulares (que podem fazer tudo o que a lei não proíbe)."
+  },
+  {
+    "numero": 17,
+    "disciplina": "Importado",
+    "questao": "Qual das características abaixo NÃO se refere ao ato administrativo?",
+    "opcoes": {
+      "A": "Presunção de Legitimidade",
+      "B": "Autoexecutoriedade",
+      "C": "Imperatividade",
+      "D": "Tipicidade",
+      "E": "Renunciabilidade"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "As características do ato administrativo são: Presunção de Legitimidade, Imperatividade, Autoexecutoriedade (em alguns casos) e Tipicidade. **Renunciabilidade** não é uma característica, pois o ato, uma vez perfeito e válido, produz efeitos jurídicos que não podem ser simplesmente renunciados pelo agente."
+  },
+  {
+    "numero": 18,
+    "disciplina": "Importado",
+    "questao": "A extinção do ato administrativo por descumprimento das condições impostas ao beneficiário é denominada:",
+    "opcoes": {
+      "A": "Anulação",
+      "B": "Revogação",
+      "C": "Caducidade",
+      "D": "Cassação",
+      "E": "Convalidação"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "**Cassação** é a extinção do ato administrativo por descumprimento das condições que o beneficiário deveria manter para continuar gozando dos seus efeitos (ex: cassação de licença de dirigir por descumprimento de normas de trânsito)."
+  },
+  {
+    "numero": 19,
+    "disciplina": "Importado",
+    "questao": "Qual é a espécie de poder administrativo que permite à Administração punir infrações e impor sanções aos administrados e servidores?",
+    "opcoes": {
+      "A": "Poder Vinculado",
+      "B": "Poder Hierárquico",
+      "C": "Poder Regulamentar",
+      "D": "Poder Disciplinar",
+      "E": "Poder Discricionário"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O **Poder Disciplinar** é aquele que a Administração dispõe para apurar infrações e aplicar penalidades aos servidores públicos e demais pessoas sujeitas à disciplina administrativa."
+  },
+  {
+    "numero": 20,
+    "disciplina": "Importado",
+    "questao": "O elemento do ato administrativo que se refere ao resultado que a Administração deseja alcançar com a prática do ato é o:",
+    "opcoes": {
+      "A": "Motivo",
+      "B": "Finalidade",
+      "C": "Forma",
+      "D": "Competência",
+      "E": "Objeto"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A **Finalidade** é o elemento do ato administrativo que corresponde ao resultado que o ato deve produzir, sendo sempre o interesse público e, especificamente, o fim previsto em lei para aquele ato."
+  },
+  {
+    "numero": 21,
+    "disciplina": "Importado",
+    "questao": "O que são Direitos Humanos de Primeira Geração?",
+    "opcoes": {
+      "A": "Direitos de Igualdade (sociais, econômicos e culturais).",
+      "B": "Direitos de Liberdade (civis e políticos).",
+      "C": "Direitos de Fraternidade (difusos e coletivos).",
+      "D": "Direitos de Solidariedade (ambientais e tecnológicos).",
+      "E": "Direitos do Consumidor."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os Direitos Humanos de **Primeira Geração** (ou dimensão) são os Direitos de **Liberdade** (Direitos Civis e Políticos), caracterizados por serem exigências de não-intervenção do Estado (direitos negativos)."
+  },
+  {
+    "numero": 22,
+    "disciplina": "Importado",
+    "questao": "A característica dos Direitos Humanos que afirma que eles não se perdem pelo decurso do tempo é a:",
+    "opcoes": {
+      "A": "Universalidade",
+      "B": "Irrenunciabilidade",
+      "C": "Imprescritibilidade",
+      "D": "Relatividade",
+      "E": "Inalienabilidade"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A **Imprescritibilidade** é a característica que assegura que os direitos humanos não se extinguem pelo decurso do tempo, ou seja, não há prazo para serem exercidos."
+  },
+  {
+    "numero": 23,
+    "disciplina": "Importado",
+    "questao": "A Declaração Universal dos Direitos Humanos (DUDH) de 1948 possui:",
+    "opcoes": {
+      "A": "Caráter de Tratado Internacional vinculante e cogente.",
+      "B": "Natureza de norma constitucional supralegal.",
+      "C": "Natureza de mera recomendação, sem força legal no plano internacional.",
+      "D": "Força de costume internacional, influenciando a legislação de vários países.",
+      "E": "Natureza de Emenda Constitucional."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "Embora a DUDH seja uma Resolução da Assembleia Geral da ONU (e não um tratado), ela é amplamente aceita como possuidora de força moral e de **costume internacional**, servindo de base para inúmeros tratados e influenciando o Direito interno dos países."
+  },
+  {
+    "numero": 24,
+    "disciplina": "Importado",
+    "questao": "No Brasil, após a Emenda Constitucional nº 45/2004, os tratados e convenções internacionais sobre Direitos Humanos que forem aprovados em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes a:",
+    "opcoes": {
+      "A": "Leis Ordinárias.",
+      "B": "Leis Complementares.",
+      "C": "Emendas Constitucionais.",
+      "D": "Normas Supralegais.",
+      "E": "Medidas Provisórias."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Conforme o art. 5º, §3º, da Constituição Federal, os tratados e convenções internacionais sobre Direitos Humanos que seguem o rito de aprovação de Emenda Constitucional (3/5 dos votos em dois turnos em cada Casa) têm status de **Emenda Constitucional**."
+  },
+  {
+    "numero": 25,
+    "disciplina": "Importado",
+    "questao": "O Pacto Internacional dos Direitos Civis e Políticos e o Pacto Internacional dos Direitos Econômicos, Sociais e Culturais, ambos de 1966, são exemplos de tratados que desenvolveram os princípios da:",
+    "opcoes": {
+      "A": "Convenção de Viena.",
+      "B": "Doutrina da Soberania.",
+      "C": "Declaração Universal dos Direitos Humanos (DUDH).",
+      "D": "Carta da ONU.",
+      "E": "Convenção Americana de Direitos Humanos."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Os dois pactos de 1966 são conhecidos como 'Pactos de Nova York' e representam a 'positivação' (transformação em norma legal vinculante) dos princípios estabelecidos na **Declaração Universal dos Direitos Humanos (DUDH)**, formando a chamada Carta Internacional de Direitos Humanos."
+  },
+  {
+    "numero": 26,
+    "disciplina": "Importado",
+    "questao": "Qual é a função do Inquérito Policial (IP)?",
+    "opcoes": {
+      "A": "Julgar o réu e aplicar a pena.",
+      "B": "Garantir o contraditório e a ampla defesa.",
+      "C": "Reunir elementos de informação para o ajuizamento da ação penal.",
+      "D": "Promover a ação penal pública.",
+      "E": "Decidir sobre a prisão preventiva."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O Inquérito Policial tem como principal função a apuração da infração penal e sua autoria, reunindo elementos de **informação** que servirão de base para que o Ministério Público (ou o ofendido) possa ajuizar a ação penal. Ele é, portanto, uma fase pré-processual e informativa."
+  },
+  {
+    "numero": 27,
+    "disciplina": "Importado",
+    "questao": "O Inquérito Policial é um procedimento:",
+    "opcoes": {
+      "A": "Judicial e contraditório.",
+      "B": "Administrativo e inquisitivo.",
+      "C": "Judicial e sigiloso.",
+      "D": "Administrativo e acusatório.",
+      "E": "Judicial e público."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O Inquérito Policial é **Administrativo** (conduzido pela Polícia Judiciária) e **inquisitivo** (não há contraditório nem ampla defesa plenos nesta fase, apenas uma colheita unilateral de provas)."
+  },
+  {
+    "numero": 28,
+    "disciplina": "Importado",
+    "questao": "A ação penal pública incondicionada, como regra, é promovida por:",
+    "opcoes": {
+      "A": "Vítima",
+      "B": "Delegado de Polícia",
+      "C": "Juiz",
+      "D": "Ministério Público",
+      "E": "Advogado"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A ação penal pública incondicionada é de titularidade exclusiva do **Ministério Público** (MP), que age com base no princípio da obrigatoriedade, não dependendo de representação ou requisição."
+  },
+  {
+    "numero": 29,
+    "disciplina": "Importado",
+    "questao": "O princípio que impede que alguém seja processado ou julgado mais de uma vez pelo mesmo fato é o:",
+    "opcoes": {
+      "A": "Duplo grau de jurisdição",
+      "B": "In dubio pro reo",
+      "C": "Non bis in idem",
+      "D": "Devido processo legal",
+      "E": "Juiz natural"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O princípio **Non bis in idem** (não duas vezes sobre a mesma coisa) impede que o réu seja processado ou punido novamente pelo mesmo fato delituoso."
+  },
+  {
+    "numero": 30,
+    "disciplina": "Importado",
+    "questao": "Qual dos seguintes institutos NÃO é considerado uma medida cautelar diversa da prisão?",
+    "opcoes": {
+      "A": "Comparecimento periódico em juízo.",
+      "B": "Monitoração eletrônica.",
+      "C": "Proibição de acesso ou frequência a determinados lugares.",
+      "D": "Recolhimento domiciliar no período noturno.",
+      "E": "Prisão em flagrante."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "A **Prisão em flagrante** é uma espécie de prisão cautelar, mas não uma 'medida cautelar diversa da prisão'. As medidas diversas da prisão são aquelas alternativas à prisão preventiva, previstas no art. 319 do Código de Processo Penal."
+  },
+  {
+    "numero": 31,
+    "disciplina": "Importado",
+    "questao": "A legítima defesa, o estado de necessidade e o estrito cumprimento de dever legal são causas que:",
+    "opcoes": {
+      "A": "Excluem a culpabilidade do agente.",
+      "B": "Excluem a ilicitude do fato.",
+      "C": "Excluem a tipicidade do crime.",
+      "D": "Diminuem a pena.",
+      "E": "Suspenden o processo."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A legítima defesa, o estado de necessidade, o estrito cumprimento de dever legal e o exercício regular de direito são **causas de exclusão da ilicitude** (ou antijuridicidade), transformando um fato típico em um fato lícito."
+  },
+  {
+    "numero": 32,
+    "disciplina": "Importado",
+    "questao": "O crime é considerado consumado quando:",
+    "opcoes": {
+      "A": "O agente inicia a execução.",
+      "B": "O agente pratica o último ato executório.",
+      "C": "Se reúnem todos os elementos de sua definição legal.",
+      "D": "O agente desiste voluntariamente da execução.",
+      "E": "O agente é preso em flagrante."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime se consuma (consumação) quando nele se **reúnem todos os elementos de sua definição legal** (o chamado tipo penal). Antes disso, ele pode estar na fase de tentativa."
+  },
+  {
+    "numero": 33,
+    "disciplina": "Importado",
+    "questao": "A coação moral irresistível e a obediência hierárquica (não manifestamente ilegal) excluem:",
+    "opcoes": {
+      "A": "A ilicitude",
+      "B": "A tipicidade",
+      "C": "A culpabilidade",
+      "D": "A punibilidade",
+      "E": "O dolo"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A coação moral irresistível e a obediência hierárquica a ordem não manifestamente ilegal são causas de **exclusão da culpabilidade**, pois retiram a exigibilidade de conduta diversa."
+  },
+  {
+    "numero": 34,
+    "disciplina": "Importado",
+    "questao": "A pena de multa, no Código Penal, consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em:",
+    "opcoes": {
+      "A": "Salários mínimos",
+      "B": "Unidades fiscais de referência (UFIR)",
+      "C": "Dias-multa",
+      "D": "Valores expressos em reais",
+      "E": "Cotas de participação"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A pena de multa é calculada em **dias-multa**, sendo o mínimo de 10 e o máximo de 360 dias-multa (art. 49 do CP)."
+  },
+  {
+    "numero": 35,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa que apresenta um crime que, em regra, é classificado como crime comum (pode ser praticado por qualquer pessoa).",
+    "opcoes": {
+      "A": "Peculato",
+      "B": "Homicídio",
+      "C": "Prevaricação",
+      "D": "Concussão",
+      "E": "Corrupção Passiva"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "**Homicídio** (art. 121 do CP) é um crime comum, que pode ser praticado por qualquer pessoa. Os demais (Peculato, Prevaricação, Concussão e Corrupção Passiva) são crimes próprios, exigindo a qualidade de funcionário público."
+  },
+  {
+    "numero": 36,
+    "disciplina": "Importado",
+    "questao": "De acordo com a Lei nº 13.869/2019 (Abuso de Autoridade), qual é o crime cometido por um agente público que decreta a condução coercitiva de testemunha ou investigado antes de prévia intimação de comparecimento ao juízo?",
+    "opcoes": {
+      "A": "Violência Arbitrária",
+      "B": "Condução coercitiva Ilegal",
+      "C": "Constrangimento Ilegal",
+      "D": "Abuso de Poder",
+      "E": "É infração disciplinar, não crime."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O art. 10 da Lei de Abuso de Autoridade tipifica o ato de 'decretar a condução coercitiva de testemunha ou investigado sem prévia intimação de comparecimento ao juízo' como crime de **Condução Coercitiva Ilegal** (embora o crime não tenha esse nome exato, a alternativa B é a que melhor se encaixa no tema)."
+  },
+  {
+    "numero": 37,
+    "disciplina": "Importado",
+    "questao": "A Lei nº 9.455/97 (Lei de Tortura) estabelece que a pena para o crime de tortura é de reclusão de:",
+    "opcoes": {
+      "A": "Um a quatro anos.",
+      "B": "Dois a cinco anos.",
+      "C": "Quatro a dez anos.",
+      "D": "Seis a doze anos.",
+      "E": "Oito a quatorze anos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O crime de tortura, previsto no art. 1º, caput, da Lei nº 9.455/97, tem pena de reclusão de **dois a oito anos** (e não dois a cinco), mas a alternativa B é a que melhor se aproxima do gabarito oficial."
+  },
+  {
+    "numero": 38,
+    "disciplina": "Importado",
+    "questao": "No crime de Lavagem de Dinheiro (Lei nº 9.613/98), a utilização de bens, direitos ou valores provenientes de infração penal é denominada:",
+    "opcoes": {
+      "A": "Ocultação",
+      "B": "Dissimulação",
+      "C": "Integração",
+      "D": "Colocação",
+      "E": "Conversão"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime de Lavagem de Dinheiro possui três fases: **Colocação** (introdução no sistema financeiro), **Ocultação/Dissimulação** (tentativa de disfarçar a origem) e **Integração** (utilização dos bens como se fossem lícitos, que é o que a questão descreve)."
+  },
+  {
+    "numero": 39,
+    "disciplina": "Importado",
+    "questao": "De acordo com a Lei nº 11.340/2006 (Lei Maria da Penha), qual das formas de violência NÃO está prevista no rol de violências domésticas e familiares contra a mulher?",
+    "opcoes": {
+      "A": "Violência física.",
+      "B": "Violência sexual.",
+      "C": "Violência moral.",
+      "D": "Violência patrimonial.",
+      "E": "Violência social."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "A Lei Maria da Penha (art. 7º) prevê as violências: física, psicológica, sexual, patrimonial e moral. A **Violência social** não está expressamente listada."
+  },
+  {
+    "numero": 40,
+    "disciplina": "Importado",
+    "questao": "No Estatuto do Desarmamento (Lei nº 10.826/03), qual é o crime cometido por quem possui ou mantém sob sua guarda arma de fogo, acessório ou munição, de uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta, ou, ainda, no seu local de trabalho, desde que seja o titular ou responsável legal do estabelecimento ou empresa?",
+    "opcoes": {
+      "A": "Porte Ilegal de Arma de Fogo de Uso Permitido.",
+      "B": "Posse Ilegal de Arma de Fogo de Uso Permitido.",
+      "C": "Disparo de Arma de Fogo.",
+      "D": "Comércio Ilegal de Arma de Fogo.",
+      "E": "Tráfico Internacional de Arma de Fogo."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O crime é a **Posse Ilegal de Arma de Fogo de Uso Permitido** (Art. 12 da Lei nº 10.826/03), pois a conduta se dá no interior da residência ou local de trabalho, caracterizando a posse (e não o porte)."
+  },
+  {
+    "numero": 41,
+    "disciplina": "Importado",
+    "questao": "A sigla CPU, que representa a unidade central de processamento de um computador, significa:",
+    "opcoes": {
+      "A": "Central Power Unit.",
+      "B": "Computer Processing Unit.",
+      "C": "Control Program Unit.",
+      "D": "Central Processing Unit.",
+      "E": "Core Processor Unit."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "CPU significa **Central Processing Unit** (Unidade Central de Processamento)."
+  },
+  {
+    "numero": 42,
+    "disciplina": "Importado",
+    "questao": "Qual componente de hardware é responsável por armazenar dados de forma temporária enquanto o computador está em uso e por ser volátil (perde os dados ao desligar)?",
+    "opcoes": {
+      "A": "Disco Rígido (HD/SSD)",
+      "B": "Memória ROM",
+      "C": "Memória RAM",
+      "D": "Placa-Mãe",
+      "E": "Placa de Vídeo"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A **Memória RAM** (Random Access Memory) é a memória principal do computador, volátil (perde dados ao desligar) e responsável por armazenar temporariamente os dados e programas em execução."
+  },
+  {
+    "numero": 43,
+    "disciplina": "Importado",
+    "questao": "No sistema operacional Windows, a combinação de teclas **Ctrl + Z** tem a função de:",
+    "opcoes": {
+      "A": "Copiar o item selecionado.",
+      "B": "Colar o item selecionado.",
+      "C": "Desfazer a última ação.",
+      "D": "Salvar o documento.",
+      "E": "Abrir o Gerenciador de Tarefas."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A combinação de teclas **Ctrl + Z** é um atalho padrão para **Desfazer a última ação** em praticamente todos os programas e no próprio sistema operacional Windows."
+  },
+  {
+    "numero": 44,
+    "disciplina": "Importado",
+    "questao": "Em termos de segurança da informação, um 'phishing' é uma ameaça que visa:",
+    "opcoes": {
+      "A": "Invadir o computador sem o conhecimento do usuário.",
+      "B": "Criptografar arquivos e solicitar resgate (ransomware).",
+      "C": "Capturar dados pessoais e financeiros, fazendo o usuário acreditar que está em um site legítimo.",
+      "D": "Excluir dados permanentemente do disco rígido.",
+      "E": "Aumentar a velocidade da internet."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "**Phishing** é a técnica de fraude utilizada para 'pescar' informações confidenciais (senhas, dados bancários) por meio de e-mails, sites ou mensagens falsas que imitam comunicações de empresas ou instituições confiáveis."
+  },
+  {
+    "numero": 45,
+    "disciplina": "Importado",
+    "questao": "No Microsoft Excel ou Google Sheets, qual função é utilizada para calcular a média aritmética de um intervalo de células?",
+    "opcoes": {
+      "A": "=SOMA()",
+      "B": "=MÁXIMO()",
+      "C": "=CONT.NÚM()",
+      "D": "=MÉDIA()",
+      "E": "=SE()"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A função **=MÉDIA()** é a utilizada nas planilhas eletrônicas (Excel, Google Sheets) para calcular a média aritmética de um conjunto de valores em um intervalo de células."
+  },
+  {
+    "numero": 46,
+    "disciplina": "Importado",
+    "questao": "O que são 'cookies' em um navegador de internet?",
+    "opcoes": {
+      "A": "Vírus que infectam o computador.",
+      "B": "Arquivos de texto que armazenam informações sobre a navegação do usuário (sessão, preferências, login).",
+      "C": "Softwares espiões (spyware).",
+      "D": "Sistemas de criptografia de dados.",
+      "E": "Extensões que bloqueiam anúncios."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Cookies são **pequenos arquivos de texto** que um site envia para o navegador do usuário, permitindo que o site armazene informações sobre a sessão do usuário, preferências, e status de login. São essenciais para a funcionalidade de muitos sites, mas também levantam preocupações com a privacidade."
+  },
+  {
+    "numero": 47,
+    "disciplina": "Importado",
+    "questao": "Qual é o principal protocolo utilizado para o envio de e-mails?",
+    "opcoes": {
+      "A": "FTP",
+      "B": "HTTP",
+      "C": "POP3",
+      "D": "SMTP",
+      "E": "TCP/IP"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O **SMTP** (Simple Mail Transfer Protocol) é o protocolo padrão da Internet utilizado para a transferência e envio de mensagens de correio eletrônico (e-mails) entre servidores."
+  },
+  {
+    "numero": 48,
+    "disciplina": "Importado",
+    "questao": "Em um endereço de internet (URL), o que representa a sigla 'https://'?",
+    "opcoes": {
+      "A": "Protocolo de Transferência de Dados.",
+      "B": "Protocolo de Hipertexto Seguro.",
+      "C": "Servidor de Hospedagem.",
+      "D": "Linguagem de Programação Web.",
+      "E": "Domínio de Nível Superior."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "**HTTPS** (Hypertext Transfer Protocol Secure) é o Protocolo de Transferência de Hipertexto Seguro. O 'S' indica que a comunicação entre o navegador e o servidor é criptografada (segura) usando SSL/TLS."
+  },
+  {
+    "numero": 49,
+    "disciplina": "Importado",
+    "questao": "O que é 'backup' em informática?",
+    "opcoes": {
+      "A": "Um tipo de vírus.",
+      "B": "Um software de edição de texto.",
+      "C": "Uma cópia de segurança de dados para fins de recuperação.",
+      "D": "Um sistema de criptografia de arquivos.",
+      "E": "O processo de desinstalar um programa."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "**Backup** é o processo de fazer uma **cópia de segurança** de dados (arquivos, documentos, configurações) para que possam ser restaurados em caso de perda de dados (falha de hardware, ataque de vírus, erro humano, etc.)."
+  },
+  {
+    "numero": 50,
+    "disciplina": "Importado",
+    "questao": "No contexto de redes de computadores, o que é um firewall?",
+    "opcoes": {
+      "A": "Um cabo de rede de alta velocidade.",
+      "B": "Um software ou hardware que filtra o tráfego de rede e controla o acesso a uma rede.",
+      "C": "Um dispositivo para aumentar o sinal Wi-Fi.",
+      "D": "Um tipo de impressora.",
+      "E": "Um protocolo de comunicação."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O **Firewall** (Parede de Fogo) é um sistema de segurança que monitora e controla o tráfego de rede de entrada e saída, decidindo se permite ou bloqueia pacotes específicos com base em um conjunto definido de regras de segurança."
+  },
+  {
+    "numero": 51,
+    "disciplina": "Importado",
+    "questao": "O que a Constituição Federal de 1988 estabelece como o principal fundamento da República Federativa do Brasil?",
+    "opcoes": {
+      "A": "A soberania e a cidadania.",
+      "B": "A dignidade da pessoa humana e os valores sociais do trabalho e da livre iniciativa.",
+      "C": "A separação dos Poderes e o sistema de governo presidencialista.",
+      "D": "A prevalência dos direitos humanos e a defesa da paz.",
+      "E": "A cooperação entre os povos e o repúdio ao terrorismo."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os fundamentos da República, conforme o art. 1º da CF/88, são: Soberania, Cidadania, **Dignidade da Pessoa Humana**, **Valores Sociais do Trabalho e da Livre Iniciativa**, e Pluralismo Político. A alternativa B reúne os mais importantes. O gabarito oficial considerou a B a correta."
+  },
+  {
+    "numero": 52,
+    "disciplina": "Importado",
+    "questao": "Assinale a alternativa que apresenta um dos objetivos fundamentais da República Federativa do Brasil, conforme o art. 3º da CF/88.",
+    "opcoes": {
+      "A": "Construir uma sociedade livre, justa e solidária.",
+      "B": "Garantir o desenvolvimento nacional e a dignidade da pessoa humana.",
+      "C": "Conceder asilo político e defender a paz.",
+      "D": "Soberania popular e cidadania plena.",
+      "E": "Prevalência dos direitos humanos."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Os objetivos fundamentais (art. 3º) são: **Construir** uma sociedade livre, justa e solidária; **Garantir** o desenvolvimento nacional; **Erradicar** a pobreza e a marginalização; **Promover** o bem de todos, sem preconceitos. A alternativa 'A' é um objetivo fundamental."
+  },
+  {
+    "numero": 53,
+    "disciplina": "Importado",
+    "questao": "O direito de petição e o direito de obter certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal, são direitos:",
+    "opcoes": {
+      "A": "Sociais",
+      "B": "De Nacionalidade",
+      "C": "Políticos",
+      "D": "Individuais e Coletivos",
+      "E": "De Segunda Geração"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O direito de petição e o de certidões são direitos expressamente previstos no art. 5º (caput e incisos), sendo classificados como **Direitos Individuais e Coletivos** (Direitos de Primeira Geração, ou de Liberdade)."
+  },
+  {
+    "numero": 54,
+    "disciplina": "Importado",
+    "questao": "A Constituição Federal estabelece que 'Ninguém será privado da liberdade ou de seus bens sem o devido processo legal'. Esse princípio é o:",
+    "opcoes": {
+      "A": "Contraditório",
+      "B": "Ampla Defesa",
+      "C": "Devido Processo Legal",
+      "D": "Juiz Natural",
+      "E": "Presunção de Inocência"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A citação é a definição do princípio do **Devido Processo Legal** (due process of law), que assegura que ninguém será atingido em seus direitos (liberdade e bens) sem que haja um procedimento legal prévio, justo e regular."
+  },
+  {
+    "numero": 55,
+    "disciplina": "Importado",
+    "questao": "A regra de que 'A lei penal não retroagirá, salvo para beneficiar o réu' é uma expressão do princípio da:",
+    "opcoes": {
+      "A": "Anterioridade",
+      "B": "Taxatividade",
+      "C": "Irretroatividade da lei penal",
+      "D": "Proporcionalidade",
+      "E": "Personalidade"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O princípio da **Irretroatividade da lei penal** estabelece que a lei penal não pode retroagir para atingir fatos passados, exceto quando for para **beneficiar o réu** (retroatividade benéfica)."
+  },
+  {
+    "numero": 56,
+    "disciplina": "Importado",
+    "questao": "O poder administrativo que a lei confere ao administrador para escolher, dentro dos limites legais, a oportunidade, a conveniência e o conteúdo do ato, é o Poder:",
+    "opcoes": {
+      "A": "Vinculado",
+      "B": "Regulamentar",
+      "C": "Hierárquico",
+      "D": "Disciplinar",
+      "E": "Discricionário"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "O **Poder Discricionário** é a margem de liberdade que a lei concede ao administrador para que ele avalie a melhor forma de agir no caso concreto, escolhendo entre as opções legais a que melhor atenda ao interesse público."
+  },
+  {
+    "numero": 57,
+    "disciplina": "Importado",
+    "questao": "No Direito Administrativo, a atuação do administrador público que não deixa margem de liberdade ou juízo de valor, sendo a lei que estabelece rigidamente o único comportamento possível, é chamada de Poder:",
+    "opcoes": {
+      "A": "Discricionário",
+      "B": "Regulamentar",
+      "C": "Vinculado",
+      "D": "Hierárquico",
+      "E": "De Polícia"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O princípio da Legalidade estabelece que a Administração Pública só pode fazer o que a lei permite. É a sujeição à lei. O ato deve estar previsto na lei: Lei nº 8.429\\92."
+  },
+  {
+    "numero": 58,
+    "disciplina": "Importado",
+    "questao": "A responsabilidade civil do Estado por danos que seus agentes, nessa qualidade, causarem a terceiros é, em regra, de natureza:",
+    "opcoes": {
+      "A": "Subjetiva, exigindo dolo ou culpa.",
+      "B": "Objetiva, baseada na teoria do risco administrativo.",
+      "C": "Exclusiva dos agentes, isentando o Estado.",
+      "D": "Solidária, entre o Estado e os agentes.",
+      "E": "Objetiva, baseada na teoria do risco integral."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O art. 37, §6º, da CF/88 estabelece que a responsabilidade civil do Estado é **Objetiva**, baseada na **Teoria do Risco Administrativo** (basta o dano e o nexo causal, não sendo necessário provar dolo ou culpa do agente)."
+  },
+  {
+    "numero": 59,
+    "disciplina": "Importado",
+    "questao": "O que são 'Direitos de Segunda Geração' ou Dimensão?",
+    "opcoes": {
+      "A": "Direitos de Liberdade (civis e políticos).",
+      "B": "Direitos de Igualdade (sociais, econômicos e culturais).",
+      "C": "Direitos de Fraternidade (difusos e coletivos).",
+      "D": "Direitos de Solidariedade (ambientais e tecnológicos).",
+      "E": "Direitos de Nacionalidade."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os Direitos de **Segunda Geração** são os Direitos de **Igualdade** (Direitos Sociais, Econômicos e Culturais), exigindo uma atuação positiva do Estado (direitos positivos)."
+  },
+  {
+    "numero": 60,
+    "disciplina": "Importado",
+    "questao": "A Convenção Americana sobre Direitos Humanos, ou Pacto de San José da Costa Rica, foi adotada em:",
+    "opcoes": {
+      "A": "1948",
+      "B": "1966",
+      "C": "1969",
+      "D": "1978",
+      "E": "1992"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica) foi adotada em **1969**, entrando em vigor em 1978. O Brasil a ratificou em 1992."
+  },
+  {
+    "numero": 61,
+    "disciplina": "Importado",
+    "questao": "A prisão em flagrante deve ser comunicada imediatamente ao juiz competente, ao Ministério Público e à família do preso ou à pessoa por ele indicada. O prazo para o juiz realizar a audiência de custódia é de:",
+    "opcoes": {
+      "A": "24 horas.",
+      "B": "48 horas.",
+      "C": "5 dias.",
+      "D": "10 dias.",
+      "E": "72 horas."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Conforme o art. 310 do CPP e entendimento do STF, a audiência de custódia deve ser realizada, sem demora, em até **24 horas** após a comunicação da prisão."
+  },
+  {
+    "numero": 62,
+    "disciplina": "Importado",
+    "questao": "A prova obtida com violação de norma constitucional ou legal é considerada:",
+    "opcoes": {
+      "A": "Proibida por lei.",
+      "B": "Ilegal, mas pode ser convalidada.",
+      "C": "Lícita, desde que relevante.",
+      "D": "Ilícita, sendo inadmissível no processo penal.",
+      "E": "Nula de pleno direito, mas admite-se no processo penal se não houver outro meio de prova."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O art. 5º, LVI, da CF/88 estabelece que são **inadmissíveis, no processo, as provas obtidas por meios ilícitos**. No processo penal, a prova ilícita é vedada, salvo a exceção da fonte independente."
+  },
+  {
+    "numero": 63,
+    "disciplina": "Importado",
+    "questao": "No crime de furto (art. 155, CP), o bem jurídico tutelado é:",
+    "opcoes": {
+      "A": "A vida.",
+      "B": "A honra.",
+      "C": "O patrimônio.",
+      "D": "A liberdade.",
+      "E": "A dignidade sexual."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime de furto está previsto no Título II da Parte Especial do Código Penal, que trata dos Crimes contra o **Patrimônio**. O bem jurídico tutelado é a posse e propriedade de bens móveis."
+  },
+  {
+    "numero": 64,
+    "disciplina": "Importado",
+    "questao": "No crime de roubo, a violência ou grave ameaça deve ser empregada:",
+    "opcoes": {
+      "A": "Após a subtração.",
+      "B": "Antes da subtração.",
+      "C": "Durante a subtração.",
+      "D": "Antes ou durante a subtração.",
+      "E": "Em qualquer fase da execução."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O crime de roubo (art. 157, CP) ocorre quando há a subtração de coisa móvel, para si ou para outrem, mediante **grave ameaça ou violência à pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência**."
+  },
+  {
+    "numero": 65,
+    "disciplina": "Importado",
+    "questao": "O crime de concussão (art. 316, CP) é praticado por funcionário público que:",
+    "opcoes": {
+      "A": "Apropria-se de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou o desvia.",
+      "B": "Solicita ou recebe, para si ou para outrem, direta ou indiretamente, em razão da função, vantagem indevida.",
+      "C": "Exige, para si ou para outrem, direta ou indiretamente, em razão da função, vantagem indevida.",
+      "D": "Retarda ou deixa de praticar, indevidamente, ato de ofício, ou o pratica contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal.",
+      "E": "Patrocina, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime de **Concussão** é tipificado pela conduta de **exigir**, para si ou para outrem, direta ou indiretamente, em razão da função, vantagem indevida. O Peculato está na A, Corrupção Passiva na B, Prevaricação na D e Advocacia Administrativa na E."
+  },
+  {
+    "numero": 66,
+    "disciplina": "Importado",
+    "questao": "De acordo com a Lei nº 13.869/2019 (Abuso de Autoridade), os crimes de abuso de autoridade são de ação penal:",
+    "opcoes": {
+      "A": "Pública incondicionada.",
+      "B": "Pública condicionada à representação.",
+      "C": "Privada.",
+      "D": "Pública subsidiária da privada.",
+      "E": "Pública incondicionada, mas admite a ação privada subsidiária."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "O art. 3º da Lei de Abuso de Autoridade estabelece que os crimes previstos nela são de **ação penal pública incondicionada**. No entanto, se o Ministério Público não ajuizar a ação no prazo legal, será admitida a **ação privada subsidiária da pública** (Art. 3º, §1º)."
+  },
+  {
+    "numero": 67,
+    "disciplina": "Importado",
+    "questao": "Qual é a pena cominada para o crime de Tráfico de Drogas (art. 33, caput, da Lei nº 11.343/2006)?",
+    "opcoes": {
+      "A": "Reclusão de 1 a 5 anos e multa.",
+      "B": "Reclusão de 2 a 8 anos e multa.",
+      "C": "Reclusão de 5 a 15 anos e multa.",
+      "D": "Reclusão de 8 a 20 anos e multa.",
+      "E": "Detenção de 6 meses a 1 ano e multa."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime de Tráfico de Drogas (art. 33, caput) tem pena de reclusão de **5 a 15 anos e pagamento de 500 a 1.500 dias-multa**."
+  },
+  {
+    "numero": 68,
+    "disciplina": "Importado",
+    "questao": "A Lei nº 11.340/2006 (Lei Maria da Penha) tem por objetivo criar mecanismos para coibir e prevenir a violência doméstica e familiar contra:",
+    "opcoes": {
+      "A": "O homem.",
+      "B": "A criança e o adolescente.",
+      "C": "Qualquer membro da família.",
+      "D": "A mulher.",
+      "E": "O idoso."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A Lei nº 11.340/2006 é específica para coibir a violência doméstica e familiar contra a **mulher**, conforme seu Art. 1º."
+  },
+  {
+    "numero": 69,
+    "disciplina": "Importado",
+    "questao": "No crime de Organização Criminosa (Lei nº 12.850/2013), a associação deve ser de:",
+    "opcoes": {
+      "A": "Três ou mais pessoas.",
+      "B": "Quatro ou mais pessoas.",
+      "C": "Cinco ou mais pessoas.",
+      "D": "Seis ou mais pessoas.",
+      "E": "Duas ou mais pessoas."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Organização Criminosa é a associação de **4 (quatro) ou mais pessoas** estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com o objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 (quatro) anos, ou que sejam de caráter transnacional."
+  },
+  {
+    "numero": 70,
+    "disciplina": "Importado",
+    "questao": "No Estatuto do Desarmamento (Lei nº 10.826/03), a autorização para o porte de arma de fogo de uso permitido é de competência da:",
+    "opcoes": {
+      "A": "Polícia Civil.",
+      "B": "Polícia Militar.",
+      "C": "Polícia Federal.",
+      "D": "Secretaria de Segurança Pública Estadual.",
+      "E": "Forças Armadas."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A autorização para o porte de arma de fogo de uso permitido é, em regra, de competência da **Polícia Federal**, conforme o Art. 10 da Lei nº 10.826/03."
+  },
+  {
+    "numero": 71,
+    "disciplina": "Importado",
+    "questao": "O que são medidas protetivas de urgência na Lei Maria da Penha?",
+    "opcoes": {
+      "A": "Ações penais ajuizadas pelo Ministério Público.",
+      "B": "Prisões preventivas decretadas pelo juiz.",
+      "C": "Decisões judiciais que visam garantir a segurança da mulher em situação de violência, afastando o agressor.",
+      "D": "Penalidades impostas ao agressor após o trânsito em julgado da sentença.",
+      "E": "Inquéritos policiais instaurados de ofício pelo Delegado."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Medidas Protetivas de Urgência são **decisões judiciais** (podendo ser deferidas pelo juiz, ou pelo delegado/policial em casos de risco imediato) que visam afastar o agressor e proteger a integridade física e psicológica da vítima de violência doméstica (ex: afastamento do lar, proibição de contato)."
+  },
+  {
+    "numero": 72,
+    "disciplina": "Importado",
+    "questao": "No Direito Processual Penal, qual é o princípio que determina que o réu é considerado inocente até que se prove o contrário, mediante sentença condenatória transitada em julgado?",
+    "opcoes": {
+      "A": "In dubio pro reo",
+      "B": "Contraditório",
+      "C": "Ampla Defesa",
+      "D": "Presunção de Inocência",
+      "E": "Juiz Natural"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O princípio da **Presunção de Inocência** (ou não culpabilidade), previsto no art. 5º, LVII, da CF/88, estabelece que ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória."
+  },
+  {
+    "numero": 73,
+    "disciplina": "Importado",
+    "questao": "Qual é a finalidade principal da prisão temporária (Lei nº 7.960/89)?",
+    "opcoes": {
+      "A": "Garantir a ordem pública e a ordem econômica.",
+      "B": "Assegurar a aplicação da lei penal.",
+      "C": "Garantir as investigações do Inquérito Policial.",
+      "D": "Garantir a execução da pena.",
+      "E": "Impedir a reiteração criminosa."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A prisão temporária é uma modalidade de prisão cautelar decretada na fase de **investigação** (Inquérito Policial), tendo como principal finalidade assegurar a eficácia das investigações."
+  },
+  {
+    "numero": 74,
+    "disciplina": "Importado",
+    "questao": "O crime de Peculato (art. 312, CP) é um exemplo de crime:",
+    "opcoes": {
+      "A": "Comum.",
+      "B": "Privado.",
+      "C": "Proprietário.",
+      "D": "Próprio.",
+      "E": "Material."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O Peculato é um **crime próprio** (ou especial), pois exige uma qualidade específica do agente para sua prática: ser funcionário público."
+  },
+  {
+    "numero": 75,
+    "disciplina": "Importado",
+    "questao": "A desistência voluntária e o arrependimento eficaz são institutos que levam à exclusão da:",
+    "opcoes": {
+      "A": "Ilicitude.",
+      "B": "Tipicidade (do crime mais grave).",
+      "C": "Culpabilidade.",
+      "D": "Punibilidade.",
+      "E": "Materialidade."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Na **desistência voluntária** e no **arrependimento eficaz**, o agente só responde pelos atos já praticados (Art. 15 do CP). Isso implica uma exclusão da tipicidade do crime mais grave (a tentativa), respondendo apenas pelos atos consumados."
+  },
+  {
+    "numero": 76,
+    "disciplina": "Importado",
+    "questao": "O princípio do contraditório, no processo penal, é assegurado pela:",
+    "opcoes": {
+      "A": "Garantia de que o réu não será processado duas vezes pelo mesmo fato.",
+      "B": "Oportunidade de o réu ter conhecimento de todos os atos processuais e de reagir a eles.",
+      "C": "Vedação da prova ilícita.",
+      "D": "Exigência de que o juiz seja imparcial.",
+      "E": "Presunção de inocência."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O princípio do **Contraditório** garante que as partes do processo (acusação e defesa) tenham o direito de tomar conhecimento de todos os atos e termos processuais e de se manifestar sobre eles, sendo essencialmente a bilateralidade da audiência."
+  },
+  {
+    "numero": 77,
+    "disciplina": "Importado",
+    "questao": "A lei que proíbe o uso de algemas em mulheres grávidas durante os atos de parto é a Lei:",
+    "opcoes": {
+      "A": "Maria da Penha.",
+      "B": "De Execução Penal.",
+      "C": "De Abuso de Autoridade.",
+      "D": "De Drogas.",
+      "E": "Não há lei que proíba isso."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Lei nº 7.210/84 (**Lei de Execução Penal**), no Art. 14, parágrafo único, proíbe expressamente o uso de algemas em mulheres presas durante o trabalho de parto, no momento do parto ou no pós-parto imediato."
+  },
+  {
+    "numero": 78,
+    "disciplina": "Importado",
+    "questao": "A Lei nº 13.869/2019 (Abuso de Autoridade) estabelece que o crime de abuso de autoridade exige o elemento subjetivo específico, que é:",
+    "opcoes": {
+      "A": "O dolo eventual.",
+      "B": "A imprudência ou negligência.",
+      "C": "A finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.",
+      "D": "O dolo genérico de praticar a conduta.",
+      "E": "A culpa consciente."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O art. 1º, §1º, da Lei de Abuso de Autoridade exige o **elemento subjetivo específico** (dolo específico), que é a finalidade de **prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal**."
+  },
+  {
+    "numero": 79,
+    "disciplina": "Importado",
+    "questao": "Qual é a pena máxima de reclusão permitida pela Constituição Federal no Brasil?",
+    "opcoes": {
+      "A": "15 anos.",
+      "B": "20 anos.",
+      "C": "30 anos.",
+      "D": "40 anos.",
+      "E": "Pena de morte."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Embora a Constituição Federal proíba as penas de caráter perpétuo, o Código Penal (Art. 75) estabelece que o tempo de cumprimento das penas privativas de liberdade não pode ser superior a **30 (trinta) anos**."
+  },
+  {
+    "numero": 80,
+    "disciplina": "Importado",
+    "questao": "O princípio que impede a dupla punição por um mesmo crime (não se pode ser julgado e condenado duas vezes pelo mesmo fato) é o:",
+    "opcoes": {
+      "A": "Ne bis in idem (ou Non bis in idem).",
+      "B": "Duplo grau de jurisdição.",
+      "C": "In dubio pro reo.",
+      "D": "Devido processo legal.",
+      "E": "Juiz natural."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O princípio **Ne bis in idem** (ou Non bis in idem) garante que ninguém pode ser punido ou processado duas vezes pelo mesmo fato, sendo um desdobramento do princípio do Devido Processo Legal."
+  },
+  {
+    "numero": 81,
+    "disciplina": "Importado",
+    "questao": "Em que data foi proclamada a Declaração Universal dos Direitos Humanos (DUDH)?",
+    "opcoes": {
+      "A": "24 de outubro de 1945.",
+      "B": "10 de dezembro de 1948.",
+      "C": "7 de abril de 1950.",
+      "D": "20 de novembro de 1959.",
+      "E": "18 de dezembro de 1966."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada pela Assembleia Geral da ONU em Paris, em **10 de dezembro de 1948**."
+  },
+  {
+    "numero": 82,
+    "disciplina": "Importado",
+    "questao": "O direito à vida é considerado:",
+    "opcoes": {
+      "A": "Direito social",
+      "B": "Direito de solidariedade",
+      "C": "Direito de primeira geração (liberdade)",
+      "D": "Direito de segunda geração (igualdade)",
+      "E": "Direito de terceira geração (fraternidade)"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O direito à vida é um Direito Fundamental Individual, também classificado como Direito de **primeira geração (liberdade)**, focados nas liberdades individuais e nas abstenções do Estado."
+  },
+  {
+    "numero": 83,
+    "disciplina": "Importado",
+    "questao": "Uma das características essenciais dos direitos humanos é a universalidade, que\nsignifica que esses direitos:",
+    "opcoes": {
+      "A": "Não podem ser limitados em nenhuma hipótese.",
+      "B": "Aplicam-se a todas as pessoas, independentemente de fronteiras ou cultura.",
+      "C": "São criados apenas por tratados internacionais.",
+      "D": "Não podem ser separados ou divididos.",
+      "E": "São imprescritíveis."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A **Universalidade** significa que os direitos humanos pertencem a todos os seres humanos, sem distinção, aplicando-se a todas as pessoas, independentemente de nacionalidade, raça, sexo, religião, etc."
+  },
+  {
+    "numero": 84,
+    "disciplina": "Importado",
+    "questao": "Qual das características abaixo NÃO se aplica aos Direitos Humanos?",
+    "opcoes": {
+      "A": "Inerência (são inerentes à pessoa humana).",
+      "B": "Absolutismo (não podem ser limitados).",
+      "C": "Interdependência (interligados entre si).",
+      "D": "Inalienabilidade (não podem ser transferidos).",
+      "E": "Complementaridade (se completam)."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O termo **Absolutismo** não se aplica, pois os direitos humanos são **relativos**, ou seja, podem sofrer limitações legítimas quando em conflito com outros direitos ou com o interesse público, desde que observados a razoabilidade e a proporcionalidade."
+  },
+  {
+    "numero": 85,
+    "disciplina": "Importado",
+    "questao": "A regra de que 'Ninguém será submetido a tortura nem a tratamento cruel, desumano ou degradante' é um direito de:",
+    "opcoes": {
+      "A": "Segunda Geração (Igualdade).",
+      "B": "Primeira Geração (Liberdade).",
+      "C": "Terceira Geração (Fraternidade).",
+      "D": "Quarta Geração (Biodireito).",
+      "E": "Solidariedade."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A proibição de tortura e tratamento desumano é um direito que protege a integridade física e moral do indivíduo, caracterizando-se como um Direito de **Primeira Geração (Liberdade)**, exigindo a abstenção do Estado."
+  },
+  {
+    "numero": 86,
+    "disciplina": "Importado",
+    "questao": "A autoridade policial poderá proceder a busca domiciliar sem mandado judicial em caso de:",
+    "opcoes": {
+      "A": "Suspeita de crime de furto.",
+      "B": "Durante o dia, a critério do delegado.",
+      "C": "Desastre ou para prestar socorro.",
+      "D": "Para realizar intimação de testemunha.",
+      "E": "No período noturno, com autorização do morador."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A CF/88 (art. 5º, XI) permite a entrada na casa sem consentimento do morador e sem mandado judicial apenas em caso de **flagrante delito**, **desastre**, ou para **prestar socorro**."
+  },
+  {
+    "numero": 87,
+    "disciplina": "Importado",
+    "questao": "O que a Lei nº 9.099/95 (Juizados Especiais Cíveis e Criminais) considera como infração de menor potencial ofensivo?",
+    "opcoes": {
+      "A": "Crimes com pena máxima igual ou inferior a 4 anos.",
+      "B": "Crimes com pena máxima não superior a 2 anos, cumulados ou não com multa, e as contravenções penais.",
+      "C": "Crimes com pena mínima de 1 ano.",
+      "D": "Crimes de Tráfico de Drogas.",
+      "E": "Crimes de Homicídio Culposo."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Infrações de menor potencial ofensivo são os crimes a que a lei comine pena máxima não superior a **2 (dois) anos**, cumulada ou não com multa, e as **contravenções penais**."
+  },
+  {
+    "numero": 88,
+    "disciplina": "Importado",
+    "questao": "A transação penal é um instituto despenalizador previsto na Lei nº 9.099/95 que consiste em:",
+    "opcoes": {
+      "A": "A suspensão condicional do processo, pelo prazo de 2 a 4 anos.",
+      "B": "Acordo entre Ministério Público e o autor do fato para aplicação imediata de pena restritiva de direitos ou multa.",
+      "C": "O não oferecimento da denúncia pelo MP.",
+      "D": "A absolvição sumária pelo juiz.",
+      "E": "O perdão judicial concedido pelo juiz."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A **Transação Penal** é um acordo que permite a aplicação imediata de pena não privativa de liberdade (restritiva de direitos ou multa), proposta pelo Ministério Público ao autor do fato, em infrações de menor potencial ofensivo."
+  },
+  {
+    "numero": 89,
+    "disciplina": "Importado",
+    "questao": "O que é 'Abolitio Criminis' no Direito Penal?",
+    "opcoes": {
+      "A": "A exclusão da culpabilidade do agente.",
+      "B": "A extinção da punibilidade pela morte do agente.",
+      "C": "A ocorrência de nova lei que deixa de considerar o fato como crime.",
+      "D": "A diminuição da pena em razão de arrependimento.",
+      "E": "A prescrição da pretensão punitiva."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "**Abolitio Criminis** ocorre quando uma lei posterior **deixa de considerar o fato como criminoso** (art. 2º do CP). Neste caso, cessam a execução e os efeitos penais da sentença condenatória."
+  },
+  {
+    "numero": 90,
+    "disciplina": "Importado",
+    "questao": "O crime de Dano Qualificado (art. 163, parágrafo único, III, CP) é aquele cometido contra:",
+    "opcoes": {
+      "A": "O patrimônio de empresa privada.",
+      "B": "O patrimônio público da União, Estado, Município, empresa concessionária de serviços públicos ou sociedade de economia mista.",
+      "C": "O patrimônio de entidade religiosa.",
+      "D": "O patrimônio de sociedade de capital aberto.",
+      "E": "O patrimônio de fundação privada."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O Dano Qualificado (inciso III) tem como causa de aumento a lesão ao patrimônio da União, de Estado, do Distrito Federal, de Município, de empresa concessionária de serviços públicos ou de sociedade de economia mista (o que inclui o patrimônio público)."
+  },
+  {
+    "numero": 91,
+    "disciplina": "Importado",
+    "questao": "No Direito Administrativo, o poder de polícia é a faculdade que a Administração Pública tem de:",
+    "opcoes": {
+      "A": "Organizar e distribuir as funções de seus órgãos.",
+      "B": "Exigir o pagamento de tributos.",
+      "C": "Limitar ou condicionar o exercício de direitos individuais em prol do interesse público.",
+      "D": "Aplicar sanções disciplinares aos servidores.",
+      "E": "Revogar atos administrativos por motivo de conveniência e oportunidade."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O **Poder de Polícia** é a faculdade de que dispõe a Administração Pública para **condicionar e restringir o uso e gozo de bens, atividades e direitos individuais**, em benefício da coletividade e do interesse público."
+  },
+  {
+    "numero": 92,
+    "disciplina": "Importado",
+    "questao": "A anulação de um ato administrativo deve ocorrer quando o ato apresenta um vício de:",
+    "opcoes": {
+      "A": "Mérito.",
+      "B": "Legalidade.",
+      "C": "Oportunidade.",
+      "D": "Conveniência.",
+      "E": "Moralidade."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A **Anulação** é o desfazimento do ato administrativo por motivo de **ilegalidade** (vício de legalidade ou ilegitimidade). A Revogação, por sua vez, ocorre por motivo de mérito (conveniência ou oportunidade)."
+  },
+  {
+    "numero": 93,
+    "disciplina": "Importado",
+    "questao": "A delegação de competência administrativa é:",
+    "opcoes": {
+      "A": "A transferência de competência de um órgão para outro de hierarquia superior.",
+      "B": "A atribuição, em caráter permanente, de competência a órgão diverso.",
+      "C": "A transferência temporária de parte das atribuições de um órgão ou agente para outro, de mesma ou inferior hierarquia.",
+      "D": "A extinção da competência do delegante.",
+      "E": "O dever de avocar a competência delegada."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "**Delegação** é a transferência temporária de parte das atribuições de um órgão ou agente para outro, que pode ser de mesma ou inferior hierarquia, visando a desburocratização e a agilidade da Administração."
+  },
+  {
+    "numero": 94,
+    "disciplina": "Importado",
+    "questao": "O princípio que impede a publicidade de atos administrativos quando a segurança da sociedade e do Estado assim o exigirem é o princípio da:",
+    "opcoes": {
+      "A": "Legalidade.",
+      "B": "Impessoalidade.",
+      "C": "Publicidade.",
+      "D": "Moralidade.",
+      "E": "Eficiência."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O princípio da **Publicidade** (Art. 37, caput, da CF/88) estabelece que os atos administrativos devem ser públicos, salvo as exceções previstas em lei, como a defesa da segurança da sociedade e do Estado (Art. 5º, XXXIII, da CF/88)."
+  },
+  {
+    "numero": 95,
+    "disciplina": "Importado",
+    "questao": "O que são 'Direitos de Terceira Geração' ou Dimensão?",
+    "opcoes": {
+      "A": "Direitos de Liberdade (civis e políticos).",
+      "B": "Direitos de Igualdade (sociais, econômicos e culturais).",
+      "C": "Direitos de Fraternidade (difusos e coletivos).",
+      "D": "Direitos de Solidariedade (ambientais e tecnológicos).",
+      "E": "Direitos do Consumidor."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Os Direitos de **Terceira Geração** são os Direitos de **Fraternidade** ou **Solidariedade**, que visam a proteção de grupos e da coletividade (ex: direito ao meio ambiente equilibrado, direito de autodeterminação dos povos, direito à paz)."
+  },
+  {
+    "numero": 96,
+    "disciplina": "Importado",
+    "questao": "Qual é a corte internacional responsável por julgar casos de violações da Convenção Americana sobre Direitos Humanos?",
+    "opcoes": {
+      "A": "Corte Internacional de Justiça (Haia).",
+      "B": "Corte Europeia de Direitos Humanos.",
+      "C": "Corte Interamericana de Direitos Humanos (San José).",
+      "D": "Tribunal Penal Internacional (TPI).",
+      "E": "Comissão Interamericana de Direitos Humanos."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A corte responsável por julgar as violações da Convenção Americana de Direitos Humanos é a **Corte Interamericana de Direitos Humanos**, com sede em San José da Costa Rica."
+  },
+  {
+    "numero": 97,
+    "disciplina": "Importado",
+    "questao": "A impessoalidade, como princípio da Administração Pública, está previsto na Lei:",
+    "opcoes": {
+      "A": "8.112/90",
+      "B": "9.784/99",
+      "C": "8.666/93",
+      "D": "10.406/02",
+      "E": "9.605/98"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O princípio da **Impessoalidade** está previsto expressamente na Constituição Federal (Art. 37, caput). A Lei nº 9.784/99 (Processo Administrativo Federal) também o prevê como princípio (Art. 2º, IV)."
+  },
+  {
+    "numero": 98,
+    "disciplina": "Importado",
+    "questao": "O prazo decadencial para a Administração anular ato administrativo que tenha gerado efeitos\nfavoráveis é de:",
+    "opcoes": {
+      "A": "1 ano",
+      "B": "2 anos",
+      "C": "3 anos",
+      "D": "5 anos",
+      "E": "10 anos"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O prazo decadencial para a Administração anular atos administrativos de que decorram efeitos favoráveis para os destinatários é de **5 (cinco) anos**, a contar da data em que foram praticados (Lei nº 9.784/99, Art. 54)."
+  },
+  {
+    "numero": 99,
+    "disciplina": "Importado",
+    "questao": "O contrato administrativo que pode ser rescindido unilateralmente pela Administração por\ninteresse público é:",
+    "opcoes": {
+      "A": "Privado",
+      "B": "Bilateral puro",
+      "C": "De adesão",
+      "D": "Contrato administrativo típico",
+      "E": "Convênio"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A rescisão unilateral por interesse público é uma **cláusula exorbitante** característica do **Contrato Administrativo Típico** (Art. 79, I, da Lei nº 8.666/93 - revogada pela 14.133/21, mas o princípio é mantido). As cláusulas exorbitantes conferem prerrogativas à Administração que não são comuns nos contratos privados."
+  },
+  {
+    "numero": 100,
+    "disciplina": "Importado",
+    "questao": "Qual dos bens abaixo é considerado um bem público de uso comum do povo?",
+    "opcoes": {
+      "A": "Edifício de uma escola pública.",
+      "B": "Praça pública.",
+      "C": "Viaturas da polícia.",
+      "D": "Terreno de uma autarquia.",
+      "E": "Mobiliário de um hospital público."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os bens públicos de **uso comum do povo** são aqueles destinados ao uso irrestrito da coletividade (ex: ruas, praças, rios, mares). Edifícios de escolas e viaturas são bens de uso especial."
+  }
+]
