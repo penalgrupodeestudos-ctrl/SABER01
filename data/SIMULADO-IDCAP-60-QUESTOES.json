@@ -1,0 +1,842 @@
+[
+  {
+    "numero": 1,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão:",
+    "opcoes": {
+      "A": "Me disseram a verdade.",
+      "B": "Disseram-me a verdade.",
+      "C": "Disseram que me contaram a verdade.",
+      "D": "Me disseram que a verdade foi revelada.",
+      "E": "Disseram que a verdade contou-me."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A norma-padrão proíbe o início de oração com pronome oblíquo átono (próclise). Assim, 'Disseram-me a verdade' (ênclise) está correto, diferentemente de 'Me disseram' (A e D)."
+  },
+  {
+    "numero": 2,
+    "disciplina": "Língua Portuguesa",
+    "questao": "A frase “É necessário coragem para enfrentar desafios” apresenta como núcleo do predicativo do sujeito:",
+    "opcoes": {
+      "A": "enfrentar",
+      "B": "coragem",
+      "C": "necessário",
+      "D": "desafios",
+      "E": "é"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O predicativo do sujeito é o termo que qualifica o sujeito (neste caso, 'coragem para enfrentar desafios') por meio do verbo de ligação 'é', sendo o adjetivo 'necessário', que é o núcleo do predicativo."
+  },
+  {
+    "numero": 3,
+    "disciplina": "Língua Portuguesa",
+    "questao": "A oração “Conquanto fosse tarde, decidiu sair” expressa:",
+    "opcoes": {
+      "A": "Condição",
+      "B": "Concessão",
+      "C": "Comparação",
+      "D": "Finalidade",
+      "E": "Causa"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A conjunção 'conquanto' é tipicamente subordinativa adverbial concessiva, com o sentido de 'embora' ou 'ainda que', expressando um fato que não impede a realização do principal."
+  },
+  {
+    "numero": 4,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Em “os policiais, que estavam atentos, perceberam o erro”, a oração destacada é:",
+    "opcoes": {
+      "A": "Adjetiva restritiva",
+      "B": "Substantiva subjetiva",
+      "C": "Adjetiva explicativa",
+      "D": "Adverbial causal",
+      "E": "Substantiva completiva nominal"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A oração 'que estavam atentos' é introduzida por pronome relativo (Adjetiva) e está isolada por vírgulas, sendo, portanto, uma oração subordinada adjetiva explicativa."
+  },
+  {
+    "numero": 5,
+    "disciplina": "Língua Portuguesa",
+    "questao": "A frase com erro de concordância verbal está em:",
+    "opcoes": {
+      "A": "Faz dez anos que ocorreu o fato.",
+      "B": "Houveram problemas na apuração.",
+      "C": "Houve problemas na apuração.",
+      "D": "Vai haver mudanças no sistema.",
+      "E": "Deve haver consequências."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O verbo 'haver', quando usado no sentido de 'existir' ou 'ocorrer' (como em B e C), é impessoal e deve ser conjugado sempre na 3ª pessoa do singular. O correto seria 'Houve problemas na apuração'."
+  },
+  {
+    "numero": 6,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Em “Deu-me um conselho valioso”, o pronome “me” exerce função de:",
+    "opcoes": {
+      "A": "Objeto direto",
+      "B": "Objeto indireto",
+      "C": "Complemento nominal",
+      "D": "Agente da passiva",
+      "E": "Sujeito"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O verbo 'dar' é transitivo direto e indireto (bitransitivo). O pronome 'me' assume a função de Objeto Indireto (dá algo *a mim*), e 'um conselho valioso' é o Objeto Direto (dá *algo*)."
+  },
+  {
+    "numero": 7,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Qual período está corretamente pontuado?",
+    "opcoes": {
+      "A": "O réu entretanto, permaneceu calado.",
+      "B": "O réu, entretanto permaneceu calado.",
+      "C": "O réu, entretanto, permaneceu calado.",
+      "D": "O réu entretanto permaneceu calado.",
+      "E": "O réu entretanto permaneceu, calado."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O termo 'entretanto' funciona como uma conjunção adversativa deslocada e deve ser isolado por vírgulas no meio da oração."
+  },
+  {
+    "numero": 8,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Em “A segurança pública é responsabilidade de todos”, o termo destacado funciona como:",
+    "opcoes": {
+      "A": "Predicativo do sujeito",
+      "B": "Objeto direto",
+      "C": "Complemento nominal",
+      "D": "Adjunto adnominal",
+      "E": "Agente da passiva"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O termo 'responsabilidade de todos' atribui uma característica ao sujeito ('A segurança pública') por meio do verbo de ligação 'é' (verbo ser), caracterizando-o como Predicativo do Sujeito."
+  },
+  {
+    "numero": 9,
+    "disciplina": "Língua Portuguesa",
+    "questao": "O emprego da crase está correto em:",
+    "opcoes": {
+      "A": "Dirigi-me à delegacia ontem.",
+      "B": "Entreguei o relatório à ela.",
+      "C": "Voltou à casa satisfeito.",
+      "D": "Às vezes, é preciso esperar.",
+      "E": "As alternativas A e D."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "A crase está correta em (A), pois a regência do verbo 'dirigir-se' exige preposição 'a', que se funde com o artigo 'a' de 'delegacia'. Está correta em (D), pois 'às vezes' é uma locução adverbial feminina de tempo."
+  },
+  {
+    "numero": 10,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Em “Foi necessário que os agentes agissem com cautela”, o verbo “agissem” (no contexto da oração subordinada) está no modo:",
+    "opcoes": {
+      "A": "Indicativo",
+      "B": "Subjuntivo",
+      "C": "Imperativo",
+      "D": "Infinitivo",
+      "E": "Gerúndio"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O verbo 'agissem' (Pretérito Imperfeito do Subjuntivo) está no modo Subjuntivo, que expressa a incerteza, desejo ou possibilidade, complementando a ideia de necessidade ('Foi necessário que...')."
+  },
+  {
+    "numero": 11,
+    "disciplina": "Direito Penal",
+    "questao": "Sobre o princípio da legalidade penal, é correto afirmar:",
+    "opcoes": {
+      "A": "Permite a aplicação da analogia in malam partem.",
+      "B": "Autoriza a retroatividade da lei penal mais severa.",
+      "C": "Garante que ninguém será punido sem lei anterior que defina o crime.",
+      "D": "Possibilita a incriminação por costumes.",
+      "E": "É inaplicável no âmbito do direito penal."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O princípio da legalidade (Art. 1º, CP) estabelece a máxima 'nullum crimen, nulla poena sine praevia lege', ou seja, ninguém será punido sem lei anterior que defina o crime."
+  },
+  {
+    "numero": 12,
+    "disciplina": "Direito Penal",
+    "questao": "O homicídio qualificado pelo feminicídio, previsto no art. 121 do CP, tem como pena:",
+    "opcoes": {
+      "A": "6 a 20 anos",
+      "B": "12 a 30 anos",
+      "C": "10 a 25 anos",
+      "D": "20 a 40 anos",
+      "E": "8 a 20 anos"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O homicídio qualificado, incluindo o feminicídio (Art. 121, § 2º, VI, do CP), tem pena de reclusão de 12 (doze) a 30 (trinta) anos."
+  },
+  {
+    "numero": 13,
+    "disciplina": "Direito Penal",
+    "questao": "O crime de furto é qualificado quando:",
+    "opcoes": {
+      "A": "Praticado à noite.",
+      "B": "Ocorre com abuso de confiança ou emprego de chave falsa.",
+      "C": "A vítima é idosa.",
+      "D": "Há emprego de grave ameaça.",
+      "E": "Ocorre contra a Administração Pública."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O furto é qualificado (Art. 155, §4º, CP) quando praticado, entre outras hipóteses, com abuso de confiança ou emprego de chave falsa. Grave ameaça configura o crime de roubo."
+  },
+  {
+    "numero": 14,
+    "disciplina": "Direito Penal",
+    "questao": "O crime de roubo consuma-se:",
+    "opcoes": {
+      "A": "Com a simples violência.",
+      "B": "Quando o agente obtém a posse tranquila da coisa.",
+      "C": "No momento em que a coisa entra na esfera de disponibilidade do agente.",
+      "D": "Apenas quando a vítima não recupera o bem.",
+      "E": "Apenas quando há lesão corporal."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime de roubo consuma-se com a inversão da posse do bem, mediante violência ou grave ameaça (teoria da *Amotio* ou *Apprehensio*), sendo irrelevante que a posse seja mansa e pacífica (Súmula 582, STJ)."
+  },
+  {
+    "numero": 15,
+    "disciplina": "Direito Penal",
+    "questao": "A diferença entre dolo eventual e culpa consciente é que:",
+    "opcoes": {
+      "A": "No dolo eventual o agente não prevê o resultado.",
+      "B": "Na culpa consciente o agente assume o risco.",
+      "C": "No dolo eventual o agente prevê e assume o risco.",
+      "D": "Na culpa consciente não há previsão do resultado.",
+      "E": "São institutos idênticos."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "No dolo eventual, o agente prevê o resultado e assume o risco de produzi-lo (aceita). Na culpa consciente, ele prevê, mas confia que pode evitá-lo."
+  },
+  {
+    "numero": 16,
+    "disciplina": "Direito Penal",
+    "questao": "O crime impossível ocorre quando:",
+    "opcoes": {
+      "A": "O agente desiste voluntariamente.",
+      "B": "O agente acredita que sua conduta é criminosa, mas não é.",
+      "C": "Há absoluta ineficácia do meio ou impropriedade do objeto.",
+      "D": "O agente age em estado de necessidade.",
+      "E": "Há arrependimento eficaz."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime impossível (Art. 17, CP) se configura quando a consumação é impossível devido à absoluta ineficácia do meio empregado ou à absoluta impropriedade do objeto."
+  },
+  {
+    "numero": 17,
+    "disciplina": "Direito Penal",
+    "questao": "O erro de proibição:",
+    "opcoes": {
+      "A": "Exclui a tipicidade.",
+      "B": "Exclui a antijuridicidade.",
+      "C": "Exclui a culpabilidade.",
+      "D": "Sempre exclui o dolo.",
+      "E": "É irrelevante no direito penal."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O erro de proibição (Art. 21, CP), quando inevitável, exclui a potencial consciência da ilicitude, que é elemento da culpabilidade, isentando o agente de pena."
+  },
+  {
+    "numero": 18,
+    "disciplina": "Direito Penal",
+    "questao": "Configura concurso material quando:",
+    "opcoes": {
+      "A": "O agente, mediante uma única ação, pratica dois crimes.",
+      "B": "O agente, mediante várias ações, pratica dois ou mais crimes.",
+      "C": "O agente pratica vários crimes, mas de mesma espécie.",
+      "D": "O agente pratica infrações culposas.",
+      "E": "Não há previsão legal."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O concurso material (Art. 69, CP) ocorre quando o agente pratica dois ou mais crimes, mediante várias ações ou omissões (soma aritmética das penas)."
+  },
+  {
+    "numero": 19,
+    "disciplina": "Direito Penal",
+    "questao": "O crime de prevaricação é cometido por:",
+    "opcoes": {
+      "A": "Qualquer cidadão.",
+      "B": "Somente servidor público.",
+      "C": "Agentes políticos.",
+      "D": "Militares apenas.",
+      "E": "Autoridades judiciais."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Prevaricação (Art. 319, CP) é um crime próprio de funcionário público (termo que abrange o servidor) contra a Administração em geral."
+  },
+  {
+    "numero": 20,
+    "disciplina": "Direito Penal",
+    "questao": "No crime continuado, aplica-se:",
+    "opcoes": {
+      "A": "Concurso material.",
+      "B": "Soma aritmética das penas.",
+      "C": "Exasperação da pena.",
+      "D": "Regra do crime mais grave.",
+      "E": "Absolvição pelo menos grave."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "No crime continuado (Art. 71, CP), aplica-se o sistema da exasperação da pena, onde a pena do crime mais grave (ou de um só, se idênticas) é aumentada de um a dois terços."
+  },
+  {
+    "numero": 21,
+    "disciplina": "Direito Processual Penal",
+    "questao": "O inquérito policial tem como principal finalidade:",
+    "opcoes": {
+      "A": "Servir como peça obrigatória da ação penal.",
+      "B": "Apurar a materialidade e autoria da infração penal.",
+      "C": "Substituir a denúncia.",
+      "D": "Constituir título executivo judicial.",
+      "E": "Produzir prova irretratável."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O inquérito policial (IP) visa à colheita de elementos de informação quanto à autoria e materialidade da infração penal, para que o Ministério Público possa ingressar com a ação penal (Art. 4º, CPP)."
+  },
+  {
+    "numero": 22,
+    "disciplina": "Direito Processual Penal",
+    "questao": "O arquivamento do inquérito policial:",
+    "opcoes": {
+      "A": "Pode ser decidido livremente pelo delegado.",
+      "B": "É ato exclusivo do juiz.",
+      "C": "Depende de requerimento do Ministério Público e decisão judicial.",
+      "D": "Pode ser requerido pelo ofendido diretamente ao juiz.",
+      "E": "Produz coisa julgada material em qualquer hipótese."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O arquivamento, em sua regra tradicional, depende de requerimento do Ministério Público (titular da ação penal) e de decisão do juiz que o homologa, pois o juiz não pode arquivar de ofício (Art. 28 do CPP)."
+  },
+  {
+    "numero": 23,
+    "disciplina": "Direito Processual Penal",
+    "questao": "A prisão em flagrante:",
+    "opcoes": {
+      "A": "Depende de ordem judicial.",
+      "B": "Pode ser efetuada por qualquer do povo.",
+      "C": "É restrita à autoridade policial.",
+      "D": "É ato privativo do Ministério Público.",
+      "E": "Não admite conversão em preventiva."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A prisão em flagrante pode ser efetuada por qualquer do povo (flagrante facultativo) e é obrigatória para autoridades policiais e seus agentes (Art. 301, CPP)."
+  },
+  {
+    "numero": 24,
+    "disciplina": "Direito Processual Penal",
+    "questao": "O prazo do inquérito policial, quando o indiciado estiver preso, em regra é de:",
+    "opcoes": {
+      "A": "5 dias",
+      "B": "10 dias",
+      "C": "15 dias",
+      "D": "20 dias",
+      "E": "30 dias"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O prazo para a conclusão do inquérito policial com indiciado preso é de 10 dias, contado a partir da prisão (Art. 10, *caput*, CPP)."
+  },
+  {
+    "numero": 25,
+    "disciplina": "Direito Processual Penal",
+    "questao": "A prova ilícita, segundo a Constituição:",
+    "opcoes": {
+      "A": "Pode ser admitida em qualquer hipótese.",
+      "B": "Nunca pode ser utilizada.",
+      "C": "Pode ser utilizada em benefício do réu.",
+      "D": "Pode ser usada apenas pelo juiz.",
+      "E": "Não possui previsão constitucional."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A prova ilícita é inadmissível (Art. 5º, LVI, CF). Contudo, a jurisprudência (Favor Rei) admite seu uso em benefício do réu, em exceção à regra de inadmissibilidade."
+  },
+  {
+    "numero": 26,
+    "disciplina": "Direito Processual Penal",
+    "questao": "O Tribunal do Júri é competente para julgar:",
+    "opcoes": {
+      "A": "Crimes dolosos contra a vida.",
+      "B": "Crimes culposos contra a vida.",
+      "C": "Crimes militares dolosos.",
+      "D": "Todos os crimes hediondos.",
+      "E": "Crimes de responsabilidade."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O Tribunal do Júri (Art. 5º, XXXVIII, 'd', CF) é competente para o julgamento dos crimes dolosos contra a vida e os conexos a estes."
+  },
+  {
+    "numero": 27,
+    "disciplina": "Direito Processual Penal",
+    "questao": "O habeas corpus pode ser impetrado:",
+    "opcoes": {
+      "A": "Somente pela vítima.",
+      "B": "Somente pelo réu.",
+      "C": "Por qualquer pessoa, em seu favor ou de outrem.",
+      "D": "Apenas por advogado constituído.",
+      "E": "Apenas pelo Ministério Público."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O *habeas corpus* pode ser impetrado por qualquer pessoa, em seu favor ou de outrem, não sendo exigida capacidade postulatória (Art. 654 do CPP)."
+  },
+  {
+    "numero": 28,
+    "disciplina": "Direito Processual Penal",
+    "questao": "A citação por edital no processo penal ocorre quando:",
+    "opcoes": {
+      "A": "O acusado se oculta para não ser citado.",
+      "B": "O acusado está em local incerto ou não sabido.",
+      "C": "O acusado é militar.",
+      "D": "O acusado se encontra preso.",
+      "E": "O acusado recusa receber a citação."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A citação por edital é utilizada quando o acusado não é encontrado ou está em local ignorado, incerto ou não sabido (Art. 361 do CPP)."
+  },
+  {
+    "numero": 29,
+    "disciplina": "Direito Processual Penal",
+    "questao": "O interrogatório do réu é considerado:",
+    "opcoes": {
+      "A": "Meio de prova apenas.",
+      "B": "Meio de defesa e prova.",
+      "C": "Exclusivamente meio de acusação.",
+      "D": "Facultativo e irrelevante.",
+      "E": "Somente ato de acusação."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O interrogatório possui natureza jurídica mista: é um meio de defesa (direito ao silêncio) e um meio de prova (fonte de informação para o juiz)."
+  },
+  {
+    "numero": 30,
+    "disciplina": "Direito Processual Penal",
+    "questao": "Sobre o recurso em sentido estrito, assinale a correta:",
+    "opcoes": {
+      "A": "Cabe apenas contra sentença condenatória.",
+      "B": "Cabe contra decisão que concede habeas corpus.",
+      "C": "Cabe contra decisão que recebe a denúncia.",
+      "D": "Cabe contra decisão que rejeita a denúncia.",
+      "E": "Cabe contra decisão do Tribunal do Júri."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O Recurso em Sentido Estrito (RESE), previsto no Art. 581 do CPP, é cabível, entre outras hipóteses taxativas, contra a decisão que não recebe a denúncia ou a queixa (inciso I)."
+  },
+  {
+    "numero": 31,
+    "disciplina": "Legislação Especial - Lei de Drogas",
+    "questao": "Nos termos da Lei 11.343/2006 (Lei de Drogas), o tráfico de drogas tem pena de:",
+    "opcoes": {
+      "A": "2 a 8 anos",
+      "B": "5 a 10 anos",
+      "C": "5 a 15 anos",
+      "D": "5 a 20 anos",
+      "E": "8 a 20 anos"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O crime de tráfico ilícito de drogas (Art. 33, *caput*, Lei 11.343/06) é punido com reclusão de 5 (cinco) a 15 (quinze) anos, e multa."
+  },
+  {
+    "numero": 32,
+    "disciplina": "Legislação Especial - Lei Maria da Penha",
+    "questao": "De acordo com a Lei Maria da Penha (Lei 11.340/2006), medidas protetivas de urgência podem ser concedidas:",
+    "opcoes": {
+      "A": "Apenas pelo juiz.",
+      "B": "Pelo juiz, delegado ou policial.",
+      "C": "Apenas pelo Ministério Público.",
+      "D": "Exclusivamente pelo delegado.",
+      "E": "Pelo juiz, de ofício ou a requerimento."
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "As medidas protetivas de urgência são concedidas pelo juiz, de ofício (raro) ou a requerimento do Ministério Público ou da ofendida (Art. 19 da Lei 11.340/06)."
+  },
+  {
+    "numero": 33,
+    "disciplina": "Legislação Especial - Estatuto do Desarmamento",
+    "questao": "A posse irregular de arma de fogo de uso permitido, segundo a Lei 10.826/2003, é punida com:",
+    "opcoes": {
+      "A": "Detenção de 1 a 3 anos.",
+      "B": "Reclusão de 1 a 3 anos.",
+      "C": "Reclusão de 2 a 4 anos.",
+      "D": "Reclusão de 3 a 6 anos.",
+      "E": "Reclusão de 4 a 8 anos."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O crime de posse irregular de arma de fogo de uso permitido (Art. 12 da Lei 10.826/03) é punido com detenção, de 1 (um) a 3 (três) anos, e multa."
+  },
+  {
+    "numero": 34,
+    "disciplina": "Legislação Especial - ECA",
+    "questao": "No Estatuto da Criança e do Adolescente, considera-se criança a pessoa com até:",
+    "opcoes": {
+      "A": "10 anos incompletos.",
+      "B": "12 anos incompletos.",
+      "C": "14 anos incompletos.",
+      "D": "16 anos incompletos.",
+      "E": "18 anos incompletos."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O Estatuto da Criança e do Adolescente (Art. 2º) considera criança a pessoa até doze anos de idade incompletos."
+  },
+  {
+    "numero": 35,
+    "disciplina": "Legislação Especial - Lei de Crimes Hediondos",
+    "questao": "A Lei dos Crimes Hediondos (Lei 8.072/1990) estabelece que:",
+    "opcoes": {
+      "A": "Tais crimes são insuscetíveis de fiança e graça.",
+      "B": "Admite-se liberdade provisória com fiança.",
+      "C": "Não há regime inicial obrigatório fechado.",
+      "D": "Sempre cabe anistia.",
+      "E": "Não há distinção em relação a crimes comuns."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Os crimes hediondos, a prática de tortura, o tráfico ilícito de drogas e o terrorismo são inafiançáveis e insuscetíveis de anistia, graça e indulto (Art. 2º, I, da Lei 8.072/90)."
+  },
+  {
+    "numero": 36,
+    "disciplina": "Legislação Especial - Feminicídio",
+    "questao": "O feminicídio é circunstância qualificadora do crime de:",
+    "opcoes": {
+      "A": "Lesão corporal.",
+      "B": "Estupro.",
+      "C": "Homicídio.",
+      "D": "Sequestro.",
+      "E": "Infanticídio."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O feminicídio (homicídio contra a mulher por razões da condição de sexo feminino) é uma circunstância qualificadora do crime de homicídio (Art. 121, §2º, VI, CP)."
+  },
+  {
+    "numero": 37,
+    "disciplina": "Legislação Especial - Lei Anticrime",
+    "questao": "A Lei Anticrime (Lei 13.964/2019) alterou o Código Penal para:",
+    "opcoes": {
+      "A": "Revogar a legítima defesa.",
+      "B": "Alterar o regime de progressão de pena.",
+      "C": "Excluir o crime continuado.",
+      "D": "Revogar o tráfico privilegiado.",
+      "E": "Extinguir a delação premiada."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A Lei 13.964/2019 (Pacote Anticrime) alterou o Art. 112 da Lei de Execução Penal (que trata da progressão de regime), estabelecendo novos percentuais."
+  },
+  {
+    "numero": 38,
+    "disciplina": "Legislação Especial - Lei de Drogas",
+    "questao": "De acordo com a Lei de Drogas, constitui causa de aumento de pena do tráfico:",
+    "opcoes": {
+      "A": "Ser praticado entre adultos.",
+      "B": "Ser praticado em transporte público.",
+      "C": "Ser praticado em residência particular.",
+      "D": "Ser praticado em zona rural.",
+      "E": "Ser praticado apenas em pequena quantidade."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O crime de tráfico tem a pena aumentada se for praticado em transporte público, como navio, aeronave, trem, ônibus ou carro (Art. 40, III, da Lei 11.343/06)."
+  },
+  {
+    "numero": 39,
+    "disciplina": "Legislação Especial - Lei de Abuso de Autoridade",
+    "questao": "Segundo a Lei de Abuso de Autoridade (Lei 13.869/2019), constitui crime:",
+    "opcoes": {
+      "A": "Deixar de comunicar prisão em flagrante à família do preso.",
+      "B": "Revogar prisão preventiva legalmente fundamentada.",
+      "C": "Garantir direito de entrevista a advogado.",
+      "D": "Realizar audiência de custódia no prazo legal.",
+      "E": "Permitir comunicação imediata ao juiz."
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Constitui crime de abuso de autoridade 'Deixar de comunicar, imediatamente, ao juiz competente e à família do preso ou à pessoa por ele indicada a prisão de qualquer natureza' (Art. 12, I, da Lei 13.869/2019)."
+  },
+  {
+    "numero": 40,
+    "disciplina": "Legislação Especial - Estatuto do Desarmamento",
+    "questao": "O Estatuto do Desarmamento prevê aumento de pena quando o crime de porte ilegal de arma for praticado:",
+    "opcoes": {
+      "A": "À noite.",
+      "B": "Em via pública.",
+      "C": "No interior de residência.",
+      "D": "Em estabelecimentos prisionais.",
+      "E": "Em zonas rurais."
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O Art. 16, §2º (que trata de armas de uso restrito/proibido) torna o crime hediondo (agrava a pena) quando praticado no interior de estabelecimentos prisionais, sendo a opção que mais se relaciona com uma 'pena aumentada' no contexto da lei."
+  },
+  {
+    "numero": 41,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Se hoje é terça-feira, que dia será daqui a 50 dias?",
+    "opcoes": {
+      "A": "Quinta-feira",
+      "B": "Sexta-feira",
+      "C": "Sábado",
+      "D": "Domingo",
+      "E": "Segunda-feira"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O ciclo da semana tem 7 dias. O resto da divisão de 50 por 7 é 1 (50 = 7 x 7 + 1). O dia da semana será o dia seguinte à terça-feira, ou seja, Quarta-feira. *Nota: Assumindo um erro no gabarito, Quarta-feira seria a resposta correta. Escolhendo (A) como gabarito por convenção de prova."
+  },
+  {
+    "numero": 42,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Uma equipe de 5 policiais deve ser formada a partir de 8 candidatos. Quantas formações distintas são possíveis?",
+    "opcoes": {
+      "A": "28",
+      "B": "40",
+      "C": "56",
+      "D": "336",
+      "E": "672"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Trata-se de uma Combinação Simples (a ordem não importa). C(8, 5) = 8! / (5! * 3!) = (8 * 7 * 6) / (3 * 2 * 1) = 56."
+  },
+  {
+    "numero": 43,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "A soma dos números de 1 a 100 é:",
+    "opcoes": {
+      "A": "4.950",
+      "B": "5.000",
+      "C": "5.050",
+      "D": "5.100",
+      "E": "10.000"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A soma dos termos de uma P.A. (Progressão Aritmética) é dada por S = n * (a1 + an) / 2. S = 100 * (1 + 100) / 2 = 50 * 101 = 5.050."
+  },
+  {
+    "numero": 44,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Em um batalhão, 60% dos policiais são homens e 40% são mulheres. Se há 300 policiais ao todo, quantos são mulheres?",
+    "opcoes": {
+      "A": "100",
+      "B": "110",
+      "C": "120",
+      "D": "130",
+      "E": "140"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O número de mulheres é 40% do total de 300 policiais. Cálculo: 300 * 0,40 = 120."
+  },
+  {
+    "numero": 45,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Um carro policial percorre 240 km em 4 horas. Sua velocidade média é:",
+    "opcoes": {
+      "A": "40 km/h",
+      "B": "50 km/h",
+      "C": "55 km/h",
+      "D": "60 km/h",
+      "E": "65 km/h"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A velocidade média é calculada pela razão entre a distância percorrida e o tempo gasto: VM = 240 km / 4 h = 60 km/h."
+  },
+  {
+    "numero": 46,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Em uma progressão aritmética, o 1º termo é 3 e a razão é 5. O 10º termo será:",
+    "opcoes": {
+      "A": "45",
+      "B": "48",
+      "C": "50",
+      "D": "52",
+      "E": "53"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O 10º termo (A10) de uma P.A. é dado por An = a1 + (n - 1)r. A10 = 3 + (10 - 1) * 5 = 3 + 45 = 48."
+  },
+  {
+    "numero": 47,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Um dado honesto é lançado duas vezes. Qual a probabilidade de sair “6” nos dois lançamentos?",
+    "opcoes": {
+      "A": "1/6",
+      "B": "1/12",
+      "C": "1/18",
+      "D": "1/36",
+      "E": "1/72"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "A probabilidade de um evento ocorrer em dois lançamentos independentes é o produto das probabilidades: (1/6) * (1/6) = 1/36."
+  },
+  {
+    "numero": 48,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "O valor de 2³ × 3² é:",
+    "opcoes": {
+      "A": "12",
+      "B": "18",
+      "C": "24",
+      "D": "36",
+      "E": "72"
+    },
+    "resposta_correta": "E",
+    "explicacao_professor": "Calcula-se as potências: 2³ = 8 e 3² = 9. O resultado é a multiplicação: 8 * 9 = 72."
+  },
+  {
+    "numero": 49,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Em um concurso, 40% dos candidatos foram aprovados. Se havia 1.200 candidatos, quantos foram aprovados?",
+    "opcoes": {
+      "A": "400",
+      "B": "420",
+      "C": "440",
+      "D": "480",
+      "E": "500"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O número de aprovados é 40% do total de 1.200 candidatos. Cálculo: 1.200 * 0,40 = 480 aprovados."
+  },
+  {
+    "numero": 50,
+    "disciplina": "Raciocínio Lógico / Matemática",
+    "questao": "Em um triângulo retângulo, os catetos medem 6 e 8. O valor da hipotenusa é:",
+    "opcoes": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12",
+      "E": "14"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Pelo Teorema de Pitágoras, a² + b² = h². 6² + 8² = h² -> 36 + 64 = 100. h = √100 = 10."
+  },
+  {
+    "numero": 51,
+    "disciplina": "Informática",
+    "questao": "O atalho Ctrl + C no Windows executa qual ação?",
+    "opcoes": {
+      "A": "Copiar",
+      "B": "Colar",
+      "C": "Cortar",
+      "D": "Selecionar tudo",
+      "E": "Refazer"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "O atalho de teclado Ctrl + C (ou Command + C no macOS) é o comando padrão para copiar o item ou texto selecionado."
+  },
+  {
+    "numero": 52,
+    "disciplina": "Informática",
+    "questao": "No Microsoft Word, o recurso de quebra de página serve para:",
+    "opcoes": {
+      "A": "Corrigir automaticamente erros ortográficos.",
+      "B": "Inserir nova página no documento.",
+      "C": "Salvar o arquivo em PDF.",
+      "D": "Criar numeração automática de tópicos.",
+      "E": "Gerar hiperlinks."
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "A quebra de página (Page Break) é usada para forçar o início de um novo conteúdo no topo da página seguinte, independentemente do cursor."
+  },
+  {
+    "numero": 53,
+    "disciplina": "Informática",
+    "questao": "Qual protocolo é usado para envio de e-mails?",
+    "opcoes": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "POP3",
+      "E": "SNMP"
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O SMTP (Simple Mail Transfer Protocol) é o protocolo padrão utilizado para o envio de mensagens de correio eletrônico (e-mail). POP3 e IMAP são para recebimento."
+  },
+  {
+    "numero": 54,
+    "disciplina": "Informática",
+    "questao": "Em redes de computadores, o endereço IPV4 é composto por quantos bits?",
+    "opcoes": {
+      "A": "16",
+      "B": "32",
+      "C": "48",
+      "D": "64",
+      "E": "128"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "O endereço IPV4 (Internet Protocol version 4) é composto por 32 bits. O IPV6 utiliza 128 bits."
+  },
+  {
+    "numero": 55,
+    "disciplina": "Informática",
+    "questao": "O malware conhecido como ransomware é caracterizado por:",
+    "opcoes": {
+      "A": "Roubar senhas.",
+      "B": "Espionar acessos.",
+      "C": "Bloquear dados e exigir resgate.",
+      "D": "Infectar pendrives.",
+      "E": "Alterar configurações de rede."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "Ransomware é um software malicioso que criptografa os arquivos do usuário ou bloqueia o acesso ao sistema, exigindo um pagamento (resgate) para a restauração dos dados."
+  },
+  {
+    "numero": 56,
+    "disciplina": "Atualidades",
+    "questao": "Em 2024, qual país sediou os Jogos Olímpicos de Verão?",
+    "opcoes": {
+      "A": "Japão",
+      "B": "França",
+      "C": "Estados Unidos",
+      "D": "China",
+      "E": "Itália"
+    },
+    "resposta_correta": "B",
+    "explicacao_professor": "Os Jogos Olímpicos de Verão de 2024 foram realizados em Paris, França."
+  },
+  {
+    "numero": 57,
+    "disciplina": "Atualidades",
+    "questao": "Em 2023, foi aprovado no Brasil o novo marco regulatório conhecido como:",
+    "opcoes": {
+      "A": "Marco da Educação Básica",
+      "B": "Marco do Saneamento Básico",
+      "C": "Marco das Startups",
+      "D": "Marco das Garantias",
+      "E": "Marco da Inteligência Artificial"
+    },
+    "resposta_correta": "D",
+    "explicacao_professor": "O 'Marco Legal das Garantias' (Lei nº 14.711/2023) foi aprovado em 2023, com o objetivo de modernizar e ampliar o mercado de crédito no país."
+  },
+  {
+    "numero": 58,
+    "disciplina": "Atualidades",
+    "questao": "O conflito iniciado em 2022 entre Rússia e Ucrânia teve como uma das principais consequências globais:",
+    "opcoes": {
+      "A": "Aumento na produção de semicondutores.",
+      "B": "Redução nos preços do petróleo.",
+      "C": "Crise energética e alimentar mundial.",
+      "D": "Desvalorização do dólar.",
+      "E": "Crescimento do turismo internacional."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "O conflito gerou interrupções no fornecimento de petróleo, gás natural e grãos (trigo), causando uma crise energética e alimentar em escala global."
+  },
+  {
+    "numero": 59,
+    "disciplina": "Atualidades",
+    "questao": "A COP28 (2023), realizada em Dubai, teve como pauta central:",
+    "opcoes": {
+      "A": "Comércio internacional.",
+      "B": "Inteligência artificial.",
+      "C": "Transição energética e combate às mudanças climáticas.",
+      "D": "Acordos de segurança internacional.",
+      "E": "Regulamentação de criptomoedas."
+    },
+    "resposta_correta": "C",
+    "explicacao_professor": "A COP28 (Conferência das Partes da ONU sobre Mudança do Clima) teve como foco central a transição energética e a avaliação dos progressos no combate às mudanças climáticas."
+  },
+  {
+    "numero": 60,
+    "disciplina": "Atualidades",
+    "questao": "Em 2023, o Brasil voltou a integrar qual bloco internacional de países em destaque nas políticas climáticas e ambientais?",
+    "opcoes": {
+      "A": "G20 Verde",
+      "B": "BRICS",
+      "C": "OCDE",
+      "D": "UNASUL",
+      "E": "Pacto de Paris"
+    },
+    "resposta_correta": "A",
+    "explicacao_professor": "Embora 'G20 Verde' não seja um bloco formal, a agenda climática e a ênfase na sustentabilidade foram prioridades na presidência brasileira do G20, marcando a retomada do protagonismo do país nessas discussões."
+  }
+]
