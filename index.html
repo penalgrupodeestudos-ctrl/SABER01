@@ -95,6 +95,29 @@
             border-left-color: var(--secondary-color);
         }
 
+        /* Botão Desempenho na Sidebar (NOVO ESTILO) */
+        .btn-sidebar-report {
+            padding: 12px 15px;
+            background-color: var(--success-color); /* Verde para destaque */
+            color: var(--text-light);
+            font-weight: bold;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            transition: background-color 0.2s;
+            display: none; /* Escondido por padrão, aparece ao carregar o simulado */
+            width: 100%;
+            text-align: center;
+            font-size: 1rem;
+        }
+
+        .btn-sidebar-report:hover {
+            background-color: #1e7e34;
+        }
+
+
         /* CONTEÚDO PRINCIPAL */
         #main-content {
             flex-grow: 1;
@@ -251,7 +274,7 @@
             opacity: 0.9;
         }
         
-        /* BOTAO CORRIGIR TUDO (Relatório Final) */
+        /* BOTAO CORRIGIR TUDO (Relatório Final no Header - Mantido) */
         .btn-check-all {
             padding: 12px 25px;
             background-color: var(--secondary-color);
@@ -338,6 +361,11 @@
     <aside id="sidebar">
         <h2>Simulados</h2>
         <p>Selecione um simulado para iniciar:</p>
+
+        <button class="btn-sidebar-report" id="btn-sidebar-report" onclick="showPerformanceReport(true)">
+            📈 Desempenho do Aluno
+        </button>
+
         <ul id="simulado-list">
             <li>Carregando simulados...</li>
         </ul>
@@ -446,7 +474,6 @@
 
         /**
          * Implementa a interatividade em tempo real: corrige a questão no clique
-         * FUNCIONALIDADE CHAVE MANTIDA E REFORÇADA
          */
         function checkAnswer(index, selectedValue) {
             if (!currentQuizData || index >= currentQuizData.length) return;
@@ -512,14 +539,13 @@
 
         /**
          * Gera e exibe o relatório de desempenho e as áreas de melhoria.
-         * PONTO CHAVE REVISADO: Inclusão da informação sobre a pontuação de 1 ponto por questão.
          */
         function showPerformanceReport(autoScroll = false) {
             const container = document.getElementById('quiz-container');
             let reportElement = document.getElementById('performance-report');
             
             if (!currentQuizData || currentQuizData.length === 0) {
-                alert("Nenhum simulado carregado.");
+                alert("Nenhum simulado carregado. Selecione um na barra lateral.");
                 return;
             }
 
@@ -592,6 +618,7 @@
 
             container.appendChild(reportElement);
             
+            // Rola a tela
             if (autoScroll) {
                 reportElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
@@ -678,7 +705,9 @@
         async function loadAndRenderQuiz(filename) {
             const container = document.getElementById('quiz-container');
             const statusElement = document.getElementById('quiz-status');
-            const reportButton = document.getElementById('btn-report');
+            const reportButtonHeader = document.getElementById('btn-report');
+            const reportButtonSidebar = document.getElementById('btn-sidebar-report'); // Novo botão
+
             
             // RESETAR ESTADOS
             currentSimuladoName = filename.replace(/\.json$/i, ''); 
@@ -689,7 +718,8 @@
                 errors: 0,
                 disciplineBreakdown: {}
             };
-            reportButton.style.display = 'none'; 
+            reportButtonHeader.style.display = 'none'; 
+            reportButtonSidebar.style.display = 'block'; // Mostra o botão da sidebar ao carregar o simulado
 
             statusElement.textContent = `Carregando: ${currentSimuladoName}`;
             container.innerHTML = `<p>Aguarde, carregando dados de ${currentSimuladoName}...</p>`;
@@ -741,6 +771,7 @@
                 console.error("Erro ao carregar o quiz:", error);
                 statusElement.textContent = `Falha ao carregar o simulado: ${error.message}`;
                 container.innerHTML = `<p style="color:var(--danger-color); font-weight:bold;">ERRO: ${error.message}</p>`;
+                reportButtonSidebar.style.display = 'none'; // Esconde o botão se der erro
             }
         }
 
