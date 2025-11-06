@@ -1,7 +1,7 @@
 [
   {
     "numero": 1,
-    "pergunta": "A taxação de super-ricos tem sido tema de debate internacional em 2025. Segundo propostas discutidas em fóruns econômicos globais, qual seria o principal objetivo dessa medida?",
+    "questao": "A taxação de super-ricos tem sido tema de debate internacional em 2025. Segundo propostas discutidas em fóruns econômicos globais, qual seria o principal objetivo dessa medida?",
     "opcoes": {
       "A": "Aumentar a arrecadação para investimentos em infraestrutura e redução da desigualdade.",
       "B": "Eliminar completamente a propriedade privada.",
@@ -20,7 +20,7 @@
   },
   {
     "numero": 2,
-    "pergunta": "A Reforma Tributária sobre o consumo, promulgada por meio da Emenda Constitucional 132 em dezembro de 2023, entrou em uma nova fase em 2025: a de regulamentação. Qual foi o primeiro ato normativo sancionado resultante desse processo?",
+    "questao": "A Reforma Tributária sobre o consumo, promulgada por meio da Emenda Constitucional 132 em dezembro de 2023, entrou em uma nova fase em 2025: a de regulamentação. Qual foi o primeiro ato normativo sancionado resultante desse processo?",
     "opcoes": {
       "A": "Uma Medida Provisória que estabeleceu as alíquotas do novo Imposto sobre Valor Agregado (IVA).",
       "B": "Um Decreto Presidencial que detalhou o funcionamento do Imposto Seletivo.",
