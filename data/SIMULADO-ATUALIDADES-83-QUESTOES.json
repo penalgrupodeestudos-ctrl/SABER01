@@ -1,4 +1,3 @@
- 
 {
   "questions": [
     {
@@ -547,8 +546,6 @@
       "correct_answer": "C",
       "comment": "Serviços financeiros digitais e comércio eletrônico têm impulsionado a economia digital brasileira."
     },
-{
-  "questions": 
     {
       "number": "43",
       "question": "O Espírito Santo possui importantes unidades de conservação. Qual das seguintes é uma unidade de conservação federal localizada no estado?",
@@ -562,525 +559,523 @@
       "correct_answer": "B",
       "comment": "O Parque Nacional do Caparaó é uma unidade de conservação federal que abrange territórios do Espírito Santo e Minas Gerais."
     },
-    {
-      "number": "44",
-      "question": "A questão da mobilidade urbana tem sido um desafio nas grandes cidades brasileiras. Qual modal de transporte público tem recebido mais investimentos recentemente?",
-      "options": {
-        "A": "Ônibus a diesel",
-        "B": "Sistemas de transporte sobre trilhos (metrô, VLT, BRT)",
-        "C": "Transporte fluvial",
-        "D": "Transporte aéreo urbano",
-        "E": "Bicicletas particulares"
-      },
-      "correct_answer": "B",
-      "comment": "Sistemas como metrô, VLT (Veículo Leve sobre Trilhos) e BRT (Bus Rapid Transit) têm recebido investimentos significativos nas principais cidades brasileiras."
+  {
+    "number": "44",
+    "question": "A questão da mobilidade urbana tem sido um desafio nas grandes cidades brasileiras. Qual modal de transporte público tem recebido mais investimentos recentemente?",
+    "options": {
+      "A": "Ônibus a diesel",
+      "B": "Sistemas de transporte sobre trilhos (metrô, VLT, BRT)",
+      "C": "Transporte fluvial",
+      "D": "Transporte aéreo urbano",
+      "E": "Bicicletas particulares"
     },
-    {
-      "number": "45",
-      "question": "A cultura capixaba inclui uma culinária típica. Qual dos seguintes pratos é considerado tradicional da gastronomia do Espírito Santo?",
-      "options": {
-        "A": "Feijoada",
-        "B": "Moqueca capixaba",
-        "C": "Acarajé",
-        "D": "Pato no tucumã",
-        "E": "Barreado"
-      },
-      "correct_answer": "B",
-      "comment": "A moqueca capixaba é um dos pratos mais tradicionais da culinária do Espírito Santo, preparada tradicionalmente em panela de barro com urucum."
+    "correct_answer": "B",
+    "comment": "Sistemas como metrô, VLT (Veículo Leve sobre Trilhos) e BRT (Bus Rapid Transit) têm recebido investimentos significativos nas principais cidades brasileiras."
+  },
+  {
+    "number": "45",
+    "question": "A cultura capixaba inclui uma culinária típica. Qual dos seguintes pratos é considerado tradicional da gastronomia do Espírito Santo?",
+    "options": {
+      "A": "Feijoada",
+      "B": "Moqueca capixaba",
+      "C": "Acarajé",
+      "D": "Pato no tucumã",
+      "E": "Barreado"
     },
-    {
-      "number": "46",
-      "question": "A inteligência artificial tem ganhado destaque no debate público brasileiro. Qual das seguintes áreas tem sido mais impactada por essa tecnologia?",
-      "options": {
-        "A": "Agricultura de subsistência",
-        "B": "Serviços financeiros e atendimento ao cliente",
-        "C": "Pesca artesanal",
-        "D": "Artesanato tradicional",
-        "E": "Criação de gado extensiva"
-      },
-      "correct_answer": "B",
-      "comment": "Os serviços financeiros e o atendimento ao cliente têm sido as áreas mais impactadas pela inteligência artificial no Brasil."
+    "correct_answer": "B",
+    "comment": "A moqueca capixaba é um dos pratos mais tradicionais da culinária do Espírito Santo, preparada tradicionalmente em panela de barro com urucum."
+  },
+  {
+    "number": "46",
+    "question": "A inteligência artificial tem ganhado destaque no debate público brasileiro. Qual das seguintes áreas tem sido mais impactada por essa tecnologia?",
+    "options": {
+      "A": "Agricultura de subsistência",
+      "B": "Serviços financeiros e atendimento ao cliente",
+      "C": "Pesca artesanal",
+      "D": "Artesanato tradicional",
+      "E": "Criação de gado extensiva"
     },
-    {
-      "number": "47",
-      "question": "O Espírito Santo tem uma posição estratégica no cenário logístico nacional. Além do Porto de Vitória, qual outro importante complexo portuário está localizado no estado?",
-      "options": {
-        "A": "Porto de Santos",
-        "B": "Porto de Tubarão",
-        "C": "Porto de Itaguaí",
-        "D": "Porto de Suape",
-        "E": "Porto de Itajaí"
-      },
-      "correct_answer": "B",
-      "comment": "O Porto de Tubarão, localizado em Vitória, é outro importante complexo portuário do Espírito Santo, especializado na exportação de minério de ferro."
+    "correct_answer": "B",
+    "comment": "Os serviços financeiros e o atendimento ao cliente têm sido as áreas mais impactadas pela inteligência artificial no Brasil."
+  },
+  {
+    "number": "47",
+    "question": "O Espírito Santo tem uma posição estratégica no cenário logístico nacional. Além do Porto de Vitória, qual outro importante complexo portuário está localizado no estado?",
+    "options": {
+      "A": "Porto de Santos",
+      "B": "Porto de Tubarão",
+      "C": "Porto de Itaguaí",
+      "D": "Porto de Suape",
+      "E": "Porto de Itajaí"
     },
-    {
-      "number": "48",
-      "question": "A questão da segurança alimentar no Brasil tem múltiplas dimensões. Qual programa governamental tem sido central no combate à fome?",
-      "options": {
-        "A": "Programa Nacional de Alimentação Escolar (PNAE)",
-        "B": "Auxílio Brasil/Bolsa Família",
-        "C": "Programa de Aquisição de Alimentos (PAA)",
-        "D": "Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF)",
-        "E": "Todos os programas mencionados contribuem para a segurança alimentar"
-      },
-      "correct_answer": "E",
-      "comment": "Todos os programas mencionados contribuem de forma integrada para a segurança alimentar."
+    "correct_answer": "B",
+    "comment": "O Porto de Tubarão, localizado em Vitória, é outro importante complexo portuário do Espírito Santo, especializado na exportação de minério de ferro."
+  },
+  {
+    "number": "48",
+    "question": "A questão da segurança alimentar no Brasil tem múltiplas dimensões. Qual programa governamental tem sido central no combate à fome?",
+    "options": {
+      "A": "Programa Nacional de Alimentação Escolar (PNAE)",
+      "B": "Auxílio Brasil/Bolsa Família",
+      "C": "Programa de Aquisição de Alimentos (PAA)",
+      "D": "Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF)",
+      "E": "Todos os programas mencionados contribuem para a segurança alimentar"
     },
-    {
-      "number": "49",
-      "question": "A região metropolitana do Espírito Santo enfrenta desafios ambientais. Qual é um dos principais problemas ambientais da Grande Vitória?",
-      "options": {
-        "A": "Desertificação",
-        "B": "Poluição do ar e dos recursos hídricos devido à atividade industrial",
-        "C": "Terremotos frequentes",
-        "D": "Vulcanismo ativo",
-        "E": "Ciclones tropicais constantes"
-      },
-      "correct_answer": "B",
-      "comment": "A região metropolitana da Grande Vitória enfrenta problemas de poluição do ar e dos recursos hídricos devido à concentração de atividades industriais."
+    "correct_answer": "E",
+    "comment": "Todos os programas mencionados contribuem de forma integrada para a segurança alimentar."
+  },
+  {
+    "number": "49",
+    "question": "A região metropolitana do Espírito Santo enfrenta desafios ambientais. Qual é um dos principais problemas ambientais da Grande Vitória?",
+    "options": {
+      "A": "Desertificação",
+      "B": "Poluição do ar e dos recursos hídricos devido à atividade industrial",
+      "C": "Terremotos frequentes",
+      "D": "Vulcanismo ativo",
+      "E": "Ciclones tropicais constantes"
     },
-    {
-      "number": "50",
-      "question": "O mercado de trabalho brasileiro tem passado por transformações estruturais. Qual tendência tem se consolidado no pós-pandemia?",
-      "options": {
-        "A": "Retorno total ao modelo de trabalho industrial do século XX",
-        "B": "Crescimento do empreendedorismo e da economia de plataformas (gig economy)",
-        "C": "Eliminação completa do trabalho formal",
-        "D": "Concentração de todos os empregos no setor agrícola",
-        "E": "Redução da jornada de trabalho para 4 horas diárias"
-      },
-      "correct_answer": "B",
-      "comment": "O empreendedorismo e a economia de plataformas têm crescido significativamente no Brasil pós-pandemia."
+    "correct_answer": "B",
+    "comment": "A região metropolitana da Grande Vitória enfrenta problemas de poluição do ar e dos recursos hídricos devido à concentração de atividades industriais."
+  },
+  {
+    "number": "50",
+    "question": "O mercado de trabalho brasileiro tem passado por transformações estruturais. Qual tendência tem se consolidado no pós-pandemia?",
+    "options": {
+      "A": "Retorno total ao modelo de trabalho industrial do século XX",
+      "B": "Crescimento do empreendedorismo e da economia de plataformas (gig economy)",
+      "C": "Eliminação completa do trabalho formal",
+      "D": "Concentração de todos os empregos no setor agrícola",
+      "E": "Redução da jornada de trabalho para 4 horas diárias"
     },
-    {
-      "number": "51",
-      "question": "O Espírito Santo possui características geológicas que favorecem determinadas atividades econômicas. Qual característica geológica é mais relevante para a economia do estado?",
-      "options": {
-        "A": "Presença de petróleo e gás natural na plataforma continental",
-        "B": "Grandes reservas de carvão mineral",
-        "C": "Depósitos significativos de ouro",
-        "D": "Reservas de urânio",
-        "E": "Presença de diamantes"
-      },
-      "correct_answer": "A",
-      "comment": "A presença de petróleo e gás natural na plataforma continental do Espírito Santo é a característica geológica mais relevante para a economia estadual."
+    "correct_answer": "B",
+    "comment": "O empreendedorismo e a economia de plataformas têm crescido significativamente no Brasil pós-pandemia."
+  },
+  {
+    "number": "51",
+    "question": "O Espírito Santo possui características geológicas que favorecem determinadas atividades econômicas. Qual característica geológica é mais relevante para a economia do estado?",
+    "options": {
+      "A": "Presença de petróleo e gás natural na plataforma continental",
+      "B": "Grandes reservas de carvão mineral",
+      "C": "Depósitos significativos de ouro",
+      "D": "Reservas de urânio",
+      "E": "Presença de diamantes"
     },
-    {
-      "number": "52",
-      "question": "A educação superior no Brasil tem passado por expansão e democratização. Qual modalidade de ensino superior tem apresentado maior crescimento?",
-      "options": {
-        "A": "Ensino presencial exclusivamente",
-        "B": "Ensino a distância (EaD)",
-        "C": "Cursos técnicos de nível médio",
-        "D": "Pós-graduação stricto sensu",
-        "E": "Cursos livres"
-      },
-      "correct_answer": "B",
-      "comment": "O ensino a distância tem apresentado o maior crescimento no ensino superior brasileiro."
+    "correct_answer": "A",
+    "comment": "A presença de petróleo e gás natural na plataforma continental do Espírito Santo é a característica geológica mais relevante para a economia estadual."
+  },
+  {
+    "number": "52",
+    "question": "A educação superior no Brasil tem passado por expansão e democratização. Qual modalidade de ensino superior tem apresentado maior crescimento?",
+    "options": {
+      "A": "Ensino presencial exclusivamente",
+      "B": "Ensino a distância (EaD)",
+      "C": "Cursos técnicos de nível médio",
+      "D": "Pós-graduação stricto sensu",
+      "E": "Cursos livres"
     },
-    {
-      "number": "53",
-      "question": "A cultura italiana tem forte presença no Espírito Santo devido à imigração histórica. Em qual região do estado essa influência é mais marcante?",
-      "options": {
-        "A": "Norte do estado",
-        "B": "Região metropolitana de Vitória",
-        "C": "Região serrana (montanhosa)",
-        "D": "Sul do estado",
-        "E": "Região litorânea"
-      },
-      "correct_answer": "C",
-      "comment": "A região serrana é a principal área de influência da imigração italiana no Espírito Santo."
+    "correct_answer": "B",
+    "comment": "O ensino a distância tem apresentado o maior crescimento no ensino superior brasileiro."
+  },
+  {
+    "number": "53",
+    "question": "A cultura italiana tem forte presença no Espírito Santo devido à imigração histórica. Em qual região do estado essa influência é mais marcante?",
+    "options": {
+      "A": "Norte do estado",
+      "B": "Região metropolitana de Vitória",
+      "C": "Região serrana (montanhosa)",
+      "D": "Sul do estado",
+      "E": "Região litorânea"
     },
-    {
-      "number": "54",
-      "question": "O sistema previdenciário brasileiro passou por reformas recentes. Qual foi uma das principais mudanças implementadas?",
-      "options": {
-        "A": "Eliminação completa da aposentadoria por idade",
-        "B": "Estabelecimento de idade mínima para aposentadoria",
-        "C": "Redução do tempo de contribuição para 10 anos",
-        "D": "Criação de aposentadoria especial para todos os trabalhadores",
-        "E": "Eliminação da contribuição previdenciária"
-      },
-      "correct_answer": "B",
-      "comment": "A reforma previdenciária estabeleceu idade mínima para aposentadoria."
+    "correct_answer": "C",
+    "comment": "A região serrana é a principal área de influência da imigração italiana no Espírito Santo."
+  },
+  {
+    "number": "54",
+    "question": "O sistema previdenciário brasileiro passou por reformas recentes. Qual foi uma das principais mudanças implementadas?",
+    "options": {
+      "A": "Eliminação completa da aposentadoria por idade",
+      "B": "Estabelecimento de idade mínima para aposentadoria",
+      "C": "Redução do tempo de contribuição para 10 anos",
+      "D": "Criação de aposentadoria especial para todos os trabalhadores",
+      "E": "Eliminação da contribuição previdenciária"
     },
-    {
-      "number": "55",
-      "question": "O Espírito Santo tem tradição na produção de café. Qual região do estado concentra a maior produção cafeeira?",
-      "options": {
-        "A": "Região litorânea",
-        "B": "Região metropolitana",
-        "C": "Região serrana e noroeste",
-        "D": "Região sul",
-        "E": "Região central"
-      },
-      "correct_answer": "C",
-      "comment": "A região serrana e noroeste concentra a maior produção de café."
+    "correct_answer": "B",
+    "comment": "A reforma previdenciária estabeleceu idade mínima para aposentadoria."
+  },
+  {
+    "number": "55",
+    "question": "O Espírito Santo tem tradição na produção de café. Qual região do estado concentra a maior produção cafeeira?",
+    "options": {
+      "A": "Região litorânea",
+      "B": "Região metropolitana",
+      "C": "Região serrana e noroeste",
+      "D": "Região sul",
+      "E": "Região central"
     },
-    {
-      "number": "56",
-      "question": "A questão da conectividade digital no Brasil tem evoluído. Qual tecnologia de internet móvel tem sido mais expandida recentemente?",
-      "options": {
-        "A": "2G",
-        "B": "3G",
-        "C": "4G",
-        "D": "5G",
-        "E": "Internet discada"
-      },
-      "correct_answer": "D",
-      "comment": "A tecnologia 5G tem sido a mais expandida recentemente no Brasil."
+    "correct_answer": "C",
+    "comment": "A região serrana e noroeste concentra a maior produção de café."
+  },
+  {
+    "number": "56",
+    "question": "A questão da conectividade digital no Brasil tem evoluído. Qual tecnologia de internet móvel tem sido mais expandida recentemente?",
+    "options": {
+      "A": "2G",
+      "B": "3G",
+      "C": "4G",
+      "D": "5G",
+      "E": "Internet discada"
     },
-    {
-      "number": "57",
-      "question": "A matriz energética do Espírito Santo tem características específicas. Qual fonte de energia tem maior participação na geração elétrica do estado?",
-      "options": {
-        "A": "Hidrelétrica",
-        "B": "Termelétrica a gás natural",
-        "C": "Eólica",
-        "D": "Solar",
-        "E": "Nuclear"
-      },
-      "correct_answer": "B",
-      "comment": "Termelétricas a gás natural têm grande participação na matriz elétrica capixaba."
+    "correct_answer": "D",
+    "comment": "A tecnologia 5G tem sido a mais expandida recentemente no Brasil."
+  },
+  {
+    "number": "57",
+    "question": "A matriz energética do Espírito Santo tem características específicas. Qual fonte de energia tem maior participação na geração elétrica do estado?",
+    "options": {
+      "A": "Hidrelétrica",
+      "B": "Termelétrica a gás natural",
+      "C": "Eólica",
+      "D": "Solar",
+      "E": "Nuclear"
     },
-    {
-      "number": "58",
-      "question": "O envelhecimento populacional no Brasil tem implicações sociais e econômicas. Qual das seguintes é uma consequência direta desse processo?",
-      "options": {
-        "A": "Redução da demanda por serviços de saúde",
-        "B": "Aumento da pressão sobre o sistema previdenciário",
-        "C": "Diminuição da expectativa de vida",
-        "D": "Crescimento acelerado da população jovem",
-        "E": "Redução dos gastos públicos com idosos"
-      },
-      "correct_answer": "B",
-      "comment": "O envelhecimento da população aumenta a pressão sobre o sistema previdenciário."
+    "correct_answer": "B",
+    "comment": "Termelétricas a gás natural têm grande participação na matriz elétrica capixaba."
+  },
+  {
+    "number": "58",
+    "question": "O envelhecimento populacional no Brasil tem implicações sociais e econômicas. Qual das seguintes é uma consequência direta desse processo?",
+    "options": {
+      "A": "Redução da demanda por serviços de saúde",
+      "B": "Aumento da pressão sobre o sistema previdenciário",
+      "C": "Diminuição da expectativa de vida",
+      "D": "Crescimento acelerado da população jovem",
+      "E": "Redução dos gastos públicos com idosos"
     },
-    {
-      "number": "59",
-      "question": "A pesca é uma atividade tradicional no Espírito Santo. Qual é o principal tipo de pesca praticado no litoral capixaba?",
-      "options": {
-        "A": "Pesca de água doce",
-        "B": "Pesca oceânica industrial",
-        "C": "Pesca artesanal costeira",
-        "D": "Aquicultura em tanques",
-        "E": "Pesca em alto-mar exclusivamente"
-      },
-      "correct_answer": "C",
-      "comment": "A pesca artesanal costeira é o principal tipo praticado no litoral do estado."
+    "correct_answer": "B",
+    "comment": "O envelhecimento da população aumenta a pressão sobre o sistema previdenciário."
+  },
+  {
+    "number": "59",
+    "question": "A pesca é uma atividade tradicional no Espírito Santo. Qual é o principal tipo de pesca praticado no litoral capixaba?",
+    "options": {
+      "A": "Pesca de água doce",
+      "B": "Pesca oceânica industrial",
+      "C": "Pesca artesanal costeira",
+      "D": "Aquicultura em tanques",
+      "E": "Pesca em alto-mar exclusivamente"
     },
-    {
-      "number": "60",
-      "question": "A inovação tecnológica no setor público brasileiro tem avançado. Qual iniciativa tem se destacado na modernização dos serviços?",
-      "options": {
-        "A": "Retorno ao atendimento exclusivamente presencial",
-        "B": "Implementação de governo eletrônico e serviços digitais",
-        "C": "Eliminação de todos os sistemas informatizados",
-        "D": "Uso exclusivo de documentos físicos",
-        "E": "Proibição do uso de internet nos órgãos públicos"
-      },
-      "correct_answer": "B",
-      "comment": "A implementação de governo eletrônico e serviços digitais tem sido a principal iniciativa."
+    "correct_answer": "C",
+    "comment": "A pesca artesanal costeira é o principal tipo praticado no litoral do estado."
+  },
+  {
+    "number": "60",
+    "question": "A inovação tecnológica no setor público brasileiro tem avançado. Qual iniciativa tem se destacado na modernização dos serviços?",
+    "options": {
+      "A": "Retorno ao atendimento exclusivamente presencial",
+      "B": "Implementação de governo eletrônico e serviços digitais",
+      "C": "Eliminação de todos os sistemas informatizados",
+      "D": "Uso exclusivo de documentos físicos",
+      "E": "Proibição do uso de internet nos órgãos públicos"
     },
-    {
-      "number": "61",
-      "question": "O turismo rural tem crescido no Espírito Santo. Qual atividade turística rural é mais característica do estado?",
-      "options": {
-        "A": "Turismo de aventura em cavernas",
-        "B": "Agroturismo em propriedades cafeeiras e de montanha",
-        "C": "Turismo paleontológico",
-        "D": "Turismo de pesca esportiva em rios",
-        "E": "Turismo astronômico"
-      },
-      "correct_answer": "B",
-      "comment": "O agroturismo em propriedades cafeeiras e de montanha é característico."
+    "correct_answer": "B",
+    "comment": "A implementação de governo eletrônico e serviços digitais tem sido a principal iniciativa."
+  },
+  {
+    "number": "61",
+    "question": "O turismo rural tem crescido no Espírito Santo. Qual atividade turística rural é mais característica do estado?",
+    "options": {
+      "A": "Turismo de aventura em cavernas",
+      "B": "Agroturismo em propriedades cafeeiras e de montanha",
+      "C": "Turismo paleontológico",
+      "D": "Turismo de pesca esportiva em rios",
+      "E": "Turismo astronômico"
     },
-    {
-      "number": "62",
-      "question": "A questão da violência doméstica no Brasil tem recebido atenção especial. Qual lei brasileira é específica para o combate à violência contra a mulher?",
-      "options": {
-        "A": "Lei de Crimes Hediondos",
-        "B": "Lei Maria da Penha",
-        "C": "Lei de Execução Penal",
-        "D": "Código de Defesa do Consumidor",
-        "E": "Lei de Responsabilidade Fiscal"
-      },
-      "correct_answer": "B",
-      "comment": "A Lei Maria da Penha (Lei 11.340/2006) é a legislação específica para combater a violência doméstica."
+    "correct_answer": "B",
+    "comment": "O agroturismo em propriedades cafeeiras e de montanha é característico."
+  },
+  {
+    "number": "62",
+    "question": "A questão da violência doméstica no Brasil tem recebido atenção especial. Qual lei brasileira é específica para o combate à violência contra a mulher?",
+    "options": {
+      "A": "Lei de Crimes Hediondos",
+      "B": "Lei Maria da Penha",
+      "C": "Lei de Execução Penal",
+      "D": "Código de Defesa do Consumidor",
+      "E": "Lei de Responsabilidade Fiscal"
     },
-    {
-      "number": "63",
-      "question": "A economia criativa tem ganhado espaço no Brasil. Qual setor tem se destacado nessa área?",
-      "options": {
-        "A": "Mineração",
-        "B": "Siderurgia",
-        "C": "Audiovisual e entretenimento digital",
-        "D": "Petroquímica",
-        "E": "Construção pesada"
-      },
-      "correct_answer": "C",
-      "comment": "O setor audiovisual e de entretenimento digital tem se destacado na economia criativa brasileira."
+    "correct_answer": "B",
+    "comment": "A Lei Maria da Penha (Lei 11.340/2006) é a legislação específica para combater a violência doméstica."
+  },
+  {
+    "number": "63",
+    "question": "A economia criativa tem ganhado espaço no Brasil. Qual setor tem se destacado nessa área?",
+    "options": {
+      "A": "Mineração",
+      "B": "Siderurgia",
+      "C": "Audiovisual e entretenimento digital",
+      "D": "Petroquímica",
+      "E": "Construção pesada"
     },
-    {
-      "number": "64",
-      "question": "O Espírito Santo possui diversidade étnica em sua formação populacional. Além dos portugueses, quais grupos étnicos tiveram maior influência na formação da população capixaba?",
-      "options": {
-        "A": "Alemães e japoneses",
-        "B": "Italianos e africanos",
-        "C": "Franceses e árabes",
-        "D": "Holandeses e chineses",
-        "E": "Espanhóis e coreanos"
-      },
-      "correct_answer": "B",
-      "comment": "Italianos e africanos tiveram maior influência na formação da população capixaba."
+    "correct_answer": "C",
+    "comment": "O setor audiovisual e de entretenimento digital tem se destacado na economia criativa brasileira."
+  },
+  {
+    "number": "64",
+    "question": "O Espírito Santo possui diversidade étnica em sua formação populacional. Além dos portugueses, quais grupos étnicos tiveram maior influência na formação da população capixaba?",
+    "options": {
+      "A": "Alemães e japoneses",
+      "B": "Italianos e africanos",
+      "C": "Franceses e árabes",
+      "D": "Holandeses e chineses",
+      "E": "Espanhóis e coreanos"
     },
-    {
-      "number": "65",
-      "question": "A agricultura familiar no Brasil tem importância social e econômica. Qual programa governamental é específico para apoiar esse setor?",
-      "options": {
-        "A": "Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF)",
-        "B": "Programa de Modernização da Agricultura",
-        "C": "Programa Nacional de Irrigação",
-        "D": "Programa de Desenvolvimento do Agronegócio",
-        "E": "Programa de Mecanização Agrícola"
-      },
-      "correct_answer": "A",
-      "comment": "O PRONAF é o principal programa governamental brasileiro para apoiar a agricultura familiar."
+    "correct_answer": "B",
+    "comment": "Italianos e africanos tiveram maior influência na formação da população capixaba."
+  },
+  {
+    "number": "65",
+    "question": "A agricultura familiar no Brasil tem importância social e econômica. Qual programa governamental é específico para apoiar esse setor?",
+    "options": {
+      "A": "Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF)",
+      "B": "Programa de Modernização da Agricultura",
+      "C": "Programa Nacional de Irrigação",
+      "D": "Programa de Desenvolvimento do Agronegócio",
+      "E": "Programa de Mecanização Agrícola"
     },
-    {
-      "number": "66",
-      "question": "O sistema de transporte público na Grande Vitória inclui diferentes modais. Qual modal foi implementado mais recentemente na região?",
-      "options": {
-        "A": "Ônibus urbano",
-        "B": "Táxi",
-        "C": "VLT (Veículo Leve sobre Trilhos)",
-        "D": "Transporte fluvial",
-        "E": "Metrô subterrâneo"
-      },
-      "correct_answer": "C",
-      "comment": "O VLT foi o modal de transporte coletivo implementado mais recentemente na Grande Vitória."
+    "correct_answer": "A",
+    "comment": "O PRONAF é o principal programa governamental brasileiro para apoiar a agricultura familiar."
+  },
+  {
+    "number": "66",
+    "question": "O sistema de transporte público na Grande Vitória inclui diferentes modais. Qual modal foi implementado mais recentemente na região?",
+    "options": {
+      "A": "Ônibus urbano",
+      "B": "Táxi",
+      "C": "VLT (Veículo Leve sobre Trilhos)",
+      "D": "Transporte fluvial",
+      "E": "Metrô subterrâneo"
     },
-    {
-      "number": "67",
-      "question": "A questão climática tem influenciado políticas públicas no Brasil. Qual compromisso internacional o país assumiu recentemente?",
-      "options": {
-        "A": "Neutralidade de carbono até 2050",
-        "B": "Eliminação completa da agricultura",
-        "C": "Proibição total de veículos",
-        "D": "Fim da produção industrial",
-        "E": "Eliminação de todas as cidades"
-      },
-      "correct_answer": "A",
-      "comment": "O Brasil assumiu o compromisso de neutralidade de carbono até 2050."
+    "correct_answer": "C",
+    "comment": "O VLT foi o modal de transporte coletivo implementado mais recentemente na Grande Vitória."
+  },
+  {
+    "number": "67",
+    "question": "A questão climática tem influenciado políticas públicas no Brasil. Qual compromisso internacional o país assumiu recentemente?",
+    "options": {
+      "A": "Neutralidade de carbono até 2050",
+      "B": "Eliminação completa da agricultura",
+      "C": "Proibição total de veículos",
+      "D": "Fim da produção industrial",
+      "E": "Eliminação de todas as cidades"
     },
-    {
-      "number": "68",
-      "question": "A indústria de celulose tem importância econômica no Espírito Santo. Qual é a principal matéria-prima utilizada por essa indústria no estado?",
-      "options": {
-        "A": "Bambu",
-        "B": "Eucalipto",
-        "C": "Pinus",
-        "D": "Cana-de-açúcar",
-        "E": "Algodão"
-      },
-      "correct_answer": "B",
-      "comment": "O eucalipto é a principal matéria-prima da indústria de celulose no Espírito Santo."
+    "correct_answer": "A",
+    "comment": "O Brasil assumiu o compromisso de neutralidade de carbono até 2050."
+  },
+  {
+    "number": "68",
+    "question": "A indústria de celulose tem importância econômica no Espírito Santo. Qual é a principal matéria-prima utilizada por essa indústria no estado?",
+    "options": {
+      "A": "Bambu",
+      "B": "Eucalipto",
+      "C": "Pinus",
+      "D": "Cana-de-açúcar",
+      "E": "Algodão"
     },
-    {
-      "number": "69",
-      "question": "A inclusão digital no Brasil tem sido uma prioridade governamental. Qual iniciativa tem sido mais importante nessa área?",
-      "options": {
-        "A": "Proibição do uso de computadores",
-        "B": "Programa Nacional de Banda Larga",
-        "C": "Eliminação da internet",
-        "D": "Restrição ao acesso digital",
-        "E": "Fim dos serviços de telecomunicações"
-      },
-      "correct_answer": "B",
-      "comment": "O Programa Nacional de Banda Larga é uma das principais iniciativas para promover a inclusão digital."
+    "correct_answer": "B",
+    "comment": "O eucalipto é a principal matéria-prima da indústria de celulose no Espírito Santo."
+  },
+  {
+    "number": "69",
+    "question": "A inclusão digital no Brasil tem sido uma prioridade governamental. Qual iniciativa tem sido mais importante nessa área?",
+    "options": {
+      "A": "Proibição do uso de computadores",
+      "B": "Programa Nacional de Banda Larga",
+      "C": "Eliminação da internet",
+      "D": "Restrição ao acesso digital",
+      "E": "Fim dos serviços de telecomunicações"
     },
-    {
-      "number": "70",
-      "question": "A região norte do Espírito Santo tem características econômicas específicas. Qual atividade econômica é mais importante nessa região?",
-      "options": {
-        "A": "Turismo de praia",
-        "B": "Indústria automobilística",
-        "C": "Produção de petróleo e gás natural",
-        "D": "Mineração de ouro",
-        "E": "Produção de energia nuclear"
-      },
-      "correct_answer": "C",
-      "comment": "A região norte é importante na produção de petróleo e gás natural."
+    "correct_answer": "B",
+    "comment": "O Programa Nacional de Banda Larga é uma das principais iniciativas para promover a inclusão digital."
+  },
+  {
+    "number": "70",
+    "question": "A região norte do Espírito Santo tem características econômicas específicas. Qual atividade econômica é mais importante nessa região?",
+    "options": {
+      "A": "Turismo de praia",
+      "B": "Indústria automobilística",
+      "C": "Produção de petróleo e gás natural",
+      "D": "Mineração de ouro",
+      "E": "Produção de energia nuclear"
     },
-    {
-      "number": "71",
-      "question": "O cooperativismo no Brasil tem papel importante na economia. Qual setor tem maior tradição cooperativista no país?",
-      "options": {
-        "A": "Setor financeiro",
-        "B": "Agropecuário",
-        "C": "Industrial",
-        "D": "Serviços urbanos",
-        "E": "Comércio varejista"
-      },
-      "correct_answer": "B",
-      "comment": "O setor agropecuário tem a maior tradição cooperativista no Brasil."
+    "correct_answer": "C",
+    "comment": "A região norte é importante na produção de petróleo e gás natural."
+  },
+  {
+    "number": "71",
+    "question": "O cooperativismo no Brasil tem papel importante na economia. Qual setor tem maior tradição cooperativista no país?",
+    "options": {
+      "A": "Setor financeiro",
+      "B": "Agropecuário",
+      "C": "Industrial",
+      "D": "Serviços urbanos",
+      "E": "Comércio varejista"
     },
-    {
-      "number": "72",
-      "question": "A preservação do patrimônio histórico no Espírito Santo inclui centros urbanos tombados. Qual cidade possui centro histórico tombado pelo patrimônio nacional?",
-      "options": {
-        "A": "Vitória",
-        "B": "Anchieta",
-        "C": "Vila Velha",
-        "D": "Serra",
-        "E": "Cariacica"
-      },
-      "correct_answer": "B",
-      "comment": "Anchieta possui centro histórico tombado pelo patrimônio nacional."
+    "correct_answer": "B",
+    "comment": "O setor agropecuário tem a maior tradição cooperativista no Brasil."
+  },
+  {
+    "number": "72",
+    "question": "A preservação do patrimônio histórico no Espírito Santo inclui centros urbanos tombados. Qual cidade possui centro histórico tombado pelo patrimônio nacional?",
+    "options": {
+      "A": "Vitória",
+      "B": "Anchieta",
+      "C": "Vila Velha",
+      "D": "Serra",
+      "E": "Cariacica"
     },
-    {
-      "number": "73",
-      "question": "A questão da água no Brasil envolve múltiplos desafios. Qual é um dos principais problemas relacionados aos recursos hídricos no país?",
-      "options": {
-        "A": "Excesso de água em todas as regiões",
-        "B": "Distribuição desigual dos recursos hídricos entre as regiões",
-        "C": "Ausência completa de rios",
-        "D": "Falta de tecnologia para tratamento de água",
-        "E": "Proibição do uso de água para agricultura"
-      },
-      "correct_answer": "B",
-      "comment": "A distribuição desigual dos recursos hídricos entre as regiões é um dos principais desafios."
+    "correct_answer": "B",
+    "comment": "Anchieta possui centro histórico tombado pelo patrimônio nacional."
+  },
+  {
+    "number": "73",
+    "question": "A questão da água no Brasil envolve múltiplos desafios. Qual é um dos principais problemas relacionados aos recursos hídricos no país?",
+    "options": {
+      "A": "Excesso de água em todas as regiões",
+      "B": "Distribuição desigual dos recursos hídricos entre as regiões",
+      "C": "Ausência completa de rios",
+      "D": "Falta de tecnologia para tratamento de água",
+      "E": "Proibição do uso de água para agricultura"
     },
-    {
-      "number": "74",
-      "question": "A economia solidária tem crescido no Brasil. Qual das seguintes características define melhor esse modelo econômico?",
-      "options": {
-        "A": "Foco exclusivo no lucro máximo",
-        "B": "Propriedade privada concentrada",
-        "C": "Autogestão, cooperação e solidariedade",
-        "D": "Competição predatória",
-        "E": "Exclusão social"
-      },
-      "correct_answer": "C",
-      "comment": "A economia solidária se caracteriza por autogestão, cooperação e solidariedade."
+    "correct_answer": "B",
+    "comment": "A distribuição desigual dos recursos hídricos entre as regiões é um dos principais desafios."
+  },
+  {
+    "number": "74",
+    "question": "A economia solidária tem crescido no Brasil. Qual das seguintes características define melhor esse modelo econômico?",
+    "options": {
+      "A": "Foco exclusivo no lucro máximo",
+      "B": "Propriedade privada concentrada",
+      "C": "Autogestão, cooperação e solidariedade",
+      "D": "Competição predatória",
+      "E": "Exclusão social"
     },
-    {
-      "number": "75",
-      "question": "O artesanato é uma expressão cultural importante no Espírito Santo. Qual tipo de artesanato é mais característico do estado?",
-      "options": {
-        "A": "Cerâmica marajoara",
-        "B": "Panela de barro capixaba",
-        "C": "Rendas de bilro",
-        "D": "Esculturas em pedra-sabão",
-        "E": "Tapetes de sisal"
-      },
-      "correct_answer": "B",
-      "comment": "A panela de barro capixaba é um dos artesanatos mais característicos do estado."
+    "correct_answer": "C",
+    "comment": "A economia solidária se caracteriza por autogestão, cooperação e solidariedade."
+  },
+  {
+    "number": "75",
+    "question": "O artesanato é uma expressão cultural importante no Espírito Santo. Qual tipo de artesanato é mais característico do estado?",
+    "options": {
+      "A": "Cerâmica marajoara",
+      "B": "Panela de barro capixaba",
+      "C": "Rendas de bilro",
+      "D": "Esculturas em pedra-sabão",
+      "E": "Tapetes de sisal"
     },
-    {
-      "number": "76",
-      "question": "A modernização do Estado brasileiro inclui a transformação digital. Qual área tem sido prioritária nesse processo?",
-      "options": {
-        "A": "Retorno ao papel em todos os processos",
-        "B": "Digitalização de serviços públicos",
-        "C": "Eliminação de todos os sistemas eletrônicos",
-        "D": "Proibição do uso de tecnologia",
-        "E": "Volta aos métodos manuais"
-      },
-      "correct_answer": "B",
-      "comment": "A digitalização de serviços públicos tem sido prioritária na modernização do Estado."
+    "correct_answer": "B",
+    "comment": "A panela de barro capixaba é um dos artesanatos mais característicos do estado."
+  },
+  {
+    "number": "76",
+    "question": "A modernização do Estado brasileiro inclui a transformação digital. Qual área tem sido prioritária nesse processo?",
+    "options": {
+      "A": "Retorno ao papel em todos os processos",
+      "B": "Digitalização de serviços públicos",
+      "C": "Eliminação de todos os sistemas eletrônicos",
+      "D": "Proibição do uso de tecnologia",
+      "E": "Volta aos métodos manuais"
     },
-    {
-      "number": "77",
-      "question": "A questão energética no Espírito Santo inclui fontes renováveis. Qual fonte renovável tem maior potencial de crescimento no estado?",
-      "options": {
-        "A": "Energia das marés",
-        "B": "Energia solar",
-        "C": "Energia geotérmica",
-        "D": "Energia nuclear",
-        "E": "Carvão mineral"
-      },
-      "correct_answer": "B",
-      "comment": "A energia solar tem o maior potencial de crescimento no Espírito Santo."
+    "correct_answer": "B",
+    "comment": "A digitalização de serviços públicos tem sido prioritária na modernização do Estado."
+  },
+  {
+    "number": "77",
+    "question": "A questão energética no Espírito Santo inclui fontes renováveis. Qual fonte renovável tem maior potencial de crescimento no estado?",
+    "options": {
+      "A": "Energia das marés",
+      "B": "Energia solar",
+      "C": "Energia geotérmica",
+      "D": "Energia nuclear",
+      "E": "Carvão mineral"
     },
-    {
-      "number": "78",
-      "question": "A agricultura de precisão tem se desenvolvido no Brasil. Qual tecnologia é mais característica dessa modalidade?",
-      "options": {
-        "A": "Uso de tratores manuais",
-        "B": "GPS e sensores para otimização do plantio",
-        "C": "Plantio sem qualquer tecnologia",
-        "D": "Uso exclusivo de ferramentas antigas",
-        "E": "Eliminação de máquinas agrícolas"
-      },
-      "correct_answer": "B",
-      "comment": "O uso de GPS e sensores é característico da agricultura de precisão."
+    "correct_answer": "B",
+    "comment": "A energia solar tem o maior potencial de crescimento no Espírito Santo."
+  },
+  {
+    "number": "78",
+    "question": "A agricultura de precisão tem se desenvolvido no Brasil. Qual tecnologia é mais característica dessa modalidade?",
+    "options": {
+      "A": "Uso de tratores manuais",
+      "B": "GPS e sensores para otimização do plantio",
+      "C": "Plantio sem qualquer tecnologia",
+      "D": "Uso exclusivo de ferramentas antigas",
+      "E": "Eliminação de máquinas agrícolas"
     },
-    {
-      "number": "79",
-      "question": "O desenvolvimento sustentável no Espírito Santo inclui projetos ambientais. Qual área tem recebido mais atenção?",
-      "options": {
-        "A": "Desmatamento acelerado",
-        "B": "Recuperação de áreas degradadas e conservação da Mata Atlântica",
-        "C": "Eliminação de todas as áreas verdes",
-        "D": "Proibição de projetos ambientais",
-        "E": "Destruição de ecossistemas"
-      },
-      "correct_answer": "B",
-      "comment": "A recuperação de áreas degradadas e conservação da Mata Atlântica têm recebido atenção especial."
+    "correct_answer": "B",
+    "comment": "O uso de GPS e sensores é característico da agricultura de precisão."
+  },
+  {
+    "number": "79",
+    "question": "O desenvolvimento sustentável no Espírito Santo inclui projetos ambientais. Qual área tem recebido mais atenção?",
+    "options": {
+      "A": "Desmatamento acelerado",
+      "B": "Recuperação de áreas degradadas e conservação da Mata Atlântica",
+      "C": "Eliminação de todas as áreas verdes",
+      "D": "Proibição de projetos ambientais",
+      "E": "Destruição de ecossistemas"
     },
-    {
-      "number": "80",
-      "question": "A inovação no setor público brasileiro tem incluído novas formas de participação cidadã. Qual mecanismo tem se destacado?",
-      "options": {
-        "A": "Eliminação da participação popular",
-        "B": "Consultas públicas online e orçamento participativo digital",
-        "C": "Proibição de manifestações",
-        "D": "Restrição ao acesso à informação",
-        "E": "Fim dos canais de comunicação"
-      },
-      "correct_answer": "B",
-      "comment": "Consultas públicas online e orçamento participativo digital têm se destacado."
+    "correct_answer": "B",
+    "comment": "A recuperação de áreas degradadas e conservação da Mata Atlântica têm recebido atenção especial."
+  },
+  {
+    "number": "80",
+    "question": "A inovação no setor público brasileiro tem incluído novas formas de participação cidadã. Qual mecanismo tem se destacado?",
+    "options": {
+      "A": "Eliminação da participação popular",
+      "B": "Consultas públicas online e orçamento participativo digital",
+      "C": "Proibição de manifestações",
+      "D": "Restrição ao acesso à informação",
+      "E": "Fim dos canais de comunicação"
     },
-    {
-      "number": "81",
-      "question": "A indústria naval no Brasil tem tradição em alguns estados. Qual é a situação dessa indústria no Espírito Santo?",
-      "options": {
-        "A": "Não existe indústria naval no estado",
-        "B": "Possui estaleiros e atividades de apoio à exploração de petróleo offshore",
-        "C": "Produz apenas embarcações de recreio",
-        "D": "Foca exclusivamente em navios militares",
-        "E": "Produz apenas barcos de pesca artesanal"
-      },
-      "correct_answer": "B",
-      "comment": "O Espírito Santo possui estaleiros e atividades de apoio à exploração offshore."
+    "correct_answer": "B",
+    "comment": "Consultas públicas online e orçamento participativo digital têm se destacado."
+  },
+  {
+    "number": "81",
+    "question": "A indústria naval no Brasil tem tradição em alguns estados. Qual é a situação dessa indústria no Espírito Santo?",
+    "options": {
+      "A": "Não existe indústria naval no estado",
+      "B": "Possui estaleiros e atividades de apoio à exploração de petróleo offshore",
+      "C": "Produz apenas embarcações de recreio",
+      "D": "Foca exclusivamente em navios militares",
+      "E": "Produz apenas barcos de pesca artesanal"
     },
-    {
-      "number": "82",
-      "question": "A questão da mobilidade sustentável nas cidades brasileiras tem ganhado importância. Qual alternativa tem sido mais promovida?",
-      "options": {
-        "A": "Aumento do número de carros particulares",
-        "B": "Incentivo ao uso de bicicletas e transporte público",
-        "C": "Eliminação de calçadas",
-        "D": "Proibição de pedestres",
-        "E": "Fim do transporte coletivo"
-      },
-      "correct_answer": "B",
-      "comment": "O incentivo ao uso de bicicletas e transporte público tem sido principal estratégia."
+    "correct_answer": "B",
+    "comment": "O Espírito Santo possui estaleiros e atividades de apoio à exploração offshore."
+  },
+  {
+    "number": "82",
+    "question": "A questão da mobilidade sustentável nas cidades brasileiras tem ganhado importância. Qual alternativa tem sido mais promovida?",
+    "options": {
+      "A": "Aumento do número de carros particulares",
+      "B": "Incentivo ao uso de bicicletas e transporte público",
+      "C": "Eliminação de calçadas",
+      "D": "Proibição de pedestres",
+      "E": "Fim do transporte coletivo"
     },
-    {
-      "number": "83",
-      "question": "A formação profissional no Brasil tem se adaptado às mudanças do mercado de trabalho. Qual modalidade de ensino tem crescido para atender essa demanda?",
-      "options": {
-        "A": "Ensino técnico e profissionalizante",
-        "B": "Apenas ensino superior tradicional",
-        "C": "Eliminação de cursos profissionais",
-        "D": "Foco exclusivo em teoria",
-        "E": "Redução da qualificação profissional"
-      },
-      "correct_answer": "A",
-      "comment": "O ensino técnico e profissionalizante tem crescido para atender às demandas do mercado."
-    }
-  ]
-}
+    "correct_answer": "B",
+    "comment": "O incentivo ao uso de bicicletas e transporte público tem sido principal estratégia."
+  },
+  {
+    "number": "83",
+    "question": "A formação profissional no Brasil tem se adaptado às mudanças do mercado de trabalho. Qual modalidade de ensino tem crescido para atender essa demanda?",
+    "options": {
+      "A": "Ensino técnico e profissionalizante",
+      "B": "Apenas ensino superior tradicional",
+      "C": "Eliminação de cursos profissionais",
+      "D": "Foco exclusivo em teoria",
+      "E": "Redução da qualificação profissional"
+    },
+    "correct_answer": "A",
+    "comment": "O ensino técnico e profissionalizante tem crescido para atender às demandas do mercado."
+  }
