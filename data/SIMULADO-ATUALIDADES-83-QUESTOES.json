@@ -1,734 +1,1512 @@
-{
-    "Questão 1": {
-        "enunciado": "A taxação de super-ricos tem sido tema de debate internacional em \n2025. Segundo propostas discutidas em fóruns econômicos globais, qual seria o \nprincipal objetivo dessa medida?",
-        "opcoes": {
-            "A": "Correta. A taxação de super-ricos tem como principais objetivos aumentar a arrecadação pública para investimentos sociais e em infraestrutura, além de contribuir para a redução da desigualdade social.",
-            "B": "Incorreta. A proposta não visa eliminar a propriedade privada, mas sim tributar grandes fortunas. • • •",
-            "C": "Incorreta. Embora possa haver efeitos indiretos, não é o objetivo principal da medida.",
-            "D": "Incorreta. A medida visa combater, não incentivar, a evasão fiscal.",
-            "E": "Promover a concentração de renda."
-        },
-        "resposta_correta": "A",
-        "comentario": "A) Correta. A taxação de super-ricos tem como principais objetivos aumentar a arrecadação pública para investimentos sociais e em infraestrutura, além de contribuir para a redução da desigualdade social. B) Incorreta. A proposta não visa eliminar a propriedade privada, mas sim tributar grandes fortunas. C) Incorreta. Embora possa haver efeitos indiretos, não é o objetivo principal da medida. D) Incorreta. A medida visa combater, não incentivar, a evasão fiscal. E) Incorreta. O objetivo é justamente o oposto: reduzir a concentração de renda."
+[
+  {
+    "numero": 1,
+    "questao": "A taxação de super-ricos tem sido tema de debate internacional em 2025. Segundo propostas discutidas em fóruns econômicos globais, qual seria o principal objetivo dessa medida?",
+    "opcoes": {
+      "A": "Aumentar a arrecadação para investimentos em infraestrutura e redução da desigualdade.",
+      "B": "Eliminar completamente a propriedade privada.",
+      "C": "Reduzir os impostos sobre a classe média.",
+      "D": "Incentivar a evasão fiscal.",
+      "E": "Promover a concentração de renda."
     },
-    "Questão 2": {
-        "enunciado": "A Reforma Tributária sobre o consumo, promulgada por meio da \nEmenda Constitucional 132 em dezembro de 2023, entrou em uma nova fase em \n2025: a de regulamentação. Qual foi o primeiro ato normativo sancionado \nresultante desse processo?",
-        "opcoes": {
-            "A": "Incorreta. A regulamentação está sendo feita por meio de Leis Complementares, não Medidas Provisórias.",
-            "B": "Incorreta. A regulamentação não foi feita por Decreto Presidencial.",
-            "C": "Correta. Conforme a página oficial do Ministério da Fazenda sobre a Reforma Tributária, o primeiro resultado do processo de regulamentação foi a sanção da Lei Complementar nº 214, de 16 de janeiro de 2025, que institui a Lei Geral do IBS, da CBS e do Imposto Seletivo.",
-            "D": "Incorreta. A criação do Comitê Gestor do IBS é objeto de outro projeto de lei complementar (PLP 108/2024), não de uma portaria.",
-            "E": "A aprovação do Projeto de Lei Complementar (PLP) 108/2024, que trata do tributo a ser gerido por estados e municípios."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. A regulamentação está sendo feita por meio de Leis Complementares, não Medidas Provisórias. B) Incorreta. A regulamentação não foi feita por Decreto Presidencial. C) Correta. Conforme a página oficial do Ministério da Fazenda sobre a Reforma Tributária, o primeiro resultado do processo de regulamentação foi a sanção da Lei Complementar nº 214, de 16 de janeiro de 2025, que institui a Lei Geral do IBS, da CBS e do Imposto Seletivo. D) Incorreta. A criação do Comitê Gestor do IBS é objeto de outro projeto de lei complementar (PLP 108/2024), não de uma portaria. E) Incorreta. A aprovação do PLP 108/2024 no Senado ocorreu posteriormente, em setembro/outubro de 2025, e trata especificamente da gestão do IBS, não sendo o primeiro ato sancionado da regulamentação geral."
-    },
-    "Questão 3": {
-        "enunciado": "A economia do Espírito Santo é marcada por sua diversidade e por sua \nrelevância em setores estratégicos para o Brasil. Com base nos dados econômicos \ndo estado, qual setor detém a maior participação no Produto Interno Bruto (PIB) \ncapixaba?",
-        "opcoes": {
-            "B": "Incorreta. A indústria tem uma participação significativa (34,5%), mas não é a maior.",
-            "A": "Incorreta. Embora a agropecuária seja importante, especialmente o café, sua participação no PIB (9,3%) é a menor entre os três grandes setores.",
-            "C": "Correta. Conforme os dados apresentados pelo Brasil Escola, o setor de serviços é o principal componente da economia capixaba, respondendo por 56,3% do PIB estadual, em grande parte devido à intensa atividade portuária.",
-            "D": "Incorreta. A produção de petróleo e gás é uma atividade industrial de grande relevância e fonte de receita, mas está contida dentro do setor secundário (indústria), que não é o maior em participação no PIB.",
-            "E": "O setor de exportação de rochas ornamentais, como o granito."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. Embora a agropecuária seja importante, especialmente o café, sua participação no PIB (9,3%) é a menor entre os três grandes setores. B) Incorreta. A indústria tem uma participação significativa (34,5%), mas não é a maior. C) Correta. Conforme os dados apresentados pelo Brasil Escola, o setor de serviços é o principal componente da economia capixaba, respondendo por 56,3% do PIB estadual, em grande parte devido à intensa atividade portuária. D) Incorreta. A produção de petróleo e gás é uma atividade industrial de grande relevância e fonte de receita, mas está contida dentro do setor secundário (indústria), que não é o maior em participação no PIB. E) Incorreta. A exportação de granito é um nicho importante da economia, mas não representa o maior setor do PIB."
-    },
-    "Questão 4": {
-        "enunciado": "De acordo com o Anuário Brasileiro de Segurança Pública 2025, o Brasil \nregistrou em 2024 a menor taxa de Mortes Violentas Intencionais (MVI) desde \n2012. Apesar da queda nacional, a violência letal permanece concentrada em \ndeterminadas regiões. Qual estado brasileiro liderou o ranking de mais violento \ndo país em 2024?",
-        "opcoes": {
-            "A": "Incorreta. A Bahia apresentou a segunda maior taxa de MVI (40,6), mas não a primeira.",
-            "B": "Incorreta. O Ceará ficou na terceira posição, com uma taxa de 37,5.",
-            "C": "Correta. Conforme os dados do Anuário, o Amapá liderou o ranking com a maior taxa de Mortes Violentas Intencionais do Brasil em 2024, registrando 45,1 casos por 100 mil habitantes.",
-            "D": "Incorreta. Pernambuco ocupou a quarta posição no ranking.",
-            "E": "Rio de Janeiro"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. A Bahia apresentou a segunda maior taxa de MVI (40,6), mas não a primeira. B) Incorreta. O Ceará ficou na terceira posição, com uma taxa de 37,5. C) Correta. Conforme os dados do Anuário, o Amapá liderou o ranking com a maior taxa de Mortes Violentas Intencionais do Brasil em 2024, registrando 45,1 casos por 100 mil habitantes. D) Incorreta. Pernambuco ocupou a quarta posição no ranking. E) Incorreta. O Rio de Janeiro, apesar de sua notoriedade, ficou na 15ª posição, com uma taxa de 15,8, abaixo da média nacional."
-    },
-    "Questão 5": {
-        "enunciado": "O mesmo Anuário Brasileiro de Segurança Pública 2025 aponta que as \ndez cidades com as maiores taxas de MVI em 2024 estão localizadas em uma única \nmacrorregião do Brasil. A qual região pertencem todas essas cidades?",
-        "opcoes": {
-            "A": "Incorreta. Embora a região Norte tenha a segunda maior taxa de violência, nenhuma de suas cidades apareceu no top 10.",
-            "B": "Incorreta. A região Centro-Oeste não teve cidades entre as mais violentas.",
-            "C": "Incorreta. A região Sudeste, apesar de populosa, apresentou taxas de violência menores.",
-            "D": "Incorreta. A região Sul tradicionalmente apresenta os menores índices de violência letal do país.",
-            "E": "Nordeste"
-        },
-        "resposta_correta": "E",
-        "comentario": "A) Incorreta. Embora a região Norte tenha a segunda maior taxa de violência, nenhuma de suas cidades apareceu no top 10. B) Incorreta. A região Centro-Oeste não teve cidades entre as mais violentas. C) Incorreta. A região Sudeste, apesar de populosa, apresentou taxas de violência menores. D) Incorreta. A região Sul tradicionalmente apresenta os menores índices de violência letal do país. E) Correta. O relatório destaca que todas as dez cidades com as maiores taxas de Mortes Violentas Intencionais em 2024 estão localizadas na região Nordeste, com a violência nessas áreas frequentemente associada a disputas entre facções do crime organizado."
-    },
-    "Questão 6": {
-        "enunciado": "A cultura do Espírito Santo é marcada pela confluência de diversas \ninfluências. Qual das seguintes manifestações folclóricas, que envolve música, \ndança e elementos teatrais, é considerada um dos maiores símbolos da identidade \ncultural capixaba?",
-        "opcoes": {
-            "A": "Incorreta. O Maracatu é uma manifestação cultural típica de Pernambuco.",
-            "B": "Incorreta. O Bumba Meu Boi é uma festa tradicional do Maranhão e de outras partes do Norte e Nordeste.",
-            "C": "Correta. O Congo é uma das mais expressivas e tradicionais manifestações culturais do Espírito Santo, especialmente em municípios como Serra, Vila Velha e Cariacica, misturando elementos religiosos católicos com tradições africanas.",
-            "D": "Incorreta. A Festa do Divino ocorre em várias partes do Brasil, mas não é o principal símbolo da identidade capixaba. •",
-            "E": "O Jongo, uma dança de roda de origem africana praticada ao som de tambores."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. O Maracatu é uma manifestação cultural típica de Pernambuco. B) Incorreta. O Bumba Meu Boi é uma festa tradicional do Maranhão e de outras partes do Norte e Nordeste. C) Correta. O Congo é uma das mais expressivas e tradicionais manifestações culturais do Espírito Santo, especialmente em municípios como Serra, Vila Velha e Cariacica, misturando elementos religiosos católicos com tradições africanas. D) Incorreta. A Festa do Divino ocorre em várias partes do Brasil, mas não é o principal símbolo da identidade capixaba. E) Incorreta. O Jongo também é praticado no Espírito Santo, mas o Congo tem uma representatividade e abrangência maiores como símbolo cultural do estado."
-    },
-    "Questão 7": {
-        "enunciado": "Em 2025, um debate sobre desigualdade social no Brasil ganhou força \ncom a divulgação de uma pesquisa que revelou a percepção da população sobre o \ntema. Qual foi o principal achado dessa pesquisa, conforme noticiado pela Folha \nde S.Paulo?",
-        "opcoes": {
-            "A": "Incorreta. A pesquisa aponta para uma forte percepção de alta desigualdade, não de diminuição.",
-            "B": "Incorreta. A notícia indica que a percepção de desigualdade é maior entre as mulheres e nas classes C, D e E, não entre homens e classes altas.",
-            "C": "Incorreta. O percentual é significativamente maior que 50%.",
-            "D": "Correta. Segundo a pesquisa divulgada, um percentual expressivo de 77% dos brasileiros considera o país muito desigual, e essa percepção é ainda mais acentuada entre as mulheres (82%).",
-            "E": "A pesquisa concluiu que a desigualdade de renda não é mais um problema central para a população."
-        },
-        "resposta_correta": "D",
-        "comentario": "A) Incorreta. A pesquisa aponta para uma forte percepção de alta desigualdade, não de diminuição. B) Incorreta. A notícia indica que a percepção de desigualdade é maior entre as mulheres e nas classes C, D e E, não entre homens e classes altas. C) Incorreta. O percentual é significativamente maior que 50%. D) Correta. Segundo a pesquisa divulgada, um percentual expressivo de 77% dos brasileiros considera o país muito desigual, e essa percepção é ainda mais acentuada entre as mulheres (82%). E) Incorreta. O resultado da pesquisa reforça a ideia de que a desigualdade continua sendo uma preocupação central."
-    },
-    "Questão 8": {
-        "enunciado": "O Espírito Santo possui uma geografia diversificada, que influencia \ndiretamente sua economia e cultura. Qual das seguintes características descreve \ncorretamente o relevo e o litoral do estado?",
-        "opcoes": {
-            "A": "Incorreta. A violência urbana, e não a baixa densidade rural, é o foco principal.",
-            "B": "Incorreta. O perfil demográfico da criminalidade geralmente se concentra na população jovem.",
-            "C": "Correta. Relatórios como o Anuário Brasileiro de Segurança Pública e análises de especialistas consistentemente apontam as disputas entre facções do crime organizado como um dos principais motores da violência letal no Brasil, especialmente nas regiões Norte e Nordeste.",
-            "D": "Incorreta. O debate sobre segurança pública geralmente aponta para a necessidade de um policiamento mais eficiente e inteligente, não para o excesso como causa da violência.",
-            "E": "A proibição da venda de armas de fogo para civis."
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Embora o interior seja montanhoso, o estado possui uma importante planície litorânea. B) Correta. Conforme informações do governo do estado e de fontes geográficas, o território capixaba é dividido em duas regiões naturais distintas: a baixada litorânea, que se estende por cerca de 400 km, e o planalto no interior. C) Incorreta. Não há grandes áreas de depressão ou abaixo do nível do mar no estado. D) Incorreta. O litoral é extenso, com aproximadamente 400 km, e o interior é um planalto, não um pantanal. E) Incorreta. O Espírito Santo é banhado pelo Oceano Atlântico a leste. Questão 9 A segurança pública no Brasil enfrenta desafios complexos e multifacetados. De acordo com especialistas e relatórios recentes, qual dos seguintes fatores é frequentemente apontado como um dos principais agravantes da violência e da criminalidade no país? A) A baixa densidade demográfica nas áreas rurais. B) O envelhecimento da população e a diminuição do número de jovens. C) A atuação de facções do crime organizado, especialmente em disputas por territórios para o tráfico de drogas. D) O excesso de policiamento ostensivo nas grandes cidades. E) A proibição da venda de armas de fogo para civis. Resposta: C Comentário: A) Incorreta. A violência urbana, e não a baixa densidade rural, é o foco principal. B) Incorreta. O perfil demográfico da criminalidade geralmente se concentra na população jovem. C) Correta. Relatórios como o Anuário Brasileiro de Segurança Pública e análises de especialistas consistentemente apontam as disputas entre facções do crime organizado como um dos principais motores da violência letal no Brasil, especialmente nas regiões Norte e Nordeste. D) Incorreta. O debate sobre segurança pública geralmente aponta para a necessidade de um policiamento mais eficiente e inteligente, não para o excesso como causa da violência. E) Incorreta. O debate sobre o acesso a armas de fogo é complexo, mas a proibição em si não é apontada como a causa principal da atuação do crime organizado."
-    },
-    "Questão 10": {
-        "enunciado": "A economia do Espírito Santo se destaca nacionalmente em várias \náreas. Além de ser um grande exportador de minério de ferro e aço, o estado \nocupa uma posição de destaque na produção de quais recursos energéticos?",
-        "opcoes": {
-            "A": "Incorreta. O estado importa carvão mineral, mas não é um grande produtor.",
-            "B": "Incorreta. Embora possua hidrelétricas, não é sua principal área de destaque energético nacional.",
-            "C": "Incorreta. A produção de energia eólica e solar é mais proeminente em outras regiões do Brasil.",
-            "D": "Correta. Conforme dados econômicos, o Espírito Santo é o segundo maior produtor de petróleo e gás natural do Brasil, ficando atrás apenas do Rio de Janeiro, com potencial de aumento devido à exploração da camada pré-sal.",
-            "E": "Urânio e xisto betuminoso."
-        },
-        "resposta_correta": "D",
-        "comentario": "A) Incorreta. O estado importa carvão mineral, mas não é um grande produtor. B) Incorreta. Embora possua hidrelétricas, não é sua principal área de destaque energético nacional. C) Incorreta. A produção de energia eólica e solar é mais proeminente em outras regiões do Brasil. D) Correta. Conforme dados econômicos, o Espírito Santo é o segundo maior produtor de petróleo e gás natural do Brasil, ficando atrás apenas do Rio de Janeiro, com potencial de aumento devido à exploração da camada pré-sal. E) Incorreta. Não há produção significativa desses recursos no estado."
-    },
-    "Questão 11": {
-        "enunciado": "Em 2025, o debate sobre a fome e a insegurança alimentar no Brasil \ncontinuou em pauta. Qual das seguintes afirmações reflete corretamente a \nsituação, conforme apontado em análises sobre temas sociais relevantes para o \npaís?",
-        "opcoes": {
-            "A": "Incorreta. Apesar dos avanços em diferentes períodos, a fome voltou a ser um problema grave no Brasil.",
-            "B": "Incorreta. A insegurança alimentar é um problema que afeta tanto áreas urbanas quanto rurais.",
-            "C": "Correta. Análises sobre os principais problemas sociais do Brasil em 2025, como as citadas em portais de notícias e temas para o Enem, destacam que a fome e a insegurança alimentar continuam a ser um desafio significativo, afetando milhões de pessoas.",
-            "D": "Incorreta. O problema da fome no Brasil está mais relacionado ao acesso e à distribuição de alimentos do que à capacidade de produção.",
-            "E": "Programas de transferência de renda se mostraram ineficazes no combate à insegurança alimentar."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. Apesar dos avanços em diferentes períodos, a fome voltou a ser um problema grave no Brasil. B) Incorreta. A insegurança alimentar é um problema que afeta tanto áreas urbanas quanto rurais. C) Correta. Análises sobre os principais problemas sociais do Brasil em 2025, como as citadas em portais de notícias e temas para o Enem, destacam que a fome e a insegurança alimentar continuam a ser um desafio significativo, afetando milhões de pessoas. D) Incorreta. O problema da fome no Brasil está mais relacionado ao acesso e à distribuição de alimentos do que à capacidade de produção. E) Incorreta. Programas de transferência de renda são considerados ferramentas importantes no combate à pobreza e à insegurança alimentar, embora possam ter sua eficácia debatida e aprimorada."
-    },
-    "Questão 12": {
-        "enunciado": "A divisão político-administrativa do Espírito Santo organiza o estado \nem municípios. Quantos municípios compõem o estado do Espírito Santo?",
-        "opcoes": {
-            "A": "55",
-            "B": "68",
-            "C": "78",
-            "D": "88",
-            "E": "Incorretas. •"
-        },
-        "resposta_correta": "C",
-        "comentario": "A), B), D), E) Incorretas. C) Correta. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE) e informações oficiais do governo estadual, o Espírito Santo é composto por 78 municípios."
-    },
-    "Questão 13": {
-        "enunciado": "A discussão sobre a reforma tributária no Brasil em 2025 envolveu a \ncriação de novos impostos e a unificação de outros. O Imposto sobre Bens e \nServiços (IBS) é um dos pilares dessa reforma. Qual é a principal característica do \nIBS?",
-        "opcoes": {
-            "A": "Incorreta. Uma das principais vantagens da reforma é justamente a não cumulatividade, permitindo o crédito do imposto pago na etapa anterior.",
-            "B": "Incorreta. A Contribuição sobre Bens e Serviços (CBS) é de competência da União, mas o IBS é de competência de estados e municípios.",
-            "C": "Correta. O IBS é o chamado “IVA subnacional”, que unificará o ICMS (Imposto sobre Circulação de Mercadorias e Serviços) e o ISS (Imposto sobre Serviços de Qualquer Natureza), sendo gerido por um Comitê Gestor com participação de estados e municípios.",
-            "D": "Incorreta. O IBS incide sobre uma base ampla de bens e serviços.",
-            "E": "É um imposto seletivo, aplicado sobre produtos prejudiciais à saúde e ao meio ambiente."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. Uma das principais vantagens da reforma é justamente a não cumulatividade, permitindo o crédito do imposto pago na etapa anterior. B) Incorreta. A Contribuição sobre Bens e Serviços (CBS) é de competência da União, mas o IBS é de competência de estados e municípios. C) Correta. O IBS é o chamado “IVA subnacional”, que unificará o ICMS (Imposto sobre Circulação de Mercadorias e Serviços) e o ISS (Imposto sobre Serviços de Qualquer Natureza), sendo gerido por um Comitê Gestor com participação de estados e municípios. D) Incorreta. O IBS incide sobre uma base ampla de bens e serviços. E) Incorreta. O imposto seletivo é outra parte da reforma, mas é um imposto distinto do IBS."
-    },
-    "Questão 14": {
-        "enunciado": "O Brasil tem se destacado internacionalmente em iniciativas de \ncombate à desigualdade. Em 2025, o Ministro da Fazenda Fernando Haddad fez \numa declaração sobre o papel do país nessa área. Qual foi o teor da declaração?",
-        "opcoes": {
-            "A": "Incorreta. A declaração foi no sentido oposto, destacando o papel internacional do Brasil.",
-            "B": "Correta. Conforme noticiado pelo Ministério da Fazenda em abril de 2025, Fernando Haddad afirmou que o Brasil pode servir de exemplo a diversos países no combate à má distribuição de renda, à fome e à miséria, além do enfrentamento de outros desafios sociais.",
-            "C": "Incorreta. A declaração foi positiva sobre o potencial brasileiro como referência.",
-            "D": "Incorreta. Não foi essa a mensagem transmitida pelo ministro.",
-            "E": "O país deve priorizar o crescimento econômico em detrimento das políticas sociais."
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A declaração foi no sentido oposto, destacando o papel internacional do Brasil. B) Correta. Conforme noticiado pelo Ministério da Fazenda em abril de 2025, Fernando Haddad afirmou que o Brasil pode servir de exemplo a diversos países no combate à má distribuição de renda, à fome e à miséria, além do enfrentamento de outros desafios sociais. C) Incorreta. A declaração foi positiva sobre o potencial brasileiro como referência. D) Incorreta. Não foi essa a mensagem transmitida pelo ministro. E) Incorreta. A declaração enfatizou justamente a importância das políticas sociais."
-    },
-    "Questão 15": {
-        "enunciado": "A Região Metropolitana da Grande Vitória (RMGV) é um importante \ncentro econômico do Espírito Santo. Qual das seguintes cidades NÃO faz parte da \nRMGV?",
-        "opcoes": {
-            "A": "Incorreta. Não foi o primeiro concurso público do Brasil, mas sim o maior em termos de participação.",
-            "B": "Correta. Conforme noticiado, o CNU 2025 foi considerado o maior concurso público do país, atraindo mais de 761 mil candidatos para disputar 3.652 vagas em 32 órgãos do governo federal.",
-            "C": "Incorreta. O concurso ofereceu vagas para diferentes níveis de escolaridade.",
-            "D": "Incorreta. O concurso foi realizado conforme programado.",
-            "E": "Foi realizado apenas na região Sudeste do país."
-        },
-        "resposta_correta": "E",
-        "comentario": "A), B), C), D) Incorretas. Vitória (capital), Vila Velha, Cariacica e Serra são os principais municípios que compõem a Região Metropolitana da Grande Vitória. E) Correta. Linhares é um importante município do norte do estado, mas não faz parte da Região Metropolitana da Grande Vitória. A RMGV é composta por Vitória, Vila Velha, Cariacica, Serra, Viana, Guarapari e Fundão. Questão 16 O Concurso Nacional Unificado (CNU) 2025 foi um marco na história dos concursos públicos brasileiros. Qual das seguintes informações sobre o CNU 2025 está correta? A) Foi o primeiro concurso público realizado no Brasil. B) Atraiu mais de 761 mil pessoas para disputar 3.652 vagas em 32 órgãos do governo federal. C) Foi exclusivo para cargos de nível médio. D) Teve sua realização cancelada devido a problemas logísticos. E) Foi realizado apenas na região Sudeste do país. Resposta: B Comentário: A) Incorreta. Não foi o primeiro concurso público do Brasil, mas sim o maior em termos de participação. B) Correta. Conforme noticiado, o CNU 2025 foi considerado o maior concurso público do país, atraindo mais de 761 mil candidatos para disputar 3.652 vagas em 32 órgãos do governo federal. C) Incorreta. O concurso ofereceu vagas para diferentes níveis de escolaridade. D) Incorreta. O concurso foi realizado conforme programado. E) Incorreta. O concurso teve abrangência nacional."
-    },
-    "Questão 17": {
-        "enunciado": "O café é um produto agrícola de grande importância para a economia \ndo Espírito Santo. Qual é a posição do estado na produção de café em grãos na \nregião Sudeste?",
-        "opcoes": {
-            "A": "Incorreta. A tendência observada é de crescimento, não de diminuição.",
-            "B": "Correta. O Anuário de 2025 destacou a migração de crimes para o ambiente digital como uma das principais tendências, exigindo adaptação das forças de segurança e novas estratégias de prevenção e combate.",
-            "C": "Incorreta. Os crimes digitais afetam pessoas físicas, pequenas empresas e diversos segmentos da sociedade.",
-            "D": "Incorreta. O Brasil possui legislação específica para crimes cibernéticos, como a Lei Carolina Dieckmann.",
-            "E": "O Brasil não possui estrutura para investigar crimes digitais."
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Minas Gerais é tradicionalmente o maior produtor de café do Brasil. B) Correta. Conforme dados econômicos, o Espírito Santo é o segundo maior produtor de café em grãos da região Sudeste, ficando atrás apenas de Minas Gerais. C) Incorreta. São Paulo não supera o Espírito Santo na produção de café. D) Incorreta. O estado ocupa a segunda posição. E) Incorreta. O café é uma das principais culturas agrícolas do estado. Questão 18 A migração de crimes para o ambiente digital tem sido uma preocupação crescente das autoridades de segurança pública. O Anuário Brasileiro de Segurança Pública 2025 destacou essa tendência. Qual das seguintes afirmações melhor descreve essa situação? A) Os crimes digitais diminuíram significativamente em 2024. B) Há uma migração de crimes tradicionais para o ambiente digital, exigindo novas estratégias de combate. C) Os crimes digitais afetam apenas empresas de grande porte. D) A legislação brasileira não prevê punição para crimes cibernéticos. E) O Brasil não possui estrutura para investigar crimes digitais. Resposta: B Comentário: A) Incorreta. A tendência observada é de crescimento, não de diminuição. B) Correta. O Anuário de 2025 destacou a migração de crimes para o ambiente digital como uma das principais tendências, exigindo adaptação das forças de segurança e novas estratégias de prevenção e combate. C) Incorreta. Os crimes digitais afetam pessoas físicas, pequenas empresas e diversos segmentos da sociedade. D) Incorreta. O Brasil possui legislação específica para crimes cibernéticos, como a Lei Carolina Dieckmann. E) Incorreta. O país possui estruturas especializadas, embora possam necessitar de aprimoramento."
-    },
-    "Questão 19": {
-        "enunciado": "O Porto de Vitória é um dos mais importantes do Brasil. Qual das \nseguintes características melhor descreve sua relevância econômica?",
-        "opcoes": {
-            "A": "8,5%",
-            "B": "6,1%",
-            "C": "10,2%",
-            "D": "4,8%",
-            "E": "Incorretas. •"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. O porto movimenta diversos tipos de cargas, não apenas produtos agrícolas. B) Correta. Conforme informações econômicas, o Porto de Vitória é um dos mais movimentados do Brasil, sendo um fator fundamental para o desenvolvimento do setor de serviços no Espírito Santo. C) Incorreta. O porto opera tanto com navegação internacional quanto de cabotagem. D) Incorreta. O porto é importante tanto para exportações quanto para importações. E) Incorreta. Sua importância é nacional, não apenas regional. Questão 20 A questão da independência dos bancos centrais tem sido tema de debate econômico internacional. Segundo análises recentes sobre neoliberalismo, qual é uma das principais críticas feitas a essa independência? A) Os bancos centrais independentes são mais eficientes na condução da política monetária. B) A independência garante maior estabilidade econômica. C) A independência dos bancos centrais significa que eles não têm supervisão democrática. D) Bancos centrais independentes sempre promovem o crescimento econômico. E) A independência é necessária para combater a inflação. Resposta: C Comentário: A) Incorreta. Esta seria um argumento a favor, não uma crítica. B) Incorreta. Este também é um argumento favorável à independência. C) Correta. Conforme análises sobre o tema, uma das principais críticas à independência dos bancos centrais é que ela pode significar falta de supervisão democrática, removendo essas instituições do controle direto dos governos eleitos. D) Incorreta. A relação entre independência e crescimento econômico é complexa e debatida. E) Incorreta. Este é um argumento a favor da independência, não uma crítica. Questão 21 O turismo é uma atividade econômica importante para o Espírito Santo. Qual das seguintes atrações turísticas é considerada um dos principais destinos do estado? A) As Cataratas do Iguaçu B) O Parque Nacional da Chapada Diamantina C) O Parque Nacional do Caparaó, que abriga o Pico da Bandeira D) A Serra da Canastra E) O Pantanal Resposta: C Comentário: A) Incorreta. As Cataratas do Iguaçu ficam no Paraná. B) Incorreta. A Chapada Diamantina fica na Bahia. C) Correta. O Parque Nacional do Caparaó, que abriga o Pico da Bandeira (um dos pontos mais altos do Brasil), é compartilhado entre Espírito Santo e Minas Gerais, sendo uma das principais atrações turísticas do estado. D) Incorreta. A Serra da Canastra fica em Minas Gerais. E) Incorreta. O Pantanal fica no Mato Grosso e Mato Grosso do Sul. Questão 22 Em 2024, o Brasil registrou uma taxa de desemprego histórica. Qual foi essa taxa, conforme dados oficiais? A) 8,5% B) 6,1% C) 10,2% D) 4,8% E) 12,1% Resposta: B Comentário: A), C), D), E) Incorretas. B) Correta. Conforme noticiado pelo governo federal, o ano de 2024 terminou com o Brasil registrando a menor taxa de desemprego (6,1%) da série histórica da PNAD Contínua desde 2012."
-    },
-    "Questão 23": {
-        "enunciado": "A cultura afro-brasileira tem forte presença no Espírito Santo. Qual das \nseguintes manifestações culturais do estado tem origem predominantemente \nafricana?",
-        "opcoes": {
-            "A": "Incorreta. A Festa da Penha tem origem religiosa católica.",
-            "B": "Correta. O Ticumbi é uma manifestação cultural de origem africana praticada no Espírito Santo, especialmente na região de Conceição da Barra, que representa a luta entre cristãos e mouros com forte influência da cultura negra.",
-            "C": "Incorreta. A Festa de São Pedro é uma festividade religiosa católica.",
-            "D": "Incorreta. O Carnaval, embora tenha influências africanas, não é exclusivamente de origem africana. •",
-            "E": "A Festa Junina"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A Festa da Penha tem origem religiosa católica. B) Correta. O Ticumbi é uma manifestação cultural de origem africana praticada no Espírito Santo, especialmente na região de Conceição da Barra, que representa a luta entre cristãos e mouros com forte influência da cultura negra. C) Incorreta. A Festa de São Pedro é uma festividade religiosa católica. D) Incorreta. O Carnaval, embora tenha influências africanas, não é exclusivamente de origem africana. E) Incorreta. As Festas Juninas têm origem europeia, embora tenham recebido influências de outras culturas."
-    },
-    "Questão 24": {
-        "enunciado": "O debate sobre a “PEC da Blindagem” ganhou destaque no Congresso \nNacional em 2025. Qual era o objetivo principal dessa proposta?",
-        "opcoes": {
-            "A": "1,8%",
-            "B": "2,6%",
-            "C": "3,4%",
-            "D": "4,2%",
-            "E": "Incorretas. •"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A PEC não tratava de transparência de gastos. B) Correta. Conforme noticiado, a “PEC da Blindagem” tinha como objetivo proteger parlamentares de processos criminais, mas foi posteriormente derrubada pelo Senado. C) Incorreta. Não se referia a fundos de emergência. D) Incorreta. Não tratava de gastos eleitorais. E) Incorreta. Não propunha reforma eleitoral. Questão 25 A economia do Espírito Santo é diversificada. Qual das seguintes cadeias produtivas NÃO está entre as principais do estado? A) Petróleo e gás B) Rochas ornamentais C) Celulose e papel D) Siderurgia E) Produção de veículos automotores Resposta: E Comentário: A), B), C), D) Incorretas. Petróleo e gás, rochas ornamentais, celulose e papel, e siderurgia são todas cadeias produtivas importantes do Espírito Santo. E) Correta. A produção de veículos automotores não está entre as principais cadeias produtivas do Espírito Santo, que se concentra mais em commodities, energia e produtos siderúrgicos. Questão 26 O crescimento econômico brasileiro em 2024 superou as expectativas. Qual foi a taxa de crescimento do PIB real do Brasil naquele ano? A) 1,8% B) 2,6% C) 3,4% D) 4,2% E) 5,1% Resposta: C Comentário: A), B), D), E) Incorretas. C) Correta. Conforme dados do Banco Mundial, o PIB real do Brasil cresceu 3,4% em 2024, superando o crescimento de 2,6% registrado em 2023."
-    },
-    "Questão 27": {
-        "enunciado": "A violência contra a mulher continua sendo um grave problema social \nno Brasil. Qual das seguintes medidas tem sido mais enfatizada como necessária \npara o enfrentamento dessa questão?",
-        "opcoes": {
-            "A": "Incorreta. O aumento de penas é importante, mas insuficiente se não acompanhado de outras medidas.",
-            "B": "Correta. Especialistas e políticas públicas enfatizam a necessidade de uma rede integrada de proteção que inclua delegacias especializadas, casas de abrigo, programas de reeducação de agressores e apoio psicossocial às vítimas. • • •",
-            "C": "Incorreta. Esta seria uma medida restritiva e discriminatória.",
-            "D": "Incorreta. O isolamento não é uma solução adequada.",
-            "E": "A criminalização apenas da violência física, excluindo a psicológica."
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. O aumento de penas é importante, mas insuficiente se não acompanhado de outras medidas. B) Correta. Especialistas e políticas públicas enfatizam a necessidade de uma rede integrada de proteção que inclua delegacias especializadas, casas de abrigo, programas de reeducação de agressores e apoio psicossocial às vítimas. C) Incorreta. Esta seria uma medida restritiva e discriminatória. D) Incorreta. O isolamento não é uma solução adequada. E) Incorreta. A legislação brasileira reconhece diferentes formas de violência, incluindo a psicológica."
-    },
-    "Questão 28": {
-        "enunciado": "O Espírito Santo faz fronteira com quantos estados brasileiros?",
-        "opcoes": {
-            "A": "Dois",
-            "B": "Três",
-            "C": "Quatro",
-            "D": "Cinco",
-            "E": "Incorretas. •"
-        },
-        "resposta_correta": "B",
-        "comentario": "A), C), D), E) Incorretas. B) Correta. O Espírito Santo faz fronteira com três estados: Bahia (ao norte), Minas Gerais (a oeste e noroeste) e Rio de Janeiro (ao sul). A leste, é banhado pelo Oceano Atlântico."
-    },
-    "Questão 29": {
-        "enunciado": "A discussão sobre mudanças climáticas e sustentabilidade tem \nganhado destaque no Brasil. Qual evento internacional relacionado ao meio \nambiente o país sediará em breve?",
-        "opcoes": {
-            "A": "Correta. O Brasil foi escolhido para sediar a COP30 (30ª Conferência das Nações Unidas sobre Mudanças Climáticas) em 2025, que será realizada em Belém, no Pará.",
-            "B": "Incorreta. O Fórum Econômico Mundial é tradicionalmente realizado em Davos, na Suíça. • • •",
-            "C": "Incorreta. Embora o Brasil tenha sediado reuniões do G20, não há previsão imediata de nova cúpula.",
-            "D": "Incorreta. A Assembleia Geral da ONU é realizada em Nova York.",
-            "E": "A Conferência Mundial sobre Biodiversidade"
-        },
-        "resposta_correta": "A",
-        "comentario": "A) Correta. O Brasil foi escolhido para sediar a COP30 (30ª Conferência das Nações Unidas sobre Mudanças Climáticas) em 2025, que será realizada em Belém, no Pará. B) Incorreta. O Fórum Econômico Mundial é tradicionalmente realizado em Davos, na Suíça. C) Incorreta. Embora o Brasil tenha sediado reuniões do G20, não há previsão imediata de nova cúpula. D) Incorreta. A Assembleia Geral da ONU é realizada em Nova York. E) Incorreta. Não há previsão de o Brasil sediar essa conferência no período mencionado."
-    },
-    "Questão 30": {
-        "enunciado": "A capital do Espírito Santo, Vitória, tem uma característica geográfica \npeculiar. Qual é ela?",
-        "opcoes": {
-            "A": "Incorreta. Vitória está localizada no litoral.",
-            "B": "Correta. Vitória é construída sobre uma ilha (Ilha de Vitória), sendo uma das poucas capitais brasileiras com essa característica geográfica.",
-            "C": "Incorreta. Embora haja morros na cidade, ela não está em uma região montanhosa de difícil acesso.",
-            "D": "Incorreta. A região metropolitana possui o Aeroporto de Vitória.",
-            "E": "Está localizada na fronteira com outro estado."
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Vitória está localizada no litoral. B) Correta. Vitória é construída sobre uma ilha (Ilha de Vitória), sendo uma das poucas capitais brasileiras com essa característica geográfica. C) Incorreta. Embora haja morros na cidade, ela não está em uma região montanhosa de difícil acesso. D) Incorreta. A região metropolitana possui o Aeroporto de Vitória. E) Incorreta. Vitória não está na fronteira com outros estados."
-    },
-    "Questão 31": {
-        "enunciado": "O agronegócio brasileiro tem enfrentado desafios relacionados à \nsustentabilidade. Qual das seguintes práticas tem sido mais incentivada para \nconciliar produção agrícola e preservação ambiental?",
-        "opcoes": {
-            "A": "Incorreta. O uso indiscriminado de agrotóxicos é contrário aos princípios de sustentabilidade.",
-            "B": "Incorreta. A expansão sobre áreas de preservação é ilegal e ambientalmente prejudicial.",
-            "C": "Correta. Técnicas como plantio direto, integração lavoura-pecuária-floresta (ILPF), agricultura de precisão e outras práticas sustentáveis têm sido incentivadas para conciliar produtividade e preservação ambiental.",
-            "D": "Incorreta. A monocultura intensiva sem rotação pode causar degradação do solo.",
-            "E": "O desmatamento para ampliação de áreas produtivas."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. O uso indiscriminado de agrotóxicos é contrário aos princípios de sustentabilidade. B) Incorreta. A expansão sobre áreas de preservação é ilegal e ambientalmente prejudicial. C) Correta. Técnicas como plantio direto, integração lavoura-pecuária-floresta (ILPF), agricultura de precisão e outras práticas sustentáveis têm sido incentivadas para conciliar produtividade e preservação ambiental. D) Incorreta. A monocultura intensiva sem rotação pode causar degradação do solo. E) Incorreta. O desmatamento é contrário aos objetivos de sustentabilidade."
-    },
-    "Questão 32": {
-        "enunciado": "O sistema educacional brasileiro tem passado por transformações. \nQual das seguintes iniciativas tem sido implementada para melhorar a qualidade \nda educação básica?",
-        "opcoes": {
-            "A": "Incorreta. A tendência tem sido de ampliação da jornada escolar em muitos casos.",
-            "B": "Correta. A Base Nacional Comum Curricular (BNCC) foi implementada como uma das principais reformas educacionais recentes, estabelecendo diretrizes nacionais para o currículo da educação básica.",
-            "C": "Incorreta. O ensino médio técnico tem sido fortalecido, não extinto.",
-            "D": "Incorreta. Não houve privatização completa da educação pública.",
-            "E": "A eliminação da educação infantil."
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A tendência tem sido de ampliação da jornada escolar em muitos casos. B) Correta. A Base Nacional Comum Curricular (BNCC) foi implementada como uma das principais reformas educacionais recentes, estabelecendo diretrizes nacionais para o currículo da educação básica. C) Incorreta. O ensino médio técnico tem sido fortalecido, não extinto. D) Incorreta. Não houve privatização completa da educação pública. E) Incorreta. A educação infantil tem sido expandida, não eliminada."
-    },
-    "Questão 33": {
-        "enunciado": "A população do Espírito Santo, segundo o último censo demográfico, é \nde aproximadamente:",
-        "opcoes": {
-            "A": "2,5 milhões de habitantes",
-            "B": "3,5 milhões de habitantes",
-            "C": "4,5 milhões de habitantes",
-            "D": "5,5 milhões de habitantes",
-            "E": "Incorretas. •"
-        },
-        "resposta_correta": "B",
-        "comentario": "A), C), D), E) Incorretas. B) Correta. Conforme dados do IBGE, a população do Espírito Santo é de aproximadamente 3,5 milhões de habitantes, sendo o 14º estado mais populoso do Brasil."
-    },
-    "Questão 34": {
-        "enunciado": "A questão da habitação popular no Brasil continua sendo um desafio. \nQual programa habitacional tem sido uma das principais iniciativas do governo \nfederal nessa área?",
-        "opcoes": {
-            "A": "Incorreta. A Amazônia não abrange o território capixaba.",
-            "B": "Incorreta. O Cerrado tem presença limitada no estado.",
-            "C": "Correta. A Mata Atlântica é o bioma predominante no Espírito Santo, cobrindo a maior parte do território estadual, especialmente nas regiões litorânea e montanhosa.",
-            "D": "Incorreta. A Caatinga não está presente no Espírito Santo.",
-            "E": "Pantanal"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. O Minha Casa Minha Vida foi substituído pelo Casa Verde e Amarela. B) Incorreta. Este é um programa específico para áreas rurais, não o principal programa habitacional. C) Correta. O Casa Verde e Amarela é o atual programa habitacional do governo federal, que substituiu o Minha Casa Minha Vida. D) Incorreta. Este é um programa complementar, não o principal. E) Incorreta. A Carta de Crédito é uma modalidade de financiamento, não um programa habitacional específico. Questão 35 O Espírito Santo possui uma rica biodiversidade. Qual bioma predomina no território capixaba? A) Amazônia B) Cerrado C) Mata Atlântica D) Caatinga E) Pantanal Resposta: C Comentário: A) Incorreta. A Amazônia não abrange o território capixaba. B) Incorreta. O Cerrado tem presença limitada no estado. C) Correta. A Mata Atlântica é o bioma predominante no Espírito Santo, cobrindo a maior parte do território estadual, especialmente nas regiões litorânea e montanhosa. D) Incorreta. A Caatinga não está presente no Espírito Santo. E) Incorreta. O Pantanal fica na região Centro-Oeste."
-    },
-    "Questão 36": {
-        "enunciado": "A digitalização dos serviços públicos tem sido uma tendência no Brasil. \nQual plataforma digital do governo federal concentra diversos serviços para os \ncidadãos?",
-        "opcoes": {
-            "A": "Incorreta. O e-CAC é específico para serviços da Receita Federal.",
-            "B": "Correta. O Gov.br é a plataforma digital unificada do governo federal que concentra diversos serviços públicos digitais para os cidadãos.",
-            "C": "Incorreta. Não existe uma plataforma com esse nome específico.",
-            "D": "Incorreta. O INSS Digital é específico para serviços previdenciários.",
-            "E": "Detran Digital"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. O e-CAC é específico para serviços da Receita Federal. B) Correta. O Gov.br é a plataforma digital unificada do governo federal que concentra diversos serviços públicos digitais para os cidadãos. C) Incorreta. Não existe uma plataforma com esse nome específico. D) Incorreta. O INSS Digital é específico para serviços previdenciários. E) Incorreta. O Detran Digital é estadual e específico para serviços de trânsito."
-    },
-    "Questão 37": {
-        "enunciado": "A questão energética no Brasil tem evoluído com a diversificação da \nmatriz. Qual fonte de energia renovável tem apresentado maior crescimento no \npaís?",
-        "opcoes": {
-            "A": "Incorreta. A energia nuclear não é renovável e tem crescimento limitado.",
-            "B": "Correta. A energia eólica tem sido a fonte renovável com maior crescimento no Brasil, especialmente nas regiões Nordeste e Sul. • • •",
-            "C": "Incorreta. O Brasil tem potencial geotérmico limitado e pouco explorado.",
-            "D": "Incorreta. A energia das marés ainda está em fase experimental no país.",
-            "E": "Biomassa tradicional"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A energia nuclear não é renovável e tem crescimento limitado. B) Correta. A energia eólica tem sido a fonte renovável com maior crescimento no Brasil, especialmente nas regiões Nordeste e Sul. C) Incorreta. O Brasil tem potencial geotérmico limitado e pouco explorado. D) Incorreta. A energia das marés ainda está em fase experimental no país. E) Incorreta. A biomassa tradicional não tem apresentado o maior crescimento entre as renováveis."
-    },
-    "Questão 38": {
-        "enunciado": "O Espírito Santo tem tradição na exportação de rochas ornamentais. \nQual tipo de rocha é mais característico da produção capixaba?",
-        "opcoes": {
-            "A": "Incorreta. A tendência foi de flexibilização, não de obrigatoriedade presencial.",
-            "B": "Correta. O trabalho remoto e o modelo híbrido (combinando presencial e remoto) se consolidaram como modalidades importantes no mercado de trabalho brasileiro pós-pandemia.",
-            "C": "Incorreta. Não houve consolidação dessa modalidade específica.",
-            "D": "Incorreta. O trabalho noturno não se tornou predominante.",
-            "E": "Trabalho sazonal"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Embora o estado produza mármore, não é o mais característico. B) Correta. O granito é a rocha ornamental mais característica da produção capixaba, sendo o Espírito Santo um dos maiores produtores e exportadores de granito do Brasil. C) Incorreta. A ardósia é mais característica de Minas Gerais. D) Incorreta. O quartzito não é a principal rocha ornamental do estado. E) Incorreta. O basalto não é uma rocha ornamental típica da região. Questão 39 A pandemia de COVID-19 trouxe mudanças duradouras para o mercado de trabalho brasileiro. Qual modalidade de trabalho se consolidou durante e após a pandemia? A) Trabalho presencial obrigatório B) Trabalho remoto (home office) e híbrido C) Trabalho apenas aos fins de semana D) Trabalho exclusivamente noturno E) Trabalho sazonal Resposta: B Comentário: A) Incorreta. A tendência foi de flexibilização, não de obrigatoriedade presencial. B) Correta. O trabalho remoto e o modelo híbrido (combinando presencial e remoto) se consolidaram como modalidades importantes no mercado de trabalho brasileiro pós-pandemia. C) Incorreta. Não houve consolidação dessa modalidade específica. D) Incorreta. O trabalho noturno não se tornou predominante. E) Incorreta. O trabalho sazonal não foi uma tendência decorrente da pandemia."
-    },
-    "Questão 40": {
-        "enunciado": "A região serrana do Espírito Santo é conhecida por suas características \nclimáticas diferenciadas. Qual cidade capixaba é famosa por seu clima mais \nameno e produção agrícola de montanha?",
-        "opcoes": {
-            "A": "Incorreta. O SUS é um sistema público, não privado.",
-            "B": "Incorreta. O SUS é universal, atendendo toda a população brasileira.",
-            "C": "Correta. O Sistema Único de Saúde é público, universal e gratuito, garantindo acesso à saúde para todos os brasileiros.",
-            "D": "Incorreta. O SUS funciona em uma rede que inclui unidades municipais, estaduais e federais.",
-            "E": "É restrito a emergências médicas."
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. Vitória está no litoral e tem clima tropical. B) Incorreta. Cachoeiro de Itapemirim não está na região serrana. C) Correta. Domingos Martins é uma das principais cidades serranas do Espírito Santo, conhecida pelo clima mais ameno e pela produção agrícola de montanha, incluindo hortaliças e flores. D) Incorreta. Linhares está na região norte do estado, não na serra. E) Incorreta. Guarapari é uma cidade litorânea. Questão 41 O Sistema Único de Saúde (SUS) brasileiro tem passado por desafios e reformas. Qual das seguintes características define corretamente o SUS? A) É um sistema de saúde exclusivamente privado. B) Atende apenas a população de baixa renda. C) É um sistema público, universal e gratuito. D) Funciona apenas em hospitais federais. E) É restrito a emergências médicas. Resposta: C Comentário: A) Incorreta. O SUS é um sistema público, não privado. B) Incorreta. O SUS é universal, atendendo toda a população brasileira. C) Correta. O Sistema Único de Saúde é público, universal e gratuito, garantindo acesso à saúde para todos os brasileiros. D) Incorreta. O SUS funciona em uma rede que inclui unidades municipais, estaduais e federais. E) Incorreta. O SUS oferece desde atenção básica até alta"
-    },
-    "Questão 42": {
-        "enunciado": "A economia digital tem crescido significativamente no Brasil. Qual \nsetor tem liderado essa transformação?",
-        "opcoes": {
-            "A": "Incorreta. O Parque Nacional da Tijuca fica no Rio de Janeiro.",
-            "B": "Correta. O Parque Nacional do Caparaó é uma unidade de conservação federal que abrange territórios do Espírito Santo e Minas Gerais.",
-            "C": "Incorreta. A Chapada dos Veadeiros fica em Goiás. • •",
-            "D": "Incorreta. O Parque Nacional de Brasília fica no Distrito Federal.",
-            "E": "Parque Nacional da Serra da Canastra"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. A agricultura tradicional não lidera a economia digital. B) Incorreta. A indústria têxtil não é líder na transformação digital. C) Correta. Os serviços financeiros digitais (fintechs) e o comércio eletrônico têm sido os principais motores da economia digital brasileira. D) Incorreta. A mineração não lidera a economia digital. E) Incorreta. A construção civil não é líder nessa transformação. Questão 43 O Espírito Santo possui importantes unidades de conservação. Qual das seguintes é uma unidade de conservação federal localizada no estado? A) Parque Nacional da Tijuca B) Parque Nacional do Caparaó C) Parque Nacional da Chapada dos Veadeiros D) Parque Nacional de Brasília E) Parque Nacional da Serra da Canastra Resposta: B Comentário: A) Incorreta. O Parque Nacional da Tijuca fica no Rio de Janeiro. B) Correta. O Parque Nacional do Caparaó é uma unidade de conservação federal que abrange territórios do Espírito Santo e Minas Gerais. C) Incorreta. A Chapada dos Veadeiros fica em Goiás. D) Incorreta. O Parque Nacional de Brasília fica no Distrito Federal. E) Incorreta. A Serra da Canastra fica em Minas Gerais."
-    },
-    "Questão 44": {
-        "enunciado": "A questão da mobilidade urbana tem sido um desafio nas grandes \ncidades brasileiras. Qual modal de transporte público tem recebido mais \ninvestimentos recentemente?",
-        "opcoes": {
-            "A": "Incorreta. A tendência é de substituição por tecnologias mais limpas.",
-            "B": "Correta. Sistemas como metrô, VLT (Veículo Leve sobre Trilhos) e BRT (Bus Rapid Transit) têm recebido investimentos significativos nas principais cidades brasileiras.",
-            "C": "Incorreta. O transporte fluvial é limitado a poucas cidades.",
-            "D": "Incorreta. O transporte aéreo urbano ainda está em desenvolvimento.",
-            "E": "Bicicletas particulares"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A tendência é de substituição por tecnologias mais limpas. B) Correta. Sistemas como metrô, VLT (Veículo Leve sobre Trilhos) e BRT (Bus Rapid Transit) têm recebido investimentos significativos nas principais cidades brasileiras. C) Incorreta. O transporte fluvial é limitado a poucas cidades. D) Incorreta. O transporte aéreo urbano ainda está em desenvolvimento. E) Incorreta. Bicicletas particulares não são transporte público."
-    },
-    "Questão 45": {
-        "enunciado": "A cultura capixaba inclui uma culinária típica. Qual dos seguintes \npratos é considerado tradicional da gastronomia do Espírito Santo?",
-        "opcoes": {
-            "A": "Incorreta. A feijoada é um prato nacional, não específico do Espírito Santo.",
-            "B": "Correta. A moqueca capixaba é um dos pratos mais tradicionais da culinária do Espírito Santo, preparada tradicionalmente em panela de barro com urucum.",
-            "C": "Incorreta. O acarajé é típico da Bahia.",
-            "D": "Incorreta. O pato no tucumã é típico da região Norte.",
-            "E": "Barreado"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A feijoada é um prato nacional, não específico do Espírito Santo. B) Correta. A moqueca capixaba é um dos pratos mais tradicionais da culinária do Espírito Santo, preparada tradicionalmente em panela de barro com urucum. C) Incorreta. O acarajé é típico da Bahia. D) Incorreta. O pato no tucumã é típico da região Norte. E) Incorreta. O barreado é típico do Paraná."
-    },
-    "Questão 46": {
-        "enunciado": "A inteligência artificial tem ganhado destaque no debate público \nbrasileiro. Qual das seguintes áreas tem sido mais impactada por essa tecnologia?",
-        "opcoes": {
-            "A": "Incorreta. O Porto de Santos fica em São Paulo.",
-            "B": "Correta. O Porto de Tubarão, localizado em Vitória, é outro importante complexo portuário do Espírito Santo, especializado na exportação de minério de ferro.",
-            "C": "Incorreta. O Porto de Itaguaí fica no Rio de Janeiro.",
-            "D": "Incorreta. O Porto de Suape fica em Pernambuco.",
-            "E": "Porto de Itajaí"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A agricultura de subsistência tem pouco acesso a essas tecnologias. B) Correta. Os serviços financeiros e o atendimento ao cliente têm sido as áreas mais impactadas pela inteligência artificial no Brasil, com chatbots, análise de crédito automatizada e outros sistemas. C) Incorreta. A pesca artesanal não é significativamente impactada por IA. D) Incorreta. O artesanato tradicional mantém características manuais. E) Incorreta. A criação extensiva de gado tem pouca aplicação de IA. Questão 47 O Espírito Santo tem uma posição estratégica no cenário logístico nacional. Além do Porto de Vitória, qual outro importante complexo portuário está localizado no estado? A) Porto de Santos B) Porto de Tubarão C) Porto de Itaguaí D) Porto de Suape E) Porto de Itajaí Resposta: B Comentário: A) Incorreta. O Porto de Santos fica em São Paulo. B) Correta. O Porto de Tubarão, localizado em Vitória, é outro importante complexo portuário do Espírito Santo, especializado na exportação de minério de ferro. C) Incorreta. O Porto de Itaguaí fica no Rio de Janeiro. D) Incorreta. O Porto de Suape fica em Pernambuco. E) Incorreta. O Porto de Itajaí fica em Santa Catarina."
-    },
-    "Questão 48": {
-        "enunciado": "A questão da segurança alimentar no Brasil tem múltiplas dimensões. \nQual programa governamental tem sido central no combate à fome?",
-        "opcoes": {
-            "A": "Incorreta. Desertificação não é um problema da região.",
-            "B": "Correta. A região metropolitana da Grande Vitória enfrenta problemas de poluição do ar e dos recursos hídricos devido à concentração de atividades industriais, especialmente siderúrgicas e portuárias.",
-            "C": "Incorreta. O Brasil não tem atividade sísmica significativa.",
-            "D": "Incorreta. Não há vulcanismo ativo no Brasil.",
-            "E": "Ciclones tropicais constantes"
-        },
-        "resposta_correta": "E",
-        "comentario": "A), B), C), D) Incorretas individualmente, mas corretas como parte do conjunto. E) Correta. Todos os programas mencionados contribuem de forma integrada para a segurança alimentar: o PNAE garante alimentação escolar, o Auxílio Brasil/Bolsa Família fornece renda para compra de alimentos, o PAA conecta produtores a consumidores, e o PRONAF fortalece a produção familiar. Questão 49 A região metropolitana do Espírito Santo enfrenta desafios ambientais. Qual é um dos principais problemas ambientais da Grande Vitória? A) Desertificação B) Poluição do ar e dos recursos hídricos devido à atividade industrial C) Terremotos frequentes D) Vulcanismo ativo E) Ciclones tropicais constantes Resposta: B Comentário: A) Incorreta. Desertificação não é um problema da região. B) Correta. A região metropolitana da Grande Vitória enfrenta problemas de poluição do ar e dos recursos hídricos devido à concentração de atividades industriais, especialmente siderúrgicas e portuárias. C) Incorreta. O Brasil não tem atividade sísmica significativa. D) Incorreta. Não há vulcanismo ativo no Brasil. E) Incorreta. Ciclones tropicais não são constantes na região."
-    },
-    "Questão 50": {
-        "enunciado": "O mercado de trabalho brasileiro tem passado por transformações \nestruturais. Qual tendência tem se consolidado no pós-pandemia?",
-        "opcoes": {
-            "A": "Incorreta. Houve modernização, não retorno a modelos antigos.",
-            "B": "Correta. O empreendedorismo e a economia de plataformas (trabalho por aplicativos, freelancers, etc.) têm crescido significativamente no Brasil pós-pandemia. • • •",
-            "C": "Incorreta. O trabalho formal continua existindo e sendo importante.",
-            "D": "Incorreta. Não houve concentração no setor agrícola.",
-            "E": "Redução da jornada de trabalho para 4 horas diárias"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Houve modernização, não retorno a modelos antigos. B) Correta. O empreendedorismo e a economia de plataformas (trabalho por aplicativos, freelancers, etc.) têm crescido significativamente no Brasil pós-pandemia. C) Incorreta. O trabalho formal continua existindo e sendo importante. D) Incorreta. Não houve concentração no setor agrícola. E) Incorreta. Não houve redução generalizada para 4 horas diárias."
-    },
-    "Questão 51": {
-        "enunciado": "O Espírito Santo possui características geológicas que favorecem \ndeterminadas atividades econômicas. Qual característica geológica é mais \nrelevante para a economia do estado?",
-        "opcoes": {
-            "A": "Correta. A presença de petróleo e gás natural na plataforma continental do Espírito Santo é a característica geológica mais relevante para a economia estadual, fazendo do estado o segundo maior produtor nacional.",
-            "B": "Incorreta. O estado não possui grandes reservas de carvão mineral.",
-            "C": "Incorreta. Embora possa haver ouro, não é a característica geológica mais relevante economicamente.",
-            "D": "Incorreta. Não há reservas significativas de urânio no estado.",
-            "E": "Presença de diamantes"
-        },
-        "resposta_correta": "A",
-        "comentario": "A) Correta. A presença de petróleo e gás natural na plataforma continental do Espírito Santo é a característica geológica mais relevante para a economia estadual, fazendo do estado o segundo maior produtor nacional. B) Incorreta. O estado não possui grandes reservas de carvão mineral. C) Incorreta. Embora possa haver ouro, não é a característica geológica mais relevante economicamente. D) Incorreta. Não há reservas significativas de urânio no estado. E) Incorreta. O estado não é conhecido por reservas de"
-    },
-    "Questão 52": {
-        "enunciado": "A educação superior no Brasil tem passado por expansão e \ndemocratização. Qual modalidade de ensino superior tem apresentado maior \ncrescimento?",
-        "opcoes": {
-            "A": "Incorreta. O ensino presencial não apresenta o maior crescimento.",
-            "B": "Correta. O ensino a distância (EaD) tem apresentado o maior crescimento no ensino superior brasileiro, especialmente após a pandemia.",
-            "C": "Incorreta. Cursos técnicos não são ensino superior.",
-            "D": "Incorreta. Embora importante, não apresenta o maior crescimento em números absolutos.",
-            "E": "Cursos livres"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. O ensino presencial não apresenta o maior crescimento. B) Correta. O ensino a distância (EaD) tem apresentado o maior crescimento no ensino superior brasileiro, especialmente após a pandemia. C) Incorreta. Cursos técnicos não são ensino superior. D) Incorreta. Embora importante, não apresenta o maior crescimento em números absolutos. E) Incorreta. Cursos livres não são ensino superior formal."
-    },
-    "Questão 53": {
-        "enunciado": "A cultura italiana tem forte presença no Espírito Santo devido à \nimigração histórica. Em qual região do estado essa influência é mais marcante?",
-        "opcoes": {
-            "A": "Incorreta. O norte do estado não concentra a maior influência italiana.",
-            "B": "Incorreta. Embora presente, não é onde a influência é mais marcante. •",
-            "C": "Correta. A região serrana do Espírito Santo, especialmente municípios como Santa Teresa, Domingos Martins e Venda Nova do Imigrante, concentra a maior influência da imigração italiana. • •",
-            "D": "Incorreta. O sul não é a região de maior influência italiana.",
-            "E": "Região litorânea"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. O norte do estado não concentra a maior influência italiana. B) Incorreta. Embora presente, não é onde a influência é mais marcante. C) Correta. A região serrana do Espírito Santo, especialmente municípios como Santa Teresa, Domingos Martins e Venda Nova do Imigrante, concentra a maior influência da imigração italiana. D) Incorreta. O sul não é a região de maior influência italiana. E) Incorreta. A região litorânea não concentra essa influência específica."
-    },
-    "Questão 54": {
-        "enunciado": "O sistema previdenciário brasileiro passou por reformas recentes. \nQual foi uma das principais mudanças implementadas?",
-        "opcoes": {
-            "A": "Incorreta. A aposentadoria por idade não foi eliminada.",
-            "B": "Correta. Uma das principais mudanças da reforma previdenciária foi o estabelecimento de idade mínima para aposentadoria (65 anos para homens e 62 para mulheres).",
-            "C": "Incorreta. O tempo mínimo de contribuição não foi reduzido para 10 anos.",
-            "D": "Incorreta. Não foi criada aposentadoria especial para todos.",
-            "E": "Eliminação da contribuição previdenciária"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A aposentadoria por idade não foi eliminada. B) Correta. Uma das principais mudanças da reforma previdenciária foi o estabelecimento de idade mínima para aposentadoria (65 anos para homens e 62 para mulheres). C) Incorreta. O tempo mínimo de contribuição não foi reduzido para 10 anos. D) Incorreta. Não foi criada aposentadoria especial para todos. E) Incorreta. A contribuição previdenciária não foi eliminada."
-    },
-    "Questão 55": {
-        "enunciado": "O Espírito Santo tem tradição na produção de café. Qual região do \nestado concentra a maior produção cafeeira?",
-        "opcoes": {
-            "A": "Incorreta. A região litorânea não é adequada para o cultivo de café.",
-            "B": "Incorreta. A região metropolitana é urbana e industrial.",
-            "C": "Correta. A região serrana e noroeste do Espírito Santo concentra a maior produção cafeeira do estado, com municípios como Linhares, São Mateus e região de montanha.",
-            "D": "Incorreta. O sul não é a principal região cafeeira.",
-            "E": "Região central"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. A região litorânea não é adequada para o cultivo de café. B) Incorreta. A região metropolitana é urbana e industrial. C) Correta. A região serrana e noroeste do Espírito Santo concentra a maior produção cafeeira do estado, com municípios como Linhares, São Mateus e região de montanha. D) Incorreta. O sul não é a principal região cafeeira. E) Incorreta. A região central não concentra a maior produção."
-    },
-    "Questão 56": {
-        "enunciado": "A questão da conectividade digital no Brasil tem evoluído. Qual \ntecnologia de internet móvel tem sido mais expandida recentemente?",
-        "opcoes": {
-            "A": "2G",
-            "B": "Incorretas. São tecnologias mais antigas. • • •",
-            "C": "Incorreta. O 4G já está consolidado.",
-            "D": "Correta. A tecnologia 5G tem sido a mais expandida recentemente no Brasil, com leilões de frequência e implementação nas principais cidades.",
-            "E": "Internet discada"
-        },
-        "resposta_correta": "D",
-        "comentario": "A), B) Incorretas. São tecnologias mais antigas. C) Incorreta. O 4G já está consolidado. D) Correta. A tecnologia 5G tem sido a mais expandida recentemente no Brasil, com leilões de frequência e implementação nas principais cidades. E) Incorreta. Internet discada é uma tecnologia obsoleta."
-    },
-    "Questão 57": {
-        "enunciado": "A matriz energética do Espírito Santo tem características específicas. \nQual fonte de energia tem maior participação na geração elétrica do estado?",
-        "opcoes": {
-            "A": "Incorreta. O envelhecimento aumenta a demanda por serviços de saúde.",
-            "B": "Correta. O envelhecimento populacional aumenta a pressão sobre o sistema previdenciário, com mais aposentados e menos contribuintes ativos proporcionalmente. •",
-            "C": "Incorreta. O envelhecimento é consequência do aumento da expectativa de vida. • •",
-            "D": "Incorreta. O envelhecimento implica redução proporcional da população jovem.",
-            "E": "Redução dos gastos públicos com idosos"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Embora importante, não é a maior fonte. B) Correta. As termelétricas a gás natural têm grande participação na matriz elétrica capixaba, aproveitando a produção local de gás natural. C) Incorreta. A energia eólica ainda tem participação limitada no estado. D) Incorreta. A energia solar está crescendo, mas não é a principal. E) Incorreta. Não há usinas nucleares no Espírito Santo. Questão 58 O envelhecimento populacional no Brasil tem implicações sociais e econômicas. Qual das seguintes é uma consequência direta desse processo? A) Redução da demanda por serviços de saúde B) Aumento da pressão sobre o sistema previdenciário C) Diminuição da expectativa de vida D) Crescimento acelerado da população jovem E) Redução dos gastos públicos com idosos Resposta: B Comentário: A) Incorreta. O envelhecimento aumenta a demanda por serviços de saúde. B) Correta. O envelhecimento populacional aumenta a pressão sobre o sistema previdenciário, com mais aposentados e menos contribuintes ativos proporcionalmente. C) Incorreta. O envelhecimento é consequência do aumento da expectativa de vida. D) Incorreta. O envelhecimento implica redução proporcional da população jovem. E) Incorreta. Os gastos com idosos tendem a aumentar."
-    },
-    "Questão 59": {
-        "enunciado": "A pesca é uma atividade tradicional no Espírito Santo. Qual é o \nprincipal tipo de pesca praticado no litoral capixaba?",
-        "opcoes": {
-            "A": "Incorreta. A pesca de água doce não é a principal no litoral.",
-            "B": "Incorreta. Embora exista, não é o tipo predominante.",
-            "C": "Correta. A pesca artesanal costeira é o principal tipo de pesca praticado no litoral do Espírito Santo, realizada por comunidades tradicionais.",
-            "D": "Incorreta. Aquicultura não é pesca tradicional no litoral.",
-            "E": "Pesca em alto-mar exclusivamente"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. A pesca de água doce não é a principal no litoral. B) Incorreta. Embora exista, não é o tipo predominante. C) Correta. A pesca artesanal costeira é o principal tipo de pesca praticado no litoral do Espírito Santo, realizada por comunidades tradicionais. D) Incorreta. Aquicultura não é pesca tradicional no litoral. E) Incorreta. A pesca em alto-mar não é a principal atividade."
-    },
-    "Questão 60": {
-        "enunciado": "A inovação tecnológica no setor público brasileiro tem avançado. Qual \niniciativa tem se destacado na modernização dos serviços?",
-        "opcoes": {
-            "A": "Incorreta. A tendência é de digitalização, não retorno ao presencial exclusivo.",
-            "B": "Correta. A implementação de governo eletrônico e serviços digitais tem sido a principal iniciativa de modernização do setor público brasileiro.",
-            "C": "Incorreta. Os sistemas informatizados estão sendo expandidos, não eliminados.",
-            "D": "Incorreta. A tendência é de digitalização de documentos.",
-            "E": "Proibição do uso de internet nos órgãos públicos"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A tendência é de digitalização, não retorno ao presencial exclusivo. B) Correta. A implementação de governo eletrônico e serviços digitais tem sido a principal iniciativa de modernização do setor público brasileiro. C) Incorreta. Os sistemas informatizados estão sendo expandidos, não eliminados. D) Incorreta. A tendência é de digitalização de documentos. E) Incorreta. A internet é fundamental para a modernização dos serviços públicos."
-    },
-    "Questão 61": {
-        "enunciado": "O turismo rural tem crescido no Espírito Santo. Qual atividade turística \nrural é mais característica do estado?",
-        "opcoes": {
-            "A": "Incorreta. Embora exista, não é a mais característica.",
-            "B": "Correta. O agroturismo em propriedades cafeeiras e de montanha, especialmente na região serrana, é a atividade de turismo rural mais característica do Espírito Santo.",
-            "C": "Incorreta. Não é uma atividade turística significativa no estado.",
-            "D": "Incorreta. Não é a atividade rural mais característica.",
-            "E": "Turismo astronômico"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Embora exista, não é a mais característica. B) Correta. O agroturismo em propriedades cafeeiras e de montanha, especialmente na região serrana, é a atividade de turismo rural mais característica do Espírito Santo. C) Incorreta. Não é uma atividade turística significativa no estado. D) Incorreta. Não é a atividade rural mais característica. E) Incorreta. Não há tradição significativa nesse tipo de turismo."
-    },
-    "Questão 62": {
-        "enunciado": "A questão da violência doméstica no Brasil tem recebido atenção \nespecial. Qual lei brasileira é específica para o combate à violência contra a \nmulher?",
-        "opcoes": {
-            "A": "Incorreta. Mineração não faz parte da economia criativa.",
-            "B": "Incorreta. Siderurgia é indústria tradicional.",
-            "C": "Correta. O setor audiovisual e de entretenimento digital tem se destacado na economia criativa brasileira, incluindo produção de conteúdo para streaming, jogos digitais e mídias sociais. • •",
-            "D": "Incorreta. Petroquímica não é economia criativa.",
-            "E": "Construção pesada"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A Lei de Crimes Hediondos é mais ampla. B) Correta. A Lei Maria da Penha (Lei 11.340/2006) é a legislação específica brasileira para combate à violência doméstica e familiar contra a mulher. C) Incorreta. A Lei de Execução Penal trata do cumprimento de penas. D) Incorreta. O CDC trata de relações de consumo. E) Incorreta. A LRF trata de finanças públicas. Questão 63 A economia criativa tem ganhado espaço no Brasil. Qual setor tem se destacado nessa área? A) Mineração B) Siderurgia C) Audiovisual e entretenimento digital D) Petroquímica E) Construção pesada Resposta: C Comentário: A) Incorreta. Mineração não faz parte da economia criativa. B) Incorreta. Siderurgia é indústria tradicional. C) Correta. O setor audiovisual e de entretenimento digital tem se destacado na economia criativa brasileira, incluindo produção de conteúdo para streaming, jogos digitais e mídias sociais. D) Incorreta. Petroquímica não é economia criativa. E) Incorreta. Construção pesada não faz parte da economia criativa."
-    },
-    "Questão 64": {
-        "enunciado": "O Espírito Santo possui diversidade étnica em sua formação \npopulacional. Além dos portugueses, quais grupos étnicos tiveram maior \ninfluência na formação da população capixaba?",
-        "opcoes": {
-            "A": "Incorreta. Alemães tiveram presença, mas japoneses não foram significativos.",
-            "B": "Correta. Italianos (através da imigração do século XIX) e africanos (através do período escravista) foram os grupos étnicos que, junto com os portugueses, tiveram maior influência na formação da população capixaba.",
-            "C": "Incorreta. Franceses e árabes não tiveram influência predominante.",
-            "D": "Incorreta. Holandeses e chineses não foram grupos significativos.",
-            "E": "Espanhóis e coreanos"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Alemães tiveram presença, mas japoneses não foram significativos. B) Correta. Italianos (através da imigração do século XIX) e africanos (através do período escravista) foram os grupos étnicos que, junto com os portugueses, tiveram maior influência na formação da população capixaba. C) Incorreta. Franceses e árabes não tiveram influência predominante. D) Incorreta. Holandeses e chineses não foram grupos significativos. E) Incorreta. Espanhóis e coreanos não tiveram influência predominante."
-    },
-    "Questão 65": {
-        "enunciado": "A agricultura familiar no Brasil tem importância social e econômica. \nQual programa governamental é específico para apoiar esse setor?",
-        "opcoes": {
-            "A": "Correta. O Brasil assumiu o compromisso de alcançar a neutralidade de carbono até 2050, alinhando-se com acordos climáticos internacionais.",
-            "B": "Incorreta. Não há compromisso de eliminação da agricultura.",
-            "C": "Incorreta. Não há proibição total de veículos.",
-            "D": "Incorreta. Não há compromisso de fim da produção industrial.",
-            "E": "Eliminação de todas as cidades"
-        },
-        "resposta_correta": "A",
-        "comentario": "A) Correta. O PRONAF é o principal programa governamental brasileiro específico para apoiar a agricultura familiar, oferecendo crédito e assistência técnica. B) Incorreta. Não é um programa específico para agricultura familiar. C) Incorreta. É um programa mais amplo, não específico para agricultura familiar. D) Incorreta. Foca no agronegócio em geral, não especificamente na agricultura familiar. E) Incorreta. É um programa técnico, não específico para agricultura familiar. Questão 66 O sistema de transporte público na Grande Vitória inclui diferentes modais. Qual modal de transporte coletivo foi implementado mais recentemente na região? A) Ônibus urbano B) Táxi C) VLT (Veículo Leve sobre Trilhos) D) Transporte fluvial E) Metrô subterrâneo Resposta: C Comentário: A) Incorreta. Ônibus urbano é o modal mais antigo. B) Incorreta. Táxi não é transporte coletivo. C) Correta. O VLT (Veículo Leve sobre Trilhos) foi o modal de transporte coletivo implementado mais recentemente na Grande Vitória. D) Incorreta. Não há transporte fluvial regular significativo. E) Incorreta. Não existe metrô subterrâneo na Grande Vitória. Questão 67 A questão climática tem influenciado políticas públicas no Brasil. Qual compromisso internacional o país assumiu recentemente? A) Neutralidade de carbono até 2050 B) Eliminação completa da agricultura C) Proibição total de veículos D) Fim da produção industrial E) Eliminação de todas as cidades Resposta: A Comentário: A) Correta. O Brasil assumiu o compromisso de alcançar a neutralidade de carbono até 2050, alinhando-se com acordos climáticos internacionais. B) Incorreta. Não há compromisso de eliminação da agricultura. C) Incorreta. Não há proibição total de veículos. D) Incorreta. Não há compromisso de fim da produção industrial. E) Incorreta. Não há compromisso de eliminação de cidades."
-    },
-    "Questão 68": {
-        "enunciado": "A indústria de celulose tem importância econômica no Espírito Santo. \nQual é a principal matéria-prima utilizada por essa indústria no estado?",
-        "opcoes": {
-            "A": "Incorreta. Não há proibição do uso de computadores.",
-            "B": "Correta. O Programa Nacional de Banda Larga tem sido uma das principais iniciativas para promover a inclusão digital no Brasil.",
-            "C": "Incorreta. Não há eliminação da internet.",
-            "D": "Incorreta. O objetivo é ampliar, não restringir o acesso.",
-            "E": "Fim dos serviços de telecomunicações"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Bambu não é a principal matéria-prima. B) Correta. O eucalipto é a principal matéria-prima da indústria de celulose no Espírito Santo, com extensas plantações no estado. C) Incorreta. Pinus é mais utilizado no Sul do país. D) Incorreta. Cana-de-açúcar não é usada para celulose. E) Incorreta. Algodão não é matéria-prima para celulose. Questão 69 A inclusão digital no Brasil tem sido uma prioridade governamental. Qual iniciativa tem sido mais importante nessa área? A) Proibição do uso de computadores B) Programa Nacional de Banda Larga C) Eliminação da internet D) Restrição ao acesso digital E) Fim dos serviços de telecomunicações Resposta: B Comentário: A) Incorreta. Não há proibição do uso de computadores. B) Correta. O Programa Nacional de Banda Larga tem sido uma das principais iniciativas para promover a inclusão digital no Brasil. C) Incorreta. Não há eliminação da internet. D) Incorreta. O objetivo é ampliar, não restringir o acesso. E) Incorreta. Os serviços de telecomunicações estão sendo expandidos."
-    },
-    "Questão 70": {
-        "enunciado": "A região norte do Espírito Santo tem características econômicas \nespecíficas. Qual atividade econômica é mais importante nessa região?",
-        "opcoes": {
-            "A": "Incorreta. Embora haja turismo, não é a atividade mais importante economicamente.",
-            "B": "Incorreta. Não há indústria automobilística significativa na região.",
-            "C": "Correta. A região norte do Espírito Santo é importante na produção de petróleo e gás natural, com várias plataformas marítimas.",
-            "D": "Incorreta. Não há mineração significativa de ouro na região.",
-            "E": "Produção de energia nuclear"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. Embora haja turismo, não é a atividade mais importante economicamente. B) Incorreta. Não há indústria automobilística significativa na região. C) Correta. A região norte do Espírito Santo é importante na produção de petróleo e gás natural, com várias plataformas marítimas. D) Incorreta. Não há mineração significativa de ouro na região. E) Incorreta. Não há produção de energia nuclear no estado."
-    },
-    "Questão 71": {
-        "enunciado": "O cooperativismo no Brasil tem papel importante na economia. Qual \nsetor tem maior tradição cooperativista no país?",
-        "opcoes": {
-            "A": "Incorreta. Não há excesso de água em todas as regiões.",
-            "B": "Correta. A distribuição desigual dos recursos hídricos entre as regiões brasileiras é um dos principais desafios, com abundância na região Norte e escassez relativa no Nordeste.",
-            "C": "Incorreta. O Brasil possui extensa rede hidrográfica.",
-            "D": "Incorreta. O país possui tecnologia para tratamento de água.",
-            "E": "Proibição do uso de água para agricultura"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Embora existam cooperativas de crédito, não é o setor de maior tradição. B) Correta. O setor agropecuário tem a maior tradição cooperativista no Brasil, com cooperativas que atuam na produção, beneficiamento e comercialização de produtos agrícolas. C) Incorreta. O setor industrial não tem a maior tradição cooperativista. D) Incorreta. Serviços urbanos não são o setor de maior tradição. E) Incorreta. O comércio varejista não tem a maior tradição cooperativista. Questão 72 A preservação do patrimônio histórico no Espírito Santo inclui centros urbanos tombados. Qual cidade capixaba possui centro histórico tombado pelo patrimônio nacional? A) Vitória B) Anchieta C) Vila Velha D) Serra E) Cariacica Resposta: B Comentário: A) Incorreta. Embora Vitória tenha patrimônio histórico, não possui centro histórico tombado nacionalmente. B) Correta. Anchieta possui centro histórico tombado pelo patrimônio nacional, incluindo a Igreja e Residência de José de Anchieta. C) Incorreta. Vila Velha não possui centro histórico tombado nacionalmente. D) Incorreta. Serra não possui centro histórico tombado nacionalmente. E) Incorreta. Cariacica não possui centro histórico tombado nacionalmente. Questão 73 A questão da água no Brasil envolve múltiplos desafios. Qual é um dos principais problemas relacionados aos recursos hídricos no país? A) Excesso de água em todas as regiões B) Distribuição desigual dos recursos hídricos entre as regiões C) Ausência completa de rios D) Falta de tecnologia para tratamento de água E) Proibição do uso de água para agricultura Resposta: B Comentário: A) Incorreta. Não há excesso de água em todas as regiões. B) Correta. A distribuição desigual dos recursos hídricos entre as regiões brasileiras é um dos principais desafios, com abundância na região Norte e escassez relativa no Nordeste. C) Incorreta. O Brasil possui extensa rede hidrográfica. D) Incorreta. O país possui tecnologia para tratamento de água. E) Incorreta. Não há proibição do uso de água para agricultura."
-    },
-    "Questão 74": {
-        "enunciado": "A economia solidária tem crescido no Brasil. Qual das seguintes \ncaracterísticas define melhor esse modelo econômico?",
-        "opcoes": {
-            "A": "Incorreta. A economia solidária não foca exclusivamente no lucro máximo.",
-            "B": "Incorreta. Não se baseia em propriedade privada concentrada.",
-            "C": "Correta. A economia solidária se caracteriza pela autogestão, cooperação e solidariedade, priorizando o bem-estar coletivo sobre o lucro individual. • •",
-            "D": "Incorreta. Não promove competição predatória.",
-            "E": "Exclusão social"
-        },
-        "resposta_correta": "C",
-        "comentario": "A) Incorreta. A economia solidária não foca exclusivamente no lucro máximo. B) Incorreta. Não se baseia em propriedade privada concentrada. C) Correta. A economia solidária se caracteriza pela autogestão, cooperação e solidariedade, priorizando o bem-estar coletivo sobre o lucro individual. D) Incorreta. Não promove competição predatória. E) Incorreta. Busca a inclusão social, não a exclusão."
-    },
-    "Questão 75": {
-        "enunciado": "O artesanato é uma expressão cultural importante no Espírito Santo. \nQual tipo de artesanato é mais característico do estado?",
-        "opcoes": {
-            "A": "Incorreta. A cerâmica marajoara é do Pará.",
-            "B": "Correta. A panela de barro capixaba, especialmente de Goiabeiras (Vitória), é um dos artesanatos mais característicos do Espírito Santo.",
-            "C": "Incorreta. Rendas de bilro são mais características do Nordeste.",
-            "D": "Incorreta. Esculturas em pedra-sabão são características de Minas Gerais.",
-            "E": "Tapetes de sisal"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A cerâmica marajoara é do Pará. B) Correta. A panela de barro capixaba, especialmente de Goiabeiras (Vitória), é um dos artesanatos mais característicos do Espírito Santo. C) Incorreta. Rendas de bilro são mais características do Nordeste. D) Incorreta. Esculturas em pedra-sabão são características de Minas Gerais. E) Incorreta. Tapetes de sisal não são característicos do estado."
-    },
-    "Questão 76": {
-        "enunciado": "A modernização do Estado brasileiro inclui a transformação digital. \nQual área tem sido prioritária nesse processo?",
-        "opcoes": {
-            "A": "Incorreta. A tendência é de digitalização, não retorno ao papel.",
-            "B": "Correta. A digitalização de serviços públicos tem sido prioritária na modernização do Estado brasileiro.",
-            "C": "Incorreta. Os sistemas eletrônicos estão sendo expandidos.",
-            "D": "Incorreta. A tecnologia é incentivada, não proibida.",
-            "E": "Volta aos métodos manuais"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A tendência é de digitalização, não retorno ao papel. B) Correta. A digitalização de serviços públicos tem sido prioritária na modernização do Estado brasileiro. C) Incorreta. Os sistemas eletrônicos estão sendo expandidos. D) Incorreta. A tecnologia é incentivada, não proibida. E) Incorreta. Os métodos estão sendo modernizados, não voltando aos manuais."
-    },
-    "Questão 77": {
-        "enunciado": "A questão energética no Espírito Santo inclui fontes renováveis. Qual \nfonte renovável tem maior potencial de crescimento no estado?",
-        "opcoes": {
-            "A": "Incorreta. Tratores manuais não são característicos da agricultura de precisão.",
-            "B": "Correta. O uso de GPS e sensores para otimização do plantio, aplicação de fertilizantes e defensivos é característico da agricultura de precisão.",
-            "C": "Incorreta. A agricultura de precisão é baseada em alta tecnologia.",
-            "D": "Incorreta. Usa tecnologias modernas, não ferramentas antigas.",
-            "E": "Eliminação de máquinas agrícolas"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A energia das marés ainda tem desenvolvimento limitado. B) Correta. A energia solar tem o maior potencial de crescimento no Espírito Santo devido às condições climáticas favoráveis. C) Incorreta. O potencial geotérmico é limitado no estado. D) Incorreta. Energia nuclear não é renovável. E) Incorreta. Carvão mineral não é renovável. Questão 78 A agricultura de precisão tem se desenvolvido no Brasil. Qual tecnologia é mais característica dessa modalidade? A) Uso de tratores manuais B) GPS e sensores para otimização do plantio C) Plantio sem qualquer tecnologia D) Uso exclusivo de ferramentas antigas E) Eliminação de máquinas agrícolas Resposta: B Comentário: A) Incorreta. Tratores manuais não são característicos da agricultura de precisão. B) Correta. O uso de GPS e sensores para otimização do plantio, aplicação de fertilizantes e defensivos é característico da agricultura de precisão. C) Incorreta. A agricultura de precisão é baseada em alta tecnologia. D) Incorreta. Usa tecnologias modernas, não ferramentas antigas. E) Incorreta. Utiliza máquinas agrícolas avançadas."
-    },
-    "Questão 79": {
-        "enunciado": "O desenvolvimento sustentável no Espírito Santo inclui projetos \nambientais. Qual área tem recebido mais atenção?",
-        "opcoes": {
-            "A": "Incorreta. O desmatamento não é incentivado.",
-            "B": "Correta. A recuperação de áreas degradadas e a conservação da Mata Atlântica têm recebido atenção especial nos projetos de desenvolvimento sustentável do estado. • • •",
-            "C": "Incorreta. As áreas verdes são preservadas, não eliminadas.",
-            "D": "Incorreta. Projetos ambientais são incentivados.",
-            "E": "Destruição de ecossistemas"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. O desmatamento não é incentivado. B) Correta. A recuperação de áreas degradadas e a conservação da Mata Atlântica têm recebido atenção especial nos projetos de desenvolvimento sustentável do estado. C) Incorreta. As áreas verdes são preservadas, não eliminadas. D) Incorreta. Projetos ambientais são incentivados. E) Incorreta. A destruição de ecossistemas não é objetivo dos projetos sustentáveis."
-    },
-    "Questão 80": {
-        "enunciado": "A inovação no setor público brasileiro tem incluído novas formas de \nparticipação cidadã. Qual mecanismo tem se destacado?",
-        "opcoes": {
-            "A": "Incorreta. A participação popular tem sido incentivada.",
-            "B": "Correta. Consultas públicas online e orçamento participativo digital têm se destacado como mecanismos de participação cidadã na inovação do setor público.",
-            "C": "Incorreta. Manifestações são direito constitucional.",
-            "D": "Incorreta. O acesso à informação tem sido ampliado.",
-            "E": "Fim dos canais de comunicação"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. A participação popular tem sido incentivada. B) Correta. Consultas públicas online e orçamento participativo digital têm se destacado como mecanismos de participação cidadã na inovação do setor público. C) Incorreta. Manifestações são direito constitucional. D) Incorreta. O acesso à informação tem sido ampliado. E) Incorreta. Os canais de comunicação têm sido expandidos."
-    },
-    "Questão 81": {
-        "enunciado": "A indústria naval no Brasil tem tradição em alguns estados. Qual é a \nsituação dessa indústria no Espírito Santo?",
-        "opcoes": {
-            "A": "Incorreta. Existe indústria naval no estado.",
-            "B": "Correta. O Espírito Santo possui estaleiros e atividades de apoio à exploração de petróleo offshore, aproveitando sua posição estratégica na produção petrolífera.",
-            "C": "Incorreta. Não se limita a embarcações de recreio.",
-            "D": "Incorreta. Não foca exclusivamente em navios militares.",
-            "E": "Produz apenas barcos de pesca artesanal"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. Existe indústria naval no estado. B) Correta. O Espírito Santo possui estaleiros e atividades de apoio à exploração de petróleo offshore, aproveitando sua posição estratégica na produção petrolífera. C) Incorreta. Não se limita a embarcações de recreio. D) Incorreta. Não foca exclusivamente em navios militares. E) Incorreta. Vai além de barcos de pesca artesanal."
-    },
-    "Questão 82": {
-        "enunciado": "A questão da mobilidade sustentável nas cidades brasileiras tem \nganhado importância. Qual alternativa tem sido mais promovida?",
-        "opcoes": {
-            "A": "Incorreta. O aumento de carros particulares não é sustentável.",
-            "B": "Correta. O incentivo ao uso de bicicletas e transporte público tem sido a principal estratégia para promover mobilidade sustentável nas cidades brasileiras.",
-            "C": "Incorreta. Calçadas são importantes para a mobilidade urbana.",
-            "D": "Incorreta. Pedestres são priorizados na mobilidade sustentável.",
-            "E": "Fim do transporte coletivo"
-        },
-        "resposta_correta": "B",
-        "comentario": "A) Incorreta. O aumento de carros particulares não é sustentável. B) Correta. O incentivo ao uso de bicicletas e transporte público tem sido a principal estratégia para promover mobilidade sustentável nas cidades brasileiras. C) Incorreta. Calçadas são importantes para a mobilidade urbana. D) Incorreta. Pedestres são priorizados na mobilidade sustentável. E) Incorreta. O transporte coletivo é incentivado, não eliminado."
-    },
-    "Questão 83": {
-        "enunciado": "A formação profissional no Brasil tem se adaptado às mudanças do \nmercado de trabalho. Qual modalidade de ensino tem crescido para atender essa \ndemanda?",
-        "opcoes": {
-            "A": "Correta. O ensino técnico e profissionalizante tem crescido significativamente para atender às demandas do mercado de trabalho brasileiro.",
-            "B": "Incorreta. Não é apenas o ensino superior tradicional que tem crescido.",
-            "C": "Incorreta. Cursos profissionais têm sido expandidos, não eliminados.",
-            "D": "Incorreta. A prática é valorizada na formação profissional.",
-            "E": "Redução da qualificação profissional"
-        },
-        "resposta_correta": "A",
-        "comentario": "A) Correta. O ensino técnico e profissionalizante tem crescido significativamente para atender às demandas do mercado de trabalho brasileiro. B) Incorreta. Não é apenas o ensino superior tradicional que tem crescido. C) Incorreta. Cursos profissionais têm sido expandidos, não eliminados. D) Incorreta. A prática é valorizada na formação profissional. E) Incorreta. A qualificação profissional tem sido ampliada, não reduzida. Observações Finais Este material foi elaborado seguindo rigorosamente as especificações, com questões inéditas que respeitam o estilo da banca IDCAP. Cada questão possui gabarito e comentário detalhado, explicando por que cada alternativa está correta ou incorreta. As questões abordam textos atuais e relevantes sobre tecnologia, educação, sustentabilidade, desigualdade social e leitura, proporcionando uma avaliação abrangente das competências em Atualidades exigidas para o concurso PP ES."
+    "resposta_correta": "A",
+    "comentario": {
+      "A": "Correta. A taxação de super-ricos tem como principais objetivos aumentar a arrecadação pública para investimentos sociais e em infraestrutura, além de contribuir para a redução da desigualdade social.",
+      "B": "Incorreta. A proposta não visa eliminar a propriedade privada, mas sim tributar grandes fortunas.",
+      "C": "Incorreta. Embora possa haver efeitos indiretos, não é o objetivo principal da medida.",
+      "D": "Incorreta. A medida visa combater, não incentivar, a evasão fiscal.",
+      "E": "Incorreta. O objetivo é justamente o oposto: reduzir a concentração de renda."
     }
-}
+  },
+  {
+    "numero": 2,
+    "questao": "A Reforma Tributária sobre o consumo, promulgada por meio da Emenda Constitucional 132 em dezembro de 2023, entrou em uma nova fase em 2025: a de regulamentação. Qual foi o primeiro ato normativo sancionado resultante desse processo?",
+    "opcoes": {
+      "A": "Uma Medida Provisória que estabeleceu as alíquotas do novo Imposto sobre Valor Agregado (IVA).",
+      "B": "Um Decreto Presidencial que detalhou o funcionamento do Imposto Seletivo.",
+      "C": "A Lei Complementar nº 214, de 16 de janeiro de 2025, que trata da Lei Geral do IBS, da CBS e do Imposto Seletivo.",
+      "D": "Uma Portaria do Ministério da Fazenda que criou o Comitê Gestor do Imposto sobre Bens e Serviços (IBS).",
+      "E": "A aprovação do Projeto de Lei Complementar (PLP) 108/2024, que trata do tributo a ser gerido por estados e municípios."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. A regulamentação está sendo feita por meio de Leis Complementares, não Medidas Provisórias.",
+      "B": "Incorreta. A regulamentação não foi feita por Decreto Presidencial.",
+      "C": "Correta. Conforme a página oficial do Ministério da Fazenda sobre a Reforma Tributária, o primeiro resultado do processo de regulamentação foi a sanção da Lei Complementar nº 214, de 16 de janeiro de 2025, que institui a Lei Geral do IBS, da CBS e do Imposto Seletivo.",
+      "D": "Incorreta. A criação do Comitê Gestor do IBS é objeto de outro projeto de lei complementar (PLP 108/2024), não de uma portaria.",
+      "E": "Incorreta. A aprovação do PLP 108/2024 no Senado ocorreu posteriormente, em setembro/outubro de 2025, e trata especificamente da gestão do IBS, não sendo o primeiro ato sancionado da regulamentação geral."
+    }
+  },
+  {
+    "numero": 3,
+    "questao": "A economia do Espírito Santo é marcada por sua diversidade e por sua relevância em setores estratégicos para o Brasil. Com base nos dados econômicos do estado, qual setor detém a maior participação no Produto Interno Bruto (PIB) capixaba?",
+    "opcoes": {
+      "A": "A agropecuária, impulsionada pela produção de café, da qual o estado é o segundo maior produtor do Sudeste.",
+      "B": "A indústria, com destaque para os segmentos siderúrgico, de celulose e madeireiro.",
+      "C": "O setor de serviços, impulsionado pela atividade portuária em Vitória, que abriga um dos portos mais movimentados do país.",
+      "D": "A extração de petróleo e gás natural, na qual o estado ocupa a segunda posição entre os maiores produtores do Brasil.",
+      "E": "O setor de exportação de rochas ornamentais, como o granito."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Embora a agropecuária seja importante, especialmente o café, sua participação no PIB (9,3%) é a menor entre os três grandes setores.",
+      "B": "Incorreta. A indústria tem uma participação significativa (34,5%), mas não é a maior.",
+      "C": "Correta. Conforme os dados apresentados, o setor de serviços é o principal componente da economia capixaba, respondendo por 56,3% do PIB estadual, em grande parte devido à intensa atividade portuária.",
+      "D": "Incorreta. A produção de petróleo e gás é uma atividade industrial de grande relevância e fonte de receita, mas está contida dentro do setor secundário (indústria), que não é o maior em participação no PIB.",
+      "E": "Incorreta. A exportação de granito é um nicho importante da economia, mas não representa o maior setor do PIB."
+    }
+  },
+  {
+    "numero": 4,
+    "questao": "De acordo com o Anuário Brasileiro de Segurança Pública 2025, o Brasil registrou em 2024 a menor taxa de Mortes Violentas Intencionais (MVI) desde 2012. Apesar da queda nacional, a violência letal permanece concentrada em determinadas regiões. Qual estado brasileiro liderou o ranking de mais violento do país em 2024?",
+    "opcoes": {
+      "A": "Bahia",
+      "B": "Ceará",
+      "C": "Amapá",
+      "D": "Pernambuco",
+      "E": "Rio de Janeiro"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. A Bahia apresentou a segunda maior taxa de MVI (40,6), mas não a primeira.",
+      "B": "Incorreta. O Ceará ficou na terceira posição, com uma taxa de 37,5.",
+      "C": "Correta. Conforme os dados do Anuário, o Amapá liderou o ranking com a maior taxa de Mortes Violentas Intencionais do Brasil em 2024, registrando 45,1 casos por 100 mil habitantes.",
+      "D": "Incorreta. Pernambuco ocupou a quarta posição no ranking.",
+      "E": "Incorreta. O Rio de Janeiro, apesar de sua notoriedade, ficou na 15ª posição, com uma taxa de 15,8, abaixo da média nacional."
+    }
+  },
+  {
+    "numero": 5,
+    "questao": "O mesmo Anuário Brasileiro de Segurança Pública 2025 aponta que as dez cidades com as maiores taxas de MVI em 2024 estão localizadas em uma única macrorregião do Brasil. A qual região pertencem todas essas cidades?",
+    "opcoes": {
+      "A": "Norte",
+      "B": "Centro-Oeste",
+      "C": "Sudeste",
+      "D": "Sul",
+      "E": "Nordeste"
+    },
+    "resposta_correta": "E",
+    "comentario": {
+      "A": "Incorreta. Embora a região Norte tenha a segunda maior taxa de violência, nenhuma de suas cidades apareceu no top 10.",
+      "B": "Incorreta. A região Centro-Oeste não teve cidades entre as mais violentas.",
+      "C": "Incorreta. A região Sudeste, apesar de populosa, apresentou taxas de violência menores.",
+      "D": "Incorreta. A região Sul tradicionalmente apresenta os menores índices de violência letal do país.",
+      "E": "Correta. O relatório destaca que todas as dez cidades com as maiores taxas de Mortes Violentas Intencionais em 2024 estão localizadas na região Nordeste, com a violência nessas áreas frequentemente associada a disputas entre facções do crime organizado."
+    }
+  },
+  {
+    "numero": 6,
+    "questao": "A cultura do Espírito Santo é marcada pela confluência de diversas influências. Qual das seguintes manifestações folclóricas, que envolve música, dança e elementos teatrais, é considerada um dos maiores símbolos da identidade cultural capixaba?",
+    "opcoes": {
+      "A": "O Maracatu, com suas origens africanas e coroação de reis negros.",
+      "B": "O Bumba Meu Boi, que encena a lenda da morte e ressurreição de um boi.",
+      "C": "O Congo (ou Congada), uma festa que homenageia santos padroeiros com cantos, danças e instrumentos de percussão característicos.",
+      "D": "A Festa do Divino, com suas tradições religiosas e a figura do Imperador.",
+      "E": "O Jongo, uma dança de roda de origem africana praticada ao som de tambores."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O Maracatu é uma manifestação cultural típica de Pernambuco.",
+      "B": "Incorreta. O Bumba Meu Boi é uma festa tradicional do Maranhão e de outras partes do Norte e Nordeste.",
+      "C": "Correta. O Congo é uma das mais expressivas e tradicionais manifestações culturais do Espírito Santo, especialmente em municípios como Serra, Vila Velha e Cariacica, misturando elementos religiosos católicos com tradições africanas.",
+      "D": "Incorreta. A Festa do Divino ocorre em várias partes do Brasil, mas não é o principal símbolo da identidade capixaba.",
+      "E": "Incorreta. O Jongo também é praticado no Espírito Santo, mas o Congo tem uma representatividade e abrangência maiores como símbolo cultural do estado."
+    }
+  },
+  {
+    "numero": 7,
+    "questao": "Em 2025, um debate sobre desigualdade social no Brasil ganhou força com a divulgação de uma pesquisa que revelou a percepção da população sobre o tema. Qual foi o principal achado dessa pesquisa, conforme noticiado pela Folha de S.Paulo?",
+    "opcoes": {
+      "A": "A maioria dos brasileiros acredita que a desigualdade diminuiu nos últimos anos.",
+      "B": "A percepção de desigualdade é maior entre os homens e nas classes sociais mais altas.",
+      "C": "Cerca de metade da população considera o país muito desigual.",
+      "D": "77% dos brasileiros consideram o país muito desigual, com essa percepção sendo ainda maior entre as mulheres.",
+      "E": "A pesquisa concluiu que a desigualdade de renda não é mais um problema central para a população."
+    },
+    "resposta_correta": "D",
+    "comentario": {
+      "A": "Incorreta. A pesquisa aponta para uma forte percepção de alta desigualdade, não de diminuição.",
+      "B": "Incorreta. A notícia indica que a percepção de desigualdade é maior entre as mulheres e nas classes C, D e E, não entre homens e classes altas.",
+      "C": "Incorreta. O percentual é significativamente maior que 50%.",
+      "D": "Correta. Segundo a pesquisa divulgada, um percentual expressivo de 77% dos brasileiros considera o país muito desigual, e essa percepção é ainda mais acentuada entre as mulheres (82%).",
+      "E": "Incorreta. O resultado da pesquisa reforça a ideia de que a desigualdade continua sendo uma preocupação central."
+    }
+  },
+  {
+    "numero": 8,
+    "questao": "O Espírito Santo possui uma geografia diversificada, que influencia diretamente sua economia e cultura. Qual das seguintes características descreve corretamente o relevo e o litoral do estado?",
+    "opcoes": {
+      "A": "O estado é predominantemente montanhoso, sem planícies litorâneas significativas.",
+      "B": "Seu território compreende uma extensa planície litorânea e uma região de planalto no interior, com um litoral de aproximadamente 400 km.",
+      "C": "O relevo é caracterizado por depressões e a maior parte do estado está abaixo do nível do mar.",
+      "D": "O litoral capixaba é curto, com menos de 100 km de extensão, e o interior é dominado por uma grande planície pantanosa.",
+      "E": "O estado não possui litoral, fazendo fronteira apenas com Minas Gerais, Bahia e Rio de Janeiro."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. Embora o interior seja montanhoso, o estado possui uma importante planície litorânea.",
+      "B": "Correta. Conforme informações do governo do estado e de fontes geográficas, o território capixaba é dividido em duas regiões naturais distintas: a baixada litorânea, que se estende por cerca de 400 km, e o planalto no interior.",
+      "C": "Incorreta. Não há grandes áreas de depressão ou abaixo do nível do mar no estado.",
+      "D": "Incorreta. O litoral é extenso, com aproximadamente 400 km, e o interior é um planalto, não um pantanal.",
+      "E": "Incorreta. O Espírito Santo é banhado pelo Oceano Atlântico a leste."
+    }
+  },
+  {
+    "numero": 9,
+    "questao": "A segurança pública no Brasil enfrenta desafios complexos e multifacetados. De acordo com especialistas e relatórios recentes, qual dos seguintes fatores é frequentemente apontado como um dos principais agravantes da violência e da criminalidade no país?",
+    "opcoes": {
+      "A": "A baixa densidade demográfica nas áreas rurais.",
+      "B": "O envelhecimento da população e a diminuição do número de jovens.",
+      "C": "A atuação de facções do crime organizado, especialmente em disputas por territórios para o tráfico de drogas.",
+      "D": "O excesso de policiamento ostensivo nas grandes cidades.",
+      "E": "A proibição da venda de armas de fogo para civis."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. A violência urbana, e não a baixa densidade rural, é o foco principal.",
+      "B": "Incorreta. O perfil demográfico da criminalidade geralmente se concentra na população jovem.",
+      "C": "Correta. Relatórios como o Anuário Brasileiro de Segurança Pública e análises de especialistas consistentemente apontam as disputas entre facções do crime organizado como um dos principais motores da violência letal no Brasil, especialmente nas regiões Norte e Nordeste.",
+      "D": "Incorreta. O debate sobre segurança pública geralmente aponta para a necessidade de um policiamento mais eficiente e inteligente, não para o excesso como causa da violência.",
+      "E": "Incorreta. O debate sobre o acesso a armas de fogo é complexo, mas a proibição em si não é apontada como a causa principal da atuação do crime organizado."
+    }
+  },
+  {
+    "numero": 10,
+    "questao": "A economia do Espírito Santo se destaca nacionalmente em várias áreas. Além de ser um grande exportador de minério de ferro e aço, o estado ocupa uma posição de destaque na produção de quais recursos energéticos?",
+    "opcoes": {
+      "A": "Carvão mineral e energia nuclear.",
+      "B": "Energia hidrelétrica e biomassa.",
+      "C": "Energia eólica e solar.",
+      "D": "Petróleo e gás natural.",
+      "E": "Urânio e xisto betuminoso."
+    },
+    "resposta_correta": "D",
+    "comentario": {
+      "A": "Incorreta. O estado importa carvão mineral, mas não é um grande produtor.",
+      "B": "Incorreta. Embora possua hidrelétricas, não é sua principal área de destaque energético nacional.",
+      "C": "Incorreta. A produção de energia eólica e solar é mais proeminente em outras regiões do Brasil.",
+      "D": "Correta. Conforme dados econômicos, o Espírito Santo é o segundo maior produtor de petróleo e gás natural do Brasil, ficando atrás apenas do Rio de Janeiro, com potencial de aumento devido à exploração da camada pré-sal.",
+      "E": "Incorreta. Não há produção significativa desses recursos no estado."
+    }
+  },
+  {
+    "numero": 11,
+    "questao": "Em 2025, o debate sobre a fome e a insegurança alimentar no Brasil continuou em pauta. Qual das seguintes afirmações reflete corretamente a situação, conforme apontado em análises sobre temas sociais relevantes para o país?",
+    "opcoes": {
+      "A": "A fome foi completamente erradicada no Brasil na última década.",
+      "B": "A insegurança alimentar afeta apenas populações rurais isoladas.",
+      "C": "Milhões de brasileiros ainda não têm acesso diário a uma alimentação adequada, tornando a fome um desafio persistente.",
+      "D": "O problema da fome no Brasil está restrito a questões de produção agrícola insuficiente.",
+      "E": "Programas de transferência de renda se mostraram ineficazes no combate à insegurança alimentar."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Apesar dos avanços em diferentes períodos, a fome voltou a ser um problema grave no Brasil.",
+      "B": "Incorreta. A insegurança alimentar é um problema que afeta tanto áreas urbanas quanto rurais.",
+      "C": "Correta. Análises sobre os principais problemas sociais do Brasil em 2025, como as citadas em portais de notícias e temas para o Enem, destacam que a fome e a insegurança alimentar continuam a ser um desafio significativo, afetando milhões de pessoas.",
+      "D": "Incorreta. O problema da fome no Brasil está mais relacionado ao acesso e à distribuição de alimentos do que à capacidade de produção.",
+      "E": "Incorreta. Programas de transferência de renda são considerados ferramentas importantes no combate à pobreza e à insegurança alimentar, embora possam ter sua eficácia debatida e aprimorada."
+    }
+  },
+  {
+    "numero": 12,
+    "questao": "A divisão político-administrativa do Espírito Santo organiza o estado em municípios. Quantos municípios compõem o estado do Espírito Santo?",
+    "opcoes": {
+      "A": "55",
+      "B": "68",
+      "C": "78",
+      "D": "88",
+      "E": "92"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE) e informações oficiais do governo estadual, o Espírito Santo é composto por 78 municípios."
+    }
+  },
+  {
+    "numero": 13,
+    "questao": "A discussão sobre a reforma tributária no Brasil em 2025 envolveu a criação de novos impostos e a unificação de outros. O Imposto sobre Bens e Serviços (IBS) é um dos pilares dessa reforma. Qual é a principal característica do IBS?",
+    "opcoes": {
+      "A": "É um imposto cumulativo, que incide em todas as etapas da cadeia produtiva.",
+      "B": "É um imposto de competência exclusiva da União.",
+      "C": "É um imposto que unifica o ICMS (estadual) e o ISS (municipal), com gestão compartilhada entre estados e municípios.",
+      "D": "É um imposto que incide apenas sobre serviços digitais.",
+      "E": "É um imposto seletivo, aplicado sobre produtos prejudiciais à saúde e ao meio ambiente."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Uma das principais vantagens da reforma é justamente a não cumulatividade, permitindo o crédito do imposto pago na etapa anterior.",
+      "B": "Incorreta. A Contribuição sobre Bens e Serviços (CBS) é de competência da União, mas o IBS é de competência de estados e municípios.",
+      "C": "Correta. O IBS é o chamado “IVA subnacional”, que unificará o ICMS (Imposto sobre Circulação de Mercadorias e Serviços) e o ISS (Imposto sobre Serviços de Qualquer Natureza), sendo gerido por um Comitê Gestor com participação de estados e municípios.",
+      "D": "Incorreta. O IBS incide sobre uma base ampla de bens e serviços.",
+      "E": "Incorreta. O imposto seletivo é outra parte da reforma, mas é um imposto distinto do IBS."
+    }
+  },
+  {
+    "numero": 14,
+    "questao": "O Brasil tem se destacado internacionalmente em iniciativas de combate à desigualdade. Em 2025, o Ministro da Fazenda Fernando Haddad fez uma declaração sobre o papel do país nessa área. Qual foi o teor da declaração?",
+    "opcoes": {
+      "A": "O Brasil deve focar apenas em questões econômicas internas, deixando as questões sociais para outros países.",
+      "B": "O país pode servir de exemplo a diversos países no combate à má distribuição de renda, à fome e à miséria.",
+      "C": "O Brasil não tem condições de ser referência internacional devido aos seus próprios problemas internos.",
+      "D": "As políticas sociais brasileiras são inadequadas e precisam ser completamente reformuladas.",
+      "E": "O país deve priorizar o crescimento econômico em detrimento das políticas sociais."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A declaração foi no sentido oposto, destacando o papel internacional do Brasil.",
+      "B": "Correta. Conforme noticiado pelo Ministério da Fazenda em abril de 2025, Fernando Haddad afirmou que o Brasil pode servir de exemplo a diversos países no combate à má distribuição de renda, à fome e à miséria, além do enfrentamento de outros desafios sociais.",
+      "C": "Incorreta. A declaração foi positiva sobre o potencial brasileiro como referência.",
+      "D": "Incorreta. Não foi essa a mensagem transmitida pelo ministro.",
+      "E": "Incorreta. A declaração enfatizou justamente a importância das políticas sociais."
+    }
+  },
+  {
+    "numero": 15,
+    "questao": "A Região Metropolitana da Grande Vitória (RMGV) é um importante centro econômico do Espírito Santo. Qual das seguintes cidades NÃO faz parte da RMGV?",
+    "opcoes": {
+      "A": "Vitória",
+      "B": "Vila Velha",
+      "C": "Cariacica",
+      "D": "Serra",
+      "E": "Linhares"
+    },
+    "resposta_correta": "E",
+    "comentario": {
+      "A": "Incorreta. Vitória (capital) é um dos principais municípios que compõem a Região Metropolitana da Grande Vitória.",
+      "B": "Incorreta. Vila Velha é um dos principais municípios que compõem a Região Metropolitana da Grande Vitória.",
+      "C": "Incorreta. Cariacica é um dos principais municípios que compõem a Região Metropolitana da Grande Vitória.",
+      "D": "Incorreta. Serra é um dos principais municípios que compõem a Região Metropolitana da Grande Vitória.",
+      "E": "Correta. Linhares é um importante município do norte do estado, mas não faz parte da Região Metropolitana da Grande Vitória. A RMGV é composta por Vitória, Vila Velha, Cariacica, Serra, Viana, Guarapari e Fundão."
+    }
+  },
+  {
+    "numero": 16,
+    "questao": "O Concurso Nacional Unificado (CNU) 2025 foi um marco na história dos concursos públicos brasileiros. Qual das seguintes informações sobre o CNU 2025 está correta?",
+    "opcoes": {
+      "A": "Foi o primeiro concurso público realizado no Brasil.",
+      "B": "Atraiu mais de 761 mil pessoas para disputar 3.652 vagas em 32 órgãos do governo federal.",
+      "C": "Foi exclusivo para cargos de nível médio.",
+      "D": "Teve sua realização cancelada devido a problemas logísticos.",
+      "E": "Foi realizado apenas na região Sudeste do país."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. Não foi o primeiro concurso público do Brasil, mas sim o maior em termos de participação.",
+      "B": "Correta. Conforme noticiado, o CNU 2025 foi considerado o maior concurso público do país, atraindo mais de 761 mil candidatos para disputar 3.652 vagas em 32 órgãos do governo federal.",
+      "C": "Incorreta. O concurso ofereceu vagas para diferentes níveis de escolaridade.",
+      "D": "Incorreta. O concurso foi realizado conforme programado.",
+      "E": "Incorreta. O concurso teve abrangência nacional."
+    }
+  },
+  {
+    "numero": 17,
+    "questao": "O café é um produto agrícola de grande importância para a economia do Espírito Santo. Qual é a posição do estado na produção de café em grãos na região Sudeste?",
+    "opcoes": {
+      "A": "Primeiro lugar, superando Minas Gerais.",
+      "B": "Segundo lugar, atrás apenas de Minas Gerais.",
+      "C": "Terceiro lugar, atrás de Minas Gerais e São Paulo.",
+      "D": "Quarto lugar na região Sudeste.",
+      "E": "O Espírito Santo não produz café comercialmente."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. Minas Gerais é tradicionalmente o maior produtor de café do Brasil.",
+      "B": "Correta. Conforme dados econômicos, o Espírito Santo é o segundo maior produtor de café em grãos da região Sudeste, ficando atrás apenas de Minas Gerais.",
+      "C": "Incorreta. São Paulo não supera o Espírito Santo na produção de café.",
+      "D": "Incorreta. O estado ocupa a segunda posição.",
+      "E": "Incorreta. O café é uma das principais culturas agrícolas do estado."
+    }
+  },
+  {
+    "numero": 18,
+    "questao": "A migração de crimes para o ambiente digital tem sido uma preocupação crescente das autoridades de segurança pública. O Anuário Brasileiro de Segurança Pública 2025 destacou essa tendência. Qual das seguintes afirmações melhor descreve essa situação?",
+    "opcoes": {
+      "A": "Os crimes digitais diminuíram significativamente em 2024.",
+      "B": "Há uma migração de crimes tradicionais para o ambiente digital, exigindo novas estratégias de combate.",
+      "C": "Os crimes digitais afetam apenas empresas de grande porte.",
+      "D": "A legislação brasileira não prevê punição para crimes cibernéticos.",
+      "E": "O Brasil não possui estrutura para investigar crimes digitais."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A tendência observada é de crescimento, não de diminuição.",
+      "B": "Correta. O Anuário de 2025 destacou a migração de crimes para o ambiente digital como uma das principais tendências, exigindo adaptação das forças de segurança e novas estratégias de prevenção e combate.",
+      "C": "Incorreta. Os crimes digitais afetam pessoas físicas, pequenas empresas e diversos segmentos da sociedade.",
+      "D": "Incorreta. O Brasil possui legislação específica para crimes cibernéticos, como a Lei Carolina Dieckmann.",
+      "E": "Incorreta. O país possui estruturas especializadas, embora possam necessitar de aprimoramento."
+    }
+  },
+  {
+    "numero": 19,
+    "questao": "O Porto de Vitória é um dos mais importantes do Brasil. Qual das seguintes características melhor descreve sua relevância econômica?",
+    "opcoes": {
+      "A": "É especializado exclusivamente na exportação de produtos agrícolas.",
+      "B": "É um dos portos mais movimentados do país, impulsionando significativamente o setor de serviços no estado.",
+      "C": "Opera apenas com navegação de cabotagem (transporte marítimo nacional).",
+      "D": "É utilizado exclusivamente para importação de produtos industrializados.",
+      "E": "Tem importância apenas regional, não nacional."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O porto movimenta diversos tipos de cargas, não apenas produtos agrícolas.",
+      "B": "Correta. Conforme informações econômicas, o Porto de Vitória é um dos mais movimentados do Brasil, sendo um fator fundamental para o desenvolvimento do setor de serviços no Espírito Santo.",
+      "C": "Incorreta. O porto opera tanto com navegação internacional quanto de cabotagem.",
+      "D": "Incorreta. O porto é importante tanto para exportações quanto para importações.",
+      "E": "Incorreta. Sua importância é nacional, não apenas regional."
+    }
+  },
+  {
+    "numero": 20,
+    "questao": "A questão da independência dos bancos centrais tem sido tema de debate econômico internacional. Segundo análises recentes sobre neoliberalismo, qual é uma das principais críticas feitas a essa independência?",
+    "opcoes": {
+      "A": "Os bancos centrais independentes são mais eficientes na condução da política monetária.",
+      "B": "A independência garante maior estabilidade econômica.",
+      "C": "A independência dos bancos centrais significa que eles não têm supervisão democrática.",
+      "D": "Bancos centrais independentes sempre promovem o crescimento econômico.",
+      "E": "A independência é necessária para combater a inflação."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Esta seria um argumento a favor, não uma crítica.",
+      "B": "Incorreta. Este também é um argumento favorável à independência.",
+      "C": "Correta. Conforme análises sobre o tema, uma das principais críticas à independência dos bancos centrais é que ela pode significar falta de supervisão democrática, removendo essas instituições do controle direto dos governos eleitos.",
+      "D": "Incorreta. A relação entre independência e crescimento econômico é complexa e debatida.",
+      "E": "Incorreta. Este é um argumento a favor da independência, não uma crítica."
+    }
+  },
+  {
+    "numero": 21,
+    "questao": "O turismo é uma atividade econômica importante para o Espírito Santo. Qual das seguintes atrações turísticas é considerada um dos principais destinos do estado?",
+    "opcoes": {
+      "A": "As Cataratas do Iguaçu",
+      "B": "O Parque Nacional da Chapada Diamantina",
+      "C": "O Parque Nacional do Caparaó, que abriga o Pico da Bandeira",
+      "D": "A Serra da Canastra",
+      "E": "O Pantanal"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. As Cataratas do Iguaçu ficam no Paraná.",
+      "B": "Incorreta. A Chapada Diamantina fica na Bahia.",
+      "C": "Correta. O Parque Nacional do Caparaó, que abriga o Pico da Bandeira (um dos pontos mais altos do Brasil), é compartilhado entre Espírito Santo e Minas Gerais, sendo uma das principais atrações turísticas do estado.",
+      "D": "Incorreta. A Serra da Canastra fica em Minas Gerais.",
+      "E": "Incorreta. O Pantanal fica no Mato Grosso e Mato Grosso do Sul."
+    }
+  },
+  {
+    "numero": 22,
+    "questao": "Em 2024, o Brasil registrou uma taxa de desemprego histórica. Qual foi essa taxa, conforme dados oficiais?",
+    "opcoes": {
+      "A": "8,5%",
+      "B": "6,1%",
+      "C": "10,2%",
+      "D": "4,8%",
+      "E": "12,1%"
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. Conforme noticiado pelo governo federal, o ano de 2024 terminou com o Brasil registrando a menor taxa de desemprego dos últimos 10 anos, atingindo 6,1% em dezembro."
+    }
+  },
+  {
+    "numero": 23,
+    "questao": "No contexto da segurança pública e do direito, o que significa o conceito de 'vitimização secundária' ou 'revitimização'?",
+    "opcoes": {
+      "A": "A ocorrência de um segundo crime contra a mesma vítima.",
+      "B": "O sofrimento adicional imposto à vítima pelo sistema de justiça criminal ou por outras instituições.",
+      "C": "A prevenção de crimes através de medidas de segurança mais rígidas.",
+      "D": "A reparação dos danos causados à vítima pelo agressor.",
+      "E": "A atribuição de culpa à vítima pelo crime que sofreu."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. Isso se refere à 'vitimização terciária'.",
+      "B": "Correta. A vitimização secundária, ou revitimização, ocorre quando a vítima de um crime sofre um sofrimento adicional, causado pelo sistema de justiça criminal, polícia ou outras instituições."
+    }
+  },
+  {
+    "numero": 24,
+    "questao": "Qual foi a principal discussão em torno da Lei de Diretrizes Orçamentárias (LDO) de 2025, no Congresso Nacional, conforme noticiado em meados de 2025?",
+    "opcoes": {
+      "A": "A criação de um novo imposto sobre grandes fortunas.",
+      "B": "A proposta do governo de vincular o reajuste do salário mínimo à inflação passada.",
+      "C": "O veto presidencial a uma emenda que vinculava o aumento de verbas do Judiciário e do Legislativo à receita da União.",
+      "D": "O debate sobre a redução da idade mínima para aposentadoria.",
+      "E": "A inclusão de um artigo que proibia a educação à distância."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Não foi a principal discussão da LDO de 2025.",
+      "B": "Incorreta. A vinculação do salário mínimo à inflação passada já era uma diretriz estabelecida.",
+      "C": "Correta. A principal discussão foi a tentativa do governo de derrubar uma emenda, aprovada pelo Congresso, que garantia que a verba do Judiciário e do Legislativo seria reajustada automaticamente com o aumento da receita da União, limitando o poder de barganha do Executivo.",
+      "D": "Incorreta. Não foi tema da LDO.",
+      "E": "Incorreta. Não houve essa proposta na LDO."
+    }
+  },
+  {
+    "numero": 25,
+    "questao": "A economia do Espírito Santo é diversificada. Qual das seguintes cadeias produtivas NÃO está entre as principais do estado?",
+    "opcoes": {
+      "A": "Petróleo e gás",
+      "B": "Rochas ornamentais",
+      "C": "Celulose e papel",
+      "D": "Siderurgia",
+      "E": "Produção de veículos automotores"
+    },
+    "resposta_correta": "E",
+    "comentario": {
+      "A": "Incorreta. Petróleo e gás são cadeias produtivas importantes do Espírito Santo.",
+      "B": "Incorreta. Rochas ornamentais são cadeias produtivas importantes do Espírito Santo.",
+      "C": "Incorreta. Celulose e papel são cadeias produtivas importantes do Espírito Santo.",
+      "D": "Incorreta. Siderurgia é uma cadeia produtiva importante do Espírito Santo.",
+      "E": "Correta. A produção de veículos automotores não está entre as principais cadeias produtivas do Espírito Santo, que se concentra mais em commodities, energia e produtos siderúrgicos."
+    }
+  },
+  {
+    "numero": 26,
+    "questao": "O crescimento econômico brasileiro em 2024 superou as expectativas. Qual foi a taxa de crescimento do PIB real do Brasil naquele ano?",
+    "opcoes": {
+      "A": "1,8%",
+      "B": "2,6%",
+      "C": "3,4%",
+      "D": "4,2%",
+      "E": "5,1%"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. Conforme dados do Banco Mundial, o PIB real do Brasil cresceu 3,4% em 2024, superando as projeções iniciais."
+    }
+  },
+  {
+    "numero": 27,
+    "questao": "Em relação à violência contra a mulher, qual tipo de violência, muitas vezes sutil e de difícil comprovação, tem sido crescentemente reconhecido e debatido no cenário de segurança pública no Brasil?",
+    "opcoes": {
+      "A": "Violência patrimonial.",
+      "B": "Violência sexual.",
+      "C": "Violência psicológica.",
+      "D": "Isolamento social.",
+      "E": "Violência física."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Embora seja um tipo de violência contra a mulher, não é a mais sutil e debatida recentemente.",
+      "B": "Incorreta. A violência sexual é uma forma grave, mas não a mais sutil.",
+      "C": "Correta. A violência psicológica, que envolve ameaças, constrangimento, humilhação e manipulação, tem sido crescentemente reconhecida e é difícil de ser comprovada, sendo uma das formas de violência mais frequentes contra a mulher.",
+      "D": "Incorreta. O isolamento social pode ser uma tática, mas o termo 'violência psicológica' abrange um espectro maior de comportamentos.",
+      "E": "Incorreta. A violência física é a mais explícita."
+    }
+  },
+  {
+    "numero": 28,
+    "questao": "O Espírito Santo faz fronteira com quantos estados brasileiros?",
+    "opcoes": {
+      "A": "Dois",
+      "B": "Três",
+      "C": "Quatro",
+      "D": "Cinco",
+      "E": "Seis"
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. O Espírito Santo faz fronteira com três estados: Bahia (ao norte), Minas Gerais (a oeste e noroeste) e Rio de Janeiro (ao sul). A leste, é banhado pelo Oceano Atlântico."
+    }
+  },
+  {
+    "numero": 29,
+    "questao": "A discussão sobre mudanças climáticas e sustentabilidade tem ganhado destaque no Brasil. Qual evento internacional relacionado ao meio ambiente o país sediará em breve?",
+    "opcoes": {
+      "A": "A Conferência das Nações Unidas sobre Mudanças Climáticas (COP30)",
+      "B": "O Fórum Econômico Mundial",
+      "C": "A Cúpula do G20",
+      "D": "A Assembleia Geral da ONU",
+      "E": "A Conferência Mundial sobre Biodiversidade"
+    },
+    "resposta_correta": "A",
+    "comentario": {
+      "A": "Correta. O Brasil foi escolhido para sediar a COP30 (30ª Conferência das Nações Unidas sobre Mudanças Climáticas) em 2025, que será realizada em Belém, no Pará."
+    }
+  },
+  {
+    "numero": 30,
+    "questao": "A capital do Espírito Santo, Vitória, tem uma característica geográfica peculiar. Qual é essa característica?",
+    "opcoes": {
+      "A": "É a única capital do Brasil que não possui praias.",
+      "B": "É a única capital brasileira totalmente localizada em um arquipélago.",
+      "C": "É a única capital do Sudeste a ser totalmente plana.",
+      "D": "É uma capital insular, com parte de seu território em uma ilha (Ilha de Vitória).",
+      "E": "É a capital mais fria do Brasil."
+    },
+    "resposta_correta": "D",
+    "comentario": {
+      "A": "Incorreta. Vitória possui praias.",
+      "B": "Incorreta. Não é a única capital brasileira totalmente em um arquipélago, já que Florianópolis também o é.",
+      "C": "Incorreta. Vitória possui um relevo acidentado.",
+      "D": "Correta. Vitória é uma capital insular, ou seja, está situada em parte em uma ilha (Ilha de Vitória), além de ter área no continente.",
+      "E": "Incorreta. Vitória possui um clima tropical."
+    }
+  },
+  {
+    "numero": 31,
+    "questao": "O conceito de 'teto de gastos' (Emenda Constitucional 95/2016), amplamente debatido na economia brasileira, tem como principal objetivo:",
+    "opcoes": {
+      "A": "Aumentar os gastos públicos acima da inflação.",
+      "B": "Limitar o crescimento das despesas públicas da União à inflação do ano anterior.",
+      "C": "Garantir o aumento real do salário mínimo todos os anos.",
+      "D": "Reduzir a dívida externa do país.",
+      "E": "Aumentar a arrecadação de impostos."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O objetivo é o oposto, limitar os gastos.",
+      "B": "Correta. O teto de gastos (EC 95) é uma regra fiscal que limita o crescimento das despesas públicas federais à variação da inflação do ano anterior, visando o ajuste das contas públicas.",
+      "C": "Incorreta. O teto de gastos não trata especificamente do salário mínimo, podendo até dificultar o aumento real.",
+      "D": "Incorreta. Embora possa ter impacto indireto, não é o foco principal.",
+      "E": "Incorreta. O teto de gastos atua sobre as despesas, não sobre a arrecadação."
+    }
+  },
+  {
+    "numero": 32,
+    "questao": "A agricultura sustentável é um tema de destaque no agronegócio brasileiro em 2025. Qual das seguintes práticas é considerada um pilar da sustentabilidade na agricultura?",
+    "opcoes": {
+      "A": "Uso indiscriminado de agrotóxicos.",
+      "B": "Expansão da área plantada sobre áreas de preservação permanente.",
+      "C": "Adoção de técnicas como o plantio direto e a integração lavoura-pecuária-floresta (ILPF).",
+      "D": "Monocultura intensiva sem rotação de culturas.",
+      "E": "O desmatamento para ampliação de áreas produtivas."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O uso indiscriminado de agrotóxicos é o oposto de sustentável.",
+      "B": "Incorreta. A preservação de áreas é fundamental para a sustentabilidade.",
+      "C": "Correta. O plantio direto e a ILPF (Integração Lavoura-Pecuária-Floresta) são técnicas que visam a conservação do solo, a melhoria da qualidade da água e a redução da emissão de carbono, sendo pilares da agricultura sustentável.",
+      "D": "Incorreta. A rotação de culturas é incentivada.",
+      "E": "Incorreta. O desmatamento é prejudicial à sustentabilidade."
+    }
+  },
+  {
+    "numero": 33,
+    "questao": "Em 2025, o Brasil alcançou uma marca histórica no combate à malária. Qual foi essa marca?",
+    "opcoes": {
+      "A": "A erradicação completa da doença no país.",
+      "B": "A redução a zero do número de casos em todos os estados da região Nordeste.",
+      "C": "A certificação de 'Livre de Malária' pela OMS na região Centro-Oeste.",
+      "D": "A certificação de 'Livre de Malária' pela OMS em todo o território nacional.",
+      "E": "A certificação de 'Livre de Malária' pela Organização Mundial da Saúde (OMS) no Espírito Santo."
+    },
+    "resposta_correta": "E",
+    "comentario": {
+      "A": "Incorreta. A malária ainda existe na região amazônica.",
+      "B": "Incorreta. Não houve essa redução completa.",
+      "C": "Incorreta. Não houve essa certificação.",
+      "D": "Incorreta. O Brasil ainda não foi certificado como 'Livre de Malária'.",
+      "E": "Correta. Em 2025, o Espírito Santo recebeu a certificação da OMS (Organização Mundial da Saúde) como 'Livre de Malária', sendo um marco no combate à doença no país."
+    }
+  },
+  {
+    "numero": 34,
+    "questao": "O Espírito Santo é conhecido como um grande polo produtor de rochas ornamentais. Em qual município capixaba ocorre a maior concentração dessa produção?",
+    "opcoes": {
+      "A": "Vitória",
+      "B": "Serra",
+      "C": "Cachoeiro de Itapemirim",
+      "D": "Linhares",
+      "E": "Colatina"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Vitória é o centro político e de serviços.",
+      "B": "Incorreta. Serra é um polo industrial e portuário.",
+      "C": "Correta. Cachoeiro de Itapemirim, na região sul do estado, é um dos maiores polos mundiais de extração e beneficiamento de mármore e granito.",
+      "D": "Incorreta. Linhares é importante na área de celulose e petróleo.",
+      "E": "Incorreta. Colatina é um centro regional importante, mas não o principal polo de rochas ornamentais."
+    }
+  },
+  {
+    "numero": 35,
+    "questao": "A desigualdade social no Brasil se manifesta de diversas formas. A chamada 'desigualdade racial' é uma delas. Qual dos seguintes dados melhor ilustra essa desigualdade, conforme relatórios recentes?",
+    "opcoes": {
+      "A": "Maior número de pessoas brancas em universidades públicas.",
+      "B": "Maior número de pessoas brancas em cargos de liderança nas empresas.",
+      "C": "A população negra e parda é a mais atingida pela pobreza e desemprego, sendo a maioria nas camadas mais pobres da sociedade.",
+      "D": "O acesso à saúde é igual para todas as etnias.",
+      "E": "Não há diferença salarial entre brancos e negros no Brasil."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Embora seja um indicador, o principal indicador de desigualdade racial é a concentração na pobreza.",
+      "B": "Incorreta. Embora seja um indicador, o principal indicador de desigualdade racial é a concentração na pobreza.",
+      "C": "Correta. Relatórios oficiais e de ONGs consistentemente apontam que a população negra e parda é a mais atingida pela pobreza e desemprego no Brasil, concentrando-se nas faixas de renda mais baixas.",
+      "D": "Incorreta. Há disparidades no acesso à saúde.",
+      "E": "Incorreta. Há uma significativa diferença salarial entre brancos e negros no Brasil."
+    }
+  },
+  {
+    "numero": 36,
+    "questao": "O novo marco fiscal (Lei Complementar nº 107/2024), que substituiu o teto de gastos no Brasil, tem como principal diferença em relação à regra anterior:",
+    "opcoes": {
+      "A": "Permitir que as despesas cresçam mais do que a inflação, se houver crescimento da receita.",
+      "B": "Proibir completamente qualquer aumento de despesas públicas.",
+      "C": "Determinar que as despesas só podem ser reduzidas.",
+      "D": "Excluir os gastos com saúde e educação do limite de despesas.",
+      "E": "Permitir gastos ilimitados, sem qualquer regra fiscal."
+    },
+    "resposta_correta": "A",
+    "comentario": {
+      "A": "Correta. O novo marco fiscal estabelece um limite de crescimento das despesas, mas permite que este cresça em termos reais (acima da inflação) se a arrecadação tiver um desempenho positivo, ao contrário do Teto de Gastos, que limitava o crescimento apenas à inflação.",
+      "B": "Incorreta. O novo marco permite aumento de despesas, mas com regras.",
+      "C": "Incorreta. O objetivo não é apenas reduzir, mas controlar o crescimento.",
+      "D": "Incorreta. Os gastos com saúde e educação continuam sujeitos a regras, embora com pisos mínimos.",
+      "E": "Incorreta. O novo marco é um conjunto de regras para controlar os gastos."
+    }
+  },
+  {
+    "numero": 37,
+    "questao": "No contexto das relações Brasil-China em 2025, qual foi um dos principais temas de cooperação e negociação, conforme noticiado?",
+    "opcoes": {
+      "A": "A importação de automóveis de luxo brasileiros pela China.",
+      "B": "A facilitação de investimentos chineses em infraestrutura no Brasil, como ferrovias e portos.",
+      "C": "A proibição de exportações de carne brasileira para a China.",
+      "D": "O aumento da tarifa de importação para produtos chineses no Brasil.",
+      "E": "A desvalorização da moeda chinesa para favorecer exportações brasileiras."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O principal foco de exportação brasileira é em commodities.",
+      "B": "Correta. A cooperação entre Brasil e China tem se aprofundado, com a China buscando ampliar seus investimentos em infraestrutura no Brasil, incluindo ferrovias, portos e energia, como parte de sua estratégia global de investimento.",
+      "C": "Incorreta. A China é um dos maiores compradores de carne brasileira.",
+      "D": "Incorreta. O foco é na cooperação econômica e comercial.",
+      "E": "Incorreta. A desvalorização cambial não foi tema central de negociação, e isso afetaria a balança comercial."
+    }
+  },
+  {
+    "numero": 38,
+    "questao": "Qual dos seguintes elementos geográficos é considerado um marco natural importante do Espírito Santo?",
+    "opcoes": {
+      "A": "O Rio São Francisco.",
+      "B": "A Serra do Mar, em sua totalidade.",
+      "C": "O Pico da Bandeira.",
+      "D": "O Rio Paraná.",
+      "E": "O Pantanal."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O Rio São Francisco não passa pelo Espírito Santo.",
+      "B": "Incorreta. A Serra do Mar não percorre o estado em sua totalidade.",
+      "C": "Correta. O Pico da Bandeira, o terceiro ponto mais alto do Brasil, está localizado no Parque Nacional do Caparaó, na divisa entre o Espírito Santo e Minas Gerais, sendo um importante marco geográfico.",
+      "D": "Incorreta. O Rio Paraná não passa pelo Espírito Santo.",
+      "E": "Incorreta. O Pantanal não tem relação com o Espírito Santo."
+    }
+  },
+  {
+    "numero": 39,
+    "questao": "A questão da segurança alimentar e da pobreza no Brasil em 2025 está intimamente ligada ao conceito de 'renda básica'. Qual o principal objetivo de um programa de renda básica universal (RBU)?",
+    "opcoes": {
+      "A": "Substituir todos os salários por um pagamento estatal.",
+      "B": "Garantir um valor mínimo em dinheiro a todos os cidadãos, independentemente de sua renda ou emprego.",
+      "C": "Financiar apenas a educação superior.",
+      "D": "Incentivar a informalidade no mercado de trabalho.",
+      "E": "Reduzir a arrecadação de impostos."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A RBU complementa, não substitui, todos os salários.",
+      "B": "Correta. A RBU é uma proposta que visa garantir um valor em dinheiro a todos, de forma incondicional, com o objetivo de reduzir a pobreza e a desigualdade social.",
+      "C": "Incorreta. O foco é no combate à pobreza e na garantia de subsistência.",
+      "D": "Incorreta. O objetivo é dar segurança financeira.",
+      "E": "Incorreta. A RBU geralmente exige um aumento na arrecadação ou um remanejamento de recursos."
+    }
+  },
+  {
+    "numero": 40,
+    "questao": "O Espírito Santo possui importantes áreas de conservação ambiental. Qual bioma é predominante no estado?",
+    "opcoes": {
+      "A": "Caatinga",
+      "B": "Cerrado",
+      "C": "Pampa",
+      "D": "Mata Atlântica",
+      "E": "Amazônia"
+    },
+    "resposta_correta": "D",
+    "comentario": {
+      "A": "Incorreta. A Caatinga está no Nordeste.",
+      "B": "Incorreta. O Cerrado está no Centro-Oeste.",
+      "C": "Incorreta. O Pampa está no Sul.",
+      "D": "Correta. O Espírito Santo é um dos estados que tem quase todo o seu território inserido no bioma Mata Atlântica, sendo um dos mais ameaçados do Brasil.",
+      "E": "Incorreta. A Amazônia está no Norte."
+    }
+  },
+  {
+    "numero": 41,
+    "questao": "Em 2025, o debate sobre a reforma do Ensino Médio no Brasil voltou ao centro da discussão. Qual é o principal ponto de controvérsia dessa reforma?",
+    "opcoes": {
+      "A": "A obrigatoriedade de todas as escolas terem ensino integral.",
+      "B": "A flexibilização do currículo com os 'itinerários formativos' e a redução da carga horária das disciplinas tradicionais.",
+      "C": "O aumento do número de anos de estudo obrigatório.",
+      "D": "A proibição do uso de tecnologia em sala de aula.",
+      "E": "A eliminação de todas as matérias do currículo, mantendo apenas a formação técnica."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O ensino integral não é o único ponto de controvérsia.",
+      "B": "Correta. O principal ponto de controvérsia da Reforma do Ensino Médio é a implementação dos 'itinerários formativos' e a consequente redução da carga horária das disciplinas tradicionais, o que tem sido criticado por precarizar a formação básica dos estudantes.",
+      "C": "Incorreta. A reforma não trata do aumento do número de anos.",
+      "D": "Incorreta. O uso de tecnologia é incentivado.",
+      "E": "Incorreta. Não há proposta de eliminação total de matérias."
+    }
+  },
+  {
+    "numero": 42,
+    "questao": "O Fundo Clima é um instrumento fundamental para a política ambiental brasileira. Qual é o seu principal objetivo?",
+    "opcoes": {
+      "A": "Financiar a produção de combustíveis fósseis.",
+      "B": "Apoiar projetos e estudos que visem a mitigação e a adaptação às mudanças climáticas.",
+      "C": "Subsidiar a compra de carros a gasolina.",
+      "D": "Financiar a expansão do agronegócio sobre áreas de preservação.",
+      "E": "Promover o desmatamento da Amazônia."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O objetivo é o oposto, financiar a transição energética.",
+      "B": "Correta. O Fundo Clima é um instrumento de financiamento da Política Nacional sobre Mudança do Clima, com o objetivo de apoiar projetos que visem à mitigação da emissão de gases de efeito estufa e à adaptação do país aos impactos das mudanças climáticas.",
+      "C": "Incorreta. O objetivo é incentivar energias renováveis.",
+      "D": "Incorreta. O objetivo é promover a sustentabilidade.",
+      "E": "Incorreta. O Fundo Clima visa o combate ao desmatamento."
+    }
+  },
+  {
+    "numero": 43,
+    "questao": "A discussão sobre a privatização da Companhia Espírito Santense de Saneamento (Cesan) foi um tema de destaque no estado em 2024. Qual era o principal objetivo da proposta de desestatização, conforme o governo estadual?",
+    "opcoes": {
+      "A": "Eliminar a competição no setor de saneamento básico.",
+      "B": "Aumentar as tarifas de água e esgoto para todos os consumidores.",
+      "C": "Garantir a universalização dos serviços de saneamento básico no estado até 2033.",
+      "D": "Restringir o acesso à água apenas para a capital, Vitória.",
+      "E": "Manter o serviço de saneamento apenas na esfera pública."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O objetivo era aumentar a eficiência e o investimento.",
+      "B": "Incorreta. O objetivo era atrair investimento para expansão da rede.",
+      "C": "Correta. A desestatização da Cesan, em linha com o Novo Marco Legal do Saneamento, tinha como objetivo primordial garantir a universalização dos serviços de água e esgoto no Espírito Santo até 2033, por meio de investimentos privados.",
+      "D": "Incorreta. O objetivo era expandir o acesso a todo o estado.",
+      "E": "Incorreta. A proposta era de desestatização."
+    }
+  },
+  {
+    "numero": 44,
+    "questao": "No contexto da Política Externa Brasileira em 2025, o Brasil tem buscado reforçar sua posição como 'ponte' entre países desenvolvidos e em desenvolvimento. Qual dos seguintes grupos ou fóruns internacionais é central nessa estratégia?",
+    "opcoes": {
+      "A": "O BRICS, composto por Brasil, Rússia, Índia, China e África do Sul.",
+      "B": "O G7, composto pelos países mais ricos do mundo.",
+      "C": "A Organização do Tratado do Atlântico Norte (OTAN).",
+      "D": "O NAFTA, bloco comercial da América do Norte.",
+      "E": "A Comunidade dos Estados Independentes (CEI)."
+    },
+    "resposta_correta": "A",
+    "comentario": {
+      "A": "Correta. O BRICS é um grupo de países emergentes que busca uma nova ordem multipolar e tem sido um foco central da política externa brasileira para reforçar o papel do Brasil como líder e mediador de interesses do Sul Global.",
+      "B": "Incorreta. O Brasil não faz parte do G7.",
+      "C": "Incorreta. A OTAN é uma aliança militar.",
+      "D": "Incorreta. O NAFTA é um bloco regional do qual o Brasil não faz parte.",
+      "E": "Incorreta. A CEI é um bloco de países da ex-União Soviética."
+    }
+  },
+  {
+    "numero": 45,
+    "questao": "A diversidade étnica no Espírito Santo é marcada pela forte presença de imigrantes de um país europeu. Qual país é esse?",
+    "opcoes": {
+      "A": "Espanha",
+      "B": "França",
+      "C": "Itália",
+      "D": "Alemanha",
+      "E": "Portugal"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Não é o principal grupo de imigrantes europeus.",
+      "B": "Incorreta. Não é o principal grupo de imigrantes europeus.",
+      "C": "Correta. O Espírito Santo recebeu um grande fluxo de imigrantes italianos a partir do século XIX, que contribuíram significativamente para a cultura e a economia do estado, especialmente na região serrana e em algumas cidades do interior.",
+      "D": "Incorreta. Embora haja presença alemã, a italiana é mais expressiva.",
+      "E": "Incorreta. A imigração portuguesa ocorreu em todo o Brasil, mas a italiana é a mais marcante no ES."
+    }
+  },
+  {
+    "numero": 46,
+    "questao": "O aumento da desigualdade social e a concentração de renda são fenômenos globais. No Brasil, essa concentração é evidente. Qual dos seguintes dados estatísticos é frequentemente usado para medir a desigualdade de renda em um país?",
+    "opcoes": {
+      "A": "Produto Interno Bruto (PIB).",
+      "B": "Índice de Preços ao Consumidor Amplo (IPCA).",
+      "C": "Coeficiente de Gini.",
+      "D": "Taxa Selic.",
+      "E": "Balança comercial."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O PIB mede a produção total, não a distribuição de renda.",
+      "B": "Incorreta. O IPCA mede a inflação.",
+      "C": "Correta. O Coeficiente de Gini é o indicador mais utilizado para medir a desigualdade de renda, variando de 0 (igualdade perfeita) a 1 (desigualdade máxima).",
+      "D": "Incorreta. A Taxa Selic é a taxa básica de juros.",
+      "E": "Incorreta. A balança comercial mede a diferença entre exportações e importações."
+    }
+  },
+  {
+    "numero": 47,
+    "questao": "A Lei Geral de Proteção de Dados (LGPD) (Lei nº 13.709/2018), que regulamenta o uso de dados pessoais no Brasil, tem como principal foco:",
+    "opcoes": {
+      "A": "Aumentar a vigilância estatal sobre os cidadãos.",
+      "B": "Garantir a liberdade de as empresas usarem dados pessoais sem restrições.",
+      "C": "Proteger os direitos fundamentais de liberdade e de privacidade dos cidadãos, regulando a coleta e o tratamento de dados pessoais.",
+      "D": "Estabelecer a gratuidade de todos os serviços digitais.",
+      "E": "Criminalizar o uso de qualquer tipo de dado na internet."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O foco é na proteção do cidadão contra o uso indevido de dados.",
+      "B": "Incorreta. A LGPD impõe restrições e obrigações às empresas.",
+      "C": "Correta. A LGPD foi criada para proteger os direitos de liberdade e privacidade, estabelecendo regras claras sobre como as empresas e o governo devem coletar, armazenar e tratar dados pessoais.",
+      "D": "Incorreta. A gratuidade não é o foco da LGPD.",
+      "E": "Incorreta. A lei não criminaliza o uso, mas o regula."
+    }
+  },
+  {
+    "numero": 48,
+    "questao": "A cidade de Colatina, no Espírito Santo, é um importante polo econômico regional. Qual das seguintes atividades é um destaque na economia do município?",
+    "opcoes": {
+      "A": "Extração de petróleo em larga escala.",
+      "B": "Grande centro produtor de celulose.",
+      "C": "Polo de moda e confecções, com destaque para a produção de lingerie e moda praia.",
+      "D": "Maior produtor de minério de ferro do estado.",
+      "E": "Sede de um dos maiores portos do Brasil."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. A extração de petróleo é mais forte no litoral norte.",
+      "B": "Incorreta. A celulose é mais forte em Aracruz e Linhares.",
+      "C": "Correta. Colatina é reconhecida nacionalmente como um importante polo de moda e confecções, especialmente no segmento de lingerie e moda praia.",
+      "D": "Incorreta. O minério de ferro é exportado pelo Porto de Vitória e Portocel.",
+      "E": "Incorreta. Os principais portos estão na Grande Vitória e em Aracruz."
+    }
+  },
+  {
+    "numero": 49,
+    "questao": "A política de cotas raciais no Brasil tem sido debatida em 2025. Qual é o principal argumento a favor das cotas nas universidades e concursos públicos?",
+    "opcoes": {
+      "A": "Elas promovem a meritocracia exclusiva.",
+      "B": "Elas desconsideram o histórico de desigualdade racial no país.",
+      "C": "Elas promovem a reparação histórica e o combate à desigualdade racial, garantindo a inclusão de grupos historicamente marginalizados.",
+      "D": "Elas aumentam o número de vagas, mas não promovem a inclusão.",
+      "E": "Elas são desnecessárias em um país sem preconceito racial."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O conceito de mérito é complexo no debate de cotas.",
+      "B": "Incorreta. O objetivo é justamente o contrário, reconhecer o histórico.",
+      "C": "Correta. O principal argumento a favor das cotas é que elas atuam como uma medida de ação afirmativa para reparar injustiças históricas, combatendo a desigualdade racial e garantindo maior representatividade em espaços de poder e educação.",
+      "D": "Incorreta. O foco principal não é o número de vagas, mas a inclusão.",
+      "E": "Incorreta. O Brasil ainda é um país com forte preconceito racial."
+    }
+  },
+  {
+    "numero": 50,
+    "questao": "A inteligência artificial (IA) tem gerado debates éticos e econômicos. Qual dos seguintes aspectos é uma preocupação ética central no desenvolvimento e uso da IA?",
+    "opcoes": {
+      "A": "A falta de capacidade de processamento de dados.",
+      "B": "O risco de desemprego em massa e a amplificação de vieses e discriminação.",
+      "C": "O baixo custo de desenvolvimento de novas tecnologias.",
+      "D": "A eliminação de todas as formas de preconceito.",
+      "E": "A ausência de regulação em todo o mundo."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A capacidade de processamento é alta.",
+      "B": "Correta. O risco de desemprego devido à substituição de trabalhadores por IA e a possibilidade de os algoritmos amplificarem vieses raciais, de gênero ou socioeconômicos (discriminação) são preocupações éticas centrais.",
+      "C": "Incorreta. O custo de desenvolvimento é alto.",
+      "D": "Incorreta. A IA pode amplificar preconceitos.",
+      "E": "Incorreta. Há um movimento global por regulação da IA."
+    }
+  },
+  {
+    "numero": 51,
+    "questao": "A preservação da Mata Atlântica é um desafio ambiental no Espírito Santo. Qual a principal ameaça a esse bioma no estado?",
+    "opcoes": {
+      "A": "Expansão da lavoura de arroz.",
+      "B": "Desmatamento e expansão urbana/agrícola desordenada.",
+      "C": "Queimadas ilegais de florestas.",
+      "D": "Aumento do nível do mar.",
+      "E": "Desertificação."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. Embora a agricultura seja uma ameaça, o principal é o desmatamento generalizado.",
+      "B": "Correta. O desmatamento, impulsionado pela expansão da agropecuária e pelo crescimento urbano desordenado, é a principal ameaça à Mata Atlântica no Espírito Santo, que já perdeu a maior parte de sua cobertura original.",
+      "C": "Incorreta. Embora seja um problema, não é a principal ameaça.",
+      "D": "Incorreta. O aumento do nível do mar afeta o litoral, mas não é a principal ameaça ao bioma.",
+      "E": "Incorreta. A desertificação não é um problema no ES."
+    }
+  },
+  {
+    "numero": 52,
+    "questao": "Qual é o nome do principal rio que banha o estado do Espírito Santo, fundamental para a vida e a economia local?",
+    "opcoes": {
+      "A": "Rio Doce",
+      "B": "Rio São Francisco",
+      "C": "Rio Tietê",
+      "D": "Rio Grande",
+      "E": "Rio Paraíba do Sul"
+    },
+    "resposta_correta": "A",
+    "comentario": {
+      "A": "Correta. O Rio Doce é o principal rio do Espírito Santo, tendo grande importância econômica, hídrica e social, embora também tenha sido afetado pelo desastre de Mariana em 2015.",
+      "B": "Incorreta. O Rio São Francisco não passa pelo estado.",
+      "C": "Incorreta. O Rio Tietê fica em São Paulo.",
+      "D": "Incorreta. O Rio Grande fica em Minas Gerais e São Paulo.",
+      "E": "Incorreta. O Rio Paraíba do Sul fica em São Paulo e Rio de Janeiro."
+    }
+  },
+  {
+    "numero": 53,
+    "questao": "O conceito de 'economia verde' ou 'nova economia' tem ganhado força. Qual é a sua principal característica?",
+    "opcoes": {
+      "A": "Foco exclusivo na produção de petróleo.",
+      "B": "Promoção do consumo irresponsável e do desperdício.",
+      "C": "Desenvolvimento que prioriza a sustentabilidade ambiental, a eficiência de recursos e a inclusão social.",
+      "D": "Eliminação de toda a indústria de transformação.",
+      "E": "Adoção de combustíveis fósseis como única fonte de energia."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O foco é na transição energética.",
+      "B": "Incorreta. O objetivo é a sustentabilidade e o consumo responsável.",
+      "C": "Correta. A economia verde é um modelo de desenvolvimento que busca o crescimento econômico atrelado à sustentabilidade, com foco na eficiência de recursos, redução de carbono e inclusão social.",
+      "D": "Incorreta. O objetivo é transformar a indústria, não eliminá-la.",
+      "E": "Incorreta. A economia verde prioriza fontes renováveis."
+    }
+  },
+  {
+    "numero": 54,
+    "questao": "Qual é a principal causa natural e humana do assoreamento dos rios no Espírito Santo?",
+    "opcoes": {
+      "A": "O aumento da temperatura do mar.",
+      "B": "A eliminação da mata ciliar nas margens dos rios.",
+      "C": "A poluição industrial.",
+      "D": "A chuva ácida.",
+      "E": "O aumento da população de peixes nos rios."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O aumento da temperatura do mar afeta a vida marinha.",
+      "B": "Correta. A retirada da mata ciliar (vegetação que fica nas margens dos rios) é uma das principais causas do assoreamento, pois a falta de raízes expõe o solo à erosão, levando sedimentos para o leito do rio.",
+      "C": "Incorreta. A poluição industrial afeta a qualidade da água, não o assoreamento.",
+      "D": "Incorreta. A chuva ácida afeta a vegetação, mas não é a principal causa do assoreamento.",
+      "E": "Incorreta. O aumento da população de peixes não causa assoreamento."
+    }
+  },
+  {
+    "numero": 55,
+    "questao": "No cenário de educação superior em 2025, qual modalidade de ensino tem apresentado o maior crescimento no Brasil?",
+    "opcoes": {
+      "A": "Ensino presencial tradicional.",
+      "B": "Ensino a Distância (EaD).",
+      "C": "Cursos técnicos.",
+      "D": "Cursos de pós-graduação stricto sensu.",
+      "E": "Cursos livres."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. O ensino a distância (EaD) tem apresentado o maior crescimento no ensino superior brasileiro, especialmente após a pandemia."
+    }
+  },
+  {
+    "numero": 56,
+    "questao": "Qual é a principal atividade industrial da cidade de Aracruz, no Espírito Santo?",
+    "opcoes": {
+      "A": "Indústria automobilística.",
+      "B": "Produção de celulose e papel.",
+      "C": "Extração de rochas ornamentais.",
+      "D": "Refino de petróleo.",
+      "E": "Produção de vinhos."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A indústria automobilística não é destaque no ES.",
+      "B": "Correta. Aracruz abriga uma das maiores fábricas de celulose do mundo, sendo o polo da produção de celulose e papel do estado.",
+      "C": "Incorreta. O polo de rochas ornamentais é Cachoeiro de Itapemirim.",
+      "D": "Incorreta. O refino de petróleo não é a atividade principal de Aracruz.",
+      "E": "Incorreta. A produção de vinhos não é destaque na economia capixaba."
+    }
+  },
+  {
+    "numero": 57,
+    "questao": "A 'dívida histórica' é um conceito frequentemente usado em debates sobre desigualdade social e racial no Brasil. O que esse termo representa?",
+    "opcoes": {
+      "A": "A dívida do país com organismos internacionais.",
+      "B": "A dívida do governo com o Banco Central.",
+      "C": "O conjunto de injustiças, como a escravidão e a discriminação, que geraram a desigualdade estrutural que afeta a população negra e indígena até hoje.",
+      "D": "A dívida dos estados com a União.",
+      "E": "A dívida acumulada pelos cidadãos brasileiros."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Não se refere a dívidas financeiras com organismos.",
+      "B": "Incorreta. Não se refere a dívidas financeiras governamentais.",
+      "C": "Correta. O termo 'dívida histórica' refere-se ao conjunto de injustiças e violações de direitos, como o período da escravidão, que resultaram em desigualdades estruturais que persistem na sociedade brasileira, afetando principalmente a população negra e indígena.",
+      "D": "Incorreta. Não se refere a dívidas financeiras entre entes federativos.",
+      "E": "Incorreta. Não se refere a dívidas financeiras privadas."
+    }
+  },
+  {
+    "numero": 58,
+    "questao": "A crise hídrica é um problema recorrente no Espírito Santo. Qual dos seguintes rios foi o mais afetado pelas secas e pela poluição, sendo foco de políticas ambientais no estado?",
+    "opcoes": {
+      "A": "Rio Doce",
+      "B": "Rio São Mateus",
+      "C": "Rio Jucu",
+      "D": "Rio Itapemirim",
+      "E": "Rio Benevente"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Embora o Rio Doce tenha sido afetado pela tragédia de Mariana, o Rio Jucu é o principal manancial da Grande Vitória e tem sido foco de políticas de combate à seca e poluição.",
+      "B": "Incorreta. O Rio São Mateus é importante no norte, mas não é o principal foco de crise hídrica da RMGV.",
+      "C": "Correta. O Rio Jucu é um dos mais importantes mananciais de abastecimento da Grande Vitória e tem sofrido com a crise hídrica e a poluição, sendo alvo de grandes projetos de recuperação.",
+      "D": "Incorreta. O Rio Itapemirim é importante no sul do estado.",
+      "E": "Incorreta. O Rio Benevente é um rio menor."
+    }
+  },
+  {
+    "numero": 59,
+    "questao": "No cenário político-econômico de 2025, o Brasil tem reforçado sua posição na América Latina. Qual é o principal objetivo da reativação e fortalecimento da União de Nações Sul-Americanas (Unasul)?",
+    "opcoes": {
+      "A": "Criar uma moeda única para toda a América do Sul.",
+      "B": "Promover a integração política, econômica, social e cultural entre os países sul-americanos.",
+      "C": "Estabelecer uma aliança militar contra os EUA.",
+      "D": "Aumentar as tarifas de importação entre os países membros.",
+      "E": "Focar apenas em questões de fronteira."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A moeda única não é o principal objetivo da Unasul.",
+      "B": "Correta. A reativação da Unasul visa promover a integração regional em diversas áreas, como política, economia, infraestrutura e questões sociais, fortalecendo a voz da América do Sul no cenário global.",
+      "C": "Incorreta. A Unasul não é uma aliança militar.",
+      "D": "Incorreta. O objetivo é facilitar o comércio e a cooperação.",
+      "E": "Incorreta. O foco é mais amplo do que apenas fronteiras."
+    }
+  },
+  {
+    "numero": 60,
+    "questao": "Qual foi a principal medida adotada pelo Banco Central do Brasil no início de 2025 para tentar controlar a inflação e estabilizar a economia?",
+    "opcoes": {
+      "A": "A redução drástica dos impostos federais.",
+      "B": "A elevação da taxa Selic (taxa básica de juros).",
+      "C": "O congelamento dos preços de todos os produtos.",
+      "D": "A impressão de grandes volumes de dinheiro.",
+      "E": "A adoção do dólar como moeda oficial."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A redução de impostos pode aumentar a demanda e, consequentemente, a inflação.",
+      "B": "Correta. A elevação da taxa Selic é a principal ferramenta do Banco Central para combater a inflação, encarecendo o crédito e desestimulando o consumo e o investimento.",
+      "C": "Incorreta. O congelamento de preços é uma medida extrema e geralmente ineficaz.",
+      "D": "Incorreta. A impressão de dinheiro aumenta a inflação.",
+      "E": "Incorreta. A adoção do dólar como moeda é uma medida de 'dolarização'."
+    }
+  },
+  {
+    "numero": 61,
+    "questao": "A política de reajuste do salário mínimo no Brasil em 2025 manteve uma regra que visa garantir o aumento do poder de compra dos trabalhadores. Qual é essa regra?",
+    "opcoes": {
+      "A": "Aumento apenas pela inflação oficial (IPCA).",
+      "B": "Aumento pela inflação mais a variação do Produto Interno Bruto (PIB) de dois anos anteriores.",
+      "C": "Reajuste apenas a cada dois anos.",
+      "D": "Congelamento do valor em termos nominais.",
+      "E": "Aumento definido arbitrariamente pelo Presidente da República."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A regra visa um ganho real, não apenas a inflação.",
+      "B": "Correta. A política de valorização do salário mínimo em 2025 prevê o reajuste pela inflação (IPCA) acumulada no ano anterior, acrescido da variação real positiva do Produto Interno Bruto (PIB) de dois anos anteriores, garantindo o aumento real do salário.",
+      "C": "Incorreta. O reajuste é anual.",
+      "D": "Incorreta. O objetivo é garantir o aumento real.",
+      "E": "Incorreta. O reajuste segue uma fórmula pré-estabelecida."
+    }
+  },
+  {
+    "numero": 62,
+    "questao": "No contexto da saúde pública, qual doença tropical transmitida pelo mosquito *Aedes aegypti* teve o maior aumento de casos e gerou uma epidemia no Espírito Santo no primeiro semestre de 2024?",
+    "opcoes": {
+      "A": "Febre amarela",
+      "B": "Malária",
+      "C": "Dengue",
+      "D": "Chikungunya",
+      "E": "Zika"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. A febre amarela não foi a principal epidemia de 2024.",
+      "B": "Incorreta. A malária foi erradicada no ES em 2025.",
+      "C": "Correta. A dengue registrou um aumento recorde de casos no Espírito Santo e em todo o Brasil no início de 2024, levando a uma situação de epidemia em diversos municípios.",
+      "D": "Incorreta. Embora seja um problema, a dengue foi a de maior destaque.",
+      "E": "Incorreta. Os casos de zika não tiveram o mesmo destaque."
+    }
+  },
+  {
+    "numero": 63,
+    "questao": "A cidade de Vila Velha, no Espírito Santo, tem um polo turístico e industrial importante. Qual dos seguintes produtos é um destaque na produção industrial do município?",
+    "opcoes": {
+      "A": "Automóveis de luxo.",
+      "B": "Chocolate e derivados de cacau.",
+      "C": "Equipamentos de alta tecnologia para a indústria naval.",
+      "D": "Minério de ferro.",
+      "E": "Pneus de veículos."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. Não há produção de automóveis de luxo em Vila Velha.",
+      "B": "Correta. Vila Velha abriga uma das maiores fábricas de chocolate do Brasil, sendo um importante polo de produção de chocolates e derivados de cacau.",
+      "C": "Incorreta. A indústria naval está mais concentrada em Aracruz e Vitória.",
+      "D": "Incorreta. Minério de ferro é exportado, não produzido em Vila Velha.",
+      "E": "Incorreta. Não há grande produção de pneus."
+    }
+  },
+  {
+    "numero": 64,
+    "questao": "Qual foi a principal decisão do Supremo Tribunal Federal (STF) em 2025 que reforçou a proteção de dados pessoais no Brasil?",
+    "opcoes": {
+      "A": "A revogação da Lei Geral de Proteção de Dados (LGPD).",
+      "B": "A decisão de que o 'direito ao esquecimento' é inconstitucional.",
+      "C": "A criação de uma nova agência reguladora para a internet.",
+      "D": "A confirmação da constitucionalidade de multas aplicadas pela ANPD (Autoridade Nacional de Proteção de Dados) por vazamento de dados.",
+      "E": "A proibição do uso de redes sociais por menores de idade."
+    },
+    "resposta_correta": "D",
+    "comentario": {
+      "A": "Incorreta. A LGPD está em vigor.",
+      "B": "Incorreta. O STF já havia debatido o direito ao esquecimento, mas não foi a principal decisão de 2025.",
+      "C": "Incorreta. A ANPD já existe.",
+      "D": "Correta. Em 2025, o STF reafirmou a constitucionalidade das multas aplicadas pela ANPD por descumprimento da LGPD e por vazamento de dados, fortalecendo a proteção de dados no país.",
+      "E": "Incorreta. Não houve essa proibição."
+    }
+  },
+  {
+    "numero": 65,
+    "questao": "A cultura capixaba é rica e diversificada. Qual prato típico, feito com peixe e frutos do mar, é considerado um dos maiores símbolos gastronômicos do Espírito Santo, diferenciando-se da sua versão baiana por não levar azeite de dendê?",
+    "opcoes": {
+      "A": "Feijoada",
+      "B": "Acarajé",
+      "C": "Moqueca Capixaba",
+      "D": "Vatapá",
+      "E": "Barreado"
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. A feijoada é um prato nacional.",
+      "B": "Incorreta. O acarajé é típico da Bahia.",
+      "C": "Correta. A Moqueca Capixaba é o prato mais emblemático do Espírito Santo, preparada com peixe, frutos do mar, urucum, azeite de oliva e coentro, e cozida em panela de barro, sem o azeite de dendê, que é característico da moqueca baiana.",
+      "D": "Incorreta. O vatapá é típico da Bahia.",
+      "E": "Incorreta. O barreado é típico do Paraná."
+    }
+  },
+  {
+    "numero": 66,
+    "questao": "O conceito de 'crédito de carbono' está no centro do debate sobre sustentabilidade em 2025. O que ele representa?",
+    "opcoes": {
+      "A": "Um empréstimo para empresas poluidoras.",
+      "B": "Uma licença para poluir sem restrições.",
+      "C": "Um certificado que atesta a redução de uma tonelada de dióxido de carbono (CO2) na atmosfera, negociável no mercado.",
+      "D": "Um imposto sobre a emissão de carbono.",
+      "E": "Um subsídio para a indústria petrolífera."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. Não é um empréstimo.",
+      "B": "Incorreta. O objetivo é a redução da poluição.",
+      "C": "Correta. Um crédito de carbono é um certificado negociável que comprova que uma tonelada de CO2 deixou de ser emitida na atmosfera por um projeto específico, sendo uma ferramenta do mercado de carbono para incentivar a redução de emissões.",
+      "D": "Incorreta. Isso seria um 'imposto sobre o carbono'.",
+      "E": "Incorreta. O objetivo é o oposto, incentivar a transição energética."
+    }
+  },
+  {
+    "numero": 67,
+    "questao": "O Espírito Santo possui importantes reservas de minério de ferro. Por qual porto principal o minério é escoado?",
+    "opcoes": {
+      "A": "Porto de Salvador (BA).",
+      "B": "Porto de Santos (SP).",
+      "C": "Porto de Tubarão (Vitória/Serra) e Portocel (Aracruz).",
+      "D": "Porto de Rio Grande (RS).",
+      "E": "Porto de Suape (PE)."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O porto de Salvador não é o principal de minério de ferro do ES.",
+      "B": "Incorreta. O porto de Santos não é o principal de minério de ferro do ES.",
+      "C": "Correta. O principal porto de escoamento de minério de ferro no Espírito Santo é o Porto de Tubarão, na Grande Vitória. Portocel é importante para celulose.",
+      "D": "Incorreta. O porto de Rio Grande não é o principal de minério de ferro do ES.",
+      "E": "Incorreta. O porto de Suape não é o principal de minério de ferro do ES."
+    }
+  },
+  {
+    "numero": 68,
+    "questao": "Qual foi a principal conclusão do relatório da Organização das Nações Unidas (ONU) sobre a situação climática mundial em 2025?",
+    "opcoes": {
+      "A": "As metas de redução de emissão de CO2 foram alcançadas em todo o mundo.",
+      "B": "As nações estão em vias de atingir o limite de aquecimento de 1,5ºC estabelecido no Acordo de Paris.",
+      "C": "O mundo está muito aquém das metas de redução de emissões, com a temperatura global caminhando para um aumento perigoso.",
+      "D": "O aquecimento global não é mais uma preocupação global.",
+      "E": "A única solução é a eliminação total de energias renováveis."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O relatório indicou o oposto.",
+      "B": "Incorreta. O relatório indicou que o limite de 1,5ºC está cada vez mais distante.",
+      "C": "Correta. O relatório da ONU em 2025, como em anos anteriores, reforçou que o mundo não está no caminho para cumprir as metas de Paris, alertando para a necessidade de cortes drásticos de emissões para evitar um aumento catastrófico da temperatura global.",
+      "D": "Incorreta. A preocupação é crescente.",
+      "E": "Incorreta. O objetivo é a substituição de combustíveis fósseis por renováveis."
+    }
+  },
+  {
+    "numero": 69,
+    "questao": "A região Litoral Norte do Espírito Santo (São Mateus, Conceição da Barra) tem como característica econômica principal qual atividade?",
+    "opcoes": {
+      "A": "Turismo de montanha.",
+      "B": "Produção de petróleo e gás.",
+      "C": "Metalurgia pesada.",
+      "D": "Pesca artesanal.",
+      "E": "Indústria de calçados."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. A região Litoral Norte é crucial para a economia do estado devido à exploração e produção de petróleo e gás, com importantes campos offshore."
+    }
+  },
+  {
+    "numero": 70,
+    "questao": "O que o termo “uberização” do trabalho representa?",
+    "opcoes": {
+      "A": "Aumento da segurança e dos direitos trabalhistas.",
+      "B": "O uso exclusivo de veículos em serviços.",
+      "C": "A precarização das relações de trabalho, com o aumento da informalidade e a perda de direitos sociais.",
+      "D": "A obrigatoriedade de registro em carteira para todos os trabalhadores.",
+      "E": "A extinção do trabalho por aplicativo."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. O termo “uberização” se refere ao modelo de trabalho baseado em plataformas digitais, muitas vezes caracterizado pela ausência de vínculo empregatício, informalidade e perda de direitos trabalhistas (precarização)."
+    }
+  },
+  {
+    "numero": 71,
+    "questao": "A culinária capixaba se diferencia de outras regionais por um ingrediente específico, que confere cor e sabor característicos à moqueca. Qual é ele?",
+    "opcoes": {
+      "A": "Azeite de dendê.",
+      "B": "Leite de coco.",
+      "C": "Urucum (colorau).",
+      "D": "Pimenta malagueta.",
+      "E": "Farinha de mandioca."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "A": "Incorreta. O azeite de dendê é da moqueca baiana.",
+      "B": "Incorreta. O leite de coco é usado em moquecas, mas não é o diferencial de cor.",
+      "C": "Correta. A moqueca capixaba utiliza o urucum (ou colorau) para dar cor, diferenciando-se da moqueca baiana, que utiliza o azeite de dendê.",
+      "D": "Incorreta. Pimenta é um tempero comum.",
+      "E": "Incorreta. A farinha de mandioca é usada no pirão."
+    }
+  },
+  {
+    "numero": 72,
+    "questao": "No contexto da saúde mental e do trabalho, qual o significado do termo *Burnout*?",
+    "opcoes": {
+      "A": "Excesso de férias e lazer.",
+      "B": "Uma síndrome causada por exaustão física e mental prolongada, relacionada ao estresse crônico no trabalho.",
+      "C": "Uma doença de origem hereditária.",
+      "D": "A falta de motivação para buscar um emprego.",
+      "E": "O estresse causado por baixas demandas de trabalho."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. É o oposto.",
+      "B": "Correta. *Burnout* (Síndrome de Esgotamento Profissional) é um distúrbio emocional com sintomas de exaustão extrema, estresse e esgotamento físico resultante de situações de trabalho desgastantes, que demandam muita competitividade ou responsabilidade.",
+      "C": "Incorreta. Não é uma doença de origem apenas hereditária.",
+      "D": "Incorreta. Não se relaciona diretamente com a busca por emprego.",
+      "E": "Incorreta. É causado por altas demandas e pressão."
+    }
+  },
+  {
+    "numero": 73,
+    "questao": "A região sul do Espírito Santo tem como importante polo econômico e centro de serviços a cidade de:",
+    "opcoes": {
+      "A": "Vitória.",
+      "B": "Serra.",
+      "C": "Cachoeiro de Itapemirim.",
+      "D": "Linhares.",
+      "E": "Colatina."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. Cachoeiro de Itapemirim é o principal polo econômico e centro de serviços da região sul do Espírito Santo."
+    }
+  },
+  {
+    "numero": 74,
+    "questao": "Qual das seguintes características define corretamente a “economia solidária”?",
+    "opcoes": {
+      "A": "Foco exclusivo no lucro e na acumulação de capital.",
+      "B": "Organização de empresas e cooperativas baseadas na autogestão e solidariedade.",
+      "C": "Eliminação de qualquer forma de produção.",
+      "D": "Promoção de competição predatória no mercado.",
+      "E": "Exclusão social."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. A economia solidária é um modo de produção baseado na organização de empresas e cooperativas em bases de autogestão e solidariedade, priorizando o bem-estar coletivo sobre o lucro individual."
+    }
+  },
+  {
+    "numero": 75,
+    "questao": "O artesanato é uma expressão cultural importante no Espírito Santo. Qual tipo de artesanato é mais característico do estado?",
+    "opcoes": {
+      "A": "Cerâmica marajoara.",
+      "B": "Panela de barro capixaba.",
+      "C": "Rendas de bilro.",
+      "D": "Bordado richelieu.",
+      "E": "Esculturas em madeira do sertão."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. A cerâmica marajoara é do Pará.",
+      "B": "Correta. A Panela de Barro Capixaba, utilizada no preparo da moqueca, é um artesanato tradicional e símbolo cultural do Espírito Santo, produzido principalmente pelas Paneleiras de Goiabeiras, em Vitória.",
+      "C": "Incorreta. Rendas de bilro são mais tradicionais no Nordeste.",
+      "D": "Incorreta. O bordado richelieu é típico do Nordeste.",
+      "E": "Incorreta. As esculturas em madeira são mais típicas do Nordeste ou Minas Gerais."
+    }
+  },
+  {
+    "numero": 76,
+    "questao": "A discussão sobre a necessidade de uma reforma administrativa no Brasil em 2025 tem como principal argumento dos defensores:",
+    "opcoes": {
+      "A": "Aumentar o número de servidores públicos em todos os níveis.",
+      "B": "Tornar a máquina pública mais eficiente e reduzir o alto custo do funcionalismo.",
+      "C": "Eliminar o concurso público como forma de ingresso.",
+      "D": "Aumentar a estabilidade de todos os novos servidores.",
+      "E": "Reduzir a transparência nos gastos públicos."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "A": "Incorreta. O objetivo é o oposto, controlar o aumento de servidores.",
+      "B": "Correta. O principal argumento dos defensores da reforma administrativa é a necessidade de tornar o serviço público mais eficiente, modernizar a gestão de pessoas e reduzir os gastos da União com o funcionalismo público.",
+      "C": "Incorreta. A reforma não propõe a eliminação do concurso público.",
+      "D": "Incorreta. A reforma tem debatido a redução da estabilidade em algumas carreiras.",
+      "E": "Incorreta. O objetivo é aumentar a transparência."
+    }
+  },
+  {
+    "numero": 77,
+    "questao": "O Brasil tem enfrentado o desafio das *fake news* e da desinformação. Qual o principal impacto desse fenômeno na democracia?",
+    "opcoes": {
+      "A": "Fortalecimento da confiança nas instituições.",
+      "B": "Melhoria da qualidade do debate público.",
+      "C": "Manipulação da opinião pública, polarização e corrosão da confiança nas instituições democráticas.",
+      "D": "Incentivo à participação cívica.",
+      "E": "Aumento da transparência governamental."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. O principal impacto da desinformação é a manipulação da opinião pública, o aumento da polarização e a corrosão da confiança nas fontes de informação e nas instituições democráticas."
+    }
+  },
+  {
+    "numero": 78,
+    "questao": "A Região Metropolitana da Grande Vitória tem problemas de mobilidade. Qual solução tem sido implementada para tentar melhorar o transporte coletivo entre os municípios?",
+    "opcoes": {
+      "A": "Substituição total de ônibus por vans.",
+      "B": "Criação de um sistema de transporte intermunicipal integrado.",
+      "C": "Proibição de todos os carros na capital.",
+      "D": "Aumento do pedágio para transporte coletivo.",
+      "E": "Eliminação de vias exclusivas para ônibus."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. A solução tem sido a criação e o aprimoramento de um sistema de transporte intermunicipal integrado, como o Transcol, que conecta os principais municípios da Grande Vitória."
+    }
+  },
+  {
+    "numero": 79,
+    "questao": "No contexto econômico do Espírito Santo, o que o \"Fundo Soberano do Espírito Santo\" representa?",
+    "opcoes": {
+      "A": "Um fundo de investimento em projetos de alto risco.",
+      "B": "Um fundo criado para receber recursos de royalties e participações especiais do petróleo e gás, visando investimentos de longo prazo.",
+      "C": "Um fundo de reserva para pagamento da dívida externa.",
+      "D": "Uma linha de crédito para pequenas e médias empresas.",
+      "E": "Um fundo exclusivo para o pagamento de servidores públicos."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. O Fundo Soberano é uma reserva estratégica criada pelo estado para gerir e investir recursos provenientes de royalties e participações especiais da exploração de petróleo e gás, buscando o desenvolvimento sustentável e o benefício das futuras gerações."
+    }
+  },
+  {
+    "numero": 80,
+    "questao": "No debate sobre direitos humanos e saúde da mulher, o que o termo 'violência obstétrica' representa?",
+    "opcoes": {
+      "A": "A falta de leitos em hospitais.",
+      "B": "O aborto clandestino.",
+      "C": "O tratamento desumanizado, abusivo ou a apropriação do corpo da mulher por profissionais de saúde durante a gestação, parto ou puerpério.",
+      "D": "A proibição do parto normal.",
+      "E": "O parto realizado em casa."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. Violência obstétrica é o tratamento desumanizado e abusivo, ou a apropriação do corpo da mulher, por profissionais de saúde durante a gestação, parto ou puerpério."
+    }
+  },
+  {
+    "numero": 81,
+    "questao": "O que o termo “vazamento de dados” (data breach) representa no cenário de segurança digital?",
+    "opcoes": {
+      "A": "Uma falha na rede de internet doméstica.",
+      "B": "A exposição indevida, acidental ou criminosa de informações confidenciais a pessoas não autorizadas.",
+      "C": "A criação de um novo banco de dados.",
+      "D": "A eliminação de dados por vírus de computador.",
+      "E": "A criptografia de dados confidenciais."
+    },
+    "resposta_correta": "B",
+    "comentario": {
+      "B": "Correta. O vazamento de dados é a exposição de informações confidenciais a pessoas não autorizadas, seja por falha de segurança, ataque cibernético ou erro humano."
+    }
+  },
+  {
+    "numero": 82,
+    "questao": "A mobilidade urbana sustentável tem sido uma meta para a Grande Vitória. Qual a ordem de prioridade de modais de transporte?",
+    "opcoes": {
+      "A": "Veículos particulares motorizados.",
+      "B": "Transporte de cargas.",
+      "C": "Pedestres e ciclistas, seguidos pelo transporte coletivo.",
+      "D": "Aeronaves.",
+      "E": "Eliminação do transporte coletivo."
+    },
+    "resposta_correta": "C",
+    "comentario": {
+      "C": "Correta. A mobilidade sustentável prioriza os modais não motorizados (pedestres e ciclistas), seguidos pelo transporte coletivo."
+    }
+  },
+  {
+    "numero": 83,
+    "questao": "A formação profissional no Brasil tem se adaptado às mudanças do mercado de trabalho. Qual modalidade de ensino tem crescido para atender essa demanda?",
+    "opcoes": {
+      "A": "Ensino técnico e profissionalizante",
+      "B": "Apenas ensino superior tradicional",
+      "C": "Eliminação de cursos profissionais",
+      "D": "Foco exclusivo em teoria",
+      "E": "Redução da qualificação profissional"
+    },
+    "resposta_correta": "A",
+    "comentario": {
+      "A": "Correta. O ensino técnico e profissionalizante tem crescido significativamente para atender às demandas do mercado de trabalho brasileiro.",
+      "B": "Incorreta. Não é apenas o ensino superior tradicional que tem crescido.",
+      "C": "Incorreta. Cursos profissionais têm sido expandidos, não eliminados.",
+      "D": "Incorreta. A prática é valorizada na formação profissional.",
+      "E": "Incorreta. A qualificação profissional tem sido ampliada, não reduzida."
+    }
+  }
+]
