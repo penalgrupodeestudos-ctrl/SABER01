@@ -1,7 +1,5 @@
 {
-  "titulo": "O texto seguinte servirá de base para responder às 
-questões de 1 a 10. 
-As joias roubadas do Louvre, em Paris, em um ousado 
+  "titulo": "As joias roubadas do Louvre, em Paris, em um ousado 
 assalto à luz do dia, foram avaliadas em 88 milhões de 
 euros (R$ 550,3 milhões), afirmou um promotor público 
 francês, citando o curador do museu. A procuradora 
@@ -39,7 +37,7 @@ equipado com um elevador mecânico para ter acesso à
 Galerie d'Apollon (Galeria de Apolo) através de uma 
 varanda próxima ao rio Sena. Dois deles cortaram uma 
 janela de vidro no primeiro andar usando um cortador de 
-disco alimentado por bateria e entraram no museu.seguida, ameaçaram os guardas que estavam dentro do 
+disco alimentado por bateria e entraram no museu. seguida, ameaçaram os guardas que estavam dentro do 
 prédio, que evacuaram o local.  
 Os ladrões tentaram incendiar o veículo do lado de 
 fora, mas foram impedidos pela intervenção de um 
@@ -56,7 +54,7 @@ O ministro da Justiça, Gérald Darmanin, afirmou que
 os protocolos de segurança "falharam", lamentando que 
 os ladrões tenham conseguido conduzir um caminhão 
 modificado até ao museu, deixando a França com uma 
-"imagem terrível".  
+imagem terrível.  
 As autoridades acreditam estar perseguindo uma 
 equipe de profissionais, dada a rapidez e organização com 
 que agiram.  
@@ -68,7 +66,7 @@ sempre.
 É muito provável que tenham sido transformados em 
 metais preciosos e pedras preciosas, contrabandeados 
 para fora do país e vendidos por uma fração do seu valor, 
-afirmaram outros especialistas. )",
+afirmaram outros especialistas. ",
   "fonte": ":contentReference[oaicite:0]{index=0}",
   "questoes": [
     {
@@ -913,6 +911,7 @@ afirmaram outros especialistas. )",
     }
   ]
 }
+
 
 
 
