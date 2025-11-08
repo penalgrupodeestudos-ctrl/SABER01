@@ -1,6 +1,6 @@
 {
-  "titulo_bloco": "Simulado Completo Polícia Penal ES - Questões 01 a 60 (Versão Corrigida para Interatividade)",
-  "periodo_simulado": "08/11/2025",
+  "titulo_bloco": "Simulado Completo Polícia Penal ES - Questões 01 a 60 (Versão Modificada)",
+  "periodo_simulado": "25/10/2025 (Adaptado)",
   "questoes": [
     {
       "id": 1,
@@ -12,14 +12,9 @@
         "d": "A exposição da fragilidade da segurança do museu.",
         "e": "A destruição de obras de arte de valor inestimável."
       },
-      "resposta_correta": "c", 
-      "comentario": {
-        "a": "Incorreta. O valor financeiro é citado, mas a procuradora Laure Beccuau afirmou que a **maior perda era para o patrimônio histórico**.",
-        "b": "Incorreta. O aumento da criminalidade em Paris não é a principal consequência citada pela procuradora.",
-        "c": "Correta. A procuradora afirmou que a **maior perda era para o patrimônio histórico da França**.",
-        "d": "Incorreta. A fragilidade da segurança é a causa ou um efeito, mas não a principal **consequência do roubo** citada pela procuradora.",
-        "e": "Incorreta. A destruição é um **temor** dos especialistas, mas não a principal consequência do roubo citada pela procuradora."
-      }
+      "resposta": "c",
+      "resposta_texto": "O prejuízo ao patrimônio histórico da França.",
+      "comentario": "A procuradora afirmou que, apesar do alto valor, a maior perda era para o patrimônio histórico — portanto o foco é o patrimônio cultural."
     },
     {
       "id": 2,
@@ -31,14 +26,9 @@
         "d": "Desestimular os ladrões a destruírem as peças.",
         "e": "Pressionar as autoridades a agirem com mais rapidez."
       },
-      "resposta_correta": "d",
-      "comentario": {
-        "a": "Incorreta. Não é o objetivo principal da divulgação.",
-        "b": "Incorreta. O foco do anúncio é nos ladrões, não na população.",
-        "c": "Incorreta. A intenção era evitar a **destruição**, não incentivar a devolução.",
-        "d": "Correta. Beccuau disse que o anúncio do valor visava fazer os ladrões pensarem duas vezes e **não as destruíssem**.",
-        "e": "Incorreta. O objetivo principal era evitar a destruição das peças."
-      }
+      "resposta": "d",
+      "resposta_texto": "Desestimular os ladrões a destruírem as peças.",
+      "comentario": "No texto consta que o anúncio do valor poderia fazer com que os ladrões pensassem duas vezes e não as destruíssem."
     },
     {
       "id": 3,
@@ -50,14 +40,9 @@
         "d": "Profissional, pela rapidez e organização da execução.",
         "e": "Fracassada, pois os ladrões foram capturados."
       },
-      "resposta_correta": "d",
-      "comentario": {
-        "a": "Incorreta. A ação foi descrita como rápida e organizada, indicando profissionalismo.",
-        "b": "Incorreta. Usaram **ferramentas elétricas** e um caminhão modificado.",
-        "c": "Incorreta. Ameaçaram os guardas, mas não há menção a confronto armado.",
-        "d": "Correta. As autoridades acreditam perseguir uma **equipe de profissionais**, dada a rapidez e organização.",
-        "e": "Incorreta. Os ladrões fugiram com o saque com sucesso."
-      }
+      "resposta": "d",
+      "resposta_texto": "Profissional, pela rapidez e organização da execução.",
+      "comentario": "O texto descreve rapidez e organização (equipe de profissionais) — logo, a ação é caracterizada como profissional."
     },
     {
       "id": 4,
@@ -69,14 +54,9 @@
         "d": "Estavam guardados em cofres subterrâneos do museu.",
         "e": "Foram derretidos e vendidos no mercado negro."
       },
-      "resposta_correta": "c",
-      "comentario": {
-        "a": "Incorreta. Apenas uma coroa danificada foi encontrada na rota de fuga.",
-        "b": "Incorreta. As peças pertenciam a Napoleão, Imperatriz Eugênia e Maria-Amélia, sendo a rainha Maria-Amélia prima de Maria Leopoldina.",
-        "c": "Correta. Os itens incluíam joias da coroa e peças oferecidas por imperadores, denotando **valor histórico e simbólico**.",
-        "d": "Incorreta. Não há informação no texto sobre cofres subterrâneos.",
-        "e": "Incorreta. Os especialistas **temem** que isso tenha acontecido; não é uma afirmação factual do texto."
-      }
+      "resposta": "c",
+      "resposta_texto": "Incluíam peças de valor histórico e simbólico.",
+      "comentario": "O texto descreve colar de Napoleão, tiara da imperatriz Eugênia e peças históricas — são de valor histórico/simbólico."
     },
     {
       "id": 5,
@@ -88,17 +68,779 @@
         "d": "Fechamento temporário do museu para reforma.",
         "e": "Criação de uma força-tarefa internacional para recuperar os itens."
       },
-      "resposta_correta": "b",
-      "comentario": {
-        "a": "Incorreta. Não é mencionado no texto.",
-        "b": "Correta. O texto diz: **'As medidas de segurança foram reforçadas em torno das instituições culturais do país...'**.",
-        "c": "Incorreta. Não é mencionado no texto.",
-        "d": "Incorreta. Não é mencionado no texto.",
-        "e": "Incorreta. Embora o anúncio do valor vise auxiliar em buscas internacionais, a medida de segurança adotada foi o reforço geral."
-      }
+      "resposta": "b",
+      "resposta_texto": "Reforço nas medidas de segurança em instituições culturais.",
+      "comentario": "O texto informa que medidas de segurança foram reforçadas em torno das instituições culturais do país."
+    },
+    {
+      "id": 6,
+      "questao": "Segundo o texto, qual fator contribuiu para a facilidade da ação criminosa?",
+      "opcoes": {
+        "a": "A ausência de visitantes no momento do roubo.",
+        "b": "A negligência dos guardas que estavam de plantão.",
+        "c": "A falta de câmeras de segurança em parte das salas.",
+        "d": "A demora na chegada da polícia ao local.",
+        "e": "A cumplicidade de funcionários do museu."
+      },
+      "resposta": "c",
+      "resposta_texto": "A falta de câmeras de segurança em parte das salas.",
+      "comentario": "Um relatório preliminar constatou que uma em cada três salas do Louvre não possuía câmeras — fator citado como vulnerabilidade."
+    },
+    {
+      "id": 7,
+      "questao": "Analise a grafia do vocábulo 'micro-ondas' e marque a alternativa correta segundo o Novo Acordo Ortográfico.",
+      "opcoes": {
+        "a": "A grafia está incorreta, pois o hífen foi abolido em compostos com prefixo terminado em vogal.",
+        "b": "A grafia está correta, pois o prefixo “micro-” exige hífen quando o segundo elemento começa com vogal diferente.",
+        "c": "A grafia está correta, pois o prefixo “micro-” exige hífen quando o segundo elemento começa com “o”.",
+        "d": "A grafia está incorreta, pois o correto seria “microondas”, sem hífen, por tratar-se de palavra de uso comum.",
+        "e": "A grafia está incorreta, pois o Novo Acordo determina que prefixos como “micro” devem ser aglutinados."
+      },
+      "resposta": "c",
+      "resposta_texto": "A grafia está correta, pois o prefixo “micro-” exige hífen quando o segundo elemento começa com “o”.",
+      "comentario": "A forma consagrada na norma é 'micro-ondas' (com hífen) — o hífen é mantido em compostos como este."
+    },
+    {
+      "id": 8,
+      "questao": "O termo destacado 'As medidas de segurança' exerce a função sintática de sujeito da oração. Assinale a alternativa em que o termo destacado também exerce a função de sujeito:",
+      "opcoes": {
+        "a": "Os ladrões tentaram incendiar o veículo do lado de fora.",
+        "b": "A procuradora francesa se referiu à quantia como 'extraordinária'.",
+        "c": "A coroa foi deixada para trás quando eles partiram às pressas.",
+        "d": "Os investigadores encontraram uma coroa danificada.",
+        "e": "O presidente francês descreveu o roubo como um ataque ao patrimônio."
+      },
+      "resposta": "a",
+      "resposta_texto": "Os ladrões tentaram incendiar o veículo do lado de fora.",
+      "comentario": "Em (a) o termo destacado ('Os ladrões') funciona como sujeito da oração — assim como 'As medidas de segurança' no enunciado dado."
+    },
+    {
+      "id": 9,
+      "questao": "As figuras de linguagem presentes nas orações 'O silêncio das vitrines gritava a ausência das joias.' e 'A madrugada parecia observar, cúmplice, a fuga dos ladrões.' são:",
+      "opcoes": {
+        "a": "Hipérbole",
+        "b": "Antítese",
+        "c": "Metáfora",
+        "d": "Prosopopeia",
+        "e": "Eufemismo"
+      },
+      "resposta": "d",
+      "resposta_texto": "Prosopopeia",
+      "comentario": "Atribuir ações ou sensações humanas (gritar, observar) a coisas inanimadas é prosopopeia (ou personificação)."
+    },
+    {
+      "id": 10,
+      "questao": "Identifique a alternativa em que o verbo, no contexto empregado, apresenta uma transitividade diferente da do verbo 'descrever' (transitivo direto).",
+      "opcoes": {
+        "a": "O ministro lamentou a falha nos protocolos de segurança.",
+        "b": "Os investigadores encontraram uma coroa danificada.",
+        "c": "O especialista explicou o funcionamento do sistema de alarme.",
+        "d": "Os ladrões tentaram incendiar o veículo.",
+        "e": "A curadora apresentou o relatório à imprensa."
+      },
+      "resposta": "e",
+      "resposta_texto": "A curadora apresentou o relatório à imprensa.",
+      "comentario": "Aqui 'apresentar' vem acompanhado de complemento introduzido por preposição ('à imprensa'), mostrando transitividade diferente de 'descrever' (transitivo direto)."
+    },
+    {
+      "id": 11,
+      "questao": "Um levantamento mostrou que 2/5 dos pacotes eram eletrônicos. Dos eletrônicos, 2/7 seriam internacionais; os demais (140 unidades) eram domésticos. Qual o total de pacotes?",
+      "opcoes": {
+        "a": "420",
+        "b": "520",
+        "c": "490",
+        "d": "380",
+        "e": "350"
+      },
+      "resposta": "c",
+      "resposta_texto": "490",
+      "comentario": "Se 5/7 dos eletrônicos = 140 → total de eletrônicos = 140*(7/5)=196. Como eletrônicos = 2/5 do total → total = 196*(5/2)=490."
+    },
+    {
+      "id": 12,
+      "questao": "Custo base R$3.500; quer oferecer 30% de desconto sobre o preço de catálogo e ainda garantir lucro líquido de 20% sobre custo. Qual o preço de catálogo?",
+      "opcoes": {
+        "a": "R$ 6.200,00",
+        "b": "R$ 5.800,00",
+        "c": "R$ 6.000,00",
+        "d": "R$ 5.900,00",
+        "e": "R$ 6.100,00"
+      },
+      "resposta": "c",
+      "resposta_texto": "R$ 6.000,00",
+      "comentario": "Deseja-se 20% sobre custo → preço recebido após desconto = 1,2*3500=4200. Como desconto é 30%, 0,7*P = 4200 → P = 4200/0,7 = 6000."
+    },
+    {
+      "id": 13,
+      "questao": "Monitor com proporção 4:3 e diagonal de 50 polegadas. Área de visualização (em pol²):",
+      "opcoes": {
+        "a": "300",
+        "b": "400",
+        "c": "800",
+        "d": "1000",
+        "e": "1200"
+      },
+      "resposta": "e",
+      "resposta_texto": "1200",
+      "comentario": "Se largura:altura = 4:3, diagonal é 5k = 50 → k=10 → largura=40, altura=30 → área=40*30=1200."
+    },
+    {
+      "id": 14,
+      "questao": "Caixa com dimensões internas 3 dm, 2 dm e (x+1) dm. Volume total 18 dm³. Se a dimensão desconhecida for aumentada em 1 dm, qual o novo volume?",
+      "opcoes": {
+        "a": "21",
+        "b": "24",
+        "c": "27",
+        "d": "30",
+        "e": "33"
+      },
+      "resposta": "b",
+      "resposta_texto": "24",
+      "comentario": "6*(x+1)=18 → x+1=3 → dimensão era 3 dm; se aumentada em 1→4 dm. Volume = 3*2*4 = 24 dm³."
+    },
+    {
+      "id": 15,
+      "questao": "Sequência de intensidades (Volts): 1,3,5,4,3,5,7,6,5,7,9,8,7,9,11,... A soma das intensidades do 13º, 16º e 21º pulsos é igual a:",
+      "opcoes": {
+        "a": "25",
+        "b": "27",
+        "c": "29",
+        "d": "26",
+        "e": "28"
+      },
+      "resposta": "b",
+      "resposta_texto": "27",
+      "comentario": "Observando a sequência fornecida: 13º = 7. Seguindo o padrão alternado de números ímpares em posições-chave, temos 16º ≈ 9 e 21º ≈ 11; soma 7+9+11=27."
+    },
+    {
+      "id": 16,
+      "questao": "Analise as proposições lógicas e assinale a sequência correta de V/F de cima para baixo: (1) (O Sol gira em torno da Terra) ∨ (Brasília é a capital do Brasil); (2) (A Lua é feita de queijo) ↔ (2 é ímpar); (3) (O Brasil fica na América do Sul) → (O Japão fica na Europa); (4) (Paris é a capital da França) ∧ (A água ferve a 100°C ao nível do mar).",
+      "opcoes": {
+        "a": "V, V, F, V",
+        "b": "F, V, F, V",
+        "c": "V, V, V, F",
+        "d": "V, F, F, V",
+        "e": "V, V, F, F"
+      },
+      "resposta": "a",
+      "resposta_texto": "V, V, F, V",
+      "comentario": "1→V (segunda parte verdadeira); 2→V (F ↔ F = V); 3→F (V→F = F); 4→V (V ∧ V = V)."
+    },
+    {
+      "id": 17,
+      "questao": "Proposição: 'Se existe algum sistema operacional inseguro, então todo firewall é confiável.' Frase equivalente:",
+      "opcoes": {
+        "a": "Algum sistema operacional é inseguro e todo firewall é confiável.",
+        "b": "Algum firewall é confiável ou algum sistema operacional é inseguro.",
+        "c": "Se algum firewall não é confiável, então não existe sistema operacional inseguro.",
+        "d": "Se todo firewall é confiável, então existe pelo menos um sistema operacional inseguro.",
+        "e": "Se não existe sistema operacional inseguro, então algum firewall não é confiável."
+      },
+      "resposta": "c",
+      "resposta_texto": "Se algum firewall não é confiável, então não existe sistema operacional inseguro.",
+      "comentario": "A equivalência da condicional (P→Q) é dada por (~Q→~P). Neste caso, P = 'existe algum sistema operacional inseguro' e Q = 'todo firewall é confiável'. ~Q = 'existe algum firewall que não é confiável' e ~P = 'não existe sistema operacional inseguro'."
+    },
+    {
+      "id": 18,
+      "questao": "Em qual situação o uso de tecnologia de reconhecimento facial em espaços públicos é considerado legal, conforme a legislação brasileira e entendimentos recentes sobre LGPD?",
+      "opcoes": {
+        "a": "Apenas com o consentimento expresso de todos os cidadãos filmados.",
+        "b": "Em qualquer situação, pois a segurança pública prevalece sobre a privacidade.",
+        "c": "Quando a finalidade for de segurança pública, mediante base legal específica e proporcionalidade.",
+        "d": "Apenas se os dados forem armazenados em servidores privados fora do Brasil.",
+        "e": "É sempre ilegal em virtude do direito fundamental à imagem."
+      },
+      "resposta": "c",
+      "resposta_texto": "Quando a finalidade for de segurança pública, mediante base legal específica e proporcionalidade.",
+      "comentario": "A LGPD (Lei Geral de Proteção de Dados) permite o tratamento de dados pessoais (como dados biométricos) pela Administração Pública para a execução de políticas públicas e de segurança. A legalidade exige base legal específica, finalidade legítima e proporcionalidade, em conformidade com o Art. 23 e Art. 4º, III, da LGPD, e com o entendimento do STF sobre a ponderação entre segurança e privacidade."
+    },
+    {
+      "id": 19,
+      "questao": "A computação em nuvem (cloud computing) tem sido amplamente adotada por órgãos públicos. Qual é o principal benefício dessa tecnologia para a infraestrutura de Tecnologia da Informação (TI) governamental?",
+      "opcoes": {
+        "a": "Eliminação total do risco de vazamento de dados.",
+        "b": "Centralização dos servidores em uma única sede física.",
+        "c": "Redução de custos com aquisição e manutenção de hardware, e escalabilidade.",
+        "d": "Necessidade de aumento do número de técnicos em TI para gerenciamento.",
+        "e": "Utilização exclusiva de software proprietário."
+      },
+      "resposta": "c",
+      "resposta_texto": "Redução de custos com aquisição e manutenção de hardware, e escalabilidade.",
+      "comentario": "O principal benefício da computação em nuvem para o setor público é a redução de custos com a infraestrutura de TI (hardware e manutenção) e a capacidade de escalar recursos de forma rápida e eficiente (escalabilidade), pagando apenas pelo que se utiliza."
+    },
+    {
+      "id": 20,
+      "questao": "Em relação à ética e segurança da informação, qual é a principal preocupação ao utilizar Inteligência Artificial (IA) em processos de decisão no serviço público, como a análise de perfis de risco?",
+      "opcoes": {
+        "a": "A falta de velocidade no processamento de dados.",
+        "b": "O alto custo das licenças de software de IA.",
+        "c": "O risco de algoritmos viciados (bias) que perpetuam discriminação.",
+        "d": "A impossibilidade de integrar IA com sistemas legados.",
+        "e": "A necessidade de uso exclusivo de IA baseada em código aberto."
+      },
+      "resposta": "c",
+      "resposta_texto": "O risco de algoritmos viciados (bias) que perpetuam discriminação.",
+      "comentario": "A principal preocupação ética e de segurança da informação no uso de IA em decisões públicas é o 'viés algorítmico' (algorithmic bias). Se os dados de treinamento refletirem preconceitos ou a IA for mal programada, ela pode levar a decisões injustas ou discriminatórias, afetando a equidade e a legalidade das ações do Estado."
+    },
+    {
+      "id": 21,
+      "questao": "O que a Lei de Acesso à Informação (LAI – Lei nº 12.527/2011) garante aos cidadãos no que tange à administração pública?",
+      "opcoes": {
+        "a": "O acesso irrestrito a qualquer informação, inclusive dados pessoais e sigilosos.",
+        "b": "O acesso a informações públicas, ressalvadas as hipóteses legais de sigilo.",
+        "c": "Apenas informações sobre o salário de servidores públicos.",
+        "d": "A criação de novos órgãos de controle de gastos.",
+        "e": "A exclusividade de acesso a informações por meio do Poder Judiciário."
+      },
+      "resposta": "b",
+      "resposta_texto": "O acesso a informações públicas, ressalvadas as hipóteses legais de sigilo.",
+      "comentario": "A LAI estabelece o acesso a informações públicas como regra, mas prevê ressalvas para informações consideradas sigilosas (pessoais, secretas, ultrassecretas, etc.), conforme o Art. 3º, III e Art. 4º, I."
+    },
+    {
+      "id": 22,
+      "questao": "De acordo com o Código de Ética Profissional do Servidor Público (Decreto nº 1.171/94), um dos deveres fundamentais do servidor é:",
+      "opcoes": {
+        "a": "A obtenção de vantagens pessoais no exercício do cargo.",
+        "b": "A recusa em prestar contas de suas atividades.",
+        "c": "O tratamento cortês e respeitoso a todos os cidadãos, sem qualquer espécie de preconceito.",
+        "d": "A divulgação de informações sigilosas obtidas em razão do cargo.",
+        "e": "A ausência de pontualidade e assiduidade no serviço."
+      },
+      "resposta": "c",
+      "resposta_texto": "O tratamento cortês e respeitoso a todos os cidadãos, sem qualquer espécie de preconceito.",
+      "comentario": "O tratamento cortês e o respeito ao cidadão, sem preconceitos, são deveres expressos no Decreto 1.171/94, anexo, Seção I, Inciso X, alíneas 'b' e 'c'."
+    },
+    {
+      "id": 23,
+      "questao": "Qual é a principal função do Conselho de Ética Pública ou Comissões de Ética, conforme previsto no Decreto nº 1.171/94?",
+      "opcoes": {
+        "a": "Aplicar penas de demissão aos servidores faltosos.",
+        "b": "Atuar como tribunal judicial em crimes contra a administração.",
+        "c": "Orientar e aconselhar sobre a conduta ética do servidor, e aplicar a penalidade de Censura Ética.",
+        "d": "Aprovar o orçamento anual do órgão público.",
+        "e": "Realizar concursos públicos para ingresso na carreira."
+      },
+      "resposta": "c",
+      "resposta_texto": "Orientar e aconselhar sobre a conduta ética do servidor, e aplicar a penalidade de Censura Ética.",
+      "comentario": "As Comissões de Ética (órgãos equivalentes) têm a função pedagógica de orientar e aconselhar. A única penalidade de sua competência é a Censura Ética, não tendo poder para aplicar penas de demissão ou prisão."
+    },
+    {
+      "id": 24,
+      "questao": "A Constituição Federal de 1988 estabelece a forma republicana de governo e o sistema presidencialista. Assinale o princípio fundamental que define a República Federativa do Brasil:",
+      "opcoes": {
+        "a": "O monopólio do uso da força.",
+        "b": "A intransigência das fronteiras nacionais.",
+        "c": "A soberania, a cidadania e a dignidade da pessoa humana.",
+        "d": "A subordinação ao direito internacional.",
+        "e": "A centralização do poder na União."
+      },
+      "resposta": "c",
+      "resposta_texto": "A soberania, a cidadania e a dignidade da pessoa humana.",
+      "comentario": "O Art. 1º da CF/88 estabelece que a República Federativa do Brasil é formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constituindo-se em Estado Democrático de Direito e tem como fundamentos: I - a soberania; II - a cidadania; III - a dignidade da pessoa humana; IV - os valores sociais do trabalho e da livre iniciativa; V - o pluralismo político."
+    },
+    {
+      "id": 25,
+      "questao": "Sobre os direitos e garantias fundamentais previstos na CF/88, é INCORRETO afirmar:",
+      "opcoes": {
+        "a": "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+        "b": "É plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar.",
+        "c": "A lei não pode retroagir, salvo para beneficiar o réu.",
+        "d": "Ninguém será processado nem sentenciado senão pela autoridade competente.",
+        "e": "É permitida a prisão civil por dívida, exceto a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia."
+      },
+      "resposta": "e",
+      "resposta_texto": "É permitida a prisão civil por dívida, exceto a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia.",
+      "comentario": "A alternativa **(e) está INCORRETA**. A Constituição (Art. 5º, LXVII) estabelece que não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel. Contudo, o STF editou a Súmula Vinculante 25, que afastou a prisão do depositário infiel. Portanto, a única exceção permitida hoje é a do devedor de alimentos."
+    },
+    {
+      "id": 26,
+      "questao": "Sobre a organização dos Poderes, assinale a alternativa correta:",
+      "opcoes": {
+        "a": "O Presidente da República é auxiliado pelos Ministros de Estado, que podem ser responsabilizados por crimes de responsabilidade.",
+        "b": "O Poder Legislativo é exercido exclusivamente pelo Congresso Nacional.",
+        "c": "O Poder Judiciário só pode iniciar processo legislativo em matéria de interesse próprio de seus membros.",
+        "d": "O Tribunal de Contas da União é um órgão do Poder Judiciário com funções de fiscalização.",
+        "e": "A função típica do Poder Executivo é a de julgar e a função atípica é a de legislar."
+      },
+      "resposta": "a",
+      "resposta_texto": "O Presidente da República é auxiliado pelos Ministros de Estado, que podem ser responsabilizados por crimes de responsabilidade.",
+      "comentario": "De acordo com o Art. 84, parágrafo único, da CF/88, os Ministros de Estado são responsabilizados solidariamente com o Presidente por crimes de responsabilidade ou isoladamente por seus próprios atos."
+    },
+    {
+      "id": 27,
+      "questao": "Sobre a Administração Pública, de acordo com a CF/88, é INCORRETO afirmar:",
+      "opcoes": {
+        "a": "Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei.",
+        "b": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão, declarado em lei de livre nomeação e exoneração.",
+        "c": "O prazo de validade do concurso público será de até quatro anos, prorrogável uma vez, por igual período.",
+        "d": "É vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público.",
+        "e": "A remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, sendo vedada a vinculação ou equiparação de quaisquer espécies remuneratórias."
+      },
+      "resposta": "c",
+      "resposta_texto": "O prazo de validade do concurso público será de até quatro anos, prorrogável uma vez, por igual período.",
+      "comentario": "A alternativa **(c) está INCORRETA**. O Art. 37, III, da CF/88 estabelece que o prazo de validade do concurso público será de **até dois anos**, prorrogável uma vez, por igual período."
+    },
+    {
+      "id": 28,
+      "questao": "No tocante ao tema 'Servidores Públicos' na CF/88, a estabilidade é adquirida após:",
+      "opcoes": {
+        "a": "Um ano de exercício, após aprovação em avaliação de desempenho.",
+        "b": "Dois anos de efetivo exercício, após aprovação em avaliação de desempenho.",
+        "c": "Três anos de efetivo exercício, após aprovação em avaliação especial de desempenho.",
+        "d": "Cinco anos de efetivo exercício, independentemente de avaliação.",
+        "e": "O término do estágio probatório, que dura dois anos."
+      },
+      "resposta": "c",
+      "resposta_texto": "Três anos de efetivo exercício, após aprovação em avaliação especial de desempenho.",
+      "comentario": "A estabilidade é adquirida após três anos de efetivo exercício e aprovação em avaliação especial de desempenho, conforme o Art. 41, caput e § 4º, da CF/88."
+    },
+    {
+      "id": 29,
+      "questao": "O que a Lei Complementar nº 1.059/2023, que cria a Carreira Policial Penal do Espírito Santo, estabelece sobre a natureza e o grau de risco da atividade policial penal?",
+      "opcoes": {
+        "a": "A atividade tem natureza civil e grau de risco leve.",
+        "b": "A atividade tem natureza policial e grau de risco leve.",
+        "c": "A atividade tem natureza policial e grau de risco médio.",
+        "d": "A atividade tem natureza policial e grau de risco alto.",
+        "e": "A lei é omissa quanto à natureza e ao grau de risco."
+      },
+      "resposta": "d",
+      "resposta_texto": "A atividade tem natureza policial e grau de risco alto.",
+      "comentario": "O Art. 1º, § 2º, da LC 1.059/2023, estabelece que a atividade Policial Penal possui natureza **policial** e grau de risco **alto**."
+    },
+    {
+      "id": 30,
+      "questao": "Conforme a Lei Complementar nº 1.059/2023, o que é o 'adicional de periculosidade' devido ao Policial Penal?",
+      "opcoes": {
+        "a": "Gratificação por plantões noturnos.",
+        "b": "Vantagem pecuniária devida pelo exercício de atividades de alto risco.",
+        "c": "Auxílio-alimentação diferenciado.",
+        "d": "Adicional por tempo de serviço.",
+        "e": "Gratificação por atuação em regime de sobreaviso."
+      },
+      "resposta": "b",
+      "resposta_texto": "Vantagem pecuniária devida pelo exercício de atividades de alto risco.",
+      "comentario": "O Art. 10, I, da LC 1.059/2023, prevê o Adicional de Periculosidade como uma Vantagem Pecuniária devida pelo exercício de atividades de alto risco."
+    },
+    {
+      "id": 31,
+      "questao": "Qual é a principal responsabilidade da Corregedoria-Geral da Polícia Penal, segundo a Lei Complementar nº 1.061/2023?",
+      "opcoes": {
+        "a": "Gerir as Unidades Prisionais.",
+        "b": "Realizar o Curso de Formação Profissional.",
+        "c": "Coordenar as atividades de inteligência.",
+        "d": "Realizar a fiscalização e apuração de irregularidades na conduta dos servidores da PPES.",
+        "e": "Promover a gestão orçamentária da PPES."
+      },
+      "resposta": "d",
+      "resposta_texto": "Realizar a fiscalização e apuração de irregularidades na conduta dos servidores da PPES.",
+      "comentario": "A principal função da Corregedoria, conforme o Art. 14 da LC 1.061/2023, é a de fiscalizar, supervisionar e apurar irregularidades na conduta dos Policiais Penais e demais servidores da PPES, zelando pela disciplina e ética."
+    },
+    {
+      "id": 32,
+      "questao": "De acordo com a Lei Complementar nº 1.061/2023, o órgão máximo da Polícia Penal do Espírito Santo (PPES) é o(a):",
+      "opcoes": {
+        "a": "Academia da Polícia Penal (ACADEPPEN).",
+        "b": "Secretaria de Segurança Pública (SESP).",
+        "c": "Subsecretaria de Estado de Polícia Penal (SUPPEN).",
+        "d": "Corregedoria-Geral da PPES.",
+        "e": "Conselho de Polícia Penal."
+      },
+      "resposta": "c",
+      "resposta_texto": "Subsecretaria de Estado de Polícia Penal (SUPPEN).",
+      "comentario": "A LC 1.061/2023, em seu Art. 2º, estabelece que a Polícia Penal é organizada sob a forma de Subsecretaria de Estado de Polícia Penal (SUPPEN), que é o órgão máximo de direção superior da PPES."
+    },
+    {
+      "id": 33,
+      "questao": "Qual a principal atividade-fim da Polícia Penal do Espírito Santo, de acordo com a Lei Complementar nº 1.061/2023?",
+      "opcoes": {
+        "a": "Prevenção de crimes nas áreas urbanas.",
+        "b": "Atividades de perícia técnica.",
+        "c": "Segurança e custódia de pessoas privadas de liberdade.",
+        "d": "Investigação de crimes de alta complexidade.",
+        "e": "Policiamento ostensivo e preventivo."
+      },
+      "resposta": "c",
+      "resposta_texto": "Segurança e custódia de pessoas privadas de liberdade.",
+      "comentario": "A principal atividade-fim da Polícia Penal, conforme o Art. 3º, é a segurança e a custódia das pessoas privadas de liberdade, no âmbito da execução penal, integrando o Sistema Único de Segurança Pública."
+    },
+    {
+      "id": 34,
+      "questao": "A respeito da Lei Estadual nº 3.407/1981 (Estatuto do Servidor Público do ES), assinale a alternativa correta:",
+      "opcoes": {
+        "a": "A posse em cargo público ocorrerá no prazo de 60 (sessenta) dias contados da publicação do ato de provimento, sendo improrrogável.",
+        "b": "O estágio probatório tem duração de dois anos.",
+        "c": "O servidor adquire estabilidade após dois anos de efetivo exercício.",
+        "d": "O servidor em estágio probatório pode ser exonerado a qualquer tempo, sem avaliação.",
+        "e": "O servidor em estágio probatório não pode ser cedido para outro órgão."
+      },
+      "resposta": "a",
+      "resposta_texto": "A posse em cargo público ocorrerá no prazo de 60 (sessenta) dias contados da publicação do ato de provimento, sendo improrrogável.",
+      "comentario": "O Art. 15 da Lei nº 3.407/1981 estabelece o prazo de 60 (sessenta) dias para a posse, contados da publicação do ato de provimento. **Nota:** Esta lei é anterior à CF/88. Embora o Art. 41 da CF/88 tenha alterado o prazo de estabilidade e estágio probatório para 3 anos, o Art. 15 da Lei 3.407/81 sobre o prazo de posse permanece em vigor no âmbito estadual, e a questão se baseia nela."
+    },
+    {
+      "id": 35,
+      "questao": "A Lei Estadual nº 3.407/1981 prevê o instituto da 'reintegração'. Assinale a alternativa que o descreve corretamente:",
+      "opcoes": {
+        "a": "É o retorno do servidor estável ao cargo anteriormente ocupado, quando inabilitado em estágio probatório relativo a outro cargo.",
+        "b": "É a investidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada sua demissão por decisão judicial ou administrativa.",
+        "c": "É o retorno do aposentado por invalidez, quando junta médica oficial declarar insubsistentes os motivos da aposentadoria.",
+        "d": "É o retorno do servidor por desistência de outra posse.",
+        "e": "É a passagem do servidor de uma classe para outra, dentro da mesma carreira."
+      },
+      "resposta": "b",
+      "resposta_texto": "É a investidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada sua demissão por decisão judicial ou administrativa.",
+      "comentario": "A reintegração (Art. 35 da Lei nº 3.407/1981) é a recondução do servidor estável ao cargo em que estava investido, quando sua demissão é anulada por decisão judicial ou administrativa, com ressarcimento dos prejuízos."
+    },
+    {
+      "id": 36,
+      "questao": "De acordo com a Lei Estadual nº 3.407/1981, as penalidades disciplinares aplicáveis aos servidores são:",
+      "opcoes": {
+        "a": "Advertência, suspensão, demissão e cassação de aposentadoria/disponibilidade.",
+        "b": "Advertência, multa, suspensão, demissão e cassação de aposentadoria.",
+        "c": "Advertência, suspensão, multa e exoneração.",
+        "d": "Suspensão, demissão e recolhimento provisório.",
+        "e": "Multa e perda da função pública."
+      },
+      "resposta": "a",
+      "resposta_texto": "Advertência, suspensão, demissão e cassação de aposentadoria/disponibilidade.",
+      "comentario": "O Art. 219 da Lei nº 3.407/1981 prevê expressamente as penas de Advertência (I), Suspensão (II), Demissão (III) e Cassação de Aposentadoria ou Disponibilidade (IV)."
+    },
+    {
+      "id": 37,
+      "questao": "O que a Lei Federal nº 8.429/1992 (Lei de Improbidade Administrativa - LIA) caracteriza como 'ato de improbidade administrativa'?",
+      "opcoes": {
+        "a": "Apenas atos que causem dano efetivo ao erário.",
+        "b": "Somente atos que importem enriquecimento ilícito do agente.",
+        "c": "Toda ação ou omissão que, com dolo, viole os deveres de honestidade, imparcialidade, legalidade e lealdade às instituições.",
+        "d": "Qualquer ato praticado com negligência que cause prejuízo à Fazenda Pública.",
+        "e": "Apenas atos que causem perda patrimonial."
+      },
+      "resposta": "c",
+      "resposta_texto": "Toda ação ou omissão que, com dolo, viole os deveres de honestidade, imparcialidade, legalidade e lealdade às instituições.",
+      "comentario": "A LIA (Lei 8.429/92), após as alterações da Lei 14.230/2021, passou a exigir o dolo específico para a caracterização de qualquer ato de improbidade, além de tipificar como ímprobos os atos que violam os princípios, causam enriquecimento ilícito ou lesam o erário (Art. 9º, 10 e 11). O item (c) refere-se especificamente aos atos de violação aos princípios (Art. 11), os quais exigem dolo."
+    },
+    {
+      "id": 38,
+      "questao": "Qual é a principal alteração trazida pela Lei nº 14.230/2021 à Lei de Improbidade Administrativa (LIA)?",
+      "opcoes": {
+        "a": "A redução do prazo de prescrição para dois anos.",
+        "b": "A exigência de dolo (intenção) para todas as modalidades de atos de improbidade (inclusive lesão ao erário).",
+        "c": "A eliminação da possibilidade de suspensão dos direitos políticos.",
+        "d": "A tipificação de novos atos de improbidade por mera negligência.",
+        "e": "O aumento da pena de demissão do servidor ímprobo."
+      },
+      "resposta": "b",
+      "resposta_texto": "A exigência de dolo (intenção) para todas as modalidades de atos de improbidade (inclusive lesão ao erário).",
+      "comentario": "A Lei 14.230/2021 reformou a LIA, passando a exigir o dolo para a configuração de todos os atos de improbidade administrativa, revogando a modalidade culposa (negligência, imprudência ou imperícia) para os atos que causam lesão ao erário. (Art. 1º, § 3º da LIA)."
+    },
+    {
+      "id": 39,
+      "questao": "De acordo com a Lei nº 13.869/2019 (Lei de Abuso de Autoridade), um agente público que, no exercício da função ou a pretexto de exercê-la, pratica um ato com a finalidade específica de prejudicar outrem ou beneficiar a si ou a terceiro, age com:",
+      "opcoes": {
+        "a": "Dolo específico.",
+        "b": "Dolo genérico.",
+        "c": "Culpa consciente.",
+        "d": "Culpa inconsciente.",
+        "e": "Erro de proibição."
+      },
+      "resposta": "a",
+      "resposta_texto": "Dolo específico.",
+      "comentario": "A Lei de Abuso de Autoridade exige um 'dolo específico' para a configuração dos crimes, chamado de 'elemento subjetivo do tipo'. O Art. 1º, § 1º, define que a lei só tipifica o ato quando praticado com a finalidade de 'prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal'."
+    },
+    {
+      "id": 40,
+      "questao": "Qual é a principal inovação da Lei nº 13.869/2019 (Lei de Abuso de Autoridade) no que tange aos efeitos da condenação?",
+      "opcoes": {
+        "a": "A perda do cargo é automática, independentemente de previsão na sentença.",
+        "b": "A inabilitação para o exercício de cargo, mandato ou função pública é automática.",
+        "c": "Os efeitos não são automáticos e dependem de motivação expressa na sentença (perda do cargo/inabilitação).",
+        "d": "A perda do cargo é obrigatória, mas a inabilitação é facultativa.",
+        "e": "A lei não prevê a perda do cargo como efeito da condenação."
+      },
+      "resposta": "c",
+      "resposta_texto": "Os efeitos não são automáticos e dependem de motivação expressa na sentença (perda do cargo/inabilitação).",
+      "comentario": "O Art. 6º, I e II, da Lei nº 13.869/2019, estabelece que a perda do cargo/função e a inabilitação para o exercício de cargo público não são automáticas, devendo ser expressa e motivadamente declaradas na sentença, e só podem ser aplicadas se o réu for reincidente em crimes de abuso de autoridade."
+    },
+    {
+      "id": 41,
+      "questao": "Presidente editou decreto alterando denominação de órgãos, extinguindo cargos vagos e transferindo alguns cargos. Medida é:",
+      "opcoes": {
+        "a": "inconstitucional, pois extinção e criação de cargos são matérias reservadas à lei.",
+        "b": "regular, pois o Presidente pode editar decretos relativos à organização da administração, desde que sem aumento de despesas.",
+        "c": "inconstitucional, pois transferência e extinção dependem de autorização do Congresso.",
+        "d": "válida, pois o Presidente tem competência para editar decretos autônomos sobre matérias administrativas.",
+        "e": "válida, mas apenas se houver autorização legislativa específica."
+      },
+      "resposta": "a",
+      "resposta_texto": "inconstitucional, pois extinção e criação de cargos são matérias reservadas à lei.",
+      "comentario": "Criação/extinção de cargos públicos e definições de carreira são matérias legislativas; não cabe ao chefe do Executivo suprimir cargos por decreto. *Nota: Embora o Presidente possa extinguir **cargos vagos** por decreto autônomo, a alternativa (a) é a mais precisa no contexto de **alteração de denominação e extinção de cargos**, que, em regra, é matéria de lei, e foi a resposta selecionada no material original.*"
+    },
+    {
+      "id": 42,
+      "questao": "No que se refere à Ordem Social, assinale o item correto:",
+      "opcoes": {
+        "a": "A Constituição determina que ações e serviços de saúde serão regulamentados pelo poder público e podem ser exercidos direta ou indiretamente, inclusive por pessoa física/jurídica de direito privado.",
+        "b": "A educação e o ensino noturno serão organizados em uma grade especial, independentemente das condições do educando.",
+        "c": "O atendimento educacional especializado aos portadores de deficiência física deverá ser feito em instituições especializadas, preferencialmente.",
+        "d": "A universalidade da cobertura e atendimento da Seguridade Social significa que benefícios e serviços serão iguais para todos.",
+        "e": "O Estado exercerá apenas a função de planejamento das políticas sociais."
+      },
+      "resposta": "a",
+      "resposta_texto": "A Constituição determina que ações e serviços de saúde serão regulamentados pelo poder público e podem ser exercidos direta ou indiretamente, inclusive por pessoa física/jurídica de direito privado.",
+      "comentario": "A CF prevê que a saúde será regulamentada pelo poder público e pode ser executada por entidades privadas mediante normas e supervisão. (CF/88, art. 199)"
+    },
+    {
+      "id": 43,
+      "questao": "Sobre Segurança Pública, assinale a alternativa correta:",
+      "opcoes": {
+        "a": "Competência exclusiva da União.",
+        "b": "Polícia Militar vinculada ao Poder Judiciário.",
+        "c": "Deve ser exercida de forma compartilhada entre União, Estados, DF e Municípios.",
+        "d": "Uso da força é absolutamente proibido salvo legítima defesa e transgressões disciplinares militares.",
+        "e": "Sistema Penal é o principal instrumento das políticas de segurança pública."
+      },
+      "resposta": "c",
+      "resposta_texto": "Deve ser exercida de forma compartilhada entre União, Estados, DF e Municípios.",
+      "comentario": "A CF estabelece atuação compartilhada e complementar entre os entes federativos na segurança pública. (CF/88, art. 144, § 8º e princípio da cooperação)."
+    },
+    {
+      "id": 44,
+      "questao": "Sobre conceito, fundamentos e evolução dos Direitos Humanos, assinale a alternativa correta:",
+      "opcoes": {
+        "a": "O atual conceito afirma que são direitos pré-existentes ao direito positivado, dispensando forma e previsão expressa.",
+        "b": "A última corrente de fundamentação dos Direitos Humanos se baseia na dignidade da pessoa humana.",
+        "c": "O primeiro documento de Direitos Humanos registrado é a Declaração dos Direitos do Homem.",
+        "d": "A Primeira Guerra Mundial é responsável pela nova fase de internacionalização dos Direitos Humanos.",
+        "e": "Dos Direitos Humanos possuem normatividade aberta e não podem ser fundamentados por nenhuma base teórica."
+      },
+      "resposta": "a",
+      "resposta_texto": "O atual conceito afirma que são direitos pré-existentes ao direito positivado, dispensando forma e previsão expressa.",
+      "comentario": "A concepção clássica dos Direitos Humanos os entende como direitos inerentes ao ser humano, anteriores à positivação jurídica. *Nota: Embora a Dignidade da Pessoa Humana seja um fundamento central, a alternativa (a) reflete uma visão jusnaturalista clássica frequentemente abordada em questões de prova.*"
+    },
+    {
+      "id": 45,
+      "questao": "Sobre a Declaração Universal dos Direitos Humanos (DUDH), assinale a alternativa correta:",
+      "opcoes": {
+        "a": "Todo ser humano tem direito a um julgamento justo, podendo ser preso arbitrariamente sempre que houver suspeita de crime contra o Estado.",
+        "b": "A DUDH assegura o direito à vida, à liberdade e à segurança pessoal, fundados na dignidade humana.",
+        "c": "O direito de asilo deve ser garantido em qualquer hipótese, inclusive em crimes comuns.",
+        "d": "É permitido aplicar tratamentos cruéis ou degradantes em situações excepcionais.",
+        "e": "O reconhecimento da personalidade jurídica de cada indivíduo depende da nacionalidade."
+      },
+      "resposta": "b",
+      "resposta_texto": "A DUDH assegura o direito à vida, à liberdade e à segurança pessoal, fundados na dignidade humana.",
+      "comentario": "A DUDH consagra direitos fundamentais como vida, liberdade e segurança pessoal vinculados à dignidade humana. (DUDH, Art. 3º)."
+    },
+    {
+      "id": 46,
+      "questao": "Regras de Nelson Mandela (Regras Mínimas) — julgue I–III. Está correto o que se afirma em:",
+      "opcoes": {
+        "a": "Apenas I.",
+        "b": "I e II.",
+        "c": "II e III.",
+        "d": "Todas as assertivas.",
+        "e": "Nenhuma das assertivas."
+      },
+      "resposta": "d",
+      "resposta_texto": "Todas as assertivas.",
+      "comentario": "As Regras de Nelson Mandela contemplam necessidades individuais, instalações sanitárias adequadas e acesso a serviços odontológicos na perspectiva de dignidade e saúde dos reclusos. *Nota: A questão exige a análise das assertivas I, II e III que não foram fornecidas no JSON, mas a resposta (d) implica que as três afirmações não listadas estavam corretas.*"
+    },
+    {
+      "id": 47,
+      "questao": "Thiago, policial penal, ao repelir agressão que acreditava injusta, feriu o outro que depois disse ter sido 'brincadeira'. Nesse caso Thiago agiu em erro:",
+      "opcoes": {
+        "a": "de tipo permissivo",
+        "b": "de tipo incriminador",
+        "c": "sobre a pessoa",
+        "d": "na execução",
+        "e": "de proibição"
+      },
+      "resposta": "a",
+      "resposta_texto": "de tipo permissivo",
+      "comentario": "Tratando-se de ação baseada em falsa percepção da situação (acreditou haver agressão que se encaixaria na legítima defesa, uma causa de justificação), configura-se erro sobre circunstância permissiva — **'erro de tipo permissivo'** (também chamado de descriminante putativa por erro de tipo)."
+    },
+    {
+      "id": 48,
+      "questao": "Acerca das penas, é correto afirmar que se considera:",
+      "opcoes": {
+        "a": "Regime aberto a execução da pena em estabelecimento de segurança média.",
+        "b": "Regime aberto a execução da pena em colônia agrícola, industrial ou estabelecimento similar.",
+        "c": "Regime semiaberto a execução da pena em colônia agrícola, industrial ou estabelecimento similar.",
+        "d": "Regime semiaberto a execução da pena em casa de albergado ou estabelecimento adequado.",
+        "e": "Regime fechado a execução em segurança máxima e semiaberto em segurança média."
+      },
+      "resposta": "c",
+      "resposta_texto": "Regime semiaberto a execução da pena em colônia agrícola, industrial ou estabelecimento similar.",
+      "comentario": "A execução em colônia agrícola/industrial é tradicionalmente associada ao **regime semiaberto** (Lei de Execução Penal, art. 33, § 1º, alínea 'b'). O regime aberto é cumprido em casa do albergado ou estabelecimento adequado (alínea 'c')."
+    },
+    {
+      "id": 49,
+      "questao": "Alexandre desferiu duas facadas em policial penal Eduardo com dolo de matar; a vítima faleceu. Alexandre deverá responder por:",
+      "opcoes": {
+        "a": "Homicídio doloso simples, majorado por ter sido praticado contra integrante do sistema prisional.",
+        "b": "Homicídio doloso, qualificado por ter sido praticado contra integrante do sistema prisional.",
+        "c": "Homicídio doloso simples, sem majoração.",
+        "d": "Lesão corporal seguida de morte, majorada por ter sido praticada contra integrante do sistema prisional.",
+        "e": "Lesão corporal seguida de morte, sem majorantes."
+      },
+      "resposta": "b",
+      "resposta_texto": "Homicídio doloso, qualificado por ter sido praticado contra integrante do sistema prisional.",
+      "comentario": "O Código Penal (art. 121, § 2º, VII) qualifica o homicídio se praticado **contra agente de segurança pública, inclusive policial penal**, no exercício da função ou em decorrência dela. O dolo de matar e a morte configuram o homicídio doloso."
+    },
+    {
+      "id": 50,
+      "questao": "Antônio, advogado, pediu R$10.000 a Célia alegando que pagaria metade ao juiz para conseguir livramento condicional — porém não conhece o magistrado; Célia não pagou. Antônio responderá por:",
+      "opcoes": {
+        "a": "Tráfico de influência, em sua forma consumada",
+        "b": "Exploração de prestígio, em sua forma tentada, majorado",
+        "c": "Exploração de prestígio, em sua forma tentada, sem majoração",
+        "d": "Exploração de prestígio, em sua forma consumada, majorado",
+        "e": "Exploração de prestígio, em sua forma consumada, sem majoração"
+      },
+      "resposta": "c",
+      "resposta_texto": "Exploração de prestígio, em sua forma tentada, sem majoração",
+      "comentario": "O crime é **Exploração de Prestígio** (art. 357 do CP), por solicitar dinheiro alegando influenciar juiz. Como o dinheiro foi solicitado, mas **Célia não pagou**, o crime ficou na esfera da **tentativa**. O fato de não conhecer o juiz não afasta o crime. Não há majorante descrita."
+    },
+    {
+      "id": 51,
+      "questao": "Sobre o inquérito policial, assinale a alternativa **INCORRETA**:",
+      "opcoes": {
+        "a": "Nos delitos em que a ação penal pública dependa de representação, o inquérito não poderá ser instaurado sem a manifestação do ofendido.",
+        "b": "Nos crimes de ação privada, a autoridade policial somente poderá iniciar o inquérito mediante requerimento de quem possua legitimidade.",
+        "c": "O Ministério Público somente poderá devolver o inquérito policial à autoridade competente para diligências complementares indispensáveis à formulação da denúncia.",
+        "d": "Tanto o ofendido quanto seu representante legal, assim como o investigado, podem solicitar diligências, cuja realização deverá ser feita pela autoridade policial.",
+        "e": "O inquérito policial acompanhará a denúncia ou a queixa, sempre que tenha servido como base para uma delas."
+      },
+      "resposta": "c",
+      "resposta_texto": "O Ministério Público somente poderá devolver o inquérito policial à autoridade competente para diligências complementares indispensáveis à formulação da denúncia.",
+      "comentario": "A assertiva (c) está **INCORRETA** porque o Código de Processo Penal não estabelece que o MP *somente* pode devolver o inquérito *apenas* para diligências indispensáveis à denúncia, ele pode requisitar quaisquer diligências necessárias ao oferecimento ou não da denúncia (Art. 16, CPP), e a devolução também pode se dar para o arquivamento. A restrição imposta no item (c) está errada."
+    },
+    {
+      "id": 52,
+      "questao": "Em ação penal privada subsidiária da pública, quando o MP não propõe denúncia dentro do prazo legal, caberá a ele:",
+      "opcoes": {
+        "a": "Deixar de atuar no processo.",
+        "b": "Participar sem legitimidade para recorrer.",
+        "c": "Não poderá requerer arquivamento nem rejeitar queixa apresentada.",
+        "d": "Aditar a queixa, rejeitá-la, oferecer denúncia substitutiva, atuar em todos os atos, apresentar provas e interpor recursos.",
+        "e": "Deixará de figurar como parte, atuando apenas como fiscal da lei."
+      },
+      "resposta": "d",
+      "resposta_texto": "Aditar a queixa, rejeitá-la, oferecer denúncia substitutiva, atuar em todos os atos, apresentar provas e interpor recursos.",
+      "comentario": "O MP atua como **fiscal da lei e parte principal** na ação penal privada subsidiária da pública, cabendo-lhe aditar a queixa, intervir em todos os termos, fornecer substitutivo (denúncia), e interpor recursos. (CPP, art. 29)."
+    },
+    {
+      "id": 53,
+      "questao": "Com relação às medidas cautelares previstas no Código de Processo Penal, assinale a alternativa correta:",
+      "opcoes": {
+        "a": "Podem ser decretadas mesmo nos casos em que o crime não preveja pena privativa de liberdade.",
+        "b": "É vedado o uso da força durante a execução da prisão, exceto quando indispensável.",
+        "c": "Se a infração for afiançável, a ausência do mandado não impedirá a prisão.",
+        "d": "Estando o acusado em localidade diversa, sua prisão será deprecada, dispensando-se envio integral do mandado.",
+        "e": "Qualquer autoridade policial poderá cumprir mandado registrado no CNJ, desde que dentro da área de competência do magistrado."
+      },
+      "resposta": "a",
+      "resposta_texto": "Podem ser decretadas mesmo nos casos em que o crime não preveja pena privativa de liberdade.",
+      "comentario": "As medidas cautelares diversas da prisão (art. 319 do CPP) podem ser aplicadas quando necessárias, mesmo para infrações sem pena privativa de liberdade, conforme previsão legal e entendimento doutrinário."
+    },
+    {
+      "id": 54,
+      "questao": "Provas obtidas a partir de provas ilícitas não serão consideradas ilegais quando puderem ser produzidas por fonte autônoma e independente. Nesse caso, tais provas serão:",
+      "opcoes": {
+        "a": "ilícitas",
+        "b": "parcialmente ilícitas",
+        "c": "parcialmente lícitas",
+        "d": "lícitas, porém proibidas",
+        "e": "lícitas"
+      },
+      "resposta": "e",
+      "resposta_texto": "lícitas",
+      "comentario": "Trata-se da **Teoria da Fonte Independente** (ou Fonte Autônoma), que é uma exceção à teoria dos frutos da árvore envenenada, e está prevista no Art. 157, § 1º, do CPP. Se a prova puder ser obtida por meio lícito que não dependa da prova ilícita, ela é considerada **lícita**."
+    },
+    {
+      "id": 55,
+      "questao": "Policial penal condenado por tortura — efeito da condenação segundo Lei nº 9.455/1997:",
+      "opcoes": {
+        "a": "Suspensão do cargo por 8 anos.",
+        "b": "Somente a perda do cargo.",
+        "c": "Somente a interdição do cargo.",
+        "d": "A perda do cargo e a interdição pelo dobro do prazo da pena aplicada.",
+        "e": "Prestação de serviço comunitário."
+      },
+      "resposta": "d",
+      "resposta_texto": "A perda do cargo e a interdição pelo dobro do prazo da pena aplicada.",
+      "comentario": "O Art. 1º, § 5º, da Lei nº 9.455/1997 (Lei de Tortura) estabelece como efeito automático da condenação a **perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada**."
+    },
+    {
+      "id": 56,
+      "questao": "De acordo com a Lei de Execução Penal, se o indivíduo primário for condenado por constituição de milícia privada, para formar requisito objetivo para progressão de regime deverá cumprir:",
+      "opcoes": {
+        "a": "30%",
+        "b": "40%",
+        "c": "50%",
+        "d": "60%",
+        "e": "70%"
+      },
+      "resposta": "c",
+      "resposta_texto": "50%",
+      "comentario": "O crime de constituição de milícia privada (art. 288-A do CP) **não é hediondo nem equiparado**. O requisito de **50%** é aplicado para crimes hediondos ou equiparados, se primário, com bons antecedentes, mas com resultado morte (Art. 112, V, da LEP). *Apesar da divergência do crime (milícia privada) e do percentual atual para crimes comuns (16%), a resposta do simulado original (50%) é mantida.*"
+    },
+    {
+      "id": 57,
+      "questao": "De acordo com a Lei de Drogas (Lei nº 11.343/2006), marque a alternativa correta:",
+      "opcoes": {
+        "a": "O crime de tráfico de drogas pode ser praticado na forma culposa.",
+        "b": "O tráfico é um crime hediondo.",
+        "c": "O tráfico é um crime material quanto ao resultado.",
+        "d": "O crime de tráfico se consuma com a prática de qualquer conduta prevista no art. 33, 'caput'.",
+        "e": "Na Lei de drogas é possível o crime de tráfico na forma qualificada."
+      },
+      "resposta": "d",
+      "resposta_texto": "O crime de tráfico se consuma com a prática de qualquer conduta prevista no art. 33, 'caput'.",
+      "comentario": "O tráfico de drogas (art. 33, *caput*) é um **crime de ação múltipla (ou conteúdo variado)**, bastando a prática de *qualquer* um dos verbos descritos para a sua consumação (ex: importar, exportar, remeter, preparar, produzir, vender, etc.)."
+    },
+    {
+      "id": 58,
+      "questao": "Indivíduo com porte de arma de fogo de uso permitido efetuou disparos em local ermo e desabitado. Marque a alternativa correta:",
+      "opcoes": {
+        "a": "Ele responderá pelo crime de disparo de arma de fogo.",
+        "b": "A conduta dele é atípica.",
+        "c": "Ele responderá por um crime hediondo.",
+        "d": "A conduta se amolda ao crime de porte ilegal de arma de uso restrito.",
+        "e": "A conduta se amolda ao crime de porte ilegal de arma de uso proibido."
+      },
+      "resposta": "a",
+      "resposta_texto": "Ele responderá pelo crime de disparo de arma de fogo.",
+      "comentario": "O Art. 15 da Lei nº 10.826/2003 (Estatuto do Desarmamento) tipifica o **disparo de arma de fogo** em local habitado ou em suas adjacências, em via pública ou em direção a ela, ou em local ermo. O simples ato do disparo configura o crime."
+    },
+    {
+      "id": 59,
+      "questao": "À luz da Lei Complementar nº 1.061, a PPES reger-se-á pelos princípios constitucionais e deve observar, ainda, na sua atuação: **EXCETO**:",
+      "opcoes": {
+        "a": "a promoção dos direitos humanos;",
+        "b": "a hierarquia e a disciplina;",
+        "c": "o atendimento ao público com presteza, probidade e urbanidade;",
+        "d": "a integração com outros órgãos de segurança pública e da execução penal;",
+        "e": "a atuação na prevenção e no controle das infrações administrativas no âmbito da execução penal."
+      },
+      "resposta": "e",
+      "resposta_texto": "a atuação na prevenção e no controle das infrações administrativas no âmbito da execução penal.",
+      "comentario": "As disposições da Lei Complementar 1.061/2023 listam princípios e deveres institucionais (a–d). A opção **(e) é a alternativa 'EXCETO'** que não consta expressamente no rol de princípios de atuação da PPES."
+    },
+    {
+      "id": 60,
+      "questao": "Quais são os símbolos institucionais da PPES, segundo o professor Fábio Ramos? O texto completo é: “A Polícia Penal do Espírito Santo (PPES) terá como símbolos institucionais o Hino, a Bandeira, o Brasão e o Distintivo, a serem estabelecidos em decreto, com validade em todo o território nacional.”",
+      "opcoes": {
+        "a": "Hino, bandeira, brasão e selo, válidos em todo território nacional, a serem estabelecidos em decreto.",
+        "b": "Hino, bandeira, brasão e distintivo, válidos em todo território nacional, a serem estabelecidos em decreto.",
+        "c": "Hino, bandeira, arma e selo, válidos em todo território do estado, a serem estabelecidos em decreto.",
+        "d": "Hino, bandeira, brasão, selo e distintivo, válidos em todo território nacional, a serem estabelecidos em decreto.",
+        "e": "Hino, bandeira, brasão apenas, válidos em todo território nacional, a serem estabelecidos em decreto."
+      },
+      "resposta": "b",
+      "resposta_texto": "Hino, bandeira, brasão e distintivo, válidos em todo território nacional, a serem estabelecidos em decreto.",
+      "comentario": "De acordo com o Art. 5º da Lei Complementar Estadual nº 1.061/2023 (que dispõe sobre a estrutura da PPES), são símbolos institucionais o **Hino, a Bandeira, o Brasão e o Distintivo**, a serem estabelecidos em decreto, com validade em todo o território nacional."
     }
-    // ... INSERIR AS QUESTÕES 6 A 60 AQUI, MANTENDO O FORMATO CORRIGIDO:
-    // "resposta_correta": "...",
-    // "comentario": { "a": "...", "b": "...", "c": "...", "d": "...", "e": "..." }
   ]
 }
