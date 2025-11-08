@@ -5,7 +5,7 @@
     {
       "numero": 1,
       "texto_base": "As joias roubadas do Louvre, em Paris, em um ousado assalto à luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou um promotor público francês, citando o curador do museu. A procuradora francesa Laure Beccuau disse à rádio francesa RTL que a quantia era \"extraordinária\", mas afirmou que a maior perda era para o patrimônio histórico da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por dois imperadores da Casa de Bonaparte às suas esposas. \nLadrões munidos de ferramentas elétricas levaram menos de oito minutos para entrar e fugir com o saque, logo após a abertura do museu mais visitado do mundo na manhã de domingo. Como os ladrões não foram capturados mais de dois dias após o roubo, os especialistas temem que as joias já tenham desaparecido. \nBeccuau disse que o anúncio do valor estimado das joias poderia fazer com que os ladrões pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não ficariam com todo o dinheiro se tivessem \"a péssima ideia de derreter essas joias\". \nOs itens roubados, anteriormente descritos como tendo um valor inestimável, incluem um colar de diamantes e esmeraldas que o imperador Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia, esposa de Napoleão 3ᵒ, e várias peças que pertenceram à rainha Maria-Amélia, mulher do rei Luis Felipe 1º e prima de primeiro grau da primeira imperatriz brasileira, Maria Leopoldina. \nOs investigadores encontraram uma coroa danificada que pertencia à imperatriz Eugênia na rota de fuga dos ladrões — aparentemente deixada para trás quando eles partiram às pressas. \nQuatro ladrões mascarados usaram um caminhão equipado com um elevador mecânico para ter acesso à Galerie d'Apollon (Galeria de Apolo) através de uma varanda próxima ao rio Sena. Dois deles cortaram uma janela de vidro no primeiro andar usando um cortador de disco alimentado por bateria e entraram no museu.",
-      "questao": "LINK DO TEXTO https://www.bbc.com/portuguese/articles/cz7pvyr7nzdo,Com base nas informações do texto, assinale a alternativa que apresenta a principal consequência do roubo das joias do Louvre, segundo a procuradora francesa.",
+      "questao": "Com base nas informações do texto, assinale a alternativa que apresenta a principal consequência do roubo das joias do Louvre, segundo a procuradora francesa.",
       "opcoes": {
         "A": "A perda de peças de alto valor financeiro.",
         "B": "O aumento da criminalidade em Paris.",
@@ -845,6 +845,7 @@
     }
   ]
 }
+
 
 
 
