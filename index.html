@@ -80,11 +80,17 @@
             transition: background-color 0.2s;
             font-family: 'Roboto', sans-serif;
             font-size: 0.9em;
-            word-wrap: break-word; /* Garante que nomes longos se quebrem */
+            word-wrap: break-word; 
         }
 
-        #simulados-list a:hover {
+        #simulados-list a:hover:not(.active) {
             background-color: var(--primary-color);
+        }
+        
+        #simulados-list a.active {
+            background-color: var(--secondary-color);
+            color: var(--text-dark);
+            font-weight: bold;
         }
 
         /* Conteúdo Principal do Quiz */
@@ -135,7 +141,7 @@
             line-height: 1.4;
         }
 
-        .option:hover:not(.answered) { /* Evita hover após responder */
+        .option:hover:not(.answered) {
             background-color: #e9ecef; 
         }
 
@@ -147,7 +153,7 @@
 
         /* ESTILOS DE INTERATIVIDADE */
         .option.answered {
-            pointer-events: none; /* Desabilita cliques após resposta */
+            pointer-events: none; 
         }
         
         .option.correct-answer, .option.correct-answer-revealed {
@@ -161,7 +167,6 @@
             color: var(--text-light);
         }
 
-        /* Garante que a chave da opção (A, B, C) permaneça visível */
         .option.correct-answer .option-key,
         .option.correct-answer-revealed .option-key,
         .option.wrong-answer .option-key {
@@ -173,8 +178,6 @@
             margin-top: 20px;
             padding: 15px;
             border-radius: 8px;
-            background-color: #e8f7ec; /* Fundo verde claro para comentários */
-            border: 1px solid var(--success-color);
         }
         
         .comment-box h4 {
@@ -190,7 +193,7 @@
 
         /* Estilo para o Texto Base */
         .text-base-card {
-            background-color: #f1f8ff; /* Azul muito claro */
+            background-color: #f1f8ff; 
             padding: 20px;
             margin-bottom: 30px;
             border-radius: 8px;
@@ -198,7 +201,6 @@
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         }
         .text-base-card p {
-            /* Mantém quebras de linha e espaçamento, se houver no JSON */
             white-space: pre-wrap; 
         }
     </style>
@@ -221,17 +223,28 @@
     <script>
         // Variável global para armazenar as questões carregadas
         let currentQuizData = []; 
+        let activeFilename = ''; // Para rastrear qual simulado está ativo
 
         async function loadAndRenderQuiz(filename) {
-            // Remove o foco do elemento que foi clicado
             document.activeElement.blur();
+            activeFilename = filename; // Define o arquivo ativo
             
-            try {
-                // Tenta carregar o arquivo do caminho 'data/'
-                const response = await fetch(`./data/${filename}`);
-                if (!response.ok) {
-                    throw new Error(`Erro ao carregar o arquivo: ${response.statusText}`);
+            // Atualiza o estado visual do simulado na barra lateral
+            document.querySelectorAll('#simulados-list a').forEach(a => {
+                a.classList.remove('active');
+                if (a.getAttribute('onclick').includes(`'${filename}'`)) {
+                    a.classList.add('active');
                 }
+            });
+
+            try {
+                // CORREÇÃO CRÍTICA: Usa encodeURIComponent para garantir que espaços e caracteres especiais funcionem no caminho
+                const response = await fetch(`./data/${encodeURIComponent(filename)}`);
+                
+                if (!response.ok) {
+                    throw new Error(`Erro de rede ao carregar. Código: ${response.status}`);
+                }
+                
                 const data = await response.json();
                 
                 // CORREÇÃO UNIVERSAL DE FORMATO
@@ -245,15 +258,19 @@
                 
                 renderQuiz(data);
             } catch (error) {
-                alert(`Erro ao carregar simulado '${filename}'. Verifique o nome do arquivo, a sintaxe JSON e a pasta 'data/'.\n\nDetalhes: ${error.message}`);
+                // Mensagem de erro clara para o usuário
+                alert(`Erro ao carregar simulado '${filename}'.\n\nVerifique:\n1. Se o arquivo está na pasta 'data/'\n2. Se o nome do arquivo está EXATO\n3. Se a sintaxe JSON está correta.\n\nDetalhes: ${error.message}`);
                 console.error("Erro no loadAndRenderQuiz:", error);
+                document.getElementById('quiz-container').innerHTML = `
+                    <h2 style="color: var(--danger-color);">Falha ao Carregar Simulado</h2>
+                    <p>Verifique se o ficheiro <strong>${filename}</strong> está na pasta <strong>data/</strong> e se o nome está exato. Consulte a consola do navegador para detalhes técnicos.</p>
+                `;
             }
         }
 
         function renderQuiz(data) {
             const quizContainer = document.getElementById('quiz-container');
             
-            // Tenta obter o título
             const title = data.titulo || data.titulo_bloco || 'Simulado';
             
             quizContainer.innerHTML = `<h2 class="quiz-title">${title}</h2>`;
@@ -262,32 +279,51 @@
                 const questionDiv = document.createElement('div');
                 questionDiv.className = 'question-card';
                 
-                // Usa 'id' ou 'numero' para compatibilidade
                 const qId = q.id || q.numero; 
                 
                 if (!qId) return; 
 
                 questionDiv.id = `question-${qId}`;
                 
-                // ADICIONA EXIBIÇÃO DO TEXTO BASE
-                // Assume que se a questão tiver a chave 'texto_base' E for a primeira (qId == 1), ela será exibida.
-                if (q.texto_base && qId == 1) { 
-                    const textBaseDiv = document.createElement('div');
-                    textBaseDiv.className = 'text-base-card';
-                    textBaseDiv.innerHTML = `
-                        <h4 style="color: var(--primary-color);">[TEXTO BASE PARA INTERPRETAÇÃO - Questões 1 a 10]</h4>
-                        <p>${q.texto_base.replace(/\n/g, '<br>')}</p>
-                        <hr>
-                    `;
-                    quizContainer.appendChild(textBaseDiv);
+                let currentQuestionText = q.questao;
+
+                // Tenta extrair e exibir o texto base se estiver na questão 1
+                if (currentQuestionText && qId == 1 && currentQuestionText.includes('TEXTO BASE')) {
+                     const textBaseMarker = "**[TEXTO BASE";
+                     const questionMarker = "Questão 1"; 
+
+                     // Tenta dividir o texto
+                     const textBaseParts = currentQuestionText.split(textBaseMarker);
+                     
+                     if(textBaseParts.length > 1) {
+                        const questionStart = textBaseParts[1].indexOf(questionMarker);
+                        
+                        let textBaseContent = currentQuestionText;
+                        
+                        if (questionStart > 0) {
+                             textBaseContent = textBaseParts[1].substring(0, questionStart).trim();
+                             currentQuestionText = textBaseParts[1].substring(questionStart).trim();
+                        } else {
+                            // Se a questão não estiver na mesma string, usa toda a string (solução de emergência)
+                            currentQuestionText = q.questao; 
+                        }
+
+                        const textBaseDiv = document.createElement('div');
+                        textBaseDiv.className = 'text-base-card';
+                        textBaseDiv.innerHTML = `
+                            <h4 style="color: var(--primary-color);">[TEXTO BASE PARA INTERPRETAÇÃO]</h4>
+                            <p>${textBaseContent.replace(/\n/g, '<br>')}</p>
+                            <hr>
+                        `;
+                        quizContainer.appendChild(textBaseDiv);
+                     }
                 }
-                
+
                 // Estrutura HTML de cada questão
-                // Usa replace para garantir quebras de linha do JSON/TXT sejam reconhecidas
                 questionDiv.innerHTML = `
                     <div class="question-header">
                         <h3>Questão ${qId}</h3>
-                        <p>${q.questao.replace(/\n/g, '<br>')}</p>
+                        <p>${currentQuestionText.replace(/\n/g, '<br>')}</p>
                     </div>
                     <ul class="options-list" data-question-id="${qId}">
                         ${Object.entries(q.opcoes).map(([key, value]) => `
@@ -302,36 +338,31 @@
                 quizContainer.appendChild(questionDiv);
             });
             
-            // Rola para o topo do conteúdo
             document.getElementById('content').scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         function checkAnswer(questionId, selectedOption) {
             const questionElement = document.getElementById(`question-${questionId}`);
-            
-            // Encontra a questão por 'id' ou 'numero'
             const question = currentQuizData.find(q => (q.id == questionId || q.numero == questionId));
 
             if (!question) return;
 
             const optionsList = questionElement.querySelector('.options-list');
             
-            // Previne clique duplo
             if (optionsList.classList.contains('answered')) {
                 return; 
             }
             optionsList.classList.add('answered'); 
 
-            // CORREÇÃO CRÍTICA (RESOLVE O N/A): Tenta encontrar a resposta em TODAS as chaves possíveis
+            // CORREÇÃO CRÍTICA (RESOLVE O N/A): Procura a resposta correta em múltiplas chaves
             const correctAnswer = (question.resposta_correta || question.resposta || question.correct_answer || '').toLowerCase(); 
             
-            // Se o gabarito não for encontrado, exibe uma mensagem de erro
             if (!correctAnswer || correctAnswer === 'n/a' || correctAnswer === 'undefined') {
                 const commentBox = document.getElementById(`comment-${questionId}`);
                 if (commentBox) {
                     commentBox.style.display = 'block';
-                    commentBox.style.backgroundColor = 'var(--danger-color)';
-                    commentBox.style.color = 'var(--text-light)';
+                    commentBox.style.backgroundColor = '#f7e8e8'; 
+                    commentBox.style.borderColor = 'var(--danger-color)';
                     commentBox.innerHTML = `<h4>❌ ERRO: Gabarito não definido no JSON.</h4><p>Verifique as chaves 'resposta_correta' ou 'resposta' na Questão ${questionId}.</p>`;
                 }
                 return;
@@ -350,7 +381,6 @@
                     option.classList.add('correct-answer-revealed'); 
                 }
                 
-                // Remove o handler de clique
                 option.onclick = null;
             });
 
@@ -358,7 +388,7 @@
             const commentBox = document.getElementById(`comment-${questionId}`);
             if (commentBox) {
                 commentBox.style.display = 'block';
-                commentBox.style.backgroundColor = isCorrect ? '#e8f7ec' : '#f7e8e8'; /* Cores leves para a caixa */
+                commentBox.style.backgroundColor = isCorrect ? '#e8f7ec' : '#f7e8e8'; 
                 commentBox.style.borderColor = isCorrect ? 'var(--success-color)' : 'var(--danger-color)';
                 
                 let commentHTML = `<h4>${isCorrect ? '✅ Resposta Correta!' : '❌ Sua Resposta Está Incorreta.'}</h4>`;
@@ -367,20 +397,15 @@
                 // Tenta encontrar o comentário em todas as chaves e formatos
                 let commentContent = 'Comentário não disponível.';
                 
-                // Prioridade 1: Formato Objeto detalhado (padrão de simulados antigos)
                 if (typeof question.comentario === 'object' && question.comentario !== null) {
-                    // Pega o comentário detalhado da opção correta ou uma genérica
                     commentContent = question.comentario[correctAnswer.toUpperCase()] || question.comentario[correctAnswer] || question.comentario.A || 'Comentário detalhado não disponível.';
                 } 
-                // Prioridade 2: Chave alternativa 'explicacao_professor'
                 else if (question.explicacao_professor) {
                     commentContent = question.explicacao_professor;
                 }
-                // Prioridade 3: Formato String Simples (padrão do seu novo JSON)
                 else if (typeof question.comentario === 'string') {
                     commentContent = question.comentario;
                 } 
-                
                 
                 commentHTML += `<div class="comment-content">${commentContent.replace(/\n/g, '<br>')}</div>`;
                 commentBox.innerHTML = commentHTML;
@@ -391,43 +416,35 @@
         async function loadSimulados() {
             const list = document.getElementById('simulados-list');
             
-            // LISTA DE MANIFESTO ATUALIZADA PELO USUÁRIO (TODOS OS ARQUIVOS)
+            // LISTA DE MANIFESTO ATUALIZADA
             const fallbackFiles = [
                 "SIMULADO-DIREITOS-HUMANOS-JSON.json",
                 "SIMULADO-IASES-JSON-COM-GABARITO.json",
                 "SIMULADO-POLICIA-PENAL02-JSON.json",
                 "SIMULADO-POLICIA-PENAL-JSON.json",
-                "GERAIS.json",
+                "QUESTOES-GERAIS.json",
                 "QUESTOES-AREA-POLICIAL.json",
                 "SIMULADO-IDCAP-60-QUESTOES.json",
-                "002-IDCAP-60-QUESTOES.json",
+                "SIMULADO-02-IDCAP-60-QUESTOES.json",
                 "SIMULADO-03-IDCAP-60-QUESTOES.json",
                 "LEGISLAÇÃO-ESPECÍFICA.json",
                 "SIMULADO-ATUALIDADES-83-QUESTOES.json",
-                "ESTRATEGIA-POLICIA-PENAL.json" 
+                "NOVO SIMULADOS POLICIA PENAL 08.11.2025.json" 
             ];
             
             list.innerHTML = '';
             fallbackFiles.forEach(filename => {
-                // Tenta criar um nome legível (remove a extensão e alguns prefixos comuns)
                 let cleanName = filename.replace(/\.(json|txt)$/i, ''); 
                 cleanName = cleanName.replace(/SIMULADO-|QUESTOES-|NOVO /g, '').trim();
                 
                 const li = document.createElement('li');
-                // O onclick usa o nome do arquivo EXATO para carregar
                 li.innerHTML = `<a onclick="loadAndRenderQuiz('${filename}')">${cleanName}</a>`;
                 list.appendChild(li);
             });
             list.innerHTML += '<li><small style="color:#adb5bd; padding-top: 10px; display: block;">(Lista de Simulados Carregada)</small></li>';
-
-            // Nota: Se você tiver um arquivo 'simulados.json' na pasta 'data/' com a lista completa,
-            // pode descomentar o bloco try/catch e remover a lista fallbackFiles.
         }
 
         window.onload = loadSimulados;
     </script>
 </body>
 </html>
-
-
-
