@@ -6,7 +6,7 @@
     "questoes": [
         {
             "numero": 1,
-            "disciplina": "Atualidades/ES",
+            "disciplina": "Teste de Atualidades/ES",
             "questao": "A taxação de super-ricos tem sido tema de debate internacional em 2025. Segundo propostas discutidas em fóruns econômicos globais, qual seria o principal objetivo dessa medida?",
             "opcoes": {
                 "A": "Correta. A taxação de super-ricos tem como principais objetivos aumentar a arrecadação pública para investimentos sociais e em infraestrutura, além de contribuir para a redução da desigualdade social.",
