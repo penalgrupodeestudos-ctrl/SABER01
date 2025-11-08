@@ -1,9 +1,10 @@
 {
   "titulo": "Simulado Especial Polícia Penal ES - 25/10/2025 (versão JSON com gabarito e comentários)",
-  "fonte": ":contentReference[oaicite:0]{index=0}",
+  "fonte": "Adicione aqui a referência da fonte, se necessário.",
   "questoes": [
     {
-      "questao": 1,
+      "numero": 1,
+      "texto_base": "INSIRA O TEXTO COMPLETO DE INTERPRETAÇÃO AQUI. (Ex: O roubo das joias no Museu do Louvre, em Paris, gerou comoção...)",
       "questao": " Com base nas informações do texto, assinale a alternativa que apresenta a principal consequência do roubo das joias do Louvre, segundo a procuradora francesa.",
       "opcoes": {
         "a": "A perda de peças de alto valor financeiro.",
@@ -844,6 +845,7 @@
     }
   ]
 }
+
 
 
 
