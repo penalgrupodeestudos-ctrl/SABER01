@@ -113,6 +113,41 @@
             font-weight: bold;
         }
 
+        /* Botões de Ação na Sidebar */
+        .sidebar-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .sidebar-actions button {
+            border: none;
+            padding: 10px;
+            width: 100%;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            font-family: 'Montserrat', sans-serif;
+            transition: opacity 0.2s;
+        }
+
+        #show-desempenho {
+            background-color: var(--secondary-color);
+            color: var(--text-dark);
+        }
+
+        #reset-quiz-button {
+            background-color: var(--danger-color);
+            color: var(--text-light);
+            opacity: 0.7; /* Começa um pouco transparente */
+            display: none; /* Escondido por padrão */
+        }
+        
+        #reset-quiz-button:hover {
+            opacity: 1; /* Fica opaco ao passar o mouse */
+        }
+        
         /* --- Score Board (Desempenho) --- */
         #score-board {
             background-color: var(--card-bg);
@@ -143,46 +178,6 @@
         .erros span { color: var(--danger-color); }
         .percentual span { color: var(--primary-color); }
         .pendentes span { color: var(--warning-color); }
-
-        /* Estilo do Botão de Anotações */
-        .notes-area {
-            margin-top: 15px;
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            background-color: #fcfcfc;
-        }
-        .notes-area textarea {
-            width: 98%;
-            min-height: 80px;
-            padding: 5px;
-            border: 1px solid #ddd;
-            border-radius: 3px;
-            margin-bottom: 5px;
-            resize: vertical;
-        }
-        .notes-area button {
-            padding: 5px 10px;
-            border: none;
-            border-radius: 3px;
-            cursor: pointer;
-            margin-right: 5px;
-            transition: background-color 0.2s;
-        }
-        .notes-area .save-btn {
-            background-color: var(--primary-color);
-            color: var(--text-light);
-        }
-        .notes-area .save-btn:hover {
-            background-color: #003366;
-        }
-        .notes-area .clear-btn {
-            background-color: var(--danger-color);
-            color: var(--text-light);
-        }
-        .notes-area .clear-btn:hover {
-            background-color: #a00000;
-        }
 
         /* Demais estilos mantidos do original */
         .quiz-title {
@@ -304,7 +299,10 @@
         <ul id="simulados-list">
             </ul>
         <hr style="border-color: #444; margin: 20px 0;">
-        <button id="show-desempenho" onclick="displayScore()" style="background-color: var(--secondary-color); color: var(--text-dark); border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; font-family: 'Montserrat', sans-serif;">Ver Placar</button>
+        <div class="sidebar-actions">
+            <button id="show-desempenho" onclick="displayScore()">Ver Placar</button>
+            <button id="reset-quiz-button" onclick="resetQuiz()">🔄 Reiniciar Simulado</button>
+        </div>
     </div>
 
     <div id="content">
@@ -313,7 +311,7 @@
 
         <div id="quiz-container">
             <h2 class="quiz-title">Selecione um Simulado</h2>
-            <p>Selecione um dos simulados na barra lateral para começar. Lembre-se que todos os arquivos JSON devem estar na pasta **`data/`** do seu repositório GitHub.</p>
+            <p>Selecione um dos simulados na barra lateral para começar. Lembre-se que todos os arquivos JSON devem estar na pasta **`data/`** do seu projeto no GitHub.</p>
         </div>
     </div>
 
@@ -363,6 +361,9 @@
                 renderQuiz(data);
                 loadNotes(); 
 
+                // Exibe o botão de reiniciar
+                document.getElementById('reset-quiz-button').style.display = 'block';
+
                 // Exibe o placar (inicialmente zero ou com dados salvos)
                 displayScore();
 
@@ -374,6 +375,7 @@
                     <p>Verifique se o ficheiro <strong>${filename}</strong> está na pasta <strong>data/</strong> e se o nome está exato. Consulte a consola do navegador para detalhes técnicos.</p>
                 `;
                 document.getElementById('score-board').style.display = 'none';
+                document.getElementById('reset-quiz-button').style.display = 'none';
             }
         }
 
@@ -462,6 +464,26 @@
             });
             
             document.getElementById('content').scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        // --- NOVO CÓDIGO: Função para Reiniciar o Simulado ---
+
+        function resetQuiz() {
+            if (!activeFilename) {
+                alert("Nenhum simulado ativo para reiniciar.");
+                return;
+            }
+            
+            if (confirm(`Tem certeza que deseja **REINICIAR** o simulado '${activeFilename}'? \n\nIsso irá APAGAR todas as suas respostas salvas (acertos e erros) para este simulado.`)) {
+                // 1. Apaga as respostas do LocalStorage
+                localStorage.removeItem(`answers_${activeFilename}`);
+                userAnswers = {}; // Reseta a variável global
+                
+                // 2. Recarrega o simulado do zero (sem as respostas salvas)
+                loadAndRenderQuiz(activeFilename);
+                
+                alert("Simulado reiniciado com sucesso!");
+            }
         }
 
 
@@ -651,20 +673,21 @@
             const list = document.getElementById('simulados-list');
             
             // LISTA DE MANIFESTO FINALIZADA (Seus arquivos conhecidos e o novo ESTRATEGIA.json)
-            const fallbackFiles =[
-  "SIMULADO-DIREITOS-HUMANOS-JSON.json",
-  "SIMULADO-IASES-JSON-COM-GABARITO.json",
-  "SIMULADO-POLICIA-PENAL02-JSON.json",
-  "SIMULADO-POLICIA-PENAL-JSON.json",
-  "GERAIS.json",
-  "QUESTOES-AREA-POLICIAL.json",
-  "SIMULADO-IDCAP-60-QUESTOES.json",
-  "002-IDCAP-60-QUESTOES.json",
-  "SIMULADO-03-IDCAP-60-QUESTOES.json",
-  "LEGISLAÇÃO-ESPECÍFICA.json",
-  "SIMULADO-ATUALIDADES-83-QUESTOES.json",
-  "ESTRATEGIA.json"
-];
+            const fallbackFiles = [
+                "ESTRATEGIA.json", // Arquivo corrigido
+                "SIMULADO-DIREITOS-HUMANOS-JSON.json",
+                "SIMULADO-IASES-JSON-COM-GABARITO.json",
+                "SIMULADO-POLICIA-PENAL02-JSON.json",
+                "SIMULADO-POLICIA-PENAL-JSON.json",
+                "QUESTOES-GERAIS.json",
+                "QUESTOES-AREA-POLICIAL.json",
+                "SIMULADO-IDCAP-60-QUESTOES.json",
+                "SIMULADO-02-IDCAP-60-QUESTOES.json",
+                "SIMULADO-03-IDCAP-60-QUESTOES.json",
+                "LEGISLAÇÃO-ESPECÍFICA.json",
+                "SIMULADO-ATUALIDADES-83-QUESTOES.json",
+                "NOVO SIMULADOS POLICIA PENAL 08.11.2025.json"
+            ];
             
             list.innerHTML = '';
             fallbackFiles.forEach(filename => {
@@ -682,4 +705,3 @@
     </script>
 </body>
 </html>
-
