@@ -651,21 +651,20 @@
             const list = document.getElementById('simulados-list');
             
             // LISTA DE MANIFESTO FINALIZADA (Seus arquivos conhecidos e o novo ESTRATEGIA.json)
-            const fallbackFiles = [
-                "ESTRATEGIA.json", // <-- NOVO ARQUIVO CORRIGIDO AQUI
-                "SIMULADO-DIREITOS-HUMANOS-JSON.json",
-                "SIMULADO-IASES-JSON-COM-GABARITO.json",
-                "SIMULADO-POLICIA-PENAL02-JSON.json",
-                "SIMULADO-POLICIA-PENAL-JSON.json",
-                "QUESTOES-GERAIS.json",
-                "QUESTOES-AREA-POLICIAL.json",
-                "SIMULADO-IDCAP-60-QUESTOES.json",
-                "SIMULADO-02-IDCAP-60-QUESTOES.json",
-                "SIMULADO-03-IDCAP-60-QUESTOES.json",
-                "LEGISLAÇÃO-ESPECÍFICA.json",
-                "SIMULADO-ATUALIDADES-83-QUESTOES.json",
-                "NOVO SIMULADOS POLICIA PENAL 08.11.2025.json"
-            ];
+            const fallbackFiles =[
+  "SIMULADO-DIREITOS-HUMANOS-JSON.json",
+  "SIMULADO-IASES-JSON-COM-GABARITO.json",
+  "SIMULADO-POLICIA-PENAL02-JSON.json",
+  "SIMULADO-POLICIA-PENAL-JSON.json",
+  "GERAIS.json",
+  "QUESTOES-AREA-POLICIAL.json",
+  "SIMULADO-IDCAP-60-QUESTOES.json",
+  "002-IDCAP-60-QUESTOES.json",
+  "SIMULADO-03-IDCAP-60-QUESTOES.json",
+  "LEGISLAÇÃO-ESPECÍFICA.json",
+  "SIMULADO-ATUALIDADES-83-QUESTOES.json",
+  "ESTRATEGIA.json"
+];
             
             list.innerHTML = '';
             fallbackFiles.forEach(filename => {
@@ -683,3 +682,4 @@
     </script>
 </body>
 </html>
+
