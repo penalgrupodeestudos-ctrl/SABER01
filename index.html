@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VERIFICAR DESEMPENHO DO ALUNO - Simulados Interativos</title>
+    <title>Simulados Interativos - PPES</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <style>
         /* Variáveis de Tema (Design System Básico) */
@@ -21,32 +21,52 @@
             --card-bg: #ffffff;
         }
 
-        /* Estilos Globais */
+        /* Estilos Globais e Layout */
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
             background-color: var(--bg-light);
             color: var(--text-dark);
-            display: flex;
             min-height: 100vh;
         }
-        
-        /* Layout */
+
+        /* Padrão para Celular (Barra lateral em cima, Conteúdo em baixo) */
         #sidebar {
-            width: 300px;
+            width: 100%; 
             background-color: var(--bg-dark);
             color: var(--text-light);
             padding: 20px;
-            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-            flex-shrink: 0;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15); 
             overflow-y: auto;
         }
-
+        
+        @media (min-width: 768px) {
+            body {
+                display: flex; /* Volta ao layout lado a lado para telas grandes */
+            }
+            #sidebar {
+                width: 300px;
+                flex-shrink: 0; 
+                height: 100vh; 
+                position: sticky; /* Mantém a barra lateral fixa no topo */
+                top: 0;
+                box-shadow: 4px 0 10px rgba(0, 0, 0, 0.15); /* Sombra na lateral */
+            }
+            #content {
+                flex-grow: 1;
+                padding: 30px;
+                max-width: calc(100% - 300px);
+                overflow-y: auto;
+            }
+            /* Esconde o botão de Placar na sidebar em telas grandes, já que ele estará no topo do #content */
+             #show-desempenho {
+                display: none !important;
+            }
+        }
+        
         #content {
-            flex-grow: 1;
-            padding: 30px;
-            max-width: calc(100% - 300px);
+            padding: 20px;
             overflow-y: auto;
         }
 
@@ -193,6 +213,7 @@
             font-size: 1em;
             line-height: 1.5;
             margin-bottom: 15px;
+            white-space: pre-wrap; /* Mantém quebras de linha */
         }
 
         .options-list {
@@ -220,6 +241,7 @@
             font-weight: bold;
             margin-right: 10px;
             color: var(--primary-color);
+            flex-shrink: 0;
         }
 
         .option.answered {
@@ -247,6 +269,7 @@
             margin-top: 20px;
             padding: 15px;
             border-radius: 8px;
+            border: 1px solid;
         }
         
         .comment-box h4 {
@@ -270,6 +293,7 @@
         }
         .text-base-card p {
             white-space: pre-wrap; 
+            font-style: italic;
         }
     </style>
 </head>
@@ -280,7 +304,7 @@
         <ul id="simulados-list">
             </ul>
         <hr style="border-color: #444; margin: 20px 0;">
-        <button id="show-desempenho" onclick="displayScore()" style="background-color: var(--secondary-color); color: var(--text-dark); border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; font-family: 'Montserrat', sans-serif;">Ver Desempenho / Placar</button>
+        <button id="show-desempenho" onclick="displayScore()" style="background-color: var(--secondary-color); color: var(--text-dark); border: none; padding: 10px; width: 100%; border-radius: 5px; cursor: pointer; font-weight: bold; font-family: 'Montserrat', sans-serif;">Ver Placar</button>
     </div>
 
     <div id="content">
@@ -288,8 +312,8 @@
             </div>
 
         <div id="quiz-container">
-            <h2>Selecione um Simulado</h2>
-            <p>Selecione um dos simulados na barra lateral para começar. Lembre-se que todos os arquivos JSON devem estar na pasta 'data/'.</p>
+            <h2 class="quiz-title">Selecione um Simulado</h2>
+            <p>Selecione um dos simulados na barra lateral para começar. Lembre-se que todos os arquivos JSON devem estar na pasta **`data/`** do seu repositório GitHub.</p>
         </div>
     </div>
 
@@ -297,7 +321,8 @@
         // Variáveis globais
         let currentQuizData = []; 
         let activeFilename = ''; 
-        let userAnswers = {}; // Armazena as respostas do usuário {questionId: {selectedOption: 'a', isCorrect: true}, ...}
+        // Armazena as respostas do usuário {questionId: {selectedOption: 'a', isCorrect: true}, ...}
+        let userAnswers = {}; 
 
         // --- Funções de Carregamento e Renderização ---
 
@@ -305,11 +330,9 @@
             document.activeElement.blur();
             activeFilename = filename; 
             
-            // Limpa o estado anterior
-            userAnswers = {};
-            // Comentado para evitar perda de dados persistentes ao clicar, mas o ideal seria limpar apenas ao carregar um NOVO simulado.
-            // localStorage.removeItem(`answers_${activeFilename}`); 
-
+            // Tenta carregar respostas e anotações anteriores ANTES de limpar
+            loadUserAnswers();
+            
             // Atualiza o estado visual do simulado na barra lateral
             document.querySelectorAll('#simulados-list a').forEach(a => {
                 a.classList.remove('active');
@@ -319,7 +342,7 @@
             });
 
             try {
-                // CORREÇÃO ESSENCIAL PARA GITHUB: Usa encodeURIComponent para que nomes com espaços funcionem
+                // CORREÇÃO ESSENCIAL PARA GITHUB: Usa encodeURIComponent
                 const response = await fetch(`./data/${encodeURIComponent(filename)}`);
                 
                 if (!response.ok) {
@@ -328,7 +351,7 @@
                 
                 const data = await response.json();
                 
-                // CORREÇÃO UNIVERSAL DE FORMATO (Compatível com o JSON da ESTRATEGIA)
+                // Trata diferentes formatos de JSON (lista direta ou objeto com chave 'questoes')
                 if (Array.isArray(data)) {
                     currentQuizData = data;
                 } else if (data.questoes && Array.isArray(data.questoes)) {
@@ -336,9 +359,6 @@
                 } else {
                     throw new Error("Formato JSON inválido: O arquivo não é um array nem contém a chave 'questoes'.");
                 }
-                
-                // Tenta carregar respostas e anotações anteriores
-                loadUserAnswers();
                 
                 renderQuiz(data);
                 loadNotes(); 
@@ -366,26 +386,18 @@
             currentQuizData.forEach((q, index) => {
                 const questionDiv = document.createElement('div');
                 questionDiv.className = 'question-card';
+                // Aceita 'id' ou 'numero' para a identificação da questão
                 const qId = q.id || q.numero; 
                 
                 if (!qId) return; 
 
                 questionDiv.id = `question-${qId}`;
-                let currentQuestionText = q.questao;
+
+                // CORREÇÃO ESSENCIAL DE FLEXIBILIDADE: Procura por 'questao' ou 'pergunta'
+                let currentQuestionText = q.questao || q.pergunta; 
 
                 // Lógica robusta para exibir Texto Base
-                if (q.texto_base) { // Se o JSON tiver uma chave 'texto_base' separada
-                    const textBaseDiv = document.createElement('div');
-                    textBaseDiv.className = 'text-base-card';
-                    textBaseDiv.innerHTML = `
-                        <h4 style="color: var(--primary-color);">[TEXTO BASE PARA INTERPRETAÇÃO]</h4>
-                        <p>${q.texto_base.replace(/\n/g, '<br>')}</p>
-                        <hr>
-                    `;
-                    quizContainer.appendChild(textBaseDiv);
-                } 
-                // Lógica para extrair texto base da Questão 1 se estiver no mesmo campo
-                else if (currentQuestionText && qId == 1 && currentQuestionText.includes('TEXTO BASE')) {
+                if (currentQuestionText && currentQuestionText.includes('TEXTO BASE')) {
                      const textBaseMarker = "**[TEXTO BASE";
                      const questionMarker = "Questão 1"; 
 
@@ -394,30 +406,19 @@
                      if(textBaseParts.length > 1) {
                         let textBaseContent = textBaseParts[1];
                         
-                        // Tenta encontrar o início da questão para separar
                         const questionStart = textBaseContent.indexOf(questionMarker);
                         
                         if (questionStart > 0) {
-                             // Se o marcador da questão for encontrado, divide o texto
                              textBaseContent = textBaseContent.substring(0, questionStart).trim();
                              currentQuestionText = textBaseParts[1].substring(questionStart).trim();
                         } else {
-                            // Tenta encontrar um marcador de fim de texto base mais genérico
-                             const genericEndMarker = q.id === 1 ? 'Questão ' : 'Texto 1:'; 
-                             const genericEndIndex = textBaseContent.indexOf(genericEndMarker, 50); // Procura após os primeiros 50 caracteres
-
-                             if (genericEndIndex > 0) {
-                                textBaseContent = textBaseContent.substring(0, genericEndIndex).trim();
-                                currentQuestionText = textBaseParts[1].substring(genericEndIndex).trim();
-                             } else {
-                                // Se não encontrar, usa a questão inteira, mas adiciona o texto base
-                                currentQuestionText = q.questao; 
-                                textBaseContent = textBaseParts[1].trim(); 
-                            }
+                             currentQuestionText = q.questao || q.pergunta; // Volta ao texto original se a separação falhar
+                             textBaseContent = textBaseParts[1].trim(); 
                         }
 
                         const textBaseDiv = document.createElement('div');
                         textBaseDiv.className = 'text-base-card';
+                        // Adiciona quebras de linha (<br>)
                         textBaseDiv.innerHTML = `
                             <h4 style="color: var(--primary-color);">[TEXTO BASE PARA INTERPRETAÇÃO]</h4>
                             <p>${textBaseContent.replace(/\n/g, '<br>')}</p>
@@ -456,8 +457,6 @@
                 if (userAnswers[qId]) {
                     const selectedOption = userAnswers[qId].selectedOption;
                     const isCorrect = userAnswers[qId].isCorrect;
-                    
-                    // Renderiza o estado da questão respondida (sem re-checar)
                     applyAnswerStyle(qId, selectedOption, isCorrect);
                 }
             });
@@ -471,7 +470,6 @@
         function saveNote(questionId) {
             const textarea = document.getElementById(`note-${questionId}`);
             if (textarea && activeFilename) {
-                // Usa um nome único para o simulado ativo
                 const notes = JSON.parse(localStorage.getItem(`notes_${activeFilename}`) || '{}');
                 notes[questionId] = textarea.value;
                 localStorage.setItem(`notes_${activeFilename}`, JSON.stringify(notes));
@@ -509,10 +507,11 @@
 
         function loadUserAnswers() {
             if (activeFilename) {
-                // Usa um nome único para o simulado ativo
                 const savedAnswers = localStorage.getItem(`answers_${activeFilename}`);
                 if (savedAnswers) {
                     userAnswers = JSON.parse(savedAnswers);
+                } else {
+                    userAnswers = {}; // Reseta se não houver respostas salvas para este simulado
                 }
             }
         }
@@ -530,7 +529,8 @@
             
             if (!question) return;
 
-            const correctAnswer = (question.resposta_correta || question.resposta || question.correct_answer || '').toLowerCase(); 
+            // Aceita 'resposta' ou 'resposta_correta'
+            const correctAnswer = (question.resposta_correta || question.resposta || '').toLowerCase(); 
 
             optionsList.classList.add('answered'); 
             
@@ -557,15 +557,12 @@
                 let commentHTML = `<h4>${isCorrect ? '✅ Resposta Correta!' : '❌ Sua Resposta Está Incorreta.'}</h4>`;
                 commentHTML += `<p><strong>Gabarito: </strong> Opção ${correctAnswer.toUpperCase()}</p>`;
                 
-                let commentContent = 'Comentário não disponível.';
-                if (typeof question.comentario === 'object' && question.comentario !== null) {
-                    commentContent = question.comentario[correctAnswer.toUpperCase()] || question.comentario[correctAnswer] || question.comentario.A || 'Comentário detalhado não disponível.';
-                } 
-                else if (question.explicacao_professor) {
-                    commentContent = question.explicacao_professor;
-                }
-                else if (typeof question.comentario === 'string') {
-                    commentContent = question.comentario;
+                // Pega o comentário, aceitando diferentes chaves (comentario, explicacao_professor)
+                let commentContent = question.comentario || question.explicacao_professor || 'Comentário não disponível.';
+                
+                // Trata o comentário se for um objeto, embora o formato atual seja string
+                if (typeof commentContent === 'object' && commentContent !== null) {
+                    commentContent = commentContent[correctAnswer.toUpperCase()] || 'Comentário detalhado não disponível.';
                 } 
                 
                 commentHTML += `<div class="comment-content">${commentContent.replace(/\n/g, '<br>')}</div>`;
@@ -578,7 +575,7 @@
             const question = currentQuizData.find(q => (q.id == questionId || q.numero == questionId));
             if (!question) return;
 
-            const correctAnswer = (question.resposta_correta || question.resposta || question.correct_answer || '').toLowerCase(); 
+            const correctAnswer = (question.resposta_correta || question.resposta || '').toLowerCase(); 
 
             if (!correctAnswer || correctAnswer === 'n/a' || correctAnswer === 'undefined') {
                 alert(`Erro: Gabarito não definido no JSON para a Questão ${questionId}.`);
@@ -613,6 +610,10 @@
             let wrongCount = 0;
             
             for (const qId in userAnswers) {
+                // Certifica-se de que a questão existe no quiz atual antes de contar
+                const qExists = currentQuizData.some(q => (q.id == qId || q.numero == qId));
+                if (!qExists) continue;
+                
                 if (userAnswers[qId].isCorrect) {
                     correctCount++;
                 } else {
@@ -649,20 +650,21 @@
         async function loadSimulados() {
             const list = document.getElementById('simulados-list');
             
-            // LISTA DE MANIFESTO FINALIZADA (Adicionado ESTRATEGIA.json)
+            // LISTA DE MANIFESTO FINALIZADA (Seus arquivos conhecidos e o novo ESTRATEGIA.json)
             const fallbackFiles = [
+                "ESTRATEGIA.json", // <-- NOVO ARQUIVO CORRIGIDO AQUI
                 "SIMULADO-DIREITOS-HUMANOS-JSON.json",
                 "SIMULADO-IASES-JSON-COM-GABARITO.json",
                 "SIMULADO-POLICIA-PENAL02-JSON.json",
                 "SIMULADO-POLICIA-PENAL-JSON.json",
-                "GERAIS.json",
+                "QUESTOES-GERAIS.json",
                 "QUESTOES-AREA-POLICIAL.json",
                 "SIMULADO-IDCAP-60-QUESTOES.json",
-                "002-IDCAP-60-QUESTOES.json",
+                "SIMULADO-02-IDCAP-60-QUESTOES.json",
                 "SIMULADO-03-IDCAP-60-QUESTOES.json",
                 "LEGISLAÇÃO-ESPECÍFICA.json",
                 "SIMULADO-ATUALIDADES-83-QUESTOES.json",
-                "ESTRATEGIA.json" // <-- NOVO ARQUIVO ADICIONADO AQUI
+                "NOVO SIMULADOS POLICIA PENAL 08.11.2025.json"
             ];
             
             list.innerHTML = '';
@@ -681,4 +683,3 @@
     </script>
 </body>
 </html>
-
