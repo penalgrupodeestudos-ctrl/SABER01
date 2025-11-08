@@ -1,10 +1,5 @@
 {
-  "titulo": "Simulado Especial Polícia Penal ES - 25/10/2025 (versão JSON com gabarito e comentários)",
-  "fonte": ":contentReference[oaicite:0]{index=0}",
-  "questoes": [
-    {
-      "id": 1,
-      "questao": "O texto seguinte servirá de base para responder às 
+  "titulo": "O texto seguinte servirá de base para responder às 
 questões de 1 a 10. 
 As joias roubadas do Louvre, em Paris, em um ousado 
 assalto à luz do dia, foram avaliadas em 88 milhões de 
@@ -44,7 +39,7 @@ equipado com um elevador mecânico para ter acesso à
 Galerie d'Apollon (Galeria de Apolo) através de uma 
 varanda próxima ao rio Sena. Dois deles cortaram uma 
 janela de vidro no primeiro andar usando um cortador de 
-disco alimentado por bateria e entraram no museu. Em seguida, ameaçaram os guardas que estavam dentro do 
+disco alimentado por bateria e entraram no museu.seguida, ameaçaram os guardas que estavam dentro do 
 prédio, que evacuaram o local.  
 Os ladrões tentaram incendiar o veículo do lado de 
 fora, mas foram impedidos pela intervenção de um 
@@ -73,7 +68,12 @@ sempre.
 É muito provável que tenham sido transformados em 
 metais preciosos e pedras preciosas, contrabandeados 
 para fora do país e vendidos por uma fração do seu valor, 
-afirmaram outros especialistas. Com base nas informações do texto, assinale a alternativa que apresenta a principal consequência do roubo das joias do Louvre, segundo a procuradora francesa.",
+afirmaram outros especialistas. )",
+  "fonte": ":contentReference[oaicite:0]{index=0}",
+  "questoes": [
+    {
+      "id": 1,
+      "questao": " Com base nas informações do texto, assinale a alternativa que apresenta a principal consequência do roubo das joias do Louvre, segundo a procuradora francesa.",
       "opcoes": {
         "a": "A perda de peças de alto valor financeiro.",
         "b": "O aumento da criminalidade em Paris.",
@@ -913,5 +913,6 @@ afirmaram outros especialistas. Com base nas informações do texto, assinale a 
     }
   ]
 }
+
 
 
