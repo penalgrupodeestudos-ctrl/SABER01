@@ -137,22 +137,11 @@
             color: var(--text-dark);
         }
 
-        #reset-quiz-button {
-            background-color: var(--danger-color);
-            color: var(--text-light);
-            opacity: 0.7; /* Começa um pouco transparente */
-            display: none; /* Escondido por padrão */
-        }
-        
-        #reset-quiz-button:hover {
-            opacity: 1; /* Fica opaco ao passar o mouse */
-        }
-        
         /* --- Score Board (Desempenho) --- */
         #score-board {
             background-color: var(--card-bg);
             padding: 15px;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             display: flex;
@@ -178,6 +167,71 @@
         .erros span { color: var(--danger-color); }
         .percentual span { color: var(--primary-color); }
         .pendentes span { color: var(--warning-color); }
+
+        /* Botão de Reiniciar no Topo do Conteúdo */
+        #top-actions {
+            display: flex;
+            justify-content: flex-end; /* Alinha o botão para a direita */
+            margin-bottom: 20px;
+        }
+
+        #top-actions #reset-quiz-button {
+            background-color: var(--danger-color);
+            color: var(--text-light);
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            font-family: 'Montserrat', sans-serif;
+            opacity: 0.8; 
+            transition: opacity 0.2s;
+            display: none; /* Escondido por padrão */
+        }
+        
+        #top-actions #reset-quiz-button:hover {
+            opacity: 1; 
+        }
+
+        /* Estilo do Botão de Anotações (Voltou a ser colorido) */
+        .notes-area {
+            margin-top: 15px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #fcfcfc;
+        }
+        .notes-area textarea {
+            width: 98%;
+            min-height: 80px;
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            margin-bottom: 5px;
+            resize: vertical;
+        }
+        .notes-area button {
+            padding: 5px 10px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            margin-right: 5px;
+            transition: background-color 0.2s;
+        }
+        .notes-area .save-btn {
+            background-color: var(--primary-color);
+            color: var(--text-light);
+        }
+        .notes-area .save-btn:hover {
+            background-color: #003366;
+        }
+        .notes-area .clear-btn {
+            background-color: var(--danger-color);
+            color: var(--text-light);
+        }
+        .notes-area .clear-btn:hover {
+            background-color: #a00000;
+        }
 
         /* Demais estilos mantidos do original */
         .quiz-title {
@@ -301,11 +355,14 @@
         <hr style="border-color: #444; margin: 20px 0;">
         <div class="sidebar-actions">
             <button id="show-desempenho" onclick="displayScore()">Ver Placar</button>
-            <button id="reset-quiz-button" onclick="resetQuiz()">🔄 Reiniciar Simulado</button>
-        </div>
+            </div>
     </div>
 
     <div id="content">
+        <div id="top-actions">
+            <button id="reset-quiz-button" onclick="resetQuiz()">🔄 Reiniciar Simulado</button>
+        </div>
+
         <div id="score-board" style="display: none;">
             </div>
 
@@ -361,7 +418,7 @@
                 renderQuiz(data);
                 loadNotes(); 
 
-                // Exibe o botão de reiniciar
+                // Exibe o botão de reiniciar no topo do conteúdo
                 document.getElementById('reset-quiz-button').style.display = 'block';
 
                 // Exibe o placar (inicialmente zero ou com dados salvos)
@@ -466,7 +523,7 @@
             document.getElementById('content').scrollTo({ top: 0, behavior: 'smooth' });
         }
         
-        // --- NOVO CÓDIGO: Função para Reiniciar o Simulado ---
+        // --- Função para Reiniciar o Simulado ---
 
         function resetQuiz() {
             if (!activeFilename) {
@@ -679,14 +736,14 @@
                 "SIMULADO-IASES-JSON-COM-GABARITO.json",
                 "SIMULADO-POLICIA-PENAL02-JSON.json",
                 "SIMULADO-POLICIA-PENAL-JSON.json",
-                 "GERAIS.json",
+                "QUESTOES-GERAIS.json",
                 "QUESTOES-AREA-POLICIAL.json",
                 "SIMULADO-IDCAP-60-QUESTOES.json",
-                "002-IDCAP-60-QUESTOES.json",
+                "SIMULADO-02-IDCAP-60-QUESTOES.json",
                 "SIMULADO-03-IDCAP-60-QUESTOES.json",
                 "LEGISLAÇÃO-ESPECÍFICA.json",
                 "SIMULADO-ATUALIDADES-83-QUESTOES.json"
-               
+                
             ];
             
             list.innerHTML = '';
@@ -705,4 +762,3 @@
     </script>
 </body>
 </html>
-
