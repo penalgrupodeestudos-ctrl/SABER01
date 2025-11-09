@@ -1,13 +1,12 @@
-{ 
-  
+{
   "tipo": "simulado_interativo",
   "metadados": {
-    "criado": "09/11/2025, 08:37:01"
+    "criado": "09/11/2025, 08:55:35"
   },
   "conteudo": [
     {
       "id": "Q1",
-      "pergunta": "{  \"titulo\": \"Simulado Especial Polícia Penal ES   -   25/10/2025\",  \"fonte\": \"  0  \",  \"questoes\": [  {  \"id\": 1,  \"topico\": \"Língua Portuguesa\",  \"texto_base \": \"As joias roubadas do Louvre, em Paris, em um ousado assalto à  luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou  um promotor público francês, citando o curador do museu. A procuradora  francesa Laure Beccuau disse à rádio fra ncesa RTL que a quantia era  \\ \"extraordinária \\ \", mas afirmou que a maior perda era para o patrimônio histórico  da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por  dois imperadores da Casa de Bonaparte às suas esposas. Ladrões mu nidos de  ferramentas elétricas levaram menos de oito minutos para entrar e fugir com o  saque, logo após a abertura do museu mais visitado do mundo na manhã de  domingo. Como os ladrões não foram capturados mais de dois dias após o roubo,  os especialistas te mem que as joias já tenham desaparecido. Beccuau disse que  o anúncio do valor estimado das joias poderia fazer com que os ladrões  pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não  ficariam com todo o dinheiro se tivessem   \\ \"a pés sima ideia de derreter essas  joias \\ \". Os itens roubados, anteriormente descritos como tendo um valor  inestimável, incluem um colar de diamantes e esmeraldas que o imperador  Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia, esposa de  Napol eão 3º, e várias peças que pertenceram à rainha Maria - Amélia, mulher do rei  Luis Felipe 1º e prima de primeiro grau da primeira imperatriz brasileira, Maria  Leopoldina. Os investigadores encontraram uma coroa danificada que pertencia à  imperatriz Eugênia n a rota de fuga dos ladrões   —   aparentemente deixada para trás  quando eles partiram às pressas. Quatro ladrões mascarados usaram um  caminhão equipado com um elevador mecânico para ter acesso à Galerie  d'Apollon (Galeria de Apolo) através de uma varanda próxi ma ao rio Sena. Dois  deles cortaram uma janela de vidro no primeiro andar usando um cortador de  disco alimentado por bateria e entraram no museu. Em seguida, ameaçaram os  guardas que estavam dentro do prédio, que evacuaram o local. Os ladrões  tentaram ince ndiar o veículo do lado de fora, mas foram impedidos pela  intervenção de um funcionário do museu. Eles foram vistos fugindo em scooters.  O presidente francês Emmanuel Macron descreveu o roubo como um ataque ao  patrimônio da França. As medidas de segurança   foram reforçadas em torno das",
+      "pergunta": "LÍNGUA PORTUGUESA",
       "opcoes": [
         {
           "letra": "A",
@@ -31,7 +30,7 @@
     },
     {
       "id": "Q2",
-      "pergunta": "instituições culturais do país, depois que um relatório preliminar constatou que  uma em cada três salas do Louvre não possuía câmeras de segurança e que seu  sistema de alarme mais amplo não disparou. O ministro da Justiça, Gérald  Darmanin, afirmou que os p rotocolos de segurança   \\ \"falharam \\ \", lamentando que  os ladrões tenham conseguido conduzir um caminhão modificado até ao museu,  deixando a França com uma   \\ \"imagem terrível \\ \". As autoridades acreditam estar  perseguindo uma equipe de profissionais, dada a rap idez e organização com que  agiram. Especialistas em recuperação de obras de arte disseram anteriormente à  BBC que os investigadores tinham apenas um ou dois dias para localizar os itens  antes que eles fossem considerados perdidos para sempre. É muito prová vel que  tenham sido transformados em metais preciosos e pedras preciosas,  contrabandeados para fora do país e vendidos por uma fração do seu valor,  afirmaram outros especialistas.\",  \"pergunta\": \"Com base nas informações do texto, assinale a alternativa que  apresenta a principal consequência do roubo das joias do Louvre, segundo a  procuradora francesa.\",  \"alternativas\": {  \"a\": \"A perda de peças de alto valor financeiro.\",  \"b\": \"O aumento da criminalidade em Paris.\",  \"c\": \"O prejuízo ao patrimônio histórico da França.\",  \"d\": \"A exposição da fragilidade da segurança do museu.\",  \"e\": \"A destruição de obras de arte de valor inestimável.\"  },  \"correta\": \"c\",  \"comentario\": \"A procuradora afirmou que, apesar do alto valor, a maior perda  foi para o patrimônio histórico   —   foco no valor cultural.\"  },  {  \"id\": 2,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"As joias roubadas do Louvre, em Paris, em um ousado assalto à  luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou  um promotor público francês, citando o curador do museu. A procuradora  francesa Laure Beccuau   disse à rádio francesa RTL que a quantia era",
+      "pergunta": "Suellen Borges",
       "opcoes": [
         {
           "letra": "A",
@@ -55,7 +54,7 @@
     },
     {
       "id": "Q3",
-      "pergunta": "\\ \"extraordinária \\ \", mas afirmou que a maior perda era para o patrimônio histórico  da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por  dois imperadores da Casa de Bonaparte às suas esposas. Ladrões munidos de  ferramentas elétric as levaram menos de oito minutos para entrar e fugir com o  saque, logo após a abertura do museu mais visitado do mundo na manhã de  domingo. Como os ladrões não foram capturados mais de dois dias após o roubo,  os especialistas temem que as joias já tenham d esaparecido. Beccuau disse que  o anúncio do valor estimado das joias poderia fazer com que os ladrões  pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não  ficariam com todo o dinheiro se tivessem   \\ \"a péssima ideia de derreter essas  joias \\ \". Os itens roubados, anteriormente descritos como tendo um valor  inestimável, incluem um colar de diamantes e esmeraldas que o imperador  Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia, esposa de  Napoleão 3º, e várias peças que p ertenceram à rainha Maria - Amélia, mulher do rei  Luis Felipe 1º e prima de primeiro grau da primeira imperatriz brasileira, Maria  Leopoldina. Os investigadores encontraram uma coroa danificada que pertencia à  imperatriz Eugênia na rota de fuga dos ladrões   —   aparentemente deixada para trás  quando eles partiram às pressas. Quatro ladrões mascarados usaram um  caminhão equipado com um elevador mecânico para ter acesso à Galerie  d'Apollon (Galeria de Apolo) através de uma varanda próxima ao rio Sena. Dois  deles c ortaram uma janela de vidro no primeiro andar usando um cortador de  disco alimentado por bateria e entraram no museu. Em seguida, ameaçaram os  guardas que estavam dentro do prédio, que evacuaram o local. Os ladrões  tentaram incendiar o veículo do lado de f ora, mas foram impedidos pela  intervenção de um funcionário do museu. Eles foram vistos fugindo em scooters.  O presidente francês Emmanuel Macron descreveu o roubo como um ataque ao  patrimônio da França. As medidas de segurança foram reforçadas em torno da s  instituições culturais do país, depois que um relatório preliminar constatou que  uma em cada três salas do Louvre não possuía câmeras de segurança e que seu  sistema de alarme mais amplo não disparou. O ministro da Justiça, Gérald  Darmanin, afirmou que os   protocolos de segurança   \\ \"falharam \\ \", lamentando que  os ladrões tenham conseguido conduzir um caminhão modificado até ao museu,  deixando a França com uma   \\ \"imagem terrível \\ \". As autoridades acreditam estar  perseguindo uma equipe de profissionais, dada a r apidez e organização com que  agiram. Especialistas em recuperação de obras de arte disseram anteriormente à  BBC que os investigadores tinham apenas um ou dois dias para localizar os itens  antes que eles fossem considerados perdidos para sempre. É muito pro vável que  tenham sido transformados em metais preciosos e pedras preciosas,  contrabandeados para fora do país e vendidos por uma fração do seu valor,  afirmaram outros especialistas.\",",
+      "pergunta": "O texto seguinte servirá de base para responder às",
       "opcoes": [
         {
           "letra": "A",
@@ -79,7 +78,7 @@
     },
     {
       "id": "Q4",
-      "pergunta": "\"pergunta\": \"De acordo com o texto, qual foi a intenção da procuradora ao  divulgar o valor estimado das joias roubadas?\",  \"alternativas\": {  \"a\": \"Justificar o reforço nas medidas de segurança.\",  \"b\": \"Alertar a população sobre o prejuízo financeiro.\",  \"c\": \"Incentivar os ladrões a devolverem as joias.\",  \"d\": \"Desestimular os ladrões a destruírem as peças.\",  \"e\": \"Pressionar as autoridades a agirem com mais rapidez.\"  },  \"correta\": \"d\",  \"comentario \": \"No texto, a procuradora sugeriu que divulgar o valor poderia  fazer os ladrões repensarem antes de destruir as peças.\"  },  {  \"id\": 3,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"As joias roubadas do Louvre, em Paris, em um ousado assalto à  luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou  um promotor público francês, citando o curador do museu. A procuradora  francesa Laure Beccuau   disse à rádio francesa RTL que a quantia era  \\ \"extraordinária \\ \", mas afirmou que a maior perda era para o patrimônio histórico  da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por  dois imperadores da Casa de Bonaparte às suas es posas. Ladrões munidos de  ferramentas elétricas levaram menos de oito minutos para entrar e fugir com o  saque, logo após a abertura do museu mais visitado do mundo na manhã de  domingo. Como os ladrões não foram capturados mais de dois dias após o roubo,  os   especialistas temem que as joias já tenham desaparecido. Beccuau disse que  o anúncio do valor estimado das joias poderia fazer com que os ladrões  pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não  ficariam com todo o dinheiro se   tivessem   \\ \"a péssima ideia de derreter essas  joias \\ \". Os itens roubados, anteriormente descritos como tendo um valor  inestimável, incluem um colar de diamantes e esmeraldas que o imperador  Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia , esposa de  Napoleão 3º, e várias peças que pertenceram à rainha Maria - Amélia, mulher do rei",
+      "pergunta": "questões de 1 a 10.",
       "opcoes": [
         {
           "letra": "A",
@@ -103,7 +102,7 @@
     },
     {
       "id": "Q5",
-      "pergunta": "Luis Felipe 1º e prima de primeiro grau da primeira imperatriz brasileira, Maria  Leopoldina. Os investigadores encontraram uma coroa danificada que pertencia à  imperatriz Eugênia na rota de fuga dos ladrões   —   aparentemente deixada para trás  quando eles par tiram às pressas. Quatro ladrões mascarados usaram um  caminhão equipado com um elevador mecânico para ter acesso à Galerie  d'Apollon (Galeria de Apolo) através de uma varanda próxima ao rio Sena. Dois  deles cortaram uma janela de vidro no primeiro andar us ando um cortador de  disco alimentado por bateria e entraram no museu. Em seguida, ameaçaram os  guardas que estavam dentro do prédio, que evacuaram o local. Os ladrões  tentaram incendiar o veículo do lado de fora, mas foram impedidos pela  intervenção de um   funcionário do museu. Eles foram vistos fugindo em scooters.  O presidente francês Emmanuel Macron descreveu o roubo como um ataque ao  patrimônio da França. As medidas de segurança foram reforçadas em torno das  instituições culturais do país, depois que um   relatório preliminar constatou que  uma em cada três salas do Louvre não possuía câmeras de segurança e que seu  sistema de alarme mais amplo não disparou. O ministro da Justiça, Gérald  Darmanin, afirmou que os protocolos de segurança   \\ \"falharam \\ \", lamentand o que  os ladrões tenham conseguido conduzir um caminhão modificado até ao museu,  deixando a França com uma   \\ \"imagem terrível \\ \". As autoridades acreditam estar  perseguindo uma equipe de profissionais, dada a rapidez e organização com que  agiram. Especialist as em recuperação de obras de arte disseram anteriormente à  BBC que os investigadores tinham apenas um ou dois dias para localizar os itens  antes que eles fossem considerados perdidos para sempre. É muito provável que  tenham sido transformados em metais pr eciosos e pedras preciosas,  contrabandeados para fora do país e vendidos por uma fração do seu valor,  afirmaram outros especialistas.\",  \"pergunta\": \"Considerando as informações do texto, assinale a alternativa que  melhor caracteriza a ação dos ladrões.\",  \"alternativas\": {  \"a\": \"Amadora, devido à pressa na fuga.\",  \"b\": \"Improvisada, com uso de ferramentas rudimentares.\",  \"c\": \"Violenta, com confronto armado com os guardas.\",  \"d\": \"Profissional, pela rapidez e organização da execução.\",  \"e\": \"Fracassada, pois os ladrões foram capturados.\"  },  \"correta\": \"d\",",
+      "pergunta": "As joias roubadas do Louvre, em Paris, em um ousado",
       "opcoes": [
         {
           "letra": "A",
@@ -127,7 +126,7 @@
     },
     {
       "id": "Q6",
-      "pergunta": "\"comentario\": \"O texto descreve rapidez, organização e uso de ferramentas  elétricas   —   indicativo de ação profissional.\"  },  {  \"id\": 4,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"As joias roubadas do Louvre, em Paris, em um ousado assalto à  luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou  um promotor público francês, citando o curador do museu. A procuradora  francesa Laure Beccuau   disse à rádio francesa RTL que a quantia era  \\ \"extraordinária \\ \", mas afirmou que a maior perda era para o patrimônio histórico  da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por  dois imperadores da Casa de Bonaparte às suas es posas. Ladrões munidos de  ferramentas elétricas levaram menos de oito minutos para entrar e fugir com o  saque, logo após a abertura do museu mais visitado do mundo na manhã de  domingo. Como os ladrões não foram capturados mais de dois dias após o roubo,  os   especialistas temem que as joias já tenham desaparecido. Beccuau disse que  o anúncio do valor estimado das joias poderia fazer com que os ladrões  pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não  ficariam com todo o dinheiro se   tivessem   \\ \"a péssima ideia de derreter essas  joias \\ \". Os itens roubados, anteriormente descritos como tendo um valor  inestimável, incluem um colar de diamantes e esmeraldas que o imperador  Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia , esposa de  Napoleão 3º, e várias peças que pertenceram à rainha Maria - Amélia, mulher do rei  Luis Felipe 1º e prima de primeiro grau da primeira imperatriz brasileira, Maria  Leopoldina. Os investigadores encontraram uma coroa danificada que pertencia à  imp eratriz Eugênia na rota de fuga dos ladrões   —   aparentemente deixada para trás  quando eles partiram às pressas. Quatro ladrões mascarados usaram um  caminhão equipado com um elevador mecânico para ter acesso à Galerie  d'Apollon (Galeria de Apolo) através de   uma varanda próxima ao rio Sena. Dois  deles cortaram uma janela de vidro no primeiro andar usando um cortador de  disco alimentado por bateria e entraram no museu. Em seguida, ameaçaram os  guardas que estavam dentro do prédio, que evacuaram o local. Os ladr ões  tentaram incendiar o veículo do lado de fora, mas foram impedidos pela  intervenção de um funcionário do museu. Eles foram vistos fugindo em scooters.  O presidente francês Emmanuel Macron descreveu o roubo como um ataque ao  patrimônio da França. As medi das de segurança foram reforçadas em torno das  instituições culturais do país, depois que um relatório preliminar constatou que  uma em cada três salas do Louvre não possuía câmeras de segurança e que seu",
+      "pergunta": "assalto à luz do dia, foram avaliadas em 88 milhões de",
       "opcoes": [
         {
           "letra": "A",
@@ -151,7 +150,7 @@
     },
     {
       "id": "Q7",
-      "pergunta": "sistema de alarme mais amplo não disparou. O ministro da Justiça, Gérald  Darmanin, afirmou que os protocolos de segurança   \\ \"falharam \\ \", lamentando que  os ladrões tenham conseguido conduzir um caminhão modificado até ao museu,  deixando a França com uma   \\ \"im agem terrível \\ \". As autoridades acreditam estar  perseguindo uma equipe de profissionais, dada a rapidez e organização com que  agiram. Especialistas em recuperação de obras de arte disseram anteriormente à  BBC que os investigadores tinham apenas um ou dois   dias para localizar os itens  antes que eles fossem considerados perdidos para sempre. É muito provável que  tenham sido transformados em metais preciosos e pedras preciosas,  contrabandeados para fora do país e vendidos por uma fração do seu valor,  afirmaram   outros especialistas.\",  \"pergunta\": \"Com base no texto, é correto afirmar que os itens roubados:\",  \"alternativas\": {  \"a\": \"Foram todos recuperados pelas autoridades francesas.\",  \"b\": \"Pertenciam exclusivamente à imperatriz Maria Leopoldina.\",  \"c\": \"Incluíam peças de valor histórico e simbólico.\",  \"d\": \"Estavam guardados em cofres subterrâneos do museu.\",  \"e\": \"Foram derretidos e vendidos no mercado negro.\"  },  \"correta\": \"c\",  \"comentario\": \"O enunciado lista colar de Napoleão, tiara da imperatriz Eugênia  e peças da rainha Maria - Amélia   —   itens de valor histórico e simbólico.\"  },  {  \"id\": 5,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"As joias roubadas do Louvre, em Paris, em um ousado assalto à  luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou  um promotor público francês, citando o curador do museu. A procuradora  francesa Laure Beccuau   disse à rádio francesa RTL que a quantia era  \\ \"extraordinária \\ \", mas afirmou que a maior perda era para o patrimônio histórico  da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por  dois imperadores da Casa de Bonaparte às suas es posas. Ladrões munidos de  ferramentas elétricas levaram menos de oito minutos para entrar e fugir com o",
+      "pergunta": "euros (R$ 550,3 milhões), afirmou um promotor público",
       "opcoes": [
         {
           "letra": "A",
@@ -175,7 +174,7 @@
     },
     {
       "id": "Q8",
-      "pergunta": "saque, logo após a abertura do museu mais visitado do mundo na manhã de  domingo. Como os ladrões não foram capturados mais de dois dias após o roubo,  os especialistas temem que as joias já tenham desaparecido. Beccuau disse que  o anúncio do valor estimado   das joias poderia fazer com que os ladrões  pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não  ficariam com todo o dinheiro se tivessem   \\ \"a péssima ideia de derreter essas  joias \\ \". Os itens roubados, anteriormente descritos como t endo um valor  inestimável, incluem um colar de diamantes e esmeraldas que o imperador  Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia, esposa de  Napoleão 3º, e várias peças que pertenceram à rainha Maria - Amélia, mulher do rei  Luis Felipe   1º e prima de primeiro grau da primeira imperatriz brasileira, Maria  Leopoldina. Os investigadores encontraram uma coroa danificada que pertencia à  imperatriz Eugênia na rota de fuga dos ladrões   —   aparentemente deixada para trás  quando eles partiram às pr essas. Quatro ladrões mascarados usaram um  caminhão equipado com um elevador mecânico para ter acesso à Galerie  d'Apollon (Galeria de Apolo) através de uma varanda próxima ao rio Sena. Dois  deles cortaram uma janela de vidro no primeiro andar usando um cor tador de  disco alimentado por bateria e entraram no museu. Em seguida, ameaçaram os  guardas que estavam dentro do prédio, que evacuaram o local. Os ladrões  tentaram incendiar o veículo do lado de fora, mas foram impedidos pela  intervenção de um funcionário   do museu. Eles foram vistos fugindo em scooters.  O presidente francês Emmanuel Macron descreveu o roubo como um ataque ao  patrimônio da França. As medidas de segurança foram reforçadas em torno das  instituições culturais do país, depois que um relatório p reliminar constatou que  uma em cada três salas do Louvre não possuía câmeras de segurança e que seu  sistema de alarme mais amplo não disparou. O ministro da Justiça, Gérald  Darmanin, afirmou que os protocolos de segurança   \\ \"falharam \\ \", lamentando que  os la drões tenham conseguido conduzir um caminhão modificado até ao museu,  deixando a França com uma   \\ \"imagem terrível \\ \". As autoridades acreditam estar  perseguindo uma equipe de profissionais, dada a rapidez e organização com que  agiram. Especialistas em recup eração de obras de arte disseram anteriormente à  BBC que os investigadores tinham apenas um ou dois dias para localizar os itens  antes que eles fossem considerados perdidos para sempre. É muito provável que  tenham sido transformados em metais preciosos e p edras preciosas,  contrabandeados para fora do país e vendidos por uma fração do seu valor,  afirmaram outros especialistas.\",  \"pergunta\": \"Com base no texto, assinale a alternativa que apresenta uma  medida adotada após o roubo ao museu do Louvre.\",  \"alternativas\": {",
+      "pergunta": "francês, citando o curador do museu. A procuradora",
       "opcoes": [
         {
           "letra": "A",
@@ -199,7 +198,7 @@
     },
     {
       "id": "Q9",
-      "pergunta": "\"a\": \"Instalação de cofres subterrâneos para proteger as joias.\",  \"b\": \"Reforço nas medidas de segurança em instituições culturais.\",  \"c\": \"Substituição dos guardas por agentes armados.\",  \"d\": \"Fechamento temporário do museu para reforma.\",  \"e\": \"Criação de uma força - tarefa internacional para recuperar os itens.\"  },  \"correta\": \"b\",  \"comentario\": \"O texto informa que as medidas de segurança foram reforçadas  em torno das instituições culturais do país.\"  },  {  \"id\": 6,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"As joias roubadas do Louvre, em Paris, em um ousado assalto à  luz do dia, foram avaliadas em 88 milhões de euros (R$ 550,3 milhões), afirmou  um promotor público francês, citando o curador do museu. A procuradora  francesa Laure Beccuau   disse à rádio francesa RTL que a quantia era  \\ \"extraordinária \\ \", mas afirmou que a maior perda era para o patrimônio histórico  da França. Entre os itens roubados estavam joias da coroa e peças oferecidas por  dois imperadores da Casa de Bonaparte às suas es posas. Ladrões munidos de  ferramentas elétricas levaram menos de oito minutos para entrar e fugir com o  saque, logo após a abertura do museu mais visitado do mundo na manhã de  domingo. Como os ladrões não foram capturados mais de dois dias após o roubo,  os   especialistas temem que as joias já tenham desaparecido. Beccuau disse que  o anúncio do valor estimado das joias poderia fazer com que os ladrões  pensassem duas vezes e não as destruíssem. Ela acrescentou que os ladrões não  ficariam com todo o dinheiro se   tivessem   \\ \"a péssima ideia de derreter essas  joias \\ \". Os itens roubados, anteriormente descritos como tendo um valor  inestimável, incluem um colar de diamantes e esmeraldas que o imperador  Napoleão deu à sua esposa, uma tiara usada pela imperatriz Eugênia , esposa de  Napoleão 3º, e várias peças que pertenceram à rainha Maria - Amélia, mulher do rei  Luis Felipe 1º e prima de primeiro grau da primeira imperatriz brasileira, Maria  Leopoldina. Os investigadores encontraram uma coroa danificada que pertencia à  imp eratriz Eugênia na rota de fuga dos ladrões   —   aparentemente deixada para trás  quando eles partiram às pressas. Quatro ladrões mascarados usaram um",
+      "pergunta": "francesa Laure Beccuau disse à rádio francesa RTL que a",
       "opcoes": [
         {
           "letra": "A",
@@ -223,7 +222,7 @@
     },
     {
       "id": "Q10",
-      "pergunta": "caminhão equipado com um elevador mecânico para ter acesso à Galerie  d'Apollon (Galeria de Apolo) através de uma varanda próxima ao rio Sena. Dois  deles cortaram uma janela de vidro no primeiro andar usando um cortador de  disco alimentado por bateria e ent raram no museu. Em seguida, ameaçaram os  guardas que estavam dentro do prédio, que evacuaram o local. Os ladrões  tentaram incendiar o veículo do lado de fora, mas foram impedidos pela  intervenção de um funcionário do museu. Eles foram vistos fugindo em sco oters.  O presidente francês Emmanuel Macron descreveu o roubo como um ataque ao  patrimônio da França. As medidas de segurança foram reforçadas em torno das  instituições culturais do país, depois que um relatório preliminar constatou que  uma em cada três sa las do Louvre não possuía câmeras de segurança e que seu  sistema de alarme mais amplo não disparou. O ministro da Justiça, Gérald  Darmanin, afirmou que os protocolos de segurança   \\ \"falharam \\ \", lamentando que  os ladrões tenham conseguido conduzir um caminhã o modificado até ao museu,  deixando a França com uma   \\ \"imagem terrível \\ \". As autoridades acreditam estar  perseguindo uma equipe de profissionais, dada a rapidez e organização com que  agiram. Especialistas em recuperação de obras de arte disseram anteriorme nte à  BBC que os investigadores tinham apenas um ou dois dias para localizar os itens  antes que eles fossem considerados perdidos para sempre. É muito provável que  tenham sido transformados em metais preciosos e pedras preciosas,  contrabandeados para fora   do país e vendidos por uma fração do seu valor,  afirmaram outros especialistas.\",  \"pergunta\": \"Segundo o texto, qual fator contribuiu para a facilidade da ação  criminosa?\",  \"alternativas\": {  \"a\": \"A ausência de visitantes no momento do roubo.\",  \"b\": \"A negligência dos guardas que estavam de plantão.\",  \"c\": \"A falta de câmeras de segurança em parte das salas.\",  \"d\": \"A demora na chegada da polícia ao local.\",  \"e\": \"A cumplicidade de funcionários do museu.\"  },  \"correta\": \"c\",  \"comentario\": \"O relatório preliminar constatou que uma em cada três salas do  Louvre não possuía câmeras, apontado como vulnerabilidade.\"  },",
+      "pergunta": "quantia era \"extraordinária\", mas afirmou que a maior",
       "opcoes": [
         {
           "letra": "A",
@@ -247,7 +246,7 @@
     },
     {
       "id": "Q11",
-      "pergunta": "{  \"id\": 7,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"“O relatório indicou que uma das salas do museu estava  equipada com um sistema de micro - ondas para detecção de movimento.”\",  \"pergunta\": \"De acordo com o Novo Acordo Ortográfico, analise a grafia do  vocábulo “micro - ondas” e marque a alternativa correta:\",  \"alternativas\": {  \"a\": \"A grafia está incorreta, pois o hífen foi abolido em compostos com prefixo  terminado em vogal.\",  \"b\": \"A grafia está correta, pois o prefixo “micro - ” exige hífen quando o segundo  elemento começa com vogal diferente.\",  \"c\": \"A grafia está correta, pois o prefixo “micro - ” exige hífen quando o segundo  elemento começa com “o”.\",  \"d\": \"A grafia está incorreta, pois o correto seria “microondas”, sem hífen, por  tratar - se de palavra de uso comum.\",  \"e\": \"A grafia está incorreta, pois o Novo Acordo determina que prefixos como  “micro” devem ser aglutinados.\"  },  \"correta\": \"c\",  \"comentario\": \"A forma convencional é   \\ \"micro - ondas \\ \"   —   o hífen é mantido  quando o segundo elemento inicia por 'o'.\"  },  {  \"id\": 8,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"O termo destacado “As medidas de segurança” exerce a função  sintática de sujeito da oração.\",  \"pergunta\": \"Assinale a alternativa em que o termo destacado também exerce a  função de sujeito:\",  \"alternativas\": {",
+      "pergunta": "perda era para o patrimônio histórico da França. Entre os",
       "opcoes": [
         {
           "letra": "A",
@@ -271,7 +270,7 @@
     },
     {
       "id": "Q12",
-      "pergunta": "\"a\": \"Os ladrões tentaram incendiar o veículo do lado de fora.\",  \"b\": \"A procuradora francesa se referiu à quantia como “extraordinária”.\",  \"c\": \"A coroa foi deixada para trás quando eles partiram às pressas.\",  \"d\": \"Os investigadores encontraram uma coroa danificada.\",  \"e\": \"O presidente francês descreveu o roubo como um ataque ao patrimônio.\"  },  \"correta\": \"a\",  \"comentario\": \"Em (a) o termo destacado ('Os ladrões') funciona como sujeito  —   assim como 'As medidas de segurança' no enunciado.\"  },  {  \"id\": 9,  \"topico\": \"Língua Portuguesa\",  \"texto_base\": \"“O silêncio das vitrines gritava a ausência das joias.” / “A  madrugada parecia observar, cúmplice, a fuga dos ladrões.”\",  \"pergunta\": \"As figuras de linguagem presentes nas duas orações são:\",  \"alternativas\": {  \"a\": \"Hipérbole\",  \"b\": \"Antítese\",  \"c\": \"Metáfora\",  \"d\": \"Prosopopeia\",  \"e\": \"Eufemismo\"  },  \"correta\": \"d\",  \"comentario\": \"Atribuir ações humanas a elementos inanimados é prosopopeia  (personificação).\"  },  {  \"id\": 10,",
+      "pergunta": "itens roubados estavam joias da coroa e peças oferecidas",
       "opcoes": [
         {
           "letra": "A",
@@ -295,7 +294,7 @@
     },
     {
       "id": "Q13",
-      "pergunta": "\"topico\": \"Língua Portuguesa\",  \"texto_base\": \" \\ \"O presidente francês Emmanuel Macron descreveu o roubo  como um ataque ao patrimônio da França. \\ \" (Parágrafo 13)\",  \"pergunta\": \"Identifique a alternativa em que o verbo, no contexto empregado,  apresenta uma transitividade diferente da do verbo 'descrever' (transitivo direto).\",  \"alternativas\": {  \"a\": \"O ministro lamentou a falha nos protocolos de segurança.\",  \"b\": \"Os investigadores encontraram uma coroa danificada.\",  \"c\": \"O especialista explicou o funcionamento do sistema de alarme.\",  \"d\": \"Os ladrões tentaram incendiar o veículo.\",  \"e\": \"A curadora apresentou o relatório à imprensa.\"  },  \"correta\": \"e\",  \"comentario\": \"'Apresentou' exige complemento introduzido por preposição ('à  imprensa'), diferindo de 'descrever' (transitivo direto).\"  },  {  \"id\": 11,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Um levantamento do estoque de um centro de distribuição  logístico revelou que 2/5 do total de pacotes eram destinados a produtos  eletrônicos. Dos pacotes de eletrônicos, 2/7 seriam enviados para destinos  internacionais, e os demais pacot es, que somavam 140 unidades, eram para  entrega doméstica. Nessas condições, o número total de pacotes (eletrônicos e  não eletrônicos) nesse estoque era igual a\",  \"alternativas\": {  \"a\": \"420\",  \"b\": \"520\",  \"c\": \"490\",  \"d\": \"380\",  \"e\": \"350\"",
+      "pergunta": "por dois imperadores da Casa de Bonaparte às suas",
       "opcoes": [
         {
           "letra": "A",
@@ -319,7 +318,7 @@
     },
     {
       "id": "Q14",
-      "pergunta": "},  \"correta\": \"c\",  \"comentario\": \"Se 5/7 dos eletrônicos = 140 → eletrônicos = 196; como  eletrônicos = 2/5 do total → total = 196*(5/2)=490.\"  },  {  \"id\": 12,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Uma organizadora de eventos calculou que o custo base para um  determinado pacote de festa é de R$ 3.500,00. Para definir o preço de catálogo  (preço de venda) desse pacote, ela estabeleceu uma meta: o valor deve ser alto o  suficiente para   que ela possa oferecer um desconto promocional de 30% sobre  esse preço de catálogo e, mesmo assim, assegurar um lucro líquido de 20% sobre  o seu custo base. Nessas condições, o preço de catálogo que a organizadora deve  anunciar é igual a:\",  \"alternativas\": {  \"a\": \"R$ 6.200,00\",  \"b\": \"R$ 5.800,00\",  \"c\": \"R$ 6.000,00\",  \"d\": \"R$ 5.900,00\",  \"e\": \"R$ 6.100,00\"  },  \"correta\": \"c\",  \"comentario \": \"Lucro desejado = 20% sobre custo → preço recebido após  desconto = 1,2*3500=4200. Como 70% do catálogo = 4200 → catálogo = 6000.\"  },  {  \"id\": 13,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Monitor com proporção 4:3 e diagonal de 50 polegadas. Área de  visualização (em pol²):\",",
+      "pergunta": "esposas.",
       "opcoes": [
         {
           "letra": "A",
@@ -343,7 +342,7 @@
     },
     {
       "id": "Q15",
-      "pergunta": "\"alternativas\": {  \"a\": \"300\",  \"b\": \"400\",  \"c\": \"800\",  \"d\": \"1000\",  \"e\": \"1200\"  },  \"correta\": \"e\",  \"comentario\": \"Razão 4:3 dá diagonal proporcional a 5; 5k=50 → k=10 →  largura=40, altura=30 → área=40*30=1200.\"  },  {  \"id\": 14,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Caixa com dimensões internas 3 dm, 2 dm e (x+1) dm. Volume  total 18 dm³. Se a dimensão desconhecida for aumentada em 1 dm, qual o novo  volume?\",  \"alternativas\": {  \"a\": \"21\",  \"b\": \"24\",  \"c\": \"27\",  \"d\": \"30\",  \"e\": \"33\"  },  \"correta\": \"b\",  \"comentario \": \"3*2*(x+1)=18 → x+1=3 → x=2; dimensão aumentada em 1 dm →  (x+2)=4 → volume = 3*2*4=24 dm³.\"  },  {",
+      "pergunta": "Ladrões munidos de ferramentas elétricas levaram",
       "opcoes": [
         {
           "letra": "A",
@@ -367,7 +366,7 @@
     },
     {
       "id": "Q16",
-      "pergunta": "\"id\": 15,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Sequência de intensidades (Volts):  1,3,5,4,3,5,7,6,5,7,9,8,7,9,11,... A soma das intensidades do 13º, 16º e 21º pulsos  é igual a:\",  \"alternativas\": {  \"a\": \"25\",  \"b\": \"27\",  \"c\": \"29\",  \"d\": \"26\",  \"e\": \"28\"  },  \"correta\": \"b\",  \"comentario\": \"Padrão alternado indica 13º=7, 16º=9, 21º=11 → soma  7+9+11=27.\"  },  {  \"id\": 16,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Analise as proposições lógicas e assinale a sequência correta de  V/F de cima para baixo: (1) (O Sol gira em torno da Terra)   ∨   (Brasília é a capital do  Brasil); (2) (A Lua é feita de queijo)   ↔   (2 é ímpar); (3) (O Brasil fica na América do  Sul) → (O Japão fica na Europa); (4) (Paris é a capital da França)   ∧   (A água ferve a  100°C ao nível do mar).\",  \"alternativas\": {  \"a\": \"V, V, F, V\",  \"b\": \"F, V, F, V\",  \"c\": \"V, V, V, F\",  \"d\": \"V, F, F, V\",  \"e\": \"V, V, F, F\"",
+      "pergunta": "menos de oito minutos para entrar e fugir com o saque,",
       "opcoes": [
         {
           "letra": "A",
@@ -391,7 +390,7 @@
     },
     {
       "id": "Q17",
-      "pergunta": "},  \"correta\": \"a\",  \"comentario \": \"1 é V (segunda parte verdadeira); 2 é V (F   ↔   F = V); 3 é F (V→F =  F); 4 é V (V   ∧   V = V).\"  },  {  \"id\": 17,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Proposição: 'Se existe algum sistema operacional inseguro, então  todo firewall é confiável.' Frase equivalente:\",  \"alternativas\": {  \"a\": \"Algum sistema operacional é inseguro e todo firewall é confiável.\",  \"b\": \"Algum firewall é confiável ou algum sistema operacional é inseguro.\",  \"c\": \"Se algum firewall não é confiável, então não existe sistema operacional  inseguro.\",  \"d\": \"Se todo firewall é confiável, então existe pelo menos um sistema  operacional inseguro.\",  \"e\": \"Se não existe sistema operacional inseguro, então algum firewall não é  confiável.\"  },  \"correta\": \"c\",  \"comentario\": \"A contrapositiva lógica correta é: se existe firewall não confiável  então não existe SO inseguro   —   representada em (c).\"  },  {  \"id\": 18,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Distribuição de tempos em minutos (100 clientes): 16→40, 17→30,  18→20, 19→10. Assinale a opção INCORRETA:\",  \"alternativas\": {",
+      "pergunta": "logo após a abertura do museu mais visitado do mundo",
       "opcoes": [
         {
           "letra": "A",
@@ -415,7 +414,7 @@
     },
     {
       "id": "Q18",
-      "pergunta": "\"a\": \"A mediana da distribuição de tempo é igual a 17,5 minutos.\",  \"b\": \"A variável T é quantitativa discreta.\",  \"c\": \"O tempo médio de compra é igual a 17 minutos.\",  \"d\": \"A moda da distribuição é igual a 16 minutos.\",  \"e\": \"30% levaram tempo maior ou igual a 18 minutos.\"  },  \"correta\": \"a\",  \"comentario\": \"Com 100 observações, mediana é média entre 50ª e 51ª; ambas  caem em 17 → mediana = 17 (não 17,5).\"  },  {  \"id\": 19,  \"topico\": \"Raciocínio Lógico - Matemático\",  \"pergunta\": \"Formação de diretoria com 6 sócios para 5 cargos distintos;  apenas 2 podem ser Presidente. Quantas maneiras distintas?\",  \"alternativas\": {  \"a\": \"180\",  \"b\": \"240\",  \"c\": \"260\",  \"d\": \"340\",  \"e\": \"350\"  },  \"correta\": \"b\",  \"comentario\": \"Escolha do presidente entre 2 → 2; restantes: P(5,4)=120 → total  2*120=240.\"  },  {  \"id\": 20,  \"topico\": \"Raciocínio Lógico - Matemático\",",
+      "pergunta": "na manhã de domingo. Como os ladrões não foram",
       "opcoes": [
         {
           "letra": "A",
@@ -439,7 +438,7 @@
     },
     {
       "id": "Q19",
-      "pergunta": "\"pergunta\": \"Cinco pacotes identificados 1..5; seleciona - se aleatoriamente 2  simultaneamente. Probabilidade de soma ≥ 7:\",  \"alternativas\": {  \"a\": \"10%\",  \"b\": \"20%\",  \"c\": \"30%\",  \"d\": \"40%\",  \"e\": \"50%\"  },  \"correta\": \"d\",  \"comentario\": \"Combinações C(5,2)=10. Pares com soma ≥7:  (2,5),(3,4),(3,5),(4,5) =4 → 4/10=40%.\"  },  {  \"id\": 21,  \"topico\": \"Informática\",  \"pergunta\": \"Marque a letra que representa um nome de arquivo válido no  Windows.\",  \"alternativas\": {  \"a\": \"@relatorioteste.txt\",  \"b\": \"relatório:teste.txt\",  \"c\": \"*relatórioteste*.txt\",  \"d\": \"relatorioteste?.txt\",  \"e\": \"relatório>teste.txt\"  },  \"correta\": \"a\",  \"comentario\": \"Windows proíbe : * ? > < |   \\ \" /   \\ \\ ; '@' é permitido   —   (a) é válida.\"  },  {",
+      "pergunta": "capturados mais de dois dias após o roubo, os",
       "opcoes": [
         {
           "letra": "A",
@@ -463,7 +462,7 @@
     },
     {
       "id": "Q20",
-      "pergunta": "\"id\": 22,  \"topico\": \"Informática\",  \"pergunta\": \"No Word, o texto recebeu formatação 'TESTANDO A FORMATAÇÃO  Disponível'. Assinale a opção que descreve essa formatação.\",  \"alternativas\": {  \"a\": \"tachado e sobrescrito\",  \"b\": \"todas em maiúscula e sobrescrito\",  \"c\": \"versalete e sobrescrito\",  \"d\": \"todas em maiúscula e subscrito\",  \"e\": \"versalete e subscrito\"  },  \"correta\": \"c\",  \"comentario\": \"Interpretação do enunciado indica uso de versalete e elemento  em sobrescrito   —   (c).\"  },  {  \"id\": 23,  \"topico\": \"Informática\",  \"pergunta\": \"Na Formatação Condicional do Excel, qual das opções abaixo NÃO  está presente no menu?\",  \"alternativas\": {  \"a\": \"Inserção de Alertas\",  \"b\": \"Realçar Regras das Células\",  \"c\": \"Regras de Primeiros/Últimos\",  \"d\": \"Barras de Dados\",  \"e\": \"Escalas de Cor\"  },  \"correta\": \"a\",",
+      "pergunta": "especialistas temem que as joias já tenham desaparecido.",
       "opcoes": [
         {
           "letra": "A",
@@ -487,7 +486,7 @@
     },
     {
       "id": "Q21",
-      "pergunta": "\"comentario\": \"'Inserção de Alertas' não é uma opção padrão do menu de  Formatação Condicional.\"  },  {  \"id\": 24,  \"topico\": \"Informática\",  \"pergunta\": \"Para pesquisar páginas que contenham exatamente a expressão  'CONCURSOS NO RIO DE JANEIRO', que operador usar?\",  \"alternativas\": {  \"a\": \" - \",  \"b\": \" \\ \" \\ \"\",  \"c\": \"E\",  \"d\": \"OU\",  \"e\": \"site:\"  },  \"correta\": \"b\",  \"comentario\": \"Aspas duplas buscam a expressão exata em mecanismos de  busca.\"  },  {  \"id\": 25,  \"topico\": \"Segurança da Informação\",  \"pergunta\": \"Sobre política de senha, é correto afirmar que:\",  \"alternativas\": {  \"a\": \"Senhas devem ser compartilhadas entre funcionários para facilitar o  acesso.\",  \"b\": \"Uma senha única deve ser utilizada pelo usuário para todos os  programas.\",  \"c\": \"Senhas são pessoais e intransferíveis.\",",
+      "pergunta": "Beccuau disse que o anúncio do valor estimado das",
       "opcoes": [
         {
           "letra": "A",
@@ -511,7 +510,7 @@
     },
     {
       "id": "Q22",
-      "pergunta": "\"d\": \"Senhas devem conter apenas números ou letras, mas devemos evitar  misturá - los.\",  \"e\": \"Senhas não devem ser case sensitive.\"  },  \"correta\": \"c\",  \"comentario\": \"Boas práticas de segurança determinam que senhas sejam  pessoais e intransferíveis.\"  },  {  \"id\": 26,  \"topico\": \"Atualidades / Cinema\",  \"pergunta\": \"Filme 'O agente secreto' (representante do Brasil ao Oscar 2026). O  filme trata de um (uma):\",  \"alternativas\": {  \"a\": \"Mulher idosa que decide assumir o controle de sua existência mesmo  diante das imposições da sociedade.\",  \"b\": \"Drama real das meninas abusadas sexualmente na ilha de Marajó, no  Pará.\",  \"c\": \"Professor universitário que volta para o Recife para reencontrar o filho  caçula, apesar do risco que corre em plena ditadura militar.\",  \"d\": \"Mãe de cinco filhos, que precisa lidar com o desaparecimento de seu  marido, um ex - deputado federal assassinado pela ditadura militar.\",  \"e\": \"Um jovem que, sem familiares próximos, assume os cuidados da avó com  Alzheimer em estágio terminal, com o apoio de dois amigos.\"  },  \"correta\": \"e\",  \"comentario\": \"Com base na sinopse indicada no material, a alternativa (e)  corresponde ao enredo descrito.\"  },  {  \"id\": 27,",
+      "pergunta": "joias poderia fazer com que os ladrões pensassem duas",
       "opcoes": [
         {
           "letra": "A",
@@ -535,7 +534,7 @@
     },
     {
       "id": "Q23",
-      "pergunta": "\"topico\": \"Atualidades / Saúde\",  \"pergunta\": \"No dia 24 de setembro de 2025, a OMS afirmou não haver  evidências científicas conclusivas que liguem o uso do medicamento durante a  gravidez ao autismo. O nome do medicamento mencionado pelo mandatário  norte - americano é o(a):\",  \"alternativas\": {  \"a\": \"Paracetamol\",  \"b\": \"Fomepizol\",  \"c\": \"Risperidona\",  \"d\": \"Rivotril\",  \"e\": \"Aripiprazol\"  },  \"correta\": \"a\",  \"comentario\": \"Debates sobre paracetamol na gravidez e risco de autismo  foram abordados; OMS declarou ausência de evidências conclusivas.\"  },  {  \"id\": 28,  \"topico\": \"Atualidades / Conflitos Internacionais\",  \"pergunta\": \"A breve guerra entre Israel e Irã, ocorrida em junho de 2025... O  termo cunhado pelo presidente norte - americano Donald Trump para essa guerra  foi:\",  \"alternativas\": {  \"a\": \"Guerra de 12 Dias\",  \"b\": \"Guerra do Golfo Pérsico\",  \"c\": \"Guerra do Martelo da Meia - Noite\",  \"d\": \"Guerra da Anunciação da Vitória\",  \"e\": \"Guerra do Leão Ascendente\"  },  \"correta\": \"a\",",
+      "pergunta": "vezes e não as destruíssem. Ela acrescentou que os",
       "opcoes": [
         {
           "letra": "A",
@@ -559,7 +558,7 @@
     },
     {
       "id": "Q24",
-      "pergunta": "\"comentario\": \"No enunciado adaptado, o termo citado foi 'Guerra de 12 Dias'.\"  },  {  \"id\": 29,  \"topico \": \"Atualidades / Demografia\",  \"pergunta\": \"Segundo o Censo Demográfico de 2022 (IBGE), os venezuelanos  tornaram - se a maior comunidade estrangeira residente no Brasil, superando até  então qual comunidade?\",  \"alternativas\": {  \"a\": \"japoneses\",  \"b\": \"haitianos\",  \"c\": \"argentinos\",  \"d\": \"paraguaios\",  \"e\": \"portugueses\"  },  \"correta\": \"e\",  \"comentario\": \"Historicamente a comunidade portuguesa era a maior; o Censo  de 2022 mostrou os venezuelanos em maior número.\"  },  {  \"id\": 30,  \"topico\": \"Atualidades / Igreja Católica\",  \"pergunta\": \"A respeito da conjuntura atual da Igreja Católica após eleição do  Papa Leão XIV (Robert Prevost), está correto o que se afirma em:\",  \"alternativas\": {  \"a\": \"I.\",  \"b\": \"I e II.\",  \"c\": \"I, II e III.\",  \"d\": \"I, II, III, IV.\",",
+      "pergunta": "ladrões não ficariam com todo o dinheiro se tivessem \"a",
       "opcoes": [
         {
           "letra": "A",
@@ -583,7 +582,7 @@
     },
     {
       "id": "Q25",
-      "pergunta": "\"e\": \"I, II, III, IV e V.\"  },  \"correta\": \"a\",  \"comentario\": \"No material adaptado, apenas a assertiva I foi apresentada  como correta.\"  },  {  \"id\": 31,  \"topico\": \"Ética no Serviço Público\",  \"pergunta\": \"Com base na Instrução Normativa nº 004/2024, assinale a  alternativa correta quanto à abrangência do Código de Ética da PPES.\",  \"alternativas\": {  \"a\": \"Aplica - se exclusivamente aos servidores efetivos, excluídos os  contratados temporariamente.\",  \"b\": \"Aplica - se apenas aos servidores com vínculo remunerado com a  administração pública.\",  \"c\": \"Aplica - se a todos que prestem serviços permanentes, temporários ou  excepcionais à PPES, ainda que sem retribuição.\",  \"d\": \"Aplica - se exclusivamente aos servidores lotados em unidades  prisionais.\",  \"e\": \"Tem aplicação apenas aos servidores de carreira em estágio probatório.\"  },  \"correta\": \"c\",  \"comentario\": \"A IN prevê alcance amplo do Código, incluindo todos que  prestem serviços à PPES, mesmo sem remuneração.\"  },  {  \"id\": 32,  \"topico\": \"Ética no Serviço Público\",  \"pergunta\": \"Segundo o disposto na IN nº 004/2024, é considerado conflito de  interesses:\",",
+      "pergunta": "péssima ideia de derreter essas joias\".",
       "opcoes": [
         {
           "letra": "A",
@@ -607,7 +606,7 @@
     },
     {
       "id": "Q26",
-      "pergunta": "\"alternativas\": {  \"a\": \"A divulgação de informações públicas pela assessoria de imprensa da  PPES.\",  \"b\": \"O confronto entre interesses públicos e privados que possa comprometer  o interesse público ou influenciar o desempenho imparcial da função pública.\",  \"c\": \"A omissão de dados sigilosos em relatórios de rotina.\",  \"d\": \"A simples existência de parentesco entre servidor e preso.\",  \"e\": \"A recusa injustificada em fornecer informação pública.\"  },  \"correta\": \"b\",  \"comentario\": \"Conflito de interesses é o confronto entre interesses públicos e  privados que comprometa a imparcialidade do servidor.\"  },  {  \"id\": 33,  \"topico\": \"Ética no Serviço Público\",  \"pergunta\": \"Nos termos da IN nº 004/2024, o servidor da PPES deve:\",  \"alternativas\": {  \"a\": \"Participar de atividades políticas que reforcem valores institucionais.\",  \"b\": \"Utilizar sua identidade funcional para obter vantagens, desde que sem  prejuízo ao serviço público.\",  \"c\": \"Facilitar a fiscalização e o acompanhamento de suas tarefas pelos  superiores hierárquicos.\",  \"d\": \"Recusar - se a cumprir determinações da chefia que não estejam previstas  expressamente no Código.\",  \"e\": \"Divulgar livremente informações internas para assegurar transparência.\"  },  \"correta\": \"c\",  \"comentario\": \"O servidor deve permitir a fiscalização e o acompanhamento de  suas tarefas por superiores.\"",
+      "pergunta": "Os itens roubados, anteriormente descritos como",
       "opcoes": [
         {
           "letra": "A",
@@ -631,7 +630,7 @@
     },
     {
       "id": "Q27",
-      "pergunta": "},  {  \"id\": 34,  \"topico\": \"Ética no Serviço Público\",  \"pergunta\": \"Nos termos das disposições finais da IN nº 004/2024, a censura  ética aplicada a servidor da PPES:\",  \"alternativas\": {  \"a\": \"Fica registrada por 2 anos nos assentamentos e impede promoção.\",  \"b\": \"Fica registrada por 3 anos, mas não produz efeito para fins de promoção.\",  \"c\": \"É permanente, integrando de forma definitiva o histórico funcional.\",  \"d\": \"Deve ser eliminada do registro funcional após 12 meses.\",  \"e\": \"Impede o servidor de participar de cursos de capacitação durante 3  anos.\"  },  \"correta\": \"b\",  \"comentario\": \"Conforme o material adaptado, a censura é registrada por 3  anos e não afeta promoção.\"  },  {  \"id\": 35,  \"topico\": \"Ética no Serviço Público\",  \"pergunta\": \"Rodrigo, policial penal, encaminhou relato de humilhação verbal  sofrida por preso à chefia e recomendou acompanhamento psicológico. À luz da  IN nº 004/2024, a atitude de Rodrigo é:\",  \"alternativas\": {  \"a\": \"Extrapolação de atribuições; deveria só a direção decidir.\",  \"b\": \"Afronta o princípio da hierarquia.\",  \"c\": \"Eticamente adequada, reflete dever funcional de respeito e dignidade  humana.\",  \"d\": \"Violação do dever de sigilo institucional.\",",
+      "pergunta": "tendo um valor inestimável, incluem um colar de",
       "opcoes": [
         {
           "letra": "A",
@@ -655,7 +654,7 @@
     },
     {
       "id": "Q28",
-      "pergunta": "\"e\": \"Moralmente compreensível, mas sem respaldo normativo.\"  },  \"correta\": \"c\",  \"comentario\": \"Encaminhar ocorrência e recomendar acompanhamento  demonstra cuidado com dignidade humana, conduta prevista no Código de Ética.\"  },  {  \"id\": 36,  \"topico\": \"Direito Administrativo\",  \"pergunta\": \"Adotando como base a Lei nº 8.429/1992, assinale a alternativa  que representa ato de improbidade administrativa que importe enriquecimento  ilícito:\",  \"alternativas\": {  \"a\": \"Autorizar despesas não previstas em lei.\",  \"b\": \"Conceder benefício administrativo sem formalidades.\",  \"c\": \"Liberar recursos públicos sem observar normas.\",  \"d\": \"Firmar contrato de rateio sem previsão orçamentária.\",  \"e\": \"Utilizar em obra particular bem móvel/propriedade do ente, bem como  trabalho de servidores/terceiros contratados.\"  },  \"correta\": \"e\",  \"comentario\": \"Utilizar bens e trabalho públicos para fins privados configura  improbidade e enriquecimento ilícito.\"  },  {  \"id\": 37,  \"topico\": \"Direito Administrativo / Responsabilidade Civil\",  \"pergunta\": \"Empresa pública federal XPS: empregado Bruno, no exercício,  praticou ato ilícito que causou prejuízo a particular José. A ação indenizatória  observará regime de responsabilidade civil:\",",
+      "pergunta": "diamantes e esmeraldas que o imperador Napoleão deu",
       "opcoes": [
         {
           "letra": "A",
@@ -679,7 +678,7 @@
     },
     {
       "id": "Q29",
-      "pergunta": "\"alternativas\": {  \"a\": \"subjetiva, pois responsabilidade da sociedade de economia mista é  direta independentemente de culpa.\",  \"b\": \"objetiva, dispensando demonstração de culpa do empregado Bruno.\",  \"c\": \"subjetiva, uma vez que sociedade de economia mista tem natureza  jurídica de direito privado.\",  \"d\": \"subjetiva, podendo Bruno ser incluído como litisconsorte passivo.\",  \"e\": \"objetiva, sendo incabível ação regressiva contra Bruno por ser empregado  público.\"  },  \"correta\": \"b\",  \"comentario\": \"Quando o agente comete dano no exercício do serviço público,  aplica - se a responsabilidade objetiva da pessoa jurídica prestadora.\"  },  {  \"id\": 38,  \"topico\": \"Direito Administrativo\",  \"pergunta\": \"Sobre o decreto autônomo: Mário concluiu que se trata de um ato  normativo editado pelo Presidente da República sendo ele:\",  \"alternativas\": {  \"a\": \"um ato normativo que visa exclusivamente à fiel execução da lei.\",  \"b\": \"um ato que não possui qualquer fundamentação na Constituição.\",  \"c\": \"um ato que inova no ordenamento jurídico, com fundamento de validade  diretamente na Constituição.\",  \"d\": \"um ato considerado contrário à lei vigente.\",  \"e\": \"um ato que não pode impor obrigações nem restringir direitos.\"  },  \"correta\": \"c\",  \"comentario\": \"Decreto autônomo tem fundamento de validade na  Constituição e pode inovar no ordenamento quando previsto  constitucionalmente.\"",
+      "pergunta": "à sua esposa, uma tiara usada pela imperatriz Eugênia,",
       "opcoes": [
         {
           "letra": "A",
@@ -703,7 +702,7 @@
     },
     {
       "id": "Q30",
-      "pergunta": "},  {  \"id\": 39,  \"topico\": \"Direito Administrativo / Processo Administrativo\",  \"pergunta\": \"Considerando a Lei nº 9.784/1999, analise as afirmações I – IV. Está  correto o que se afirma em:\",  \"alternativas\": {  \"a\": \"I, II, III e IV\",  \"b\": \"I e II, apenas\",  \"c\": \"II e III, apenas\",  \"d\": \"I, II e IV, apenas\",  \"e\": \"I, III e IV, apenas\"  },  \"correta\": \"a\",  \"comentario\": \"No material, as quatro assertivas apresentadas correspondem a  dispositivos e conceitos da Lei nº 9.784/1999.\"  },  {  \"id\": 40,  \"topico\": \"Direito Constitucional / Provas\",  \"pergunta\": \"Caso de confissão obtida por violência física e psicológica contra  Caio. Segundo a Constituição de 1988, assinale a alternativa correta:\",  \"alternativas\": {  \"a\": \"Provas obtidas por meios ilícitos são válidas no processo se confirmadas  por outras provas legais.\",  \"b\": \"A lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia  a prática da tortura, tráfico ilícito de entorpecentes, terrorismo e crimes  hediondos.\",  \"c\": \"Ninguém será submetido a tortura nem a tratamento desumano ou  degradante, exceto em situações de ameaça à segurança nacional.\",",
+      "pergunta": "esposa de Napoleão 3ᵒ, e várias peças que pertenceram à",
       "opcoes": [
         {
           "letra": "A",
@@ -727,7 +726,7 @@
     },
     {
       "id": "Q31",
-      "pergunta": "\"d\": \"O preso poderá ser coagido a colaborar com as investigações, em nome  do interesse público.\",  \"e\": \"Ninguém será preso senão em flagrante delito ou por ordem escrita e  fundamentada de autoridade policial competente, salvo nos casos de crime  militar.\"  },  \"correta\": \"b\",  \"comentario\": \"A CF prevê que tortura e crimes hediondos são inafiançáveis;  provas obtidas por meios ilícitos são inválidas, logo (b) é correta.\"  },  {  \"id\": 41,  \"topico\": \"Direito Constitucional / Poder Executivo\",  \"pergunta\": \"Presidente editou decreto alterando denominação de órgãos,  extinguindo cargos vagos e transferindo alguns cargos. Medida é:\",  \"alternativas\": {  \"a\": \"inconstitucional, pois extinção e criação de cargos são matérias  reservadas à lei.\",  \"b\": \"regular, pois o Presidente pode editar decretos relativos à organização da  administração, desde que sem aumento de despesas.\",  \"c\": \"inconstitucional, pois transferência e extinção dependem de autorização  do Congresso.\",  \"d\": \"válida, pois o Presidente tem competência para editar decretos  autônomos sobre matérias administrativas.\",  \"e\": \"válida, mas apenas se houver autorização legislativa específica.\"  },  \"correta\": \"a\",  \"comentario\": \"Criação ou extinção de cargos é matéria legislativa   —   não pode  ser feita por decreto.\"  },  {",
+      "pergunta": "rainha Maria-Amélia, mulher do rei Luis Felipe 1º e prima",
       "opcoes": [
         {
           "letra": "A",
@@ -751,7 +750,7 @@
     },
     {
       "id": "Q32",
-      "pergunta": "\"id\": 42,  \"topico\": \"Direito Constitucional / Ordem Social\",  \"pergunta\": \"No que se refere à Ordem Social, assinale o item correto:\",  \"alternativas\": {  \"a\": \"A Constituição determina que ações e serviços de saúde serão  regulamentados pelo poder público e podem ser exercidos direta ou  indiretamente, inclusive por pessoa física/jurídica de direito privado.\",  \"b\": \"A educação e o ensino noturno serão organizados em uma grade  especial, independentemente das condições do educando.\",  \"c\": \"O atendimento educacional especializado aos portadores de deficiência  física deverá ser feito em instituições especializadas, preferencialmente.\",  \"d\": \"A universalidade da cobertura e atendimento da Seguridade Social  significa que benefícios e serviços serão iguais para todos.\",  \"e\": \"O Estado exercerá apenas a função de planejamento das políticas  sociais.\"  },  \"correta\": \"a\",  \"comentario\": \"A CF prevê que a saúde será regulamentada pelo poder público  e pode ser exercida direta ou indiretamente, inclusive por entidades privadas sob  normas.\"  },  {  \"id\": 43,  \"topico\": \"Direito Constitucional / Segurança Pública\",  \"pergunta\": \"Sobre Segurança Pública, assinale a alternativa correta:\",  \"alternativas\": {  \"a\": \"Competência exclusiva da União.\",  \"b\": \"Polícia Militar vinculada ao Poder Judiciário.\",  \"c\": \"Deve ser exercida de forma compartilhada entre União, Estados, DF e  Municípios.\",",
+      "pergunta": "de primeiro grau da primeira imperatriz brasileira, Maria",
       "opcoes": [
         {
           "letra": "A",
@@ -775,7 +774,7 @@
     },
     {
       "id": "Q33",
-      "pergunta": "\"d\": \"Uso da força é absolutamente proibido salvo legítima defesa e  transgressões disciplinares militares.\",  \"e\": \"Sistema Penal é o principal instrumento das políticas de segurança  pública.\"  },  \"correta\": \"c\",  \"comentario\": \"A Constituição prevê atuação compartilhada entre os entes  federativos na área de segurança pública.\"  },  {  \"id\": 44,  \"topico\": \"Direitos Humanos\",  \"pergunta\": \"Sobre conceito, fundamentos e evolução dos Direitos Humanos,  assinale a alternativa correta:\",  \"alternativas\": {  \"a\": \"O atual conceito afirma que são direitos pré - existentes ao direito  positivado, dispensando forma e previsão expressa.\",  \"b\": \"A última corrente de fundamentação dos Direitos Humanos se baseia na  dignidade da pessoa humana.\",  \"c\": \"O primeiro documento de Direitos Humanos registrado é a Declaração  dos Direitos do Homem.\",  \"d\": \"A Primeira Guerra Mundial é responsável pela nova fase de  internacionalização dos Direitos Humanos.\",  \"e\": \"Dos Direitos Humanos possuem normatividade aberta e não podem ser  fundamentados por nenhuma base teórica.\"  },  \"correta\": \"a\",  \"comentario\": \"A concepção clássica entende Direitos Humanos como pré -  existentes à positivação jurídica.\"  },  {",
+      "pergunta": "Leopoldina.",
       "opcoes": [
         {
           "letra": "A",
@@ -799,7 +798,7 @@
     },
     {
       "id": "Q34",
-      "pergunta": "\"id\": 45,  \"topico\": \"Direitos Humanos / DUDH\",  \"pergunta\": \"Sobre a Declaração Universal dos Direitos Humanos (DUDH),  assinale a alternativa correta:\",  \"alternativas\": {  \"a\": \"Todo ser humano tem direito a um julgamento justo, podendo ser preso  arbitrariamente sempre que houver suspeita de crime contra o Estado.\",  \"b\": \"A DUDH assegura o direito à vida, à liberdade e à segurança pessoal,  fundados na dignidade humana.\",  \"c\": \"O direito de asilo deve ser garantido em qualquer hipótese, inclusive em  crimes comuns.\",  \"d\": \"É permitido aplicar tratamentos cruéis ou degradantes em situações  excepcionais.\",  \"e\": \"O reconhecimento da personalidade jurídica de cada indivíduo depende  da nacionalidade.\"  },  \"correta\": \"b\",  \"comentario\": \"A DUDH consagra direitos fundamentais como vida, liberdade e  segurança pessoal, vinculados à dignidade humana.\"  },  {  \"id\": 46,  \"topico\": \"Direitos Humanos / Regras de Mandela\",  \"pergunta\": \"Regras de Nelson Mandela (Regras Mínimas)   —   julgue I – III. Está  correto o que se afirma em:\",  \"alternativas\": {  \"a\": \"Apenas I.\",  \"b\": \"I e II.\",  \"c\": \"II e III.\",  \"d\": \"Todas as assertivas.\",  \"e\": \"Nenhuma das assertivas.\"",
+      "pergunta": "Os investigadores encontraram uma coroa danificada",
       "opcoes": [
         {
           "letra": "A",
@@ -823,7 +822,7 @@
     },
     {
       "id": "Q35",
-      "pergunta": "},  \"correta\": \"d\",  \"comentario\": \"As Regras de Mandela contemplam necessidades individuais,  instalações sanitárias e acesso a serviços de saúde, entre outros direitos.\"  },  {  \"id\": 47,  \"topico\": \"Direito Penal / Erro\",  \"pergunta\": \"Thiago, policial penal, ao repelir agressão que acreditava injusta,  feriu o outro que depois disse ter sido 'brincadeira'. Nesse caso Thiago agiu em  erro:\",  \"alternativas\": {  \"a\": \"de tipo permissivo\",  \"b\": \"de tipo incriminador\",  \"c\": \"sobre a pessoa\",  \"d\": \"na execução\",  \"e\": \"de proibição\"  },  \"correta\": \"a\",  \"comentario \": \"Erro sobre a existência de uma causa permissiva (acreditou  estar em legítima defesa) configura erro de tipo permissivo.\"  },  {  \"id\": 48,  \"topico\": \"Direito Penal / Penas\",  \"pergunta\": \"Acerca das penas, é correto afirmar que se considera:\",  \"alternativas\": {  \"a\": \"Regime aberto a execução da pena em estabelecimento de segurança  média.\",",
+      "pergunta": "que pertencia à imperatriz Eugênia na rota de fuga dos",
       "opcoes": [
         {
           "letra": "A",
@@ -847,7 +846,7 @@
     },
     {
       "id": "Q36",
-      "pergunta": "\"b\": \"Regime aberto a execução da pena em colônia agrícola, industrial ou  estabelecimento similar.\",  \"c\": \"Regime semiaberto a execução da pena em colônia agrícola, industrial ou  estabelecimento similar.\",  \"d\": \"Regime semiaberto a execução da pena em casa de albergado ou  estabelecimento adequado.\",  \"e\": \"Regime fechado a execução em segurança máxima e semiaberto em  segurança média.\"  },  \"correta\": \"c\",  \"comentario\": \"Tradição legal associa execução em colônias  agrícolas/industriais ao regime semiaberto.\"  },  {  \"id\": 49,  \"topico\": \"Direito Penal / Homicídio\",  \"pergunta\": \"Alexandre desferiu duas facadas em policial penal Eduardo com  dolo de matar; a vítima faleceu. Alexandre deverá responder por:\",  \"alternativas\": {  \"a\": \"Homicídio doloso simples, majorado por ter sido praticado contra  integrante do sistema prisional.\",  \"b\": \"Homicídio doloso, qualificado por ter sido praticado contra integrante do  sistema prisional.\",  \"c\": \"Homicídio doloso simples, sem majoração.\",  \"d\": \"Lesão corporal seguida de morte, majorada por ter sido praticada contra  integrante do sistema prisional.\",  \"e\": \"Lesão corporal seguida de morte, sem majorantes.\"  },  \"correta\": \"b\",  \"comentario \": \"Trata - se de homicídio doloso; praticado contra agente do  sistema prisional pode configurar qualificadora/majorante.\"",
+      "pergunta": "ladrões — aparentemente deixada para trás quando eles",
       "opcoes": [
         {
           "letra": "A",
@@ -871,7 +870,7 @@
     },
     {
       "id": "Q37",
-      "pergunta": "},  {  \"id\": 50,  \"topico\": \"Direito Penal / Crimes contra a Administração da Justiça\",  \"pergunta\": \"Antônio, advogado, pediu R$10.000 a Célia alegando que pagaria  metade ao juiz para conseguir livramento condicional   —   porém não conhece o  magistrado; Célia não pagou. Antônio responderá por:\",  \"alternativas\": {  \"a\": \"Tráfico de influência, em sua forma consumada\",  \"b\": \"Exploração de prestígio, em sua forma tentada, majorado\",  \"c\": \"Exploração de prestígio, em sua forma tentada, sem majoração\",  \"d\": \"Exploração de prestígio, em sua forma consumada, majorado\",  \"e\": \"Exploração de prestígio, em sua forma consumada, sem majoração\"  },  \"correta\": \"c\",  \"comentario\": \"Promessa de influência inexistente e pedido de vantagem  configura exploração de prestígio na forma tentada.\"  },  {  \"id\": 51,  \"topico\": \"Direito Processual Penal\",  \"pergunta\": \"Com base nas disposições do Código de Processo Penal, assinale  a alternativa INCORRETA sobre o inquérito policial:\",  \"alternativas\": {  \"a\": \"Nos delitos em que a ação penal pública dependa de representação, o  inquérito não poderá ser instaurado sem a manifestação do ofendido.\",  \"b\": \"Nos crimes de ação privada, a autoridade policial somente poderá iniciar  o inquérito mediante requerimento de quem possua legitimidade.\",  \"c\": \"O Ministério Público somente poderá devolver o inquérito policial à  autoridade competente para a realização de diligências complementares  indispensáveis à formulação da denúncia.\",",
+      "pergunta": "partiram às pressas.",
       "opcoes": [
         {
           "letra": "A",
@@ -895,7 +894,7 @@
     },
     {
       "id": "Q38",
-      "pergunta": "\"d\": \"Tanto o ofendido quanto seu representante legal, assim como o  investigado, podem solicitar diligências, cuja realização deverá ser feita pela  autoridade policial.\",  \"e\": \"O inquérito policial acompanhará a denúncia ou a queixa, sempre que  tenha servido como base para uma delas.\"  },  \"correta\": \"c\",  \"comentario\": \"A redação de (c) está incorreta/engessada segundo o enunciado  —   o MP pode requisitar diligências e devolver o inquérito quando necessário, não  apenas nas condições ali descritas.\"  },  {  \"id\": 52,  \"topico\": \"Direito Processual Penal\",  \"pergunta\": \"Em caso de ação penal privada subsidiária da pública, quando o  Ministério Público não propõe a denúncia dentro do prazo legal, caberá a ele:\",  \"alternativas\": {  \"a\": \"Deixar de atuar no processo.\",  \"b\": \"Participar sem legitimidade para recorrer.\",  \"c\": \"Não poderá requerer arquivamento nem rejeitar queixa apresentada.\",  \"d\": \"Aditar a queixa, rejeitá - la, oferecer denúncia substitutiva, atuar em todos  os atos, apresentar provas e interpor recursos.\",  \"e\": \"Deixará de figurar como parte, atuando apenas como fiscal da lei.\"  },  \"correta\": \"d\",  \"comentario\": \"O MP pode atuar plenamente, inclusive oferecendo denúncia  substitutiva e praticando atos processuais inerentes à titularidade.\"  },  {  \"id\": 53,  \"topico\": \"Direito Processual Penal\",",
+      "pergunta": "Quatro ladrões mascarados usaram um caminhão",
       "opcoes": [
         {
           "letra": "A",
@@ -919,7 +918,7 @@
     },
     {
       "id": "Q39",
-      "pergunta": "\"pergunta\": \"Com relação às medidas cautelares previstas no Código de  Processo Penal, assinale a alternativa correta:\",  \"alternativas\": {  \"a\": \"Podem ser decretadas mesmo nos casos em que o crime não preveja  pena privativa de liberdade.\",  \"b\": \"É vedado o uso da força durante a execução da prisão, exceto quando  indispensável.\",  \"c\": \"Se a infração for afiançável, a ausência do mandado não impedirá a  prisão.\",  \"d\": \"Estando o acusado em localidade diversa, sua prisão será deprecada,  dispensando - se envio integral do mandado.\",  \"e\": \"Qualquer autoridade policial poderá cumprir mandado registrado no CNJ,  desde que dentro da área de competência do magistrado.\"  },  \"correta\": \"a\",  \"comentario \": \"Medidas cautelares pessoais podem ser aplicadas quando  necessárias, mesmo se a infração não prevê pena privativa de liberdade.\"  },  {  \"id\": 54,  \"topico\": \"Direito Processual Penal / Provas\",  \"pergunta\": \"Provas obtidas a partir de provas ilícitas não serão consideradas  ilegais quando puderem ser produzidas por fonte autônoma e independente.  Nesse caso, tais provas serão:\",  \"alternativas\": {  \"a\": \"ilícitas\",  \"b\": \"parcialmente ilícitas\",  \"c\": \"parcialmente lícitas\",  \"d\": \"lícitas, porém proibidas\",  \"e\": \"lícitas\"  },",
+      "pergunta": "equipado com um elevador mecânico para ter acesso à",
       "opcoes": [
         {
           "letra": "A",
@@ -943,7 +942,7 @@
     },
     {
       "id": "Q40",
-      "pergunta": "\"correta\": \"e\",  \"comentario\": \"Se as provas puderem ser obtidas por fonte autônoma e  independente, deixam de ser contaminadas pela ilicitude e são lícitas.\"  },  {  \"id\": 55,  \"topico\": \"Direito Penal / Lei de Tortura\",  \"pergunta\": \"Policial penal condenado por tortura   —   efeito da condenação  segundo Lei nº 9.455/1997:\",  \"alternativas\": {  \"a\": \"Suspensão do cargo por 8 anos.\",  \"b\": \"Somente a perda do cargo.\",  \"c\": \"Somente a interdição do cargo.\",  \"d\": \"A perda do cargo e a interdição pelo dobro do prazo da pena aplicada.\",  \"e\": \"Prestação de serviço comunitário.\"  },  \"correta\": \"d\",  \"comentario\": \"A legislação prevê perda do cargo e interdição dos direitos  decorrentes do cargo por período relacionado à pena aplicada.\"  },  {  \"id\": 56,  \"topico\": \"Lei de Execução Penal\",  \"pergunta\": \"De acordo com a Lei de Execução Penal, se o indivíduo primário for  condenado por constituição de milícia privada, para formar requisito objetivo para  progressão de regime deverá cumprir:\",  \"alternativas\": {  \"a\": \"30%\",  \"b\": \"40%\",  \"c\": \"50%\",",
+      "pergunta": "Galerie d'Apollon (Galeria de Apolo) através de uma",
       "opcoes": [
         {
           "letra": "A",
@@ -967,7 +966,7 @@
     },
     {
       "id": "Q41",
-      "pergunta": "\"d\": \"60%\",  \"e\": \"70%\"  },  \"correta\": \"c\",  \"comentario\": \"Para crimes mais graves, frequentemente exige - se cumprimento  de metade da pena (50%) para progressão   —   conforme material adaptado.\"  },  {  \"id\": 57,  \"topico\": \"Lei de Drogas\",  \"pergunta\": \"De acordo com a Lei de Drogas (Lei nº 11.343/2006), marque a  alternativa correta:\",  \"alternativas\": {  \"a\": \"O crime de tráfico de drogas pode ser praticado na forma culposa.\",  \"b\": \"O tráfico é um crime hediondo.\",  \"c\": \"O tráfico é um crime material quanto ao resultado.\",  \"d\": \"O crime de tráfico se consuma com a prática de qualquer conduta  prevista no art. 33, 'caput'.\",  \"e\": \"Na Lei de drogas é possível o crime de tráfico na forma qualificada.\"  },  \"correta\": \"d\",  \"comentario\": \"O art.33 caput descreve condutas que configuram tráfico; a  consumação ocorre com a prática de qualquer delas.\"  },  {  \"id\": 58,  \"topico\": \"Direito Penal / Armas\",  \"pergunta\": \"Indivíduo com porte de arma de fogo de uso permitido efetuou  disparos em local ermo e desabitado. Marque a alternativa correta:\",  \"alternativas\": {",
+      "pergunta": "varanda próxima ao rio Sena. Dois deles cortaram uma",
       "opcoes": [
         {
           "letra": "A",
@@ -991,7 +990,7 @@
     },
     {
       "id": "Q42",
-      "pergunta": "\"a\": \"Ele responderá pelo crime de disparo de arma de fogo.\",  \"b\": \"A conduta dele é atípica.\",  \"c\": \"Ele responderá por um crime hediondo.\",  \"d\": \"A conduta se amolda ao crime de porte ilegal de arma de uso restrito.\",  \"e\": \"A conduta se amolda ao crime de porte ilegal de arma de uso proibido.\"  },  \"correta\": \"a\",  \"comentario\": \"Mesmo sendo arma de uso permitido, efetuar disparos em local  público/ermo pode configurar crime de disparo de arma de fogo.\"  },  {  \"id\": 59,  \"topico\": \"Legislação Institucional / PPES\",  \"pergunta\": \"À luz da Lei Complementar nº 1.061, a PPES reger - se - á pelos  princípios constitucionais e deve observar, ainda, na sua atuação: EXCETO:\",  \"alternativas\": {  \"a\": \"a promoção dos direitos humanos\",  \"b\": \"a hierarquia e a disciplina\",  \"c\": \"o atendimento ao público com presteza, probidade e urbanidade\",  \"d\": \"a integração com outros órgãos de segurança pública e da execução  penal\",  \"e\": \"a atuação na prevenção e no controle das infrações administrativas no  âmbito da execução penal\"  },  \"correta\": \"e\",  \"comentario\": \"No enunciado adaptado, as disposições listam princípios  institucionais (a – d); (e) foi apresentada como exceção.\"  },  {  \"id\": 60,",
+      "pergunta": "janela de vidro no primeiro andar usando um cortador de",
       "opcoes": [
         {
           "letra": "A",
@@ -1015,7 +1014,1519 @@
     },
     {
       "id": "Q43",
-      "pergunta": "\"topico\": \"Legislação Institucional / PPES\",  \"pergunta\": \"Quais são os símbolos institucionais da PPES, segundo o professor  Fábio Ramos?\",  \"alternativas\": {  \"a\": \"Hino, bandeira, brasão e selo, válidos em todo território nacional, a serem  estabelecidos em decreto.\",  \"b\": \"Hino, bandeira, brasão e distintivo, válidos em todo território nacional, a  serem estabelecidos em decreto.\",  \"c\": \"Hino, bandeira, arma e selo, válidos em todo território do estado, a serem  estabelecidos em decreto.\",  \"d\": \"Hino, bandeira, brasão, selo e distintivo, válidos em todo território  nacional, a serem estabelecidos em decreto.\",  \"e\": \"Hino, bandeira, brasão apenas, válidos em todo território nacional, a  serem estabelecidos em decreto.\"  },  \"correta\": \"b\",  \"comentario\": \"Conforme o material indicado, os símbolos são hino, bandeira,  brasão e distintivo, regulamentados por decreto.\"  }  ]  }",
+      "pergunta": "disco alimentado por bateria e entraram no museu. Em",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q44",
+      "pergunta": "seguida, ameaçaram os guardas que estavam dentro do",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q45",
+      "pergunta": "prédio, que evacuaram o local.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q46",
+      "pergunta": "Os ladrões tentaram incendiar o veículo do lado de",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q47",
+      "pergunta": "fora, mas foram impedidos pela intervenção de um",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q48",
+      "pergunta": "funcionário do museu. Eles foram vistos fugindo em",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q49",
+      "pergunta": "scooters.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q50",
+      "pergunta": "O presidente francês Emmanuel Macron descreveu o",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q51",
+      "pergunta": "roubo como um ataque ao patrimônio da França. As",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q52",
+      "pergunta": "medidas de segurança foram reforçadas em torno das",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q53",
+      "pergunta": "instituições culturais do país, depois que um relatório",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q54",
+      "pergunta": "preliminar constatou que uma em cada três salas do",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q55",
+      "pergunta": "Louvre não possuía câmeras de segurança e que seu",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q56",
+      "pergunta": "sistema de alarme mais amplo não disparou.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q57",
+      "pergunta": "O ministro da Justiça, Gérald Darmanin, afirmou que",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q58",
+      "pergunta": "os protocolos de segurança \"falharam\", lamentando que",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q59",
+      "pergunta": "os ladrões tenham conseguido conduzir um caminhão",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q60",
+      "pergunta": "modificado até ao museu, deixando a França com uma",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q61",
+      "pergunta": "\"imagem terrível\".",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q62",
+      "pergunta": "As autoridades acreditam estar perseguindo uma",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q63",
+      "pergunta": "equipe de profissionais, dada a rapidez e organização com",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q64",
+      "pergunta": "que agiram.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q65",
+      "pergunta": "Especialistas em recuperação de obras de arte",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q66",
+      "pergunta": "disseram anteriormente à BBC que os investigadores",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q67",
+      "pergunta": "tinham apenas um ou dois dias para localizar os itens",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q68",
+      "pergunta": "antes que eles fossem considerados perdidos para",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q69",
+      "pergunta": "sempre.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q70",
+      "pergunta": "É muito provável que tenham sido transformados em",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q71",
+      "pergunta": "metais preciosos e pedras preciosas, contrabandeados",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q72",
+      "pergunta": "para fora do país e vendidos por uma fração do seu valor,",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q73",
+      "pergunta": "afirmaram outros especialistas.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q74",
+      "pergunta": "Fonte: <https://www.bbc.com/portuguese/articles/cz7pvyr7nzdo>",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q75",
+      "pergunta": "(Adaptado)",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q76",
+      "pergunta": "1. Com base nas informações do texto, assinale a",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q77",
+      "pergunta": "alternativa que apresenta a principal consequência",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q78",
+      "pergunta": "do roubo das joias do Louvre, segundo a",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q79",
+      "pergunta": "procuradora francesa.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q80",
+      "pergunta": "a) A perda de peças de alto valor financeiro.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q81",
+      "pergunta": "b) O aumento da criminalidade em Paris.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q82",
+      "pergunta": "c) O prejuízo ao patrimônio histórico da França.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q83",
+      "pergunta": "d) A exposição da fragilidade da segurança do museu.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q84",
+      "pergunta": "e) A destruição de obras de arte de valor inestimável.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q85",
+      "pergunta": "4",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q86",
+      "pergunta": "Simulado Especial Polícia Penal ES (Policial Penal) - 25/10/2025",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q87",
+      "pergunta": "2. De acordo com o texto, qual foi a intenção da",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q88",
+      "pergunta": "procuradora ao divulgar o valor estimado das joias",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q89",
+      "pergunta": "roubadas?",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q90",
+      "pergunta": "a) Justificar o reforço nas medidas de segurança.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q91",
+      "pergunta": "b) Alertar a população sobre o prejuízo financeiro.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q92",
+      "pergunta": "c) Incentivar os ladrões a devolverem as joias.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q93",
+      "pergunta": "d) Desestimular os ladrões a destruírem as peças.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q94",
+      "pergunta": "e) Pressionar as autoridades a agirem com mais",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q95",
+      "pergunta": "rapidez.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q96",
+      "pergunta": "3. Considerando as informações do texto, assinale a",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q97",
+      "pergunta": "alternativa que melhor caracteriza a ação dos",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q98",
+      "pergunta": "ladrões.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q99",
+      "pergunta": "a) Amadora, devido à pressa na fuga.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q100",
+      "pergunta": "b) Improvisada,",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q101",
+      "pergunta": "com uso de ferramentas",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q102",
+      "pergunta": "rudimentares.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q103",
+      "pergunta": "c) Violenta, com confronto armado com os guardas.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q104",
+      "pergunta": "d) Profissional, pela rapidez e organização da",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q105",
+      "pergunta": "execução.",
+      "opcoes": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        }
+      ],
+      "resposta_correta": "A",
+      "comentario": "Comentário de exemplo."
+    },
+    {
+      "id": "Q106",
+      "pergunta": "e) Fracassada, pois os ladrões foram capturados.",
       "opcoes": [
         {
           "letra": "A",
@@ -1038,4 +2549,4 @@
       "comentario": "Comentário de exemplo."
     }
   ]
-
+}
