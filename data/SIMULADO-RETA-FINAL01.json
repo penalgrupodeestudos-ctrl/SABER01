@@ -1,0 +1,552 @@
+[
+  {
+    "numero": 1,
+    "enunciado": "A função da linguagem enuncia a intenção do emissor da mensagem, caracterizando-se por evidenciar um dos elementos da comunicação, o que identifica sua predominância no contexto:\nCom esta informação teórica, marque a função da linguagem que predomina no (1º§); \"As palavras são o fundamento da comunicação, em qualquer língua de qualquer parte do mundo. Elas representam os sentimentos, as emoções e os pensamentos\".",
+    "alternativas": {
+      "A": "Fática.",
+      "B": "Poética.",
+      "C": "Referencial.",
+      "D": "Apelativa."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 2,
+    "enunciado": "O texto contém elementos que identificam um tipo de:",
+    "alternativas": {
+      "A": "Dissertação.",
+      "B": "Descrição.",
+      "C": "Crônica.",
+      "D": "Narração."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 3,
+    "enunciado": "Marque a função da linguagem que predomina no transcrito a seguir: \"Pense na importância da palavra adequada ao contexto de uma mensagem, para estabelecer a sintonia perfeita nos atos comunicativos\".",
+    "alternativas": {
+      "A": "Fática.",
+      "B": "Emotiva.",
+      "C": "Poética.",
+      "D": "Apelativa."
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 4,
+    "enunciado": "Analise a frase abaixo.\n“Duzentos gramas de queijo são pouco para o pão de queijo.” Podemos afirmar que nele há um erro gramatical de:",
+    "alternativas": {
+      "A": "Concordância Verbal",
+      "B": "Concordância Nominal",
+      "C": "Regência Nominal",
+      "D": "Pontuação"
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 5,
+    "enunciado": "Analise a frase destacada. \"E aprenda a tratá-los com mais carinho, porque são fundamentais para nos manter ativos.\" É correto afirmar que o termo destacado exerce função morfológica de:",
+    "alternativas": {
+      "A": "Advérbio",
+      "B": "Adjetivo",
+      "C": "Substantivo",
+      "D": "Adjunto Adverbial"
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 6,
+    "enunciado": "A figura de linguagem presente no verso \"Os poemas são pássaros que chegam\", é:",
+    "alternativas": {
+      "A": "Metáfora.",
+      "B": "Paradoxo.",
+      "C": "Antítese.",
+      "D": "Hipérbole."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 7,
+    "enunciado": "Assinale a alternativa em que a regência verbal está INCORRETA.",
+    "alternativas": {
+      "A": "Não havia mais candidatos na sala.",
+      "B": "O objetivo do empresário era apenas lucrar.",
+      "C": "Tereza tinha comprado presentes para toda a família.",
+      "D": "O assaltante agrediu-lhe violentamente."
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 8,
+    "enunciado": "Analise a frase destacada - O fato de a neve ser armazenada o ano todo parece surpreendente, 'contudo a prática remonta há séculos'. A expressão destacada trata-se de uma oração:",
+    "alternativas": {
+      "A": "Coordenada sindética adversativa.",
+      "B": "Subordinada substantiva subjetiva.",
+      "C": "Subordinada substantiva completiva.",
+      "D": "Coordenada sindética alternativa."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 9,
+    "enunciado": "Dos pares de frases a seguir, e no indicativo das palavras destacadas, assinale a alternativa em que há a presença de paronímias.",
+    "alternativas": {
+      "A": "O concerto está previsto para o próximo final de semana. O conserto dos aparelhos eletrônicos levará mais tempo para ficar pronto.",
+      "B": "O molho será preparado com os ingredientes a pedido do Chef principal. O molho de chaves do prédio está guardado na gaveta da recepção.",
+      "C": "É necessário ratificar a data da comemoração dos dez anos da implantação do sistema operacional. É necessário retificar a data da comemoração dos dez anos do sistema operacional, pois o diretor não poderá estar presente na data já determinada.",
+      "D": "O almoço será servido às 13 horas em ponto. Eu sempre almoço às 13 horas em ponto."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 10,
+    "enunciado": "Com base na acentuação dos vocábulos extraídos do texto, julgue as afirmativas a seguir:\n( )Os vocábulos 'há' e 'três' são monossílabos tônicos acentuados; no entanto, o acento em 'há' é classificado como diferencial.\n( )A supressão dos acentos nos vocábulos 'médica' e 'trânsito' ocasiona mudança em sua classe gramatical, configurando uma alteração morfológica. ( )Os vocábulos 'paciência' e 'contrário' são exemplos de palavras que podem ter duas classificações quanto à posição da sílaba tônica.\n( )O vocábulo 'ideia' não é mais acentuado, assim como os vocábulos: baiuca, heroico, abençoo e arguo.\nA sequência que preenche corretamente os espaços é:",
+    "alternativas": {
+      "A": "F, V, V, V.",
+      "B": "V, V, V, V.",
+      "C": "F, F, F, V.",
+      "D": "V, V, F, F."
+    },
+  
+  {
+    "numero": 11,
+    "enunciado": "Considere as seguintes proposições:\np: Não possuo carteira de motorista.\nq: Posso dirigir. Dessa forma, a sentença\n~(q → ~p) pode ser escrita como:",
+    "alternativas": {
+      "A": "não possuo carteira de motorista e não posso dirigir.",
+      "B": "somente possuo carteira de motorista se, e somente se, posso dirigir.",
+      "C": "se não posso dirigir, então possuo carteira de motorista.",
+      "D": "posso dirigir e não possuo carteira de motorista."
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 12,
+    "enunciado": "Se uma empresa tem 145 funcionários e 26 deles tem olhos verdes, podemos afirmar que o conjunto formado pelos funcionários desta empresa que tem olhos verdes é:",
+    "alternativas": {
+      "A": "Subconjunto do conjunto formado pelo total de funcionários da empresa.",
+      "B": "Um conjunto vazio.",
+      "C": "Um conjunto unitário.",
+      "D": "Interseção do conjunto formado pelo total de funcionários da empresa."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 13,
+    "enunciado": "Na sequência (2, 2, 4, 6, 10...) o próximo número será:",
+    "alternativas": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17"
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 14,
+    "enunciado": "Um capital de R$ 1200,00 foi aplicado, a juros composto, durante um período de 1 ano, com uma taxa de 2% ao mês. O montante encontrado no fim desse período de aplicação foi de, aproximadamente:",
+    "alternativas": {
+      "A": "1.224,00",
+      "B": "1.521,83",
+      "C": "1.487,94",
+      "D": "1.630,21"
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 15,
+    "enunciado": "Três amigos combinaram uma viagem de férias e ficou acertado que iriam dividir as despesas de forma inversamente proporcional aos números 3, 5 e 8. Analise as alternativas e assinale a que representa o maior valor pago por um dos amigos, considerando que o valor total da viagem ficou em R$ 1.264,00.",
+    "alternativas": {
+      "A": "R$ 240,00",
+      "B": "R$ 292,00",
+      "C": "R$ 640,00",
+      "D": "R$ 632,00"
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 16,
+    "enunciado": "Um estagiário, desenvolvendo suas atividades durante cinco dias por semana e seis horas por dia, completa certa tarefa em oito semanas. Entretanto, se desenvolvesse suas atividades com eficiência 20% maior, em igual número de dias por semana, porém, durante apenas quatro horas por dia, o número de semanas que gastaria para completar essa mesma tarefa seria:",
+    "alternativas": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 17,
+    "enunciado": "Antônio e Bernardo resolveram disputar uma série de 5 rodadas de cara e coroa, lançando ao acaso, uma moeda perfeita. Se o resultado fosse cara, Antônio ganharia 1 ponto. Se o resultado fosse coroa, Bernardo ganharia 1 ponto. Cada um deles colocou R$ 100,00 dentro de uma caixa. O ganhador seria aquele que totalizasse 3 pontos pela primeira vez. Após os 2 primeiros lançamentos, cujos resultados deram cara, Bernardo resolve desistir do jogo e propõe que os R$ 200,00 sejam repartidos em parte proporcionais às chances de cada um deles ganhar o jogo. Antônio aceitou a proposta de Bernardo. Assim a diferença entre as quantias recebidas por Antônio e por Bernardo foi igual a:",
+    "alternativas": {
+      "A": "R$ 100,00",
+      "B": "R$ 150,00",
+      "C": "R$ 120,00",
+      "D": "R$ 75,00"
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 18,
+    "enunciado": "Damião e Gael, dois policiais, precisam se deslocar da delegacia até o local de um crime para conduzir a investigação e, posteriormente, retornar à delegacia para registrar os resultados. Em cada trajeto, apenas um deles será o motorista, e a escolha é feita de forma independente. Sabe-se que a probabilidade de Damião dirigir é de 80%, enquanto a de Gael é de 20%. Com base nessa informação, a probabilidade de um dirigir na ida e o outro na volta é de",
+    "alternativas": {
+      "A": "32%",
+      "B": "36%",
+      "C": "40%",
+      "D": "48%"
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 19,
+    "enunciado": "Em um rol com os seguintes elementos: 1, 3, 3, 4, 5, 6, 9, 10, 11, 12, 13. A mediana deste rol é:",
+    "alternativas": {
+      "A": "3",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 20,
+    "enunciado": "Um marceneiro compra placas de MDF com 3 metros de comprimento para produzir mesas de colo para notebook de 60 cm de comprimento. Se as placas e as mesas têm a mesma largura, quantas mesas ele consegue fazer com uma placa?",
+    "alternativas": {
+      "A": "30 mesas.",
+      "B": "6 mesas.",
+      "C": "5 mesas.",
+      "D": "10 mesas."
+    },
+  
+  {
+    "numero": 21,
+    "enunciado": "Assinale V ou F:\nI. Hoje, no Brasil, a desigualdade social praticamente não existe;\nII. Na atualidade, a China perdeu sua importância econômica e deixou de participar do comércio mundial.\nIII. O estado do Espírito Santo é uma das referências em matéria sistema carcerário do Brasil.",
+    "alternativas": {
+      "A": "V V V.",
+      "B": "F F F.",
+      "C": "V F V.",
+      "D": "F F V."
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 22,
+    "enunciado": "Assinale V ou F:\nI. A COP30 será realizada no Estado do Pará.\nII. Entre as possibilidades oferecidas pelo evento COP30, destaca-se: Evidenciar os esforços brasileiros em energias renováveis, biocombustíveis e agricultura de baixo carbono, além de reafirmar sua tradição de protagonismo em processos multilaterais, como a Eco-92 e a Rio+20.\nIII. A COP30 discutirá exclusivamente medidas de adaptação climática, deixando de lado temas como financiamento, justiça climática e preservação ambiental.",
+    "alternativas": {
+      "A": "V V V.",
+      "B": "F F F.",
+      "C": "V V F.",
+      "D": "F F V."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 23,
+    "enunciado": "A população do Espírito Santo é de aproximadamente de habitantes, de acordo com a estimativa mais recente do IBGE para 2025.",
+    "alternativas": {
+      "A": "4,12 milhões.",
+      "B": "10,12 milhões.",
+      "C": "7,12 milhões",
+      "D": "7 milhões"
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 24,
+    "enunciado": "O Estado do Espirito Santo abriu ano letivo de 2025 com:",
+    "alternativas": {
+      "A": "Aumento de contratação de professores temporários e Diretores.",
+      "B": "Expansão do ensino integral e modernização das escolas.",
+      "C": "Implementação de Câmeras e Segurança Privada armada nas escolas.",
+      "D": "Aumento do uso de tecnologias como: notebook, tablet, smartphones e computador."
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 25,
+    "enunciado": "Trata-se de um marco legal inédito no Brasil que alinha o país às melhores práticas internacionais de segurança digital:",
+    "alternativas": {
+      "A": "Fiscalização e Punição das \"BETS\", visando combater os jogos ilegais e o endividamento por vícios.",
+      "B": "Indicação de faixas etárias para acesso aos jogos eletrônicos, visando controlar tal acesso.",
+      "C": "Criação do chamado novo \"ECA Digital\" fortalecendo a proteção de crianças e adolescentes no ambiente on-line.",
+      "D": "Bloqueio de todas as redes sociais para Crianças e Adolescentes, visando o fortalecimento ao combate à adultização infantil."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 26,
+    "enunciado": "Analise as seguintes proposições:\nI. O Sistema Operacional Windows é um software proprietário, o que significa que seu código-fonte não está disponível publicamente.\nII. O Sistema Operacional Windows é um software de código aberto, o que significa que qualquer pessoa pode contribuir para o seu desenvolvimento. Após análise, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Apenas a proposição II está correta.",
+      "B": "As proposições I e II estão corretas.",
+      "C": "Apenas a proposição I está correta.",
+      "D": "As proposições I e II estão incorretas."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 27,
+    "enunciado": "Dado o exemplo de URL abaixo, analise as proposições a seguir, e assinale a alternativa correta: https://www.example.com?key1=value1&key2=value2#SomewhereInTheDocument\nI. \"https\" é o esquema que indica o protocolo usado.\nII. \"SomewhereInTheDocument\" é o fragmento que é uma opção para identificar uma parte específica do recurso.\nMarque a opção CORRETA.",
+    "alternativas": {
+      "A": "As duas afirmações estão corretas.",
+      "B": "Apenas a afirmação II está correta.",
+      "C": "Apenas a afirmação I está correta.",
+      "D": "As duas afirmações estão incorretas."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 28,
+    "enunciado": "Em órgãos públicos, a segurança em redes é essencial para a proteção de dados sensíveis e o cumprimento da Lei Geral de Proteção de Dados (Lei nº 13.709/2018). Nesse contexto, assinale a alternativa que conceitua corretamente o Firewall.",
+    "alternativas": {
+      "A": "Firewall é um tipo de antivírus especializado em remover malwares instalados em dispositivos móveis.",
+      "B": "Firewall é uma rede privada que permite a navegação anônima e segura, mascarando o endereço IP do usuário.",
+      "C": "Firewall é um sistema de criptografia responsável por codificar todas as informações enviadas por e-mail.",
+      "D": "Firewall é um dispositivo ou software que atua como barreira de proteção, controlando o tráfego de dados entre redes com base em regras de segurança."
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 29,
+    "enunciado": "Qual recurso do Word 2016 permite acompanhar em detalhes cada modificação feita no documento, facilitando aceitar ou rejeitar mudanças?",
+    "alternativas": {
+      "A": "Ferramenta de Sinônimos",
+      "B": "Localizar e Substituir",
+      "C": "Comparar Texto",
+      "D": "Controle de Alterações"
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 30,
+    "enunciado": "João trabalha como assistente administrativo e precisa calcular o total de vendas do mês para um relatório. Ele registrou as vendas diárias na coluna A de uma planilha do Microsoft Excel (versão em português), da célula A2 até A31, representando os dias do mês. Para encontrar o valor total das vendas qual fórmula João deve usar?",
+    "alternativas": {
+      "A": "=A2+A31",
+      "B": "=SOMA(A2:A31)",
+      "C": "=MULT(A2:A31)",
+      "D": "=A2*A31"
+    },
+    "correta": "B"
+  },
+  
+  {
+    "numero": 41,
+    "enunciado": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, independentemente de qualquer outra condição, os crimes",
+    "alternativas": {
+      "A": "praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e que aí não sejam julgados.",
+      "B": "de genocídio, quando o agente for brasileiro ou domiciliado no Brasil.",
+      "C": "cometidos por estrangeiro contra brasileiro.",
+      "D": "contra o patrimônio do Presidente da República."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 42,
+    "enunciado": "NÃO corresponde a uma competência privativa da União em legislar:",
+    "alternativas": {
+      "A": "Serviço postal.",
+      "B": "Direito comercial.",
+      "C": "Proteção à infância e à juventude.",
+      "D": "Comércio exterior e interestadual."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 43,
+    "enunciado": "A Declaração Universal dos Direitos Humanos foi proclamada pela Assembleia Geral das Nações Unidas em 1948. Trata-se de um documento que estabelece normas comuns de proteção aos direitos da pessoa humana, a serem seguidas por todos os povos e todas as nações. Sobre esse documento, é correto afirmar que:",
+    "alternativas": {
+      "A": "O primeiro e mais importante artigo da Declaração diz que \"todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei\".",
+      "B": "No governo brasileiro anterior ao atual, o Brasil deixou de ser um dos signatários da Declaração.",
+      "C": "Trata-se de um documento que tem força de lei oficial nos países membros da ONU e signatários da Declaração.",
+      "D": "Um dos artigos da Declaração prevê que \"todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas.\""
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 44,
+    "enunciado": "Referente às Regras Mínimas das Nações Unidas para o Tratamento de Reclusos, analise as afirmativas abaixo, no que diz respeito ao alojamento.\n\nI. Todos os locais destinados aos reclusos, especialmente os dormitórios, devem satisfazer todas as exigências de higiene e saúde, tomando-se devidamente em consideração as condições climatéricas e, especialmente, a cubicagem de ar disponível, o espaço mínimo, a iluminação, o aquecimento e a ventilação.\n\nII. As instalações sanitárias devem ser adequadas, de maneira a que os reclusos possam efetuar as suas necessidades quando precisarem, de modo limpo e decente.\n\nIII. As celas ou locais destinados ao descanso noturno não devem ser ocupados por mais de um recluso. Se, por razões especiais, tais como excesso temporário de população prisional, for necessário que a administração prisional central adote exceções a esta regra deve evitar-se que dois reclusos sejam alojados numa mesma cela ou local.\n\nÉ CORRETO o que se afirma em:",
+    "alternativas": {
+      "A": "II e III, apenas.",
+      "B": "II, apenas.",
+      "C": "I, II e III.",
+      "D": "I e III, apenas."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 45,
+    "enunciado": "De acordo com o Código Penal, aquele que pratica a conduta de \"Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não levar o fato ao conhecimento da autoridade competente\", incorre no crime de:",
+    "alternativas": {
+      "A": "Advocacia administrativa.",
+      "B": "Violência arbitrária.",
+      "C": "Condescendência criminosa.",
+      "D": "Prevaricação."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 46,
+    "enunciado": "Jonas, recém-empossado no cargo de investigador de polícia, durante o curso de formação realizado na Academia de Polícia, participou de diversas palestras que tinham o *inquérito policial* como tema. Nesse cenário, considerando as disposições do Código de Processo Penal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) Depois de ordenado o arquivamento do inquérito pela autoridade judiciária, por falta de base para a denúncia, a autoridade policial não poderá proceder a novas pesquisas, inclusive se tiver notícia de outras provas.\n\n( ) O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia.\n\n( ) A autoridade policial não poderá mandar arquivar os autos de inquérito.\n\nAs afirmativas são, respectivamente:",
+    "alternativas": {
+      "A": "F -- V -- V.",
+      "B": "F -- V -- F.",
+      "C": "V -- V -- F.",
+      "D": "V -- V -- V."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 47,
+    "enunciado": "No dia 22/01/2025, durante uma fiscalização da Receita Federal, Júnior, funcionário público responsável pela operação, apreendeu mercadorias avaliadas em R$ 60.000,00, a maior parte delas eram equipamentos eletrônicos. Após a operação, Júnior não recolheu as mercadorias à fazenda pública, ao contrário, tomou posse delas como se fosse proprietário, levando-as para a chácara de sua propriedade. Nessa hipótese, Júnior praticou crime de",
+    "alternativas": {
+      "A": "peculato.",
+      "B": "apropriação indébita.",
+      "C": "corrupção ativa.",
+      "D": "condescendência criminosa."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 48,
+    "enunciado": "A Lei nº 14.532, de 11 de janeiro de 2023 alterou a Lei nº 7.716, de 5 de janeiro de 1989 (Lei do Crime Racial). Sobre essa temática, assinale V para a afirmativa verdadeira e F para a falsa.\n\n( ) O crime de injúria racial é espécie do gênero racismo. Portanto, é imprescritível, conforme o artigo 5º, XLII, da Constituição.\n\n( ) Na hipótese de o crime de racismo ser cometido no contexto de atividades esportivas, religiosas, artísticas ou culturais destinadas ao público, verifica-se a causa de aumento de pena.\n\n( ) Os crimes de racismo terão as penas aumentadas, quando ocorrerem em contexto ou com intuito de descontração, diversão ou recreação.\n\nAs afirmativas são, respectivamente:",
+    "alternativas": {
+      "A": "F -- V -- F.",
+      "B": "V -- F -- V.",
+      "C": "F -- F -- F.",
+      "D": "V -- V -- F."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 49,
+    "enunciado": "Os atos administrativos podem ser classificados com base em sua estrutura e no número de manifestações necessárias para sua formação. Em determinados casos, a validade de um ato depende necessariamente da manifestação conjunta de mais de um órgão da administração pública. Assinale a alternativa que corresponde a essa classificação.",
+    "alternativas": {
+      "A": "Ato administrativo simples.",
+      "B": "Ato administrativo definido.",
+      "C": "Ato administrativo dependente.",
+      "D": "Ato administrativo complexo."
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 50,
+    "enunciado": "Nas condutas tipificadas pela Lei nº 11.343/2006, o agente, primário e de bons antecedentes, que atua como \"mula\", com transporte pontual de entorpecente, caso comprovadas autoria e materialidade, deverá ser condenado por:",
+    "alternativas": {
+      "A": "tráfico de drogas privilegiado;",
+      "B": "tráfico de drogas;",
+      "C": "tráfico de drogas privilegiado e associação para o tráfico;",
+      "D": "tráfico de drogas e associação para o tráfico;"
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 51,
+    "enunciado": "Os poderes conferidos à administração pública são instrumentos colocados a sua disposição para a preservação dos interesses da coletividade. O exercício desses poderes deve, ademais, observância aos limites da lei, já que exercidos por mandatários, isto é, por pessoas que atuam em nome de terceiros — a coletividade. Devem, assim, ser utilizados única e exclusivamente para a consecução da finalidade que o agente público deve cumprir, sem nenhuma espécie de excesso ou desvio. Sobre os poderes administrativos, assinale a alternativa CORRETA.",
+    "alternativas": {
+      "A": "O Poder de polícia da Administração Pública tem função meramente repressiva.",
+      "B": "O Poder regulamentar é o poder que se refere ao controle estatal dos interesses e das atividades dos particulares, limitando ou disciplinando direitos, interesses ou liberdades individuais, em razão do interesse público.",
+      "C": "Decorre do poder disciplinar o ato da autoridade superior de avocar para a sua esfera de decisão um ato da competência de agente a ele subordinado.",
+      "D": "O Poder de polícia da Administração Pública visa solucionar a tensão entre liberdade individual e defesa do interesse público."
+    },
+    "correta": "D"
+  },
+  {
+    "numero": 52,
+    "enunciado": "Considerando o disposto na Lei Federal nº 9.784/1999, assinale a alternativa correta a respeito do impedimento e da suspeição no âmbito do processo administrativo.",
+    "alternativas": {
+      "A": "É motivo de suspeição a atuação em processo administrativo de servidor ou autoridade que tenha interesse direto ou indireto na matéria.",
+      "B": "É vedada a atuação em processo administrativo de servidor que esteja litigando administrativamente com o cônjuge de interessado no processo.",
+      "C": "O servidor que incorrer em suspeição deve comunicar o fato à autoridade competente, abstendo-se de atuar até a decisão sobre o fato.",
+      "D": "Pode ser arguido o impedimento de servidor que tenha amizade íntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 53,
+    "enunciado": "Integrando a parte especial do Código Penal, o Artigo 121º dispõe que o Crime de Homicídio será considerado qualificado quando, dentre outros, for praticado",
+    "alternativas": {
+      "A": "com emprego de arma de fogo de uso restrito ou proibido.",
+      "B": "com emprego de veneno, fogo, explosivo, asfixia ou tortura.",
+      "C": "contra pessoa menor de quatorze ou maior de sessenta anos.",
+      "D": "por milícia privada, sob o pretexto de prestação de serviço de segurança, ou por grupo de extermínio."
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 54,
+    "enunciado": "Com sede em San José, Costa Rica, a Corte Interamericana de Direitos Humanos é um órgão judicial autônomo. Em relação a essa Corte, assinale a afirmação verdadeira.",
+    "alternativas": {
+      "A": "É composta de sete juízes de nacionalidade dos Estados membros da Organização dos Estados Americanos (OEA).",
+      "B": "Pode haver mais de um juiz da mesma nacionalidade.",
+      "C": "Os juízes da Corte serão eleitos para um mandato de seis anos e não poderão ser reeleitos.",
+      "D": "A eleição dos juízes far-se-á, se possível, no decorrer do período de sessões da Assembleia Geral da Organização das Nações Unidas (ONU)."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 55,
+    "enunciado": "De acordo com o Art. 3º da Lei nº 10.826, de 22 de dezembro de 2003, é CORRETO afirmar:",
+    "alternativas": {
+      "A": "Somente armas de fogo de uso permitido devem ser registradas junto ao Comando do Exército.",
+      "B": "O registro de arma de fogo é obrigatório, sendo que as armas de uso restrito devem ser registradas no Comando do Exército.",
+      "C": "O registro de arma de fogo é exigido apenas para armas de uso restrito e para profissionais da área de segurança.",
+      "D": "O registro de arma de fogo é opcional e depende da finalidade do uso, como defesa pessoal ou coleção."
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 56,
+    "enunciado": "Configura crime de abuso de autoridade:",
+    "alternativas": {
+      "A": "constranger o preso, ainda que sem violência, grave ameaça ou redução de sua capacidade de resistência, a submeter-se a situação vexatória.",
+      "B": "deixar de entregar ao preso, em prazo razoável, a nota de culpa, assinada pela autoridade competente.",
+      "C": "impedir o preso de sentar-se ao lado de seu defensor e com ele comunicar-se no curso do seu interrogatório.",
+      "D": "Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 57,
+    "enunciado": "Os crimes de tortura foram definidos pela Lei nº 9.455/1997. Tendo como base as disposições da referida Lei Federal, analise as alternativas e assinale a opção CORRETA:",
+    "alternativas": {
+      "A": "A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+      "B": "Fica sujeito a pena de detenção de dois a oito anos, aquele que constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental em razão de discriminação racial ou religiosa.",
+      "C": "Aquele que se omite em face dessas condutas, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de reclusão de um a seis anos.",
+      "D": "O condenado por crime previsto na Lei nº 9.455/1997 iniciará o cumprimento da pena em regime fechado, sem exceções."
+    },
+    "correta": "A"
+  },
+  {
+    "numero": 58,
+    "enunciado": "Tendo como base a Lei Complementar nº 46, de 31 de janeiro de 1994, do Estado do Espírito Santo, assinale a alternativa INCORRETA no que se refere aos direitos e vantagens do servidor do Estado do Espírito Santo.",
+    "alternativas": {
+      "A": "Os vencimentos dos servidores públicos dos Poderes Executivo, Legislativo e Judiciário são idênticos para cargo de atribuições iguais ou assemelhadas, observando-se, como parâmetro, aqueles atribuídos aos servidores do Poder Executivo.",
+      "B": "O menor vencimento atribuído aos cargos de carreira não poderá ser inferior a um trinta avos do maior vencimento.",
+      "C": "O serviço extraordinário será remunerado com acréscimo de cinquenta por cento em relação à hora normal de trabalho.",
+      "D": "Constituem indenizações ao servidor público a ajuda de custo, as diárias e o auxílio-transporte."
+    },
+    "correta": "B"
+  },
+  {
+    "numero": 59,
+    "enunciado": "Segundo a LEI COMPLEMENTAR Nº 1.059, DE 7 de DEZEMBRO DE 2023: Com base nos Artigos 15 e 16, que tratam da carga horária, dedicação integral e regimes de trabalho do Policial Penal, analise as afirmativas a seguir:\n\nI. A dedicação integral prevista para o Policial Penal impede a acumulação com cargo público de professor, já que o regime de plantão 24x72 caracteriza dedicação exclusiva.\n\nII. A acumulação com cargo de professor é permitida, desde que, em caso de conflito de horários, a atividade policial prevaleça sobre a atividade de magistério.\n\nIII. O regime de plantão poderá ser adotado em funções que exijam turnos ininterruptos e impossibilidade de paralisação, como as atividades de guarda e vigilância de presos.\n\nIV. O regime diário exige o cumprimento de 168 horas mensais, ao passo que o regime de plantão exige 8 horas diárias, observadas as escalas definidas pela Administração.\n\nAssinale a alternativa correta:",
+    "alternativas": {
+      "A": "Apenas as afirmativas II e III estão corretas.",
+      "B": "Apenas as afirmativas I e IV estão corretas.",
+      "C": "Apenas as afirmativas III e IV estão corretas.",
+      "D": "I, II, III e IV estão corretas."
+    },
+    "correta": "C"
+  },
+  {
+    "numero": 60,
+    "enunciado": "Segundo a LEI COMPLEMENTAR Nº 1.061, DE 18 de DEZEMBRO DE 2023: \"atender ocorrências envolvendo policiais penais, atuando, inclusive, em sua condução em caso de prisão, junto à Corregedoria da PPES ou à Polícia Judiciária;\" compete a:",
+    "alternativas": {
+      "A": "Coordenação de Guarda e Movimentação — CGM.",
+      "B": "Coordenação de Operações — COP.",
+      "C": "Divisão de Escolta e Recaptura Policial — DERP.",
+      "D": "Divisão de Operações Táticas — DOT."
+    },
+    "correta": "C"
+  }
+]
+
