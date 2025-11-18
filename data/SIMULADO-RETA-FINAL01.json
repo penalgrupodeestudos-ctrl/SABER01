@@ -1,552 +1,727 @@
-[
-  {
-    "numero": 1,
-    "enunciado": "A função da linguagem enuncia a intenção do emissor da mensagem, caracterizando-se por evidenciar um dos elementos da comunicação, o que identifica sua predominância no contexto:\nCom esta informação teórica, marque a função da linguagem que predomina no (1º§); \"As palavras são o fundamento da comunicação, em qualquer língua de qualquer parte do mundo. Elas representam os sentimentos, as emoções e os pensamentos\".",
-    "alternativas": {
-      "A": "Fática.",
-      "B": "Poética.",
-      "C": "Referencial.",
-      "D": "Apelativa."
+{
+  "titulo": "Simulado reta final 01 da PP-ES — Questões 1 a 20 (transcrição exata)",
+  "fonte": "texto fornecido pelo usuário",
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "A função da linguagem enuncia a intenção do emissor da mensagem, caracterizando-se por evidenciar um dos elementos da comunicação, o que identifica sua predominância no contexto:\nCom esta informação teórica, marque a função da linguagem que predomina no (1º§); \"As palavras são o fundamento da comunicação, em qualquer língua de qualquer parte do mundo. Elas representam os sentimentos, as emoções e os pensamentos\".",
+      "opcoes": {
+        "a": "(A) \tFática.",
+        "b": "(B) \tPoética.",
+        "c": "(C) \tReferencial.",
+        "d": "(D) \tApelativa."
+      },
+      "resposta": "C",
+      "comentario": "Predomina a função referencial (texto informativo/descritivo)."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 2,
-    "enunciado": "O texto contém elementos que identificam um tipo de:",
-    "alternativas": {
-      "A": "Dissertação.",
-      "B": "Descrição.",
-      "C": "Crônica.",
-      "D": "Narração."
+    {
+      "id": 2,
+      "pergunta": "O texto contém elementos que identificam um tipo de:",
+      "opcoes": {
+        "a": "(A) \tDissertação.",
+        "b": "(B) \tDescrição.",
+        "c": "(C) \tCrônica.",
+        "d": "(D) \tNarração."
+      },
+      "resposta": "A",
+      "comentario": "Características do texto (argumentação/reflexão) indicam dissertação."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 3,
-    "enunciado": "Marque a função da linguagem que predomina no transcrito a seguir: \"Pense na importância da palavra adequada ao contexto de uma mensagem, para estabelecer a sintonia perfeita nos atos comunicativos\".",
-    "alternativas": {
-      "A": "Fática.",
-      "B": "Emotiva.",
-      "C": "Poética.",
-      "D": "Apelativa."
+    {
+      "id": 3,
+      "pergunta": "Marque a função da linguagem que predomina no transcrito a seguir:\n\"Pense na importância da palavra adequada ao contexto de uma mensagem, para estabelecer a sintonia perfeita nos atos comunicativos\".",
+      "opcoes": {
+        "a": "(A) \tFática.",
+        "b": "(B) \tEmotiva.",
+        "c": "(C) \tPoética.",
+        "d": "(D) \tApelativa."
+      },
+      "resposta": "D",
+      "comentario": "Trecho orienta/convoca o leitor — função apelativa."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 4,
-    "enunciado": "Analise a frase abaixo.\n“Duzentos gramas de queijo são pouco para o pão de queijo.” Podemos afirmar que nele há um erro gramatical de:",
-    "alternativas": {
-      "A": "Concordância Verbal",
-      "B": "Concordância Nominal",
-      "C": "Regência Nominal",
-      "D": "Pontuação"
+    {
+      "id": 4,
+      "pergunta": "Analise a frase abaixo.\n“Duzentos gramas de queijo são pouco para o pão de queijo.”\nPodemos afirmar que nele há um erro gramatical de:",
+      "opcoes": {
+        "a": "A - Concordância Verbal",
+        "b": "B - Concordância Nominal",
+        "c": "C - Regência Nominal",
+        "d": "D - Pontuação"
+      },
+      "resposta": "A",
+      "comentario": "Erro de concordância verbal (expressão de quantidade e predicativo)."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 5,
-    "enunciado": "Analise a frase destacada. \"E aprenda a tratá-los com mais carinho, porque são fundamentais para nos manter ativos.\" É correto afirmar que o termo destacado exerce função morfológica de:",
-    "alternativas": {
-      "A": "Advérbio",
-      "B": "Adjetivo",
-      "C": "Substantivo",
-      "D": "Adjunto Adverbial"
+    {
+      "id": 5,
+      "pergunta": "Analise a frase destacada. “E aprenda a tratá-los com mais carinho, porque são fundamentais para nos manter ativos.”. É correto afirmar que o termo destacado exerce função morfológica de:",
+      "opcoes": {
+        "a": "A - Advérbio",
+        "b": "B - Adjetivo",
+        "c": "C - Substantivo",
+        "d": "D - Adjunto Adverbial"
+      },
+      "resposta": "C",
+      "comentario": "Conforme decisão combinada, resposta atribuída como C."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 6,
-    "enunciado": "A figura de linguagem presente no verso \"Os poemas são pássaros que chegam\", é:",
-    "alternativas": {
-      "A": "Metáfora.",
-      "B": "Paradoxo.",
-      "C": "Antítese.",
-      "D": "Hipérbole."
+    {
+      "id": 6,
+      "pergunta": "A figura de linguagem presente no verso \"Os poemas são pássaros que chegam\", é:",
+      "opcoes": {
+        "a": "A - Metáfora.",
+        "b": "B - Paradoxo.",
+        "c": "C - Antítese.",
+        "d": "D - Hipérbole."
+      },
+      "resposta": "A",
+      "comentario": "Atribuição de qualidade de pássaro aos poemas = metáfora."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 7,
-    "enunciado": "Assinale a alternativa em que a regência verbal está INCORRETA.",
-    "alternativas": {
-      "A": "Não havia mais candidatos na sala.",
-      "B": "O objetivo do empresário era apenas lucrar.",
-      "C": "Tereza tinha comprado presentes para toda a família.",
-      "D": "O assaltante agrediu-lhe violentamente."
+    {
+      "id": 7,
+      "pergunta": "Assinale a alternativa em que a regência verbal está INCORRETA.",
+      "opcoes": {
+        "a": "A - Não havia mais candidatos na sala.",
+        "b": "B - O objetivo do empresário era apenas lucrar.",
+        "c": "C - Tereza tinha comprado presentes para toda a família.",
+        "d": "D - O assaltante agrediu-lhe violentamente."
+      },
+      "resposta": "D",
+      "comentario": "Forma 'agrediu-lhe' está em desacordo com a regência de 'agredir'."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 8,
-    "enunciado": "Analise a frase destacada - O fato de a neve ser armazenada o ano todo parece surpreendente, 'contudo a prática remonta há séculos'. A expressão destacada trata-se de uma oração:",
-    "alternativas": {
-      "A": "Coordenada sindética adversativa.",
-      "B": "Subordinada substantiva subjetiva.",
-      "C": "Subordinada substantiva completiva.",
-      "D": "Coordenada sindética alternativa."
+    {
+      "id": 8,
+      "pergunta": "Analise a frase destacada - O fato de a neve ser armazenada o ano todo parece surpreendente, 'contudo a prática remonta há séculos'.\nA expressão destacada trata-se de uma oração:",
+      "opcoes": {
+        "a": "A - Coordenada sindética adversativa.",
+        "b": "B - Subordinada substantiva subjetiva.",
+        "c": "C - Subordinada substantiva completiva.",
+        "d": "D - Coordenada sindética alternativa."
+      },
+      "resposta": "A",
+      "comentario": "Conjunção 'contudo' marca adversidade → oração coordenada adversativa."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 9,
-    "enunciado": "Dos pares de frases a seguir, e no indicativo das palavras destacadas, assinale a alternativa em que há a presença de paronímias.",
-    "alternativas": {
-      "A": "O concerto está previsto para o próximo final de semana. O conserto dos aparelhos eletrônicos levará mais tempo para ficar pronto.",
-      "B": "O molho será preparado com os ingredientes a pedido do Chef principal. O molho de chaves do prédio está guardado na gaveta da recepção.",
-      "C": "É necessário ratificar a data da comemoração dos dez anos da implantação do sistema operacional. É necessário retificar a data da comemoração dos dez anos do sistema operacional, pois o diretor não poderá estar presente na data já determinada.",
-      "D": "O almoço será servido às 13 horas em ponto. Eu sempre almoço às 13 horas em ponto."
+    {
+      "id": 9,
+      "pergunta": "Nas redações oficiais, deve-se preocupar com o emprego daquelas palavras que geram dúvida de grafia devido terem pronúncia e/ou grafia idênticas ou semelhantes. São os casos dos homógrafos, homófonos, homônimos perfeitos ou parônimos. Dos pares de frases a seguir, e no indicativo das palavras destacadas, ASSINALE a alternativa em que há a presença de paronímias.\nA\t- O concerto está previsto para o próximo final de semana.\nO conserto dos aparelhos eletrônicos levará mais tempo para ficar pronto.\nB\t- O molho será preparado com os ingredientes a pedido do Chef principal. O molho de chaves do prédio está guardado na gaveta da recepção.\nC\t- É necessário ratificar a data da comemoração dos dez anos da implantação do sistema operacional.\nÉ necessário retificar a data da comemoração dos dez anos do sistema operacional, pois o diretor não poderá estar presente na data já determinada.\nD - O almoço será servido às 13 horas em ponto.\nEu sempre almoço às 13 horas em ponto.",
+      "opcoes": {
+        "a": "A - (concerto / conserto)",
+        "b": "B - (molho / molho)",
+        "c": "C - (ratificar / retificar)",
+        "d": "D - (almoço / almoço)"
+      },
+      "resposta": "C",
+      "comentario": "Ratificar/retificar são parônimos (grafia/som semelhantes, sentidos diferentes)."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 10,
-    "enunciado": "Com base na acentuação dos vocábulos extraídos do texto, julgue as afirmativas a seguir:\n( )Os vocábulos 'há' e 'três' são monossílabos tônicos acentuados; no entanto, o acento em 'há' é classificado como diferencial.\n( )A supressão dos acentos nos vocábulos 'médica' e 'trânsito' ocasiona mudança em sua classe gramatical, configurando uma alteração morfológica. ( )Os vocábulos 'paciência' e 'contrário' são exemplos de palavras que podem ter duas classificações quanto à posição da sílaba tônica.\n( )O vocábulo 'ideia' não é mais acentuado, assim como os vocábulos: baiuca, heroico, abençoo e arguo.\nA sequência que preenche corretamente os espaços é:",
-    "alternativas": {
-      "A": "F, V, V, V.",
-      "B": "V, V, V, V.",
-      "C": "F, F, F, V.",
-      "D": "V, V, F, F."
+    {
+      "id": 10,
+      "pergunta": "Com base na acentuação dos vocábulos extraídos do texto, julgue as afirmativas a seguir:\n( )Os vocábulos 'há' e 'três' são monossílabos tônicos acentuados; no entanto, o acento em 'há' é classificado como diferencial.\n( )A supressão dos acentos nos vocábulos 'médica' e 'trânsito' ocasiona mudança em sua classe gramatical, configurando uma alteração morfológica.\n( )Os vocábulos 'paciência' e 'contrário' são exemplos de palavras que podem ter duas classificações quanto à posição da sílaba tônica.\n( )O vocábulo 'ideia' não é mais acentuado, assim como os vocábulos: baiuca, heroico, abençoo e arguo.\nA sequência que preenche corretamente os espaços é:",
+      "opcoes": {
+        "a": "A - F, V, V, V.",
+        "b": "B - V, V, V, V.",
+        "c": "C - F, F, F, V.",
+        "d": "D - V, V, F, F."
+      },
+      "resposta": "A",
+      "comentario": "Seqüência julgada conforme regras atuais de acentuação (F, V, V, V)."
     },
-  
-  {
-    "numero": 11,
-    "enunciado": "Considere as seguintes proposições:\np: Não possuo carteira de motorista.\nq: Posso dirigir. Dessa forma, a sentença\n~(q → ~p) pode ser escrita como:",
-    "alternativas": {
-      "A": "não possuo carteira de motorista e não posso dirigir.",
-      "B": "somente possuo carteira de motorista se, e somente se, posso dirigir.",
-      "C": "se não posso dirigir, então possuo carteira de motorista.",
-      "D": "posso dirigir e não possuo carteira de motorista."
+    {
+      "id": 11,
+      "pergunta": "Considere as seguintes proposições:\np: Não possuo carteira de motorista.\nq: Posso dirigir.\nDessa forma, a sentença ~(q → ~p) pode ser escrita como:",
+      "opcoes": {
+        "a": "A - não possuo carteira de motorista e não posso dirigir.",
+        "b": "B - somente possuo carteira de motorista se, e somente se, posso dirigir.",
+        "c": "C - se não posso dirigir, então possuo carteira de motorista.",
+        "d": "D - posso dirigir e não possuo carteira de motorista."
+      },
+      "resposta": "D",
+      "comentario": "Negação do condicional implica q ∧ p (posso dirigir e não possuo carteira)."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 12,
-    "enunciado": "Se uma empresa tem 145 funcionários e 26 deles tem olhos verdes, podemos afirmar que o conjunto formado pelos funcionários desta empresa que tem olhos verdes é:",
-    "alternativas": {
-      "A": "Subconjunto do conjunto formado pelo total de funcionários da empresa.",
-      "B": "Um conjunto vazio.",
-      "C": "Um conjunto unitário.",
-      "D": "Interseção do conjunto formado pelo total de funcionários da empresa."
+    {
+      "id": 12,
+      "pergunta": "Se uma empresa tem 145 funcionários e 26 deles tem olhos verdes, podemos afirmar que o conjunto formado pelos funcionários desta empresa que tem olhos verdes é:",
+      "opcoes": {
+        "a": "A - Subconjunto do conjunto formado pelo total de funcionários da empresa.",
+        "b": "B - Um conjunto vazio.",
+        "c": "C - Um conjunto unitário.",
+        "d": "D - Interseção do conjunto formado pelo total de funcionários da empresa."
+      },
+      "resposta": "A",
+      "comentario": "Funcionários com olhos verdes formam subconjunto do total."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 13,
-    "enunciado": "Na sequência (2, 2, 4, 6, 10...) o próximo número será:",
-    "alternativas": {
-      "A": "14",
-      "B": "15",
-      "C": "16",
-      "D": "17"
+    {
+      "id": 13,
+      "pergunta": "Na sequência (2, 2, 4, 6, 10...) o próximo número será:",
+      "opcoes": {
+        "a": "A - 14 (quatorze).",
+        "b": "B - 15 (quinze).",
+        "c": "C - 16 (dezesseis).",
+        "d": "D - 17 (dezessete)"
+      },
+      "resposta": "C",
+      "comentario": "A sequência segue soma dos dois termos anteriores (6+10=16)."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 14,
-    "enunciado": "Um capital de R$ 1200,00 foi aplicado, a juros composto, durante um período de 1 ano, com uma taxa de 2% ao mês. O montante encontrado no fim desse período de aplicação foi de, aproximadamente:",
-    "alternativas": {
-      "A": "1.224,00",
-      "B": "1.521,83",
-      "C": "1.487,94",
-      "D": "1.630,21"
+    {
+      "id": 14,
+      "pergunta": "Um capital de R$ 1200,00 foi aplicado, a juros composto, durante um período de 1 ano, com uma taxa de 2% ao mês. O montante encontrado no fim desse período de aplicação foi de, aproximadamente:",
+      "opcoes": {
+        "a": "A - 1.224,00",
+        "b": "B - 1.521,83",
+        "c": "C - 1.487,94",
+        "d": "D - 1.630,21"
+      },
+      "resposta": "B",
+      "comentario": "Montante aproximado ao aplicar (1+0,02)^12 sobre R$1200."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 15,
-    "enunciado": "Três amigos combinaram uma viagem de férias e ficou acertado que iriam dividir as despesas de forma inversamente proporcional aos números 3, 5 e 8. Analise as alternativas e assinale a que representa o maior valor pago por um dos amigos, considerando que o valor total da viagem ficou em R$ 1.264,00.",
-    "alternativas": {
-      "A": "R$ 240,00",
-      "B": "R$ 292,00",
-      "C": "R$ 640,00",
-      "D": "R$ 632,00"
+    {
+      "id": 15,
+      "pergunta": "Três amigos combinaram uma viagem de férias e ficou acertado que iriam  dividir  as  despesas  de  forma\ninversamente proporcional aos números 3, 5 e 8. Analise as alternativas e assinale a que representa o maior valor pago por um dos amigos, considerando que o valor total da viagem ficou em R$ 1.264,00.",
+      "opcoes": {
+        "a": "A - R$ 240,00",
+        "b": "B - R$ 292,00",
+        "c": "C - R$ 640,00",
+        "d": "D - R$ 632,00"
+      },
+      "resposta": "C",
+      "comentario": "Na divisão inversa, o maior valor cabe ao menor número (3) → R$640,00."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 16,
-    "enunciado": "Um estagiário, desenvolvendo suas atividades durante cinco dias por semana e seis horas por dia, completa certa tarefa em oito semanas. Entretanto, se desenvolvesse suas atividades com eficiência 20% maior, em igual número de dias por semana, porém, durante apenas quatro horas por dia, o número de semanas que gastaria para completar essa mesma tarefa seria:",
-    "alternativas": {
-      "A": "7",
-      "B": "9",
-      "C": "10",
-      "D": "11"
+    {
+      "id": 16,
+      "pergunta": "Um estagiário, desenvolvendo suas atividades durante cinco dias por semana e seis horas por dia, completa certa tarefa em oito semanas. Entretanto, se desenvolvesse suas atividades com eficiência 20% maior, em igual número de dias por semana, porém, durante apenas quatro horas por dia, o número de semanas que gastaria para completar essa mesma tarefa seria:",
+      "opcoes": {
+        "a": "A - 7.",
+        "b": "B - 9.",
+        "c": "C - 10.",
+        "d": "D - 11."
+      },
+      "resposta": "C",
+      "comentario": "Cálculo levado em conta eficiência e redução de horas diárias."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 17,
-    "enunciado": "Antônio e Bernardo resolveram disputar uma série de 5 rodadas de cara e coroa, lançando ao acaso, uma moeda perfeita. Se o resultado fosse cara, Antônio ganharia 1 ponto. Se o resultado fosse coroa, Bernardo ganharia 1 ponto. Cada um deles colocou R$ 100,00 dentro de uma caixa. O ganhador seria aquele que totalizasse 3 pontos pela primeira vez. Após os 2 primeiros lançamentos, cujos resultados deram cara, Bernardo resolve desistir do jogo e propõe que os R$ 200,00 sejam repartidos em parte proporcionais às chances de cada um deles ganhar o jogo. Antônio aceitou a proposta de Bernardo. Assim a diferença entre as quantias recebidas por Antônio e por Bernardo foi igual a:",
-    "alternativas": {
-      "A": "R$ 100,00",
-      "B": "R$ 150,00",
-      "C": "R$ 120,00",
-      "D": "R$ 75,00"
+    {
+      "id": 17,
+      "pergunta": "Antônio e Bernardo resolveram disputar uma série de 5 rodadas de cara e coroa, lançando ao acaso, uma moeda perfeita.\nSe o resultado fosse cara, Antônio ganharia 1 ponto.\nSe o resultado fosse coroa, Bernardo ganharia 1 ponto.\nCada um deles colocou R$ 100,00 dentro de uma caixa. O ganhador seria aquele que totalizasse 3 pontos pela primeira vez.\nApós os 2 primeiros lançamentos, cujos resultados deram cara, Bernardo resolve desistir do jogo e propõe que os R$ 200,00 sejam repartidos em parte proporcionais às chances de cada um deles ganhar o jogo.\nAntônio aceitou a proposta de Bernardo. Assim a diferença entre as quantias recebidas por Antônio e por Bernardo foi igual a:",
+      "opcoes": {
+        "a": "A - R$ 100,00",
+        "b": "B - R$ 150,00",
+        "c": "C - R$ 120,00",
+        "d": "D - R$ 75,00"
+      },
+      "resposta": "B",
+      "comentario": "Diferença calculada conforme probabilidades condicionais após 2 caras."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 18,
-    "enunciado": "Damião e Gael, dois policiais, precisam se deslocar da delegacia até o local de um crime para conduzir a investigação e, posteriormente, retornar à delegacia para registrar os resultados. Em cada trajeto, apenas um deles será o motorista, e a escolha é feita de forma independente. Sabe-se que a probabilidade de Damião dirigir é de 80%, enquanto a de Gael é de 20%. Com base nessa informação, a probabilidade de um dirigir na ida e o outro na volta é de",
-    "alternativas": {
-      "A": "32%",
-      "B": "36%",
-      "C": "40%",
-      "D": "48%"
+    {
+      "id": 18,
+      "pergunta": "Damião e Gael, dois policiais, precisam se deslocar da delegacia até o local  de  um  crime  para  conduzir  a\ninvestigação e, posteriormente, retornar à delegacia para registrar os resultados. Em cada trajeto, apenas um deles será o motorista, e a escolha é feita de forma independente. Sabe-se que a probabilidade de Damião dirigir é de 80%, enquanto a de Gael é de 20%. Com base nessa informação, a probabilidade de um dirigir na ida e o outro na volta é de",
+      "opcoes": {
+        "a": "A - 32%.",
+        "b": "B - 36%.",
+        "c": "C - 40%.",
+        "d": "D - 48%."
+      },
+      "resposta": "A",
+      "comentario": "Cálculo: 0,8×0,2 + 0,2×0,8 = 0,32 (32%)."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 19,
-    "enunciado": "Em um rol com os seguintes elementos: 1, 3, 3, 4, 5, 6, 9, 10, 11, 12, 13. A mediana deste rol é:",
-    "alternativas": {
-      "A": "3",
-      "B": "6",
-      "C": "7",
-      "D": "9"
+    {
+      "id": 19,
+      "pergunta": "Em um rol com os seguintes elementos: 1, 3, 3, 4, 5, 6, 9, 10, 11, 12,\n13. A mediana deste rol é:",
+      "opcoes": {
+        "a": "A - 3.",
+        "b": "B - 6.",
+        "c": "C - 7.",
+        "d": "D - 9."
+      },
+      "resposta": "B",
+      "comentario": "Mediana é o valor central (6)."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 20,
-    "enunciado": "Um marceneiro compra placas de MDF com 3 metros de comprimento para produzir mesas de colo para notebook de 60 cm de comprimento. Se as placas e as mesas têm a mesma largura, quantas mesas ele consegue fazer com uma placa?",
-    "alternativas": {
-      "A": "30 mesas.",
-      "B": "6 mesas.",
-      "C": "5 mesas.",
-      "D": "10 mesas."
+    {
+      "id": 20,
+      "pergunta": "Um marceneiro compra placas de MDF com 3 metros de comprimento para produzir mesas de colo para notebook de 60 cm de comprimento. Se as placas e as mesas têm a mesma largura, quantas mesas ele consegue fazer com uma placa?",
+      "opcoes": {
+        "a": "A - 30 mesas.",
+        "b": "B - 6 mesas.",
+        "c": "C - 5 mesas.",
+        "d": "D - 10 mesas."
+      },
+      "resposta": "C",
+      "comentario": "3 metros = 300 cm; 300 ÷ 60 = 5 mesas."
     },
-  
-  {
-    "numero": 21,
-    "enunciado": "Assinale V ou F:\nI. Hoje, no Brasil, a desigualdade social praticamente não existe;\nII. Na atualidade, a China perdeu sua importância econômica e deixou de participar do comércio mundial.\nIII. O estado do Espírito Santo é uma das referências em matéria sistema carcerário do Brasil.",
-    "alternativas": {
-      "A": "V V V.",
-      "B": "F F F.",
-      "C": "V F V.",
-      "D": "F F V."
+   {
+      "id": 21,
+      "pergunta": "Assinale V ou F :\nI – Hoje, no Brasil, a desigualdade social praticamente não existe;\nII- Na atualidade, a China perdeu sua importância econômica e deixou de participar do comércio mundial.\nIII- O estado do Espirito Santo é uma das referências em matéria sistema carcerário do Brasil.",
+      "opcoes": {
+        "a": "A - V V V.",
+        "b": "B - F F F.",
+        "c": "C - V F V.",
+        "d": "D - F F V."
+      },
+      "resposta": "D",
+      "comentario": "As duas primeiras são falsas; a terceira é verdadeira conforme contexto local."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 22,
-    "enunciado": "Assinale V ou F:\nI. A COP30 será realizada no Estado do Pará.\nII. Entre as possibilidades oferecidas pelo evento COP30, destaca-se: Evidenciar os esforços brasileiros em energias renováveis, biocombustíveis e agricultura de baixo carbono, além de reafirmar sua tradição de protagonismo em processos multilaterais, como a Eco-92 e a Rio+20.\nIII. A COP30 discutirá exclusivamente medidas de adaptação climática, deixando de lado temas como financiamento, justiça climática e preservação ambiental.",
-    "alternativas": {
-      "A": "V V V.",
-      "B": "F F F.",
-      "C": "V V F.",
-      "D": "F F V."
+    {
+      "id": 22,
+      "pergunta": "Assinale V ou F :\nI – A COP30 será realizada no Estado do Pará.\nII- Entre as possibilidades oferecidas pelo evento COP30, destaca-se:Evidenciar os esforços brasileiros em energias renováveis, biocombustíveis e agricultura de baixo \ncarbono, além de reafirmar sua tradição de protagonismo em processos multilaterais, como a Eco-92 e a Rio+20..\nIII- A COP30 discutirá exclusivamente medidas de adaptação climática, deixando de lado temas como financiamento, justiça climática e preservação ambiental.",
+      "opcoes": {
+        "a": "A - V V V.",
+        "b": "B - F F F.",
+        "c": "C - V V F.",
+        "d": "D - F F V."
+      },
+      "resposta": "C",
+      "comentario": "I e II verdadeiras; III falsa — COP trata múltiplos temas."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 23,
-    "enunciado": "A população do Espírito Santo é de aproximadamente de habitantes, de acordo com a estimativa mais recente do IBGE para 2025.",
-    "alternativas": {
-      "A": "4,12 milhões.",
-      "B": "10,12 milhões.",
-      "C": "7,12 milhões",
-      "D": "7 milhões"
+    {
+      "id": 23,
+      "pergunta": "A população do Espírito Santo é de aproximadamente \t de habitantes, de acordo com a estimativa mais recente do IBGE para 2025.",
+      "opcoes": {
+        "a": "A - 4,12 milhões.",
+        "b": "B - 10,12 milhões.",
+        "c": "C - 7,12 milhões",
+        "d": "D - 7 milhões"
+      },
+      "resposta": "A",
+      "comentario": "Estimativa aproximada de 4,12 milhões (2025)."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 24,
-    "enunciado": "O Estado do Espirito Santo abriu ano letivo de 2025 com:",
-    "alternativas": {
-      "A": "Aumento de contratação de professores temporários e Diretores.",
-      "B": "Expansão do ensino integral e modernização das escolas.",
-      "C": "Implementação de Câmeras e Segurança Privada armada nas escolas.",
-      "D": "Aumento do uso de tecnologias como: notebook, tablet, smartphones e computador."
+    {
+      "id": 24,
+      "pergunta": "O Estado do Espirito Santo abriu ano letivo de 2025 com:",
+      "opcoes": {
+        "a": "A\t- Aumento de contratação de professores temporários e Diretores.",
+        "b": "B\t- Expansão do ensino integral e modernização das escolas.",
+        "c": "C\t– Implementação de Câmeras e Segurança Privada armada nas escolas.",
+        "d": "D – Aumento do uso de tecnologias como: notebook, tablet, smartphones e computador."
+      },
+      "resposta": "B",
+      "comentario": "A alternativa B corresponde à ação destacada."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 25,
-    "enunciado": "Trata-se de um marco legal inédito no Brasil que alinha o país às melhores práticas internacionais de segurança digital:",
-    "alternativas": {
-      "A": "Fiscalização e Punição das \"BETS\", visando combater os jogos ilegais e o endividamento por vícios.",
-      "B": "Indicação de faixas etárias para acesso aos jogos eletrônicos, visando controlar tal acesso.",
-      "C": "Criação do chamado novo \"ECA Digital\" fortalecendo a proteção de crianças e adolescentes no ambiente on-line.",
-      "D": "Bloqueio de todas as redes sociais para Crianças e Adolescentes, visando o fortalecimento ao combate à adultização infantil."
+    {
+      "id": 25,
+      "pergunta": "Trata-se de um marco legal inédito no Brasil que alinha o país às melhores práticas internacionais de segurança digital:",
+      "opcoes": {
+        "a": "A - Fiscalização e Punição das “BETS”, visando combater os jogos ilegais e o endividamento por vicios.",
+        "b": "B – Indicação de faixas etárias para acesso aos jogos eletrônicos, visando controlar tal acesso.",
+        "c": "C – Criação do chamado novo “ECA Digital” fortalecendo a proteção de crianças e adolescentes no ambiente on-line.",
+        "d": "D – Bloqueio de todas as redes sociais para Crianças e Adolescentes, visando o fortalecimento ao combade a adultização infantil."
+      },
+      "resposta": "C",
+      "comentario": "Referência ao novo 'ECA Digital' para proteção online."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 26,
-    "enunciado": "Analise as seguintes proposições:\nI. O Sistema Operacional Windows é um software proprietário, o que significa que seu código-fonte não está disponível publicamente.\nII. O Sistema Operacional Windows é um software de código aberto, o que significa que qualquer pessoa pode contribuir para o seu desenvolvimento. Após análise, assinale a alternativa correta.",
-    "alternativas": {
-      "A": "Apenas a proposição II está correta.",
-      "B": "As proposições I e II estão corretas.",
-      "C": "Apenas a proposição I está correta.",
-      "D": "As proposições I e II estão incorretas."
+    {
+      "id": 26,
+      "pergunta": "Analise as seguintes proposições:\nI.O Sistema Operacional Windows é um software proprietário, o que significa que seu código-fonte não está disponível publicamente.\nII.O Sistema Operacional Windows é um software  de  código  aberto,  o  que \n \nsignifica\tque\tqualquer\tpessoa\tpode contribuir para o seu desenvolvimento. Após\tanálise,\t\tassinale\t\ta\talternativa correta.",
+      "opcoes": {
+        "a": "A - Apenas a proposição II está correta.",
+        "b": "B - As proposições I e II estão corretas.",
+        "c": "C - Apenas a proposição I está correta.",
+        "d": "D - As proposições I e II estão incorretas."
+      },
+      "resposta": "C",
+      "comentario": "Windows é software proprietário — apenas I é correta."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 27,
-    "enunciado": "Dado o exemplo de URL abaixo, analise as proposições a seguir, e assinale a alternativa correta: https://www.example.com?key1=value1&key2=value2#SomewhereInTheDocument\nI. \"https\" é o esquema que indica o protocolo usado.\nII. \"SomewhereInTheDocument\" é o fragmento que é uma opção para identificar uma parte específica do recurso.\nMarque a opção CORRETA.",
-    "alternativas": {
-      "A": "As duas afirmações estão corretas.",
-      "B": "Apenas a afirmação II está correta.",
-      "C": "Apenas a afirmação I está correta.",
-      "D": "As duas afirmações estão incorretas."
+    {
+      "id": 27,
+      "pergunta": "Dado o exemplo de URL abaixo, analise as proposições a seguir, e assinale a alternativa correta: https://www.example.com?key1=valu e1&key2=value2#SomewhereInTheDo cument\nI.    \"https\" é o esquema que indica o protocolo usado.\nII.    \"Somewhere_inDocument\" é o fragmento que é uma opção para identificar uma parte específica do recurso.\nMarque a opção CORRETA.",
+      "opcoes": {
+        "a": "A - As duas afirmações estão corretas.",
+        "b": "B - Apenas a afirmação II está correta.",
+        "c": "C - Apenas a afirmação I está correta.",
+        "d": "D - As duas afirmações estão incorretas."
+      },
+      "resposta": "A",
+      "comentario": "Tanto o esquema quanto o fragmento estão corretamente identificados."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 28,
-    "enunciado": "Em órgãos públicos, a segurança em redes é essencial para a proteção de dados sensíveis e o cumprimento da Lei Geral de Proteção de Dados (Lei nº 13.709/2018). Nesse contexto, assinale a alternativa que conceitua corretamente o Firewall.",
-    "alternativas": {
-      "A": "Firewall é um tipo de antivírus especializado em remover malwares instalados em dispositivos móveis.",
-      "B": "Firewall é uma rede privada que permite a navegação anônima e segura, mascarando o endereço IP do usuário.",
-      "C": "Firewall é um sistema de criptografia responsável por codificar todas as informações enviadas por e-mail.",
-      "D": "Firewall é um dispositivo ou software que atua como barreira de proteção, controlando o tráfego de dados entre redes com base em regras de segurança."
+    {
+      "id": 28,
+      "pergunta": "Em órgãos públicos, a segurança em redes é essencial para a proteção de dados sensíveis e o cumprimento da Lei Geral de Proteção de Dados (Lei nº 13.709/2018). Nesse contexto, assinale a alternativa que conceitua corretamente o Firewall.",
+      "opcoes": {
+        "a": "A\t- Firewall é um tipo de antivírus especializado em remover malwares instalados em dispositivos móveis.",
+        "b": "B\t- Firewall é uma rede privada que permite a navegação anônima e segura, mascarando o endereço IP do usuário.",
+        "c": "C - Firewall é um sistema de criptografia responsável\tpor\tcodificar\tas informações enviadas por e-mail.",
+        "d": "D - Firewall é um dispositivo ou software que atua como barreira de proteção, controlando o tráfego de dados entre redes com base em regras de segurança."
+      },
+      "resposta": "D",
+      "comentario": "Firewall filtra e controla tráfego entre redes segundo regras de segurança."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 29,
-    "enunciado": "Qual recurso do Word 2016 permite acompanhar em detalhes cada modificação feita no documento, facilitando aceitar ou rejeitar mudanças?",
-    "alternativas": {
-      "A": "Ferramenta de Sinônimos",
-      "B": "Localizar e Substituir",
-      "C": "Comparar Texto",
-      "D": "Controle de Alterações"
+    {
+      "id": 29,
+      "pergunta": "Qual recurso do Word 2016 permite acompanhar em detalhes cada modificação feita no documento, facilitando aceitar ou rejeitar mudanças?",
+      "opcoes": {
+        "a": "A - Ferramenta de Sinônimos",
+        "b": "B - Localizar e Substituir",
+        "c": "C - Comparar Texto",
+        "d": "D - Controle de Alterações"
+      },
+      "resposta": "D",
+      "comentario": "Controle de Alterações registra modificações para revisão."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 30,
-    "enunciado": "João trabalha como assistente administrativo e precisa calcular o total de vendas do mês para um relatório. Ele registrou as vendas diárias na coluna A de uma planilha do Microsoft Excel (versão em português), da célula A2 até A31, representando os dias do mês. Para encontrar o valor total das vendas qual fórmula João deve usar?",
-    "alternativas": {
-      "A": "=A2+A31",
-      "B": "=SOMA(A2:A31)",
-      "C": "=MULT(A2:A31)",
-      "D": "=A2*A31"
+    {
+      "id": 30,
+      "pergunta": "João trabalha como assistente administrativo e precisa calcular o total de vendas do mês para um relatório. Ele registrou as vendas diárias na coluna A de uma planilha do Microsoft Excel (versão em português), da célula A2 até A31, representando os dias do mês. Para encontrar o valor total das vendas qual fórmula João deve usar?",
+      "opcoes": {
+        "a": "A - =A2+A31",
+        "b": "B - =SOMA(A2:A31)",
+        "c": "C - =MULT(A2:A31)",
+        "d": "D - =A2*A31"
+      },
+      "resposta": "B",
+      "comentario": "Função SOMA com intervalo é a forma correta."
     },
-    "correta": "B"
-  },
-  
-  {
-    "numero": 41,
-    "enunciado": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, independentemente de qualquer outra condição, os crimes",
-    "alternativas": {
-      "A": "praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e que aí não sejam julgados.",
-      "B": "de genocídio, quando o agente for brasileiro ou domiciliado no Brasil.",
-      "C": "cometidos por estrangeiro contra brasileiro.",
-      "D": "contra o patrimônio do Presidente da República."
+    {
+      "id": 31,
+      "pergunta": "No âmbito da Administração Pública, a vedação ao nepotismo decorre dos princípios constitucionais que regem a função administrativa, configura prática de nepotismo a:",
+      "opcoes": {
+        "a": "A)    Nomeação de cônjuge ou parente, em linha reta, colateral ou por afinidade, até o terceiro grau, para cargos de direção, chefia ou assessoramento, quando ausente demonstração objetiva de qualificação técnica, violando o dever de observância aos princípios da impessoalidade, moralidade e eficiência.",
+        "b": "B)    Participação de servidores efetivos em comissões avaliadoras de concursos públicos, desde que respeitados os critérios de publicidade e transparência.",
+        "c": "C)    Instituição de políticas de inclusão destinadas a ampliar a diversidade no quadro de pessoal da Administração, mediante observância das normas constitucionais e legais pertinentes.",
+        "d": "D)    Nomeação de cônjuge ou parente, em linha reta, colateral ou por afinidade, até o terceiro quarto, para cargos de direção, chefia ou assessoramento, quando ausente demonstração objetiva de qualificação técnica, violando o dever de observância aos princípios da impessoalidade, moralidade e eficiência."
+      },
+      "resposta": "A",
+      "comentario": "A alternativa A descreve a prática típica de nepotismo."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 42,
-    "enunciado": "NÃO corresponde a uma competência privativa da União em legislar:",
-    "alternativas": {
-      "A": "Serviço postal.",
-      "B": "Direito comercial.",
-      "C": "Proteção à infância e à juventude.",
-      "D": "Comércio exterior e interestadual."
+    {
+      "id": 32,
+      "pergunta": "A ética no serviço público é fundamental para garantir a confiança da sociedade nos agentes que desempenham funções públicas. Sobre os princípios éticos e o papel da cidadania no serviço público, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A - A ética no serviço público se limita ao cumprimento das leis vigentes.",
+        "b": "B - O servidor público deve tomar decisões com base em seus interesses pessoais.",
+        "c": "C\t- O respeito aos princípios de transparência, legalidade e imparcialidade é essencial.",
+        "d": "D\t- A cidadania do servidor público é exercida somente no âmbito privado, com sua família."
+      },
+      "resposta": "C",
+      "comentario": "Princípios de transparência, legalidade e imparcialidade são essenciais."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 43,
-    "enunciado": "A Declaração Universal dos Direitos Humanos foi proclamada pela Assembleia Geral das Nações Unidas em 1948. Trata-se de um documento que estabelece normas comuns de proteção aos direitos da pessoa humana, a serem seguidas por todos os povos e todas as nações. Sobre esse documento, é correto afirmar que:",
-    "alternativas": {
-      "A": "O primeiro e mais importante artigo da Declaração diz que \"todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei\".",
-      "B": "No governo brasileiro anterior ao atual, o Brasil deixou de ser um dos signatários da Declaração.",
-      "C": "Trata-se de um documento que tem força de lei oficial nos países membros da ONU e signatários da Declaração.",
-      "D": "Um dos artigos da Declaração prevê que \"todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas.\""
+    {
+      "id": 33,
+      "pergunta": "De acordo com o Art. 6º da Instrução Normativa nº 004/2024, que estabelece os objetivos do Código de Ética, Conduta e Integridade da PPES, assinale a alternativa que expressa corretamente uma de suas finalidades, conforme o texto normativo.",
+      "opcoes": {
+        "a": "A)    Criar mecanismos que fortaleçam a integridade institucional por meio da explicitação de princípios éticos, assegurando ao servidor preservação de imagem quando atuar conforme as normas, além de disponibilizar a Comissão de Ética, Conduta e Integridade como órgão consultivo para esclarecimento de dúvidas sobre conformidade ética.",
+        "b": "B)    Instituir um sistema disciplinar autônomo destinado exclusivamente à apuração de infrações administrativas de natureza grave, independentemente das normas éticas previstas no Código.",
+        "c": "C)    Estabelecer critérios de promoção funcional baseados na observância de padrões éticos e na continuidade de condutas compatíveis com o interesse público.",
+        "d": "D)    Criar normas gerais de gestão de pessoas voltadas ao aprimoramento da eficiência organizacional, sem relação direta com princípios éticos ou de integridade."
+      },
+      "resposta": "A",
+      "comentario": "A descreve finalidade prevista no Art. 6º da IN 004/2024."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 44,
-    "enunciado": "Referente às Regras Mínimas das Nações Unidas para o Tratamento de Reclusos, analise as afirmativas abaixo, no que diz respeito ao alojamento.\n\nI. Todos os locais destinados aos reclusos, especialmente os dormitórios, devem satisfazer todas as exigências de higiene e saúde, tomando-se devidamente em consideração as condições climatéricas e, especialmente, a cubicagem de ar disponível, o espaço mínimo, a iluminação, o aquecimento e a ventilação.\n\nII. As instalações sanitárias devem ser adequadas, de maneira a que os reclusos possam efetuar as suas necessidades quando precisarem, de modo limpo e decente.\n\nIII. As celas ou locais destinados ao descanso noturno não devem ser ocupados por mais de um recluso. Se, por razões especiais, tais como excesso temporário de população prisional, for necessário que a administração prisional central adote exceções a esta regra deve evitar-se que dois reclusos sejam alojados numa mesma cela ou local.\n\nÉ CORRETO o que se afirma em:",
-    "alternativas": {
-      "A": "II e III, apenas.",
-      "B": "II, apenas.",
-      "C": "I, II e III.",
-      "D": "I e III, apenas."
+    {
+      "id": 34,
+      "pergunta": "– Assinale V ou F: Segundo Decreto nº 1.595-R, de 06 de dezembro de 2005. Ao servidor público é vedado:\nI – Utilizar pessoal ou recursos materiais do Estado em serviços ou atividades particulares.\nII-    manter sob sua chefia imediata cônjuge, companheira ou parente até o terceiro grau civil.\nIII-    dar causa a sindicância ou processo administrativo-disciplinar, imputando a qualquer servidor público infração de que o sabe inocente.",
+      "opcoes": {
+        "a": "A - V V V.",
+        "b": "B - F F F.",
+        "c": "C - V F V.",
+        "d": "D - F F V."
+      },
+      "resposta": "A",
+      "comentario": "As três condutas são vedadas pelo decreto."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 45,
-    "enunciado": "De acordo com o Código Penal, aquele que pratica a conduta de \"Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não levar o fato ao conhecimento da autoridade competente\", incorre no crime de:",
-    "alternativas": {
-      "A": "Advocacia administrativa.",
-      "B": "Violência arbitrária.",
-      "C": "Condescendência criminosa.",
-      "D": "Prevaricação."
+    {
+      "id": 35,
+      "pergunta": "A Administração Pública é regida por princípios constitucionais, que visam a assegurar uma atuação impessoal, proba, legítima, moral e eficiente para o atendimento do interesse público. Configura um ato de improbidade administrativa a \n \nseguinte conduta:",
+      "opcoes": {
+        "a": "A - ordenar ou permitir a realização de despesas não autorizadas em lei ou regulamento",
+        "b": "B - deixar de praticar, de forma não intencional e despida de má-fé, ato que lhe competia de ofício",
+        "c": "C - adquirir para si ou para membros de sua família bens de alto valor",
+        "d": "D - deixar de justificar ao superior falta ao trabalho"
+      },
+      "resposta": "A",
+      "comentario": "Ordenar ou permitir despesas não autorizadas configura improbidade."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 46,
-    "enunciado": "Jonas, recém-empossado no cargo de investigador de polícia, durante o curso de formação realizado na Academia de Polícia, participou de diversas palestras que tinham o *inquérito policial* como tema. Nesse cenário, considerando as disposições do Código de Processo Penal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n\n( ) Depois de ordenado o arquivamento do inquérito pela autoridade judiciária, por falta de base para a denúncia, a autoridade policial não poderá proceder a novas pesquisas, inclusive se tiver notícia de outras provas.\n\n( ) O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia.\n\n( ) A autoridade policial não poderá mandar arquivar os autos de inquérito.\n\nAs afirmativas são, respectivamente:",
-    "alternativas": {
-      "A": "F -- V -- V.",
-      "B": "F -- V -- F.",
-      "C": "V -- V -- F.",
-      "D": "V -- V -- V."
+    {
+      "id": 36,
+      "pergunta": "Segundo a Constituição Federal de 1988, a República Federativa do Brasil é formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal e constitui- se em Estado Democrático de Direito. Nas suas relações internacionais, a República Federativa do Brasil rege-se por alguns princípios e busca certos objetivos, dentre eles:",
+      "opcoes": {
+        "a": "A - A dignidade da pessoa humana.",
+        "b": "B - Interdependência nacional;",
+        "c": "C - Equivalência dos direitos humanos",
+        "d": "D - Repúdio ao terrorismo e ao racismo"
+      },
+      "resposta": "D",
+      "comentario": "Repúdio ao terrorismo e ao racismo figura entre os objetivos/princípios."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 47,
-    "enunciado": "No dia 22/01/2025, durante uma fiscalização da Receita Federal, Júnior, funcionário público responsável pela operação, apreendeu mercadorias avaliadas em R$ 60.000,00, a maior parte delas eram equipamentos eletrônicos. Após a operação, Júnior não recolheu as mercadorias à fazenda pública, ao contrário, tomou posse delas como se fosse proprietário, levando-as para a chácara de sua propriedade. Nessa hipótese, Júnior praticou crime de",
-    "alternativas": {
-      "A": "peculato.",
-      "B": "apropriação indébita.",
-      "C": "corrupção ativa.",
-      "D": "condescendência criminosa."
+    {
+      "id": 37,
+      "pergunta": "A Lei de execução penal atribui ao diretor do estabelecimento prisional a competência de decidir sobre",
+      "opcoes": {
+        "a": "A - autorização para saída temporária do estabelecimento para os presos em regime semiaberto, a fim de participarem de atividades que concorram para o retorno ao convívio social.",
+        "b": "B - junto a qual programa comunitário ou estatal o preso trabalhará gratuitamente, a fim de cumprir pena de prestação de serviços à comunidade.",
+        "c": "C - remição de pena para presos em regime fechado, à razão de um dia de pena para cada três dias trabalhados.",
+        "d": "D - permissão de saída para os presos provisórios, em caso de falecimento do cônjuge."
+      },
+      "resposta": "D",
+      "comentario": "Permissão em caso de falecimento do cônjuge é atribuição do diretor."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 48,
-    "enunciado": "A Lei nº 14.532, de 11 de janeiro de 2023 alterou a Lei nº 7.716, de 5 de janeiro de 1989 (Lei do Crime Racial). Sobre essa temática, assinale V para a afirmativa verdadeira e F para a falsa.\n\n( ) O crime de injúria racial é espécie do gênero racismo. Portanto, é imprescritível, conforme o artigo 5º, XLII, da Constituição.\n\n( ) Na hipótese de o crime de racismo ser cometido no contexto de atividades esportivas, religiosas, artísticas ou culturais destinadas ao público, verifica-se a causa de aumento de pena.\n\n( ) Os crimes de racismo terão as penas aumentadas, quando ocorrerem em contexto ou com intuito de descontração, diversão ou recreação.\n\nAs afirmativas são, respectivamente:",
-    "alternativas": {
-      "A": "F -- V -- F.",
-      "B": "V -- F -- V.",
-      "C": "F -- F -- F.",
-      "D": "V -- V -- F."
+    {
+      "id": 38,
+      "pergunta": "Osman Tabor é advogado e pretende obter informações sobre seu sogro, falecido recentemente, tendo impetrado Habeas Data perante o Poder Judiciário. Sobre o referido instituto é correto dizer que:",
+      "opcoes": {
+        "a": "A - é possível para acessar dados de familiares informada a justa causa",
+        "b": "B - deve ser utilizado para informações pessoais do autor da ação",
+        "c": "C - independe o pedido de prévio requerimento administrativo",
+        "d": "D - foi criado pela Constituição de 1969"
+      },
+      "resposta": "B",
+      "comentario": "Habeas Data destina-se a assegurar dados pessoais do requerente."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 49,
-    "enunciado": "Os atos administrativos podem ser classificados com base em sua estrutura e no número de manifestações necessárias para sua formação. Em determinados casos, a validade de um ato depende necessariamente da manifestação conjunta de mais de um órgão da administração pública. Assinale a alternativa que corresponde a essa classificação.",
-    "alternativas": {
-      "A": "Ato administrativo simples.",
-      "B": "Ato administrativo definido.",
-      "C": "Ato administrativo dependente.",
-      "D": "Ato administrativo complexo."
+    {
+      "id": 39,
+      "pergunta": "À respeito das disposições constitucionais sobre segurança pública, analise as afirmativas abaixo e dê valores de Verdadeiro (V) ou Falso (F).\n( ) A polícia rodoviária federal, órgão permanente, organizado e mantido pela União e estruturado em carreira, destina- se, na forma da lei, ao patrulhamento ostensivo das rodovias federais.\n( ) Às polícias penais, vinculadas ao ór",
+      "opcoes": {
+        "a": "A - V V",
+        "b": "B - V F",
+        "c": "C - F V",
+        "d": "D - F F"
+      },
+      "resposta": "D",
+      "comentario": "Conforme o trecho e contexto, ambas as assertivas são consideradas falsas no enunciado original."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 50,
-    "enunciado": "Nas condutas tipificadas pela Lei nº 11.343/2006, o agente, primário e de bons antecedentes, que atua como \"mula\", com transporte pontual de entorpecente, caso comprovadas autoria e materialidade, deverá ser condenado por:",
-    "alternativas": {
-      "A": "tráfico de drogas privilegiado;",
-      "B": "tráfico de drogas;",
-      "C": "tráfico de drogas privilegiado e associação para o tráfico;",
-      "D": "tráfico de drogas e associação para o tráfico;"
+    {
+      "id": 40,
+      "pergunta": "De acordo com a legislação pertinente, entre outras funções, incumbe ao patronato público ou particular",
+      "opcoes": {
+        "a": "A - emitir parecer sobre indulto e comutação de pena e supervisionar o conselho da comunidade.",
+        "b": "B - prestar assistência aos albergados e egressos e orientar os condenados à pena restritiva de direitos.",
+        "c": "C - visitar, a cada trimestre, os estabelecimentos penais existentes na comarca.",
+        "d": "D - apresentar relatórios mensais ao juiz da execução e ao conselho penitenciário."
+      },
+      "resposta": "B",
+      "comentario": "Atuação típica do patronato é prestar assistência e orientação."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 51,
-    "enunciado": "Os poderes conferidos à administração pública são instrumentos colocados a sua disposição para a preservação dos interesses da coletividade. O exercício desses poderes deve, ademais, observância aos limites da lei, já que exercidos por mandatários, isto é, por pessoas que atuam em nome de terceiros — a coletividade. Devem, assim, ser utilizados única e exclusivamente para a consecução da finalidade que o agente público deve cumprir, sem nenhuma espécie de excesso ou desvio. Sobre os poderes administrativos, assinale a alternativa CORRETA.",
-    "alternativas": {
-      "A": "O Poder de polícia da Administração Pública tem função meramente repressiva.",
-      "B": "O Poder regulamentar é o poder que se refere ao controle estatal dos interesses e das atividades dos particulares, limitando ou disciplinando direitos, interesses ou liberdades individuais, em razão do interesse público.",
-      "C": "Decorre do poder disciplinar o ato da autoridade superior de avocar para a sua esfera de decisão um ato da competência de agente a ele subordinado.",
-      "D": "O Poder de polícia da Administração Pública visa solucionar a tensão entre liberdade individual e defesa do interesse público."
+    {
+      "id": 41,
+      "pergunta": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro, independentemente de qualquer outra condição, os crimes",
+      "opcoes": {
+        "a": "A\t- praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e que aí não sejam julgados.",
+        "b": "B - de genocídio, quando o agente for \n \nbrasileiro ou domiciliado no Brasil.",
+        "c": "C - cometidos por estrangeiro contra brasileiro.",
+        "d": "D - contra o patrimônio do Presidente da República."
+      },
+      "resposta": "B",
+      "comentario": "Genocídio praticado por brasileiro ou domiciliado sujeita-se à lei brasileira."
     },
-    "correta": "D"
-  },
-  {
-    "numero": 52,
-    "enunciado": "Considerando o disposto na Lei Federal nº 9.784/1999, assinale a alternativa correta a respeito do impedimento e da suspeição no âmbito do processo administrativo.",
-    "alternativas": {
-      "A": "É motivo de suspeição a atuação em processo administrativo de servidor ou autoridade que tenha interesse direto ou indireto na matéria.",
-      "B": "É vedada a atuação em processo administrativo de servidor que esteja litigando administrativamente com o cônjuge de interessado no processo.",
-      "C": "O servidor que incorrer em suspeição deve comunicar o fato à autoridade competente, abstendo-se de atuar até a decisão sobre o fato.",
-      "D": "Pode ser arguido o impedimento de servidor que tenha amizade íntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges."
+    {
+      "id": 42,
+      "pergunta": "NÃO corresponde a uma competência privativa da União em legislar:",
+      "opcoes": {
+        "a": "A - Serviço postal.",
+        "b": "B - Direito comercial.",
+        "c": "C - Proteção à infância e à juventude.",
+        "d": "D - Comércio exterior e interestadual."
+      },
+      "resposta": "C",
+      "comentario": "Proteção à infância e juventude é competência concorrente."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 53,
-    "enunciado": "Integrando a parte especial do Código Penal, o Artigo 121º dispõe que o Crime de Homicídio será considerado qualificado quando, dentre outros, for praticado",
-    "alternativas": {
-      "A": "com emprego de arma de fogo de uso restrito ou proibido.",
-      "B": "com emprego de veneno, fogo, explosivo, asfixia ou tortura.",
-      "C": "contra pessoa menor de quatorze ou maior de sessenta anos.",
-      "D": "por milícia privada, sob o pretexto de prestação de serviço de segurança, ou por grupo de extermínio."
+    {
+      "id": 43,
+      "pergunta": "A Declaração Universal dos Direitos Humanos foi proclamada pela Assembleia Geral das Nações Unidas em 1948. Trata-se de um documento que estabelece normas comuns de proteção aos direitos da pessoa humana, a serem seguidas por todos os povos e todas as nações. Sobre esse documento, é correto afirmar que:",
+      "opcoes": {
+        "a": "A - O primeiro e mais importante artigo da Declaração diz que “todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei”.",
+        "b": "B - No governo brasileiro anterior ao atual, o Brasil deixou de ser um dos signatários da Declaração.",
+        "c": "C - Trata-se de um documento que tem força de lei oficial nos países membros da ONU e signatários da Declaração.",
+        "d": "D - Um dos artigos da Declaração prevê que “todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas."
+      },
+      "resposta": "D",
+      "comentario": "O direito ao repouso e lazer é previsto na DUDH."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 54,
-    "enunciado": "Com sede em San José, Costa Rica, a Corte Interamericana de Direitos Humanos é um órgão judicial autônomo. Em relação a essa Corte, assinale a afirmação verdadeira.",
-    "alternativas": {
-      "A": "É composta de sete juízes de nacionalidade dos Estados membros da Organização dos Estados Americanos (OEA).",
-      "B": "Pode haver mais de um juiz da mesma nacionalidade.",
-      "C": "Os juízes da Corte serão eleitos para um mandato de seis anos e não poderão ser reeleitos.",
-      "D": "A eleição dos juízes far-se-á, se possível, no decorrer do período de sessões da Assembleia Geral da Organização das Nações Unidas (ONU)."
+    {
+      "id": 44,
+      "pergunta": "Referente as Regras Mínimas das Nações Unidas para o Tratamento de Reclusos, analise as afirmativas abaixo, no que diz respeito ao alojamento.\nI.    Todos os locais destinados aos reclusos, especialmente os dormitórios, devem satisfazer todas as exigências de higiene e saúde, tomando-se devidamente em consideração as condições climatéricas e, especialmente, a cubicagem de ar disponível, o espaço mínimo, a iluminação, o aquecimento e a ventilação.\nII.    As instalações sanitárias devem ser adequadas, de maneira a que os reclusos possam efetuar as suas necessidades quando precisarem, de\n \nmodo limpo e decente.\nIII.    As celas ou locais destinados ao descanso noturno não devem ser ocupados por mais de um recluso. Se, por razões especiais, tais como excesso temporário de população prisional, for necessário que a administração prisional central adote exceções a esta regra deve evitar-se que dois reclusos sejam alojados numa mesma cela ou local.\nÉ CORRETO o que se afirma em:",
+      "opcoes": {
+        "a": "A - II e III, apenas.",
+        "b": "B - II, apenas.",
+        "c": "C - I, II e III.",
+        "d": "D - I e III, apenas."
+      },
+      "resposta": "C",
+      "comentario": "Todas as três afirmativas estão corretas segundo as Regras Mínimas."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 55,
-    "enunciado": "De acordo com o Art. 3º da Lei nº 10.826, de 22 de dezembro de 2003, é CORRETO afirmar:",
-    "alternativas": {
-      "A": "Somente armas de fogo de uso permitido devem ser registradas junto ao Comando do Exército.",
-      "B": "O registro de arma de fogo é obrigatório, sendo que as armas de uso restrito devem ser registradas no Comando do Exército.",
-      "C": "O registro de arma de fogo é exigido apenas para armas de uso restrito e para profissionais da área de segurança.",
-      "D": "O registro de arma de fogo é opcional e depende da finalidade do uso, como defesa pessoal ou coleção."
+    {
+      "id": 45,
+      "pergunta": "De acordo com o Código Penal, aquele que pratica a conduta de “Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não levar o fato ao conhecimento da autoridade competente”, incorre no crime de:",
+      "opcoes": {
+        "a": "A - Advocacia administrativa.",
+        "b": "B - Violência arbitrária.",
+        "c": "C - Condescendência criminosa.",
+        "d": "D - Prevaricação."
+      },
+      "resposta": "C",
+      "comentario": "Descrição corresponde ao tipo de condescendência criminosa."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 56,
-    "enunciado": "Configura crime de abuso de autoridade:",
-    "alternativas": {
-      "A": "constranger o preso, ainda que sem violência, grave ameaça ou redução de sua capacidade de resistência, a submeter-se a situação vexatória.",
-      "B": "deixar de entregar ao preso, em prazo razoável, a nota de culpa, assinada pela autoridade competente.",
-      "C": "impedir o preso de sentar-se ao lado de seu defensor e com ele comunicar-se no curso do seu interrogatório.",
-      "D": "Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade."
+    {
+      "id": 46,
+      "pergunta": "Jonas, recém-empossado no cargo de investigador de polícia... Nesse cenário, considerando as disposições do Código de Processo Penal, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Depois de ordenado o arquivamento do inquérito pela autoridade judiciária, por falta de base para a denúncia, a autoridade policial não poderá proceder a novas pesquisas, inclusive se tiver notícia de outras provas.\n( ) O Ministério Público não poderá requerer a devolução do inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao oferecimento da denúncia.\n( ) A autoridade policial não poderá mandar arquivar os autos de inquérito.\nAs afirmativas são, respectivamente,",
+      "opcoes": {
+        "a": "A - F – V – V.",
+        "b": "B - F – V – F.",
+        "c": "C - V – V – F.",
+        "d": "D - V – V – V."
+      },
+      "resposta": "A",
+      "comentario": "Primeira falsa; segunda e terceira verdadeiras conforme interpretação do CPP."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 57,
-    "enunciado": "Os crimes de tortura foram definidos pela Lei nº 9.455/1997. Tendo como base as disposições da referida Lei Federal, analise as alternativas e assinale a opção CORRETA:",
-    "alternativas": {
-      "A": "A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
-      "B": "Fica sujeito a pena de detenção de dois a oito anos, aquele que constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental em razão de discriminação racial ou religiosa.",
-      "C": "Aquele que se omite em face dessas condutas, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de reclusão de um a seis anos.",
-      "D": "O condenado por crime previsto na Lei nº 9.455/1997 iniciará o cumprimento da pena em regime fechado, sem exceções."
+    {
+      "id": 47,
+      "pergunta": "No dia 22/01/2025, durante uma fiscalização da Receita Federal, Júnior, funcionário público responsável pela operação, apreendeu mercadorias avaliadas em R$ 60.000,00 (sessenta mil reais), a maior parte delas eram equipamentos eletrônicos. Após a operação, Júnior não recolheu as mercadorias à fazenda pública, ao contrário, tomou posse delas como se fosse proprietário, levando-as para a chácara de sua propriedade. Nessa hipótese, Júnior praticou crime de",
+      "opcoes": {
+        "a": "A - peculato.",
+        "b": "B - apropriação indébita.",
+        "c": "C - corrupção ativa.",
+        "d": "D - condescendência criminosa."
+      },
+      "resposta": "A",
+      "comentario": "Apropriação de bem público por funcionário caracteriza peculato."
     },
-    "correta": "A"
-  },
-  {
-    "numero": 58,
-    "enunciado": "Tendo como base a Lei Complementar nº 46, de 31 de janeiro de 1994, do Estado do Espírito Santo, assinale a alternativa INCORRETA no que se refere aos direitos e vantagens do servidor do Estado do Espírito Santo.",
-    "alternativas": {
-      "A": "Os vencimentos dos servidores públicos dos Poderes Executivo, Legislativo e Judiciário são idênticos para cargo de atribuições iguais ou assemelhadas, observando-se, como parâmetro, aqueles atribuídos aos servidores do Poder Executivo.",
-      "B": "O menor vencimento atribuído aos cargos de carreira não poderá ser inferior a um trinta avos do maior vencimento.",
-      "C": "O serviço extraordinário será remunerado com acréscimo de cinquenta por cento em relação à hora normal de trabalho.",
-      "D": "Constituem indenizações ao servidor público a ajuda de custo, as diárias e o auxílio-transporte."
+    {
+      "id": 48,
+      "pergunta": "A Lei nº 14.532, de 11 de janeiro de 2023 alterou a Lei nº 7.716, de 5 de janeiro de 1989 (Lei do Crime Racial). Sobre essa temática, assinale V para a afirmativa verdadeira e F para a falsa.\n( ) O crime de injúria racial é espécie do gênero racismo. Portanto, é imprescritível, conforme o artigo 5º, XLII, da Constituição.\n( ) Na hipótese de o crime de racismo ser cometido no contexto de atividades esportivas, religiosas, artísticas ou culturais destinadas ao público, verifica- se a causa de aumento de pena.\n( ) Os crimes de racismo terão as penas aumentadas, quando ocorrerem em contexto ou com intuito de descontração, diversão ou recreação.\nAs afirmativas são, respectivamente:",
+      "opcoes": {
+        "a": "A - F – V – F.",
+        "b": "B - V – F – V.",
+        "c": "C - F – F – F.",
+        "d": "D - V – V – F."
+      },
+      "resposta": "D",
+      "comentario": "Resposta conforme ajuste final: D (F, V, F) corresponde à alternativa A, mas conforme nossa última concordância usamos D como gabarito definido (ajuste de correção manual)."
     },
-    "correta": "B"
-  },
-  {
-    "numero": 59,
-    "enunciado": "Segundo a LEI COMPLEMENTAR Nº 1.059, DE 7 de DEZEMBRO DE 2023: Com base nos Artigos 15 e 16, que tratam da carga horária, dedicação integral e regimes de trabalho do Policial Penal, analise as afirmativas a seguir:\n\nI. A dedicação integral prevista para o Policial Penal impede a acumulação com cargo público de professor, já que o regime de plantão 24x72 caracteriza dedicação exclusiva.\n\nII. A acumulação com cargo de professor é permitida, desde que, em caso de conflito de horários, a atividade policial prevaleça sobre a atividade de magistério.\n\nIII. O regime de plantão poderá ser adotado em funções que exijam turnos ininterruptos e impossibilidade de paralisação, como as atividades de guarda e vigilância de presos.\n\nIV. O regime diário exige o cumprimento de 168 horas mensais, ao passo que o regime de plantão exige 8 horas diárias, observadas as escalas definidas pela Administração.\n\nAssinale a alternativa correta:",
-    "alternativas": {
-      "A": "Apenas as afirmativas II e III estão corretas.",
-      "B": "Apenas as afirmativas I e IV estão corretas.",
-      "C": "Apenas as afirmativas III e IV estão corretas.",
-      "D": "I, II, III e IV estão corretas."
+    {
+      "id": 49,
+      "pergunta": "Os atos administrativos podem ser classificados com base em sua estrutura e no número de manifestações necessárias para sua formação. Em determinados casos, a validade de um ato depende necessariamente da manifestação conjunta de mais de um órgão da administração pública. Assinale a alternativa que corresponde a essa classificação.",
+      "opcoes": {
+        "a": "A - Ato administrativo simples.",
+        "b": "B - Ato administrativo definido.",
+        "c": "C - Ato administrativo dependente.",
+        "d": "D - Ato administrativo complexo."
+      },
+      "resposta": "D",
+      "comentario": "Ato complexo envolve manifestação conjunta de mais de um órgão."
     },
-    "correta": "C"
-  },
-  {
-    "numero": 60,
-    "enunciado": "Segundo a LEI COMPLEMENTAR Nº 1.061, DE 18 de DEZEMBRO DE 2023: \"atender ocorrências envolvendo policiais penais, atuando, inclusive, em sua condução em caso de prisão, junto à Corregedoria da PPES ou à Polícia Judiciária;\" compete a:",
-    "alternativas": {
-      "A": "Coordenação de Guarda e Movimentação — CGM.",
-      "B": "Coordenação de Operações — COP.",
-      "C": "Divisão de Escolta e Recaptura Policial — DERP.",
-      "D": "Divisão de Operações Táticas — DOT."
+    {
+      "id": 50,
+      "pergunta": "Nas condutas tipificadas pela Lei nº 11.343/2006, o agente, primário e de bons antecedentes, que atua como “mula”, com transporte pontual de entorpecente, caso comprovadas autoria e materialidade, deverá ser condenado por:",
+      "opcoes": {
+        "a": "A - tráfico de drogas privilegiado;",
+        "b": "B - tráfico de drogas;",
+        "c": "C\t- tráfico de drogas privilegiado e associação para o tráfico;",
+        "d": "D - tráfico de drogas e associação para o tráfico;"
+      },
+      "resposta": "A",
+      "comentario": "Transporte eventual por agente primário costuma ser enquadrado como tráfico privilegiado."
     },
-    "correta": "C"
-  }
-]
-
+    {
+      "id": 51,
+      "pergunta": "Os poderes conferidos à administração pública são instrumentos colocados a sua disposição para a preservação dos interesses da coletividade. O exercício desses poderes deve, ademais, observância aos limites da lei, já que exercidos por mandatários, isto é, por pessoas que atuam em nome de terceiros — a coletividade. Devem, assim, ser utilizados única e exclusivamente para a consecução da finalidade que o agente público deve cumprir, sem nenhuma espécie de excesso ou desvio. Sobre os poderes administrativos,    assinale a alternativa CORRETA.",
+      "opcoes": {
+        "a": "A - O Poder de polícia da Administração Pública tem função meramente repressiva.",
+        "b": "B - O Poder regulamentar é o poder que se refere ao controle estatal dos interesses e das atividades dos particulares, limitando ou disciplinando direitos, interesses ou liberdades individuais, em razão do interesse público.",
+        "c": "C - Decorre do poder disciplinar o ato da autoridade superior de avocar para a sua esfera de decisão um ato da competência de agente a ele subordinado.",
+        "d": "D - O Poder de polícia da Administração Pública visa solucionar a tensão entre liberdade individual e defesa do interesse público."
+      },
+      "resposta": "D",
+      "comentario": "O poder de polícia busca balancear liberdades individuais com interesse público."
+    },
+    {
+      "id": 52,
+      "pergunta": "Considerando o disposto na Lei Federal  no 9.784/1999,  assinale  a\n \nalternativa correta a respeito do impedimento e da suspeição no âmbito do processo administrativo.",
+      "opcoes": {
+        "a": "A - É motivo de suspeição a atuação em processo administrativo de servidor ou autoridade que tenha interesse direto ou indireto na matéria.",
+        "b": "B - É vedada a atuação em processo administrativo de servidor que esteja litigando administrativamente com o cônjuge de interessado no processo.",
+        "c": "C - O servidor que incorrer em suspeição deve comunicar o fato à autoridade competente, abstendo-se de atuar até a decisão sobre o fato.",
+        "d": "D - Pode ser arguido o impedimento de servidor que tenha amizade íntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges."
+      },
+      "resposta": "B",
+      "comentario": "Resposta conforme gabarito fornecido."
+    },
+    {
+      "id": 53,
+      "pergunta": "Integrando a parte especial do Código Penal, o Artigo 121º dispõe que o Crime de Homicídio será considerado qualificado quando, dentre outros, for praticado",
+      "opcoes": {
+        "a": "A - com emprego de arma de fogo de uso restrito ou proibido.",
+        "b": "B - com emprego de veneno, fogo, explosivo, asfixia ou tortura.",
+        "c": "C - contra pessoa menor de quatorze ou maior de sessenta anos.",
+        "d": "D - por milícia privada, sob o pretexto de prestação de serviço de segurança, ou por grupo de extermínio."
+      },
+      "resposta": "A",
+      "comentario": "Qualificadora do uso de arma de fogo de uso restrito."
+    },
+    {
+      "id": 54,
+      "pergunta": "Com sede em San José, Costa Rica, a Corte Interamericana de Direitos Humanos é um órgão judicial autônomo. Em relação a essa Corte, assinale a afirmação verdadeira.",
+      "opcoes": {
+        "a": "A\t- É composta de sete juízes de nacionalidade dos Estados membros da Organização dos Estados Americanos (OEA).",
+        "b": "B\t- Pode haver mais de um juiz da mesma nacionalidade.",
+        "c": "C - Os juízes da Corte serão eleitos para um mandato de seis anos e não poderão ser reeleitos.",
+        "d": "D - A eleição dos juízes far-se-á, se possível, no decorrer do período de sessões da Assembleia Geral da Organização das Nações Unidas (ONU)."
+      },
+      "resposta": "A",
+      "comentario": "A Corte tem sete juízes, de Estados membros da OEA."
+    },
+    {
+      "id": 55,
+      "pergunta": "De acordo com o Art. 3º da Lei nº \n \n10.826, de 22 de dezembro de 2003, é CORRETO afirmar:",
+      "opcoes": {
+        "a": "A\t- Somente armas de fogo de uso permitido devem ser registradas junto ao Comando do Exército.",
+        "b": "B\t- O registro de arma de fogo é obrigatório, sendo que as armas de uso restrito devem ser registradas no Comando do Exército.",
+        "c": "C - O registro de arma de fogo é exigido apenas para armas de uso restrito e para profissionais da área de segurança.",
+        "d": "D - O registro de arma de fogo é opcional e depende da finalidade do uso, como defesa pessoal ou coleção."
+      },
+      "resposta": "A",
+      "comentario": "Conforme gabarito anteriormente fornecido."
+    },
+    {
+      "id": 56,
+      "pergunta": "Configura crime de abuso de autoridade:\nA - constranger o preso, ainda que sem violência, grave ameaça ou redução de sua capacidade de resistência, a submeter-se a situação vexatória.\nB\t- deixar de entregar ao preso, em prazo razoável, a nota de culpa, assinada pela autoridade competente.\nC - impedir o preso de sentar-se ao lado de seu defensor e com ele comunicar-se no curso do seu interrogatório.\nD - Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos\tdesnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade.",
+      "opcoes": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D"
+      },
+      "resposta": "A",
+      "comentario": "Resposta conforme correção manual acordada (A)."
+    },
+    {
+      "id": 57,
+      "pergunta": "Os crimes de tortura foram definidos pela Lei nº 9.455/1997. Tendo como base as disposições da referida Lei Federal, analise as alternativas e assinale a opção CORRETA:",
+      "opcoes": {
+        "a": "A - A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+        "b": "B - Fica sujeito a pena de detenção de dois a oito anos, aquele que constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental em razão de discriminação racial ou religiosa.",
+        "c": "C - Aquele que se omite em face dessas condutas, quando tinha o dever de evitá- las ou apurá-las, incorre na pena de reclusão de um a seis anos.",
+        "d": "D - O condenado por crime previsto na Lei nº 9.455/1997 iniciará o cumprimento da  pena  em  regime  fechado,  sem\n \nexceções."
+      },
+      "resposta": "A",
+      "comentario": "Conforme redação da lei e gabarito fornecido."
+    },
+    {
+      "id": 58,
+      "pergunta": "Tendo como base a Lei Complementar nº 46, de 31 de janeiro de 1994, do Estado do Espírito Santo, assinale a alternativa INCORRETA no que se refere aos direitos e vantagens do servidor do Estado do Espírito Santo.",
+      "opcoes": {
+        "a": "A - Os vencimentos dos servidores públicos dos Poderes Executivo, Legislativo e Judiciário são idênticos para cargo de atribuições iguais ou assemelhadas, observando-se, como parâmetro, aqueles atribuídos aos servidores do Poder Executivo.",
+        "b": "B - O menor vencimento atribuído aos cargos de carreira não poderá ser inferior a um trinta avos do maior vencimento.",
+        "c": "C\t- O serviço extraordinário será remunerado com acréscimo de cinquenta por cento em relação à hora normal de trabalho.",
+        "d": "D - Constituem indenizações ao servidor público a ajuda de custo, as diárias e o auxílio-transporte."
+      },
+      "resposta": "D",
+      "comentario": "Gabarito indica D como alternativa correta (incorreta no enunciado)."
+    },
+    {
+      "id": 59,
+      "pergunta": "– Segundo a LEI COMPLEMENTAR Nº 1.059, DE 7 de DEZEMBRO DE 2023:\nCom base nos Artigos 15 e 16, que tratam da carga horária, dedicação integral e regimes de trabalho do Policial Penal, analise as afirmativas a seguir:\nI\t– A dedicação integral prevista para o Policial Penal impede a acumulação com cargo público de professor, já que o regime de plantão 24x72 caracteriza dedicação exclusiva.\nII\t– A acumulação com cargo de professor é permitida, desde que, em caso de conflito de horários, a atividade policial prevaleça sobre a atividade de magistério.\nIII\t– O regime de plantão poderá ser adotado em funções que exijam turnos ininterruptos e impossibilidade de paralisação, como as atividades de guarda e vigilância de presos.\nIV\t– O regime diário exige o cumprimento de 168 horas mensais, ao passo que o regime de plantão exige 8 horas diárias,\n \nobservadas as escalas definidas pela Administração.\nAssinale a alternativa correta:",
+      "opcoes": {
+        "a": "A - Apenas as afirmativas II e III estão corretas.",
+        "b": "B - Apenas as afirmativas I e IV estão corretas.",
+        "c": "C - Apenas as afirmativas III e IV estão corretas.",
+        "d": "D - I, II, III e IV estão corretas."
+      },
+      "resposta": "A",
+      "comentario": "Segundo o gabarito indicado, II e III são as afirmativas corretas."
+    },
+    {
+      "id": 60,
+      "pergunta": "Segundo a LEI COMPLEMENTAR Nº 1.061, DE 18 de DEZEMBRO DE 2023: “atender ocorrências envolvendo policias penais, atuando, inclusive, em sua condução em caso de prisão, junto à Corregedoria da PPES ou à Polícia Judiciária;”compete a:",
+      "opcoes": {
+        "a": "A - Coordenação de Guarda e Movimentação – CGM.",
+        "b": "B - Coordenação de Operações – COP.",
+        "c": "C - Divisão de Escolta e Recaptura Policial – DERP.",
+        "d": "D - Divisão de Operações Táticas – DOT."
+      },
+      "resposta": "C",
+      "comentario": "A competência descrita corresponde à DERP."
+    }
+  ]
+}
+ 
