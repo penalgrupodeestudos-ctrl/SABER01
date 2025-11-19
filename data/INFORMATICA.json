@@ -1,750 +1,123 @@
-{
-  "titulo": "Simulado de Informática - Versão JSON com gabarito e comentários",
-  "fonte": ":contentReference[oaicite:1]{index=1}",
-  "questoes": [
-    {
-      "id": 1,
-      "pergunta": "A organização hierárquica de arquivos em diretórios e subdiretórios aumenta a eficiência na localização e manutenção dos dados. Está correto o que se afirma em:",
-      "opcoes": {
-        "a": "I e III, apenas.",
-        "b": "I, II e III.",
-        "c": "II, apenas.",
-        "d": "I e II, apenas."
-      },
-      "resposta": "b",
-      "comentario": "As afirmativas I, II e III descrevem corretamente estrutura de diretórios, permissões e facilidades de backup."
+[
+  {
+    "id": 1,
+    "pergunta": "A organização hierárquica de arquivos em diretórios e subdiretórios aumenta a eficiência na localização e na manutenção dos dados, permitindo um controle de acesso mais seguro e estruturado. Analise as afirmativas a seguir:\nI.A estrutura de pastas e subpastas permite uma categorização adequada dos arquivos, simplificando a busca e a identificação de documentos.\nII.Permissões de acesso podem ser concedidas ou restringidas em níveis específicos de diretórios, aprimorando a segurança dos dados.\nIII.Uma árvore de diretórios bem projetada facilita a realização de backups e restaurações, pois reduz o tempo de verificação e cópia das informações.\nEstá correto o que se afirma em:",
+    "opcoes": {
+      "a": "I e III, apenas.",
+      "b": "I, II e III.",
+      "c": "II, apenas.",
+      "d": "I e II, apenas."
     },
-    {
-      "id": 2,
-      "pergunta": "Sobre a relação entre hardware e software, está correto o que se afirma em:",
-      "opcoes": {
-        "a": "I e III apenas.",
-        "b": "II apenas.",
-        "c": "I e II apenas.",
-        "d": "I, II e III."
-      },
-      "resposta": "a",
-      "comentario": "I e III estão corretas. II é falsa porque o desempenho também depende de otimização e SO."
+    "gabarito": "b",
+    "comentario": "Todas as afirmativas são corretas: organização hierárquica facilita busca, controle e backup."
+  },
+  {
+    "id": 2,
+    "pergunta": "O funcionamento de um computador depende da interação entre hardware e software, sendo que cada um desempenha um papel essencial no processamento das informações. Sobre a relação entre hardware e software, analise as afirmativas a seguir:\nI.O hardware consiste nos componentes físicos do computador, como processador, placa de vídeo e memória, enquanto o software corresponde aos programas e instruções executadas sobre esse hardware.\nII.O desempenho de um software depende exclusivamente da capacidade do hardware, não sendo influenciado pela otimização do código ou pelo sistema operacional utilizado.\nIII.Um software de edição de texto instrui a CPU a executar processos de formatação e exibição na tela, enquanto um jogo em 3D exige o trabalho conjunto da placa de vídeo e da memória para renderização gráfica.\nEstá correto o que se afirma em:",
+    "opcoes": {
+      "a": "I e III apenas.",
+      "b": "II apenas.",
+      "c": "I e II apenas.",
+      "d": "I, II e III."
     },
-    {
-      "id": 3,
-      "pergunta": "Sobre o Windows 10 e suas funcionalidades, está correto o que se afirma em:",
-      "opcoes": {
-        "a": "I, II e III.",
-        "b": "III apenas.",
-        "c": "II apenas.",
-        "d": "I e II apenas."
-      },
-      "resposta": "c",
-      "comentario": "Somente II é verdadeira. Windows 10 possui múltiplas áreas de trabalho e Edge não foi removido."
+    "gabarito": "a",
+    "comentario": "Somente I e III estão corretas. O desempenho não depende exclusivamente do hardware."
+  },
+  {
+    "id": 3,
+    "pergunta": "O Windows 10 manteve elementos familiares e introduziu novas funcionalidades de interface, tornando o sistema mais versátil para uso doméstico e corporativo. Analise as afirmativas a seguir:\nI.O Windows 10 não possui o recurso de múltiplas áreas de trabalho, recurso presente somente no Windows 7.\nII.O Windows 10 apresenta um Menu Iniciar reformulado, combinando blocos dinâmicos do Windows 8 com a estrutura clássica do Windows 7.\nIII.O navegador Microsoft Edge foi removido na versão de lançamento do Windows 10, mantendo somente o Internet Explorer como opção padrão.\nEstá correto o que se afirma em:",
+    "opcoes": {
+      "a": "I, II e III.",
+      "b": "III, apenas.",
+      "c": "II, apenas.",
+      "d": "I e II, apenas."
     },
-    {
-      "id": 4,
-      "pergunta": "Sobre hardware e software, está correto o que se afirma em:",
-      "opcoes": {
-        "a": "I apenas.",
-        "b": "II apenas.",
-        "c": "I, II e III.",
-        "d": "I e III apenas."
-      },
-      "resposta": "a",
-      "comentario": "I é verdadeira. II e III são falsas: software não funciona sem hardware, e hardware não executa tarefas sem software."
+    "gabarito": "c",
+    "comentario": "Apenas II está correta. O Windows 10 tem múltiplas áreas e mantém Edge."
+  },
+  {
+    "id": 4,
+    "pergunta": "Hardware e software compõem a base de qualquer sistema computacional, sendo o hardware responsável pelos componentes físicos e o software, pelas instruções de funcionamento. Analise as afirmativas a seguir:\nI.O hardware engloba os componentes físicos do computador, enquanto o software corresponde aos programas que permitem a interação e o controle desses componentes.\nII.O software pode executar suas funções totalmente independente do hardware, não precisando de nenhum componente físico para operar.\nIII.O hardware funciona sem qualquer instrução de software, sendo capaz de executar tarefas complexas de forma autônoma.\nEstá correto o que se afirma em:",
+    "opcoes": {
+      "a": "I, apenas.",
+      "b": "II, apenas.",
+      "c": "I, II e III.",
+      "d": "I e III, apenas."
     },
-    {
-      "id": 5,
-      "pergunta": "O sistema operacional gerencia memória, CPU e dispositivos de E/S. Assinale a alternativa correta:",
-      "opcoes": {
-        "a": "Coordena tarefas só entre processador e memória.",
-        "b": "Depende de programas externos para controlar memória.",
-        "c": "Gerencia recursos e oferece interface padronizada.",
-        "d": "Não provê interface ao usuário."
-      },
-      "resposta": "c",
-      "comentario": "O sistema operacional centraliza o gerenciamento de hardware e oferece interface ao usuário."
+    "gabarito": "a",
+    "comentario": "Só I está correta. Software depende do hardware, e hardware requer instruções de software."
+  },
+  {
+    "id": 5,
+    "pergunta": "O sistema operacional intermedeia a comunicação entre hardware e software, alocando recursos e organizando processos para assegurar o funcionamento integrado do computador, sobre o assunto, assinale a alternativa correta:",
+    "opcoes": {
+      "a": "O sistema operacional coordena tarefas apenas entre o processador e a memória, delegando o controle de dispositivos de E/S exclusivamente ao software aplicativo.",
+      "b": "Ele gerencia a execução de processos e interrupções de hardware, porém depende completamente de programas externos para controlar o uso de memória no computador.",
+      "c": "O sistema operacional gerencia memória, CPU e dispositivos de E/S, além de oferecer uma interface padronizada para usuários e desenvolvedores, garantindo a execução eficiente dos aplicativos.",
+      "d": "O sistema operacional administra a alocação de recursos e tarefas, mas não provê qualquer interface que permita a interação do usuário com o sistema."
     },
-    {
-      "id": 6,
-      "pergunta": "Sobre o Gerenciador de Tarefas do Windows, assinale a alternativa correta:",
-      "opcoes": {
-        "a": "F, F, V, V",
-        "b": "V, F, F, V",
-        "c": "F, V, F, V",
-        "d": "V, V, V, F"
-      },
-      "resposta": "c",
-      "comentario": "Ele exibe processos (F), mostra programas de inicialização (V), possui histórico (F), e encerra processos (V)."
+    "gabarito": "c",
+    "comentario": "Correta: gerencia memória, CPU, dispositivos e fornece interface."
+  },
+  {
+    "id": 6,
+    "pergunta": "O Gerenciador de Tarefas do Windows evoluiu para fornecer dados detalhados sobre o desempenho do sistema, como uso de CPU, memória e rede, facilitando o monitoramento e a solução de problemas. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:\n(__)O Gerenciador de Tarefas não exibe processos em execução, restringindo-se apenas ao uso de CPU.\n(__)É possível visualizar e controlar quais programas iniciam junto com o sistema operacional.\n(__)O Gerenciador de Tarefas não inclui histórico de aplicativos, impossibilitando analisar o consumo de recursos ao longo do tempo.\n(__)As versões mais recentes permitem encerrar processos que causam lentidão ou falhas, tornando a manutenção mais simples.\nA sequência está correta em:",
+    "opcoes": {
+      "a": "F, F, V, V.",
+      "b": "V, F, F, V.",
+      "c": "F, V, F, V.",
+      "d": "V, V, V, F."
     },
-    {
-      "id": 7,
-      "pergunta": "Ferramenta de acessibilidade do Windows que exibe teclado visual:",
-      "opcoes": {
-        "a": "Lupa.",
-        "b": "Teclado virtual.",
-        "c": "Narrador.",
-        "d": "Reconhecimento de fala."
-      },
-      "resposta": "b",
-      "comentario": "O Teclado Virtual substitui o teclado físico."
+    "gabarito": "c",
+    "comentario": "O Gerenciador exibe processos, controla inicialização, mostra histórico e encerra processos problemáticos."
+  },
+  {
+    "id": 7,
+    "pergunta": "O Windows tem uma ferramenta interna de acessibilidade, ele exibe um teclado visual com todas as teclas padrão que pode ser usada em vez de um teclado físico. Marque a alternativa CORRETA desse recurso de Acessibilidade do Windows.",
+    "opcoes": {
+      "a": "Lupa.",
+      "b": "Teclado virtual.",
+      "c": "Narrador.",
+      "d": "Reconhecimento de fala no Windows."
     },
-    {
-      "id": 8,
-      "pergunta": "Julgue as assertivas sobre hardware e software:",
-      "opcoes": {
-        "a": "II e IV são verdadeiras.",
-        "b": "I e II são verdadeiras.",
-        "c": "I e IV são verdadeiras.",
-        "d": "II, III e IV são verdadeiras."
-      },
-      "resposta": "d",
-      "comentario": "I é falsa (confunde software aplicativo com sistema). II, III e IV são verdadeiras."
+    "gabarito": "b",
+    "comentario": "O teclado virtual é a ferramenta de acessibilidade que simula teclas na tela."
+  },
+  {
+    "id": 8,
+    "pergunta": "Julgue as assertivas a seguir sobre conceitos básicos de hardware e software:\nI.Os softwares gerenciadores de sistema é projetado para executar tarefas específicas e atender às necessidades dos usuários, como processadores de texto e planilhas eletrônicas.\nII.A memória cache é uma memória de acesso aleatório (RAM) de alta velocidade, utilizada para armazenar dados temporários que a CPU acessa com frequência.\nIII.O BIOS (Sistema Básico de Entrada/Saída) é um firmware responsável por inicializar o hardware do computador e carregar o sistema operacional na memória RAM.\nIV.Os dispositivos de entrada transformam dados em sinais que o computador pode processar, enquanto os dispositivos de saída exibem os resultados do processamento de dados.\nAssinale a alternativa correta:",
+    "opcoes": {
+      "a": "Apenas as afirmativas II e IV são verdadeiras.",
+      "b": "Apenas as afirmativas I e II são verdadeiras.",
+      "c": "Apenas as afirmativas I e IV são verdadeiras.",
+      "d": "Apenas as afirmativas II, III e IV são verdadeiras."
     },
-    {
-      "id": 9,
-      "pergunta": "Software necessário para navegar na internet:",
-      "opcoes": {
-        "a": "Antivírus.",
-        "b": "Navegador.",
-        "c": "Desfragmentador.",
-        "d": "Compactador."
-      },
-      "resposta": "b",
-      "comentario": "Para acessar sites, é necessário um navegador (browser)."
+    "gabarito": "d",
+    "comentario": "Corretas: II, III e IV estão de acordo com o conceito de memória cache, BIOS e I/O."
+  },
+  {
+    "id": 9,
+    "pergunta": "Um software necessário em qualquer sistema operacional para navegar na internet. Marque a alternativa CORRETA que corresponde ao software descrito para usar a internet.",
+    "opcoes": {
+      "a": "Antivírus.",
+      "b": "Navegador.",
+      "c": "Desfragmentador.",
+      "d": "Compactador."
     },
-    {
-      "id": 10,
-      "pergunta": "Funcionalidade essencial do Windows:",
-      "opcoes": {
-        "a": "Permite personalização do ambiente de trabalho.",
-        "b": "Não suporta instalação de novos dispositivos.",
-        "c": "Permite apenas uma conexão de rede.",
-        "d": "Usa exclusivamente linha de comando."
-      },
-      "resposta": "a",
-      "comentario": "A personalização é uma das funções principais do Windows."
+    "gabarito": "b",
+    "comentario": "O navegador (browser) é indispensável para acessar a internet."
+  },
+  {
+    "id": 10,
+    "pergunta": "Considerando as noções básicas de sistema operacional Windows, qual alternativa descreve corretamente uma funcionalidade essencial que o Windows proporciona para a gestão e operação de um computador?",
+    "opcoes": {
+      "a": "O Windows permite a personalização do ambiente de trabalho, incluindo a mudança de temas, configurações de exibição e organização de ícones.",
+      "b": "O Windows não suporta a instalação de novos dispositivos de hardware sem reinstalar o sistema operacional.",
+      "c": "O Windows permite apenas uma única conexão de rede de cada vez para maximizar a segurança da rede.",
+      "d": "O Windows usa exclusivamente a linha de comando para todas as operações de gerenciamento de arquivos e aplicativos."
     },
-
-
-
-    {
-      "id": 11,
-      "pergunta": "Sobre os conceitos de URL, links, sites, busca e impressão de páginas, assinale a sequência correta:",
-      "opcoes": {
-        "a": "V − F − F − V",
-        "b": "F − V − V − F",
-        "c": "F − F − V − F",
-        "d": "F − V − F − V"
-      },
-      "resposta": "d",
-      "comentario": "URLs não servem apenas para IP (F); links direcionam para outros recursos (V); buscadores usam mais que metadados (F); impressão adapta conteúdo (V)."
-    },
-    {
-      "id": 12,
-      "pergunta": "Sobre URLs, hiperlinks, sites e impressão de páginas, assinale a sequência correta:",
-      "opcoes": {
-        "a": "F – F – V – V",
-        "b": "V – F – F – V",
-        "c": "V – F – V – F",
-        "d": "V – F – F – F"
-      },
-      "resposta": "b",
-      "comentario": "URL segue RFC 3986 (V); comportamento de hyperlink pode ser alterado (F); site não é mecanismo de busca (F); navegadores imprimem e exportam PDF (V)."
-    },
-    {
-      "id": 13,
-      "pergunta": "Como acessar diretamente uma página específica, como /contact?",
-      "opcoes": {
-        "a": "Pesquisar no Google.",
-        "b": "Enviar e-mail para o site pedindo o link.",
-        "c": "Buscar internamente no site.",
-        "d": "Digitar http://www.example.com/contact na barra de endereços."
-      },
-      "resposta": "d",
-      "comentario": "A digitação direta da URL acessa imediatamente a página desejada."
-    },
-    {
-      "id": 14,
-      "pergunta": "A principal função da URL na internet é:",
-      "opcoes": {
-        "a": "Localizar recursos na internet.",
-        "b": "Definir identidade visual.",
-        "c": "Criar links.",
-        "d": "Armazenar recursos."
-      },
-      "resposta": "a",
-      "comentario": "URL é um localizador de recursos — sua função principal é apontar o endereço exato."
-    },
-    {
-      "id": 15,
-      "pergunta": "Qual opção descreve corretamente o papel da URL na navegação?",
-      "opcoes": {
-        "a": "Cria layout visual da página.",
-        "b": "Identifica o endereço único da página.",
-        "c": "Estabelece conexão multimídia.",
-        "d": "Armazena conteúdo para acesso posterior."
-      },
-      "resposta": "b",
-      "comentario": "A URL é um identificador único para acessar diretamente uma página."
-    },
-    {
-      "id": 16,
-      "pergunta": "Sobre URL, links, sites e mecanismos de busca, assinale a correta:",
-      "opcoes": {
-        "a": "Links direcionam apenas dentro do mesmo site.",
-        "b": "Uma URL sempre começa com www.",
-        "c": "Mecanismos de busca usam algoritmos para indexar informações.",
-        "d": "Um site é uma única página estática."
-      },
-      "resposta": "c",
-      "comentario": "Motores de busca usam algoritmos de indexação avançada; as demais são falsas."
-    },
-    {
-      "id": 17,
-      "pergunta": "Julgue as assertivas sobre hardware, dispositivos de entrada/saída, Windows e internet:",
-      "opcoes": {
-        "a": "I e IV verdadeiras.",
-        "b": "I, II e V verdadeiras.",
-        "c": "III e V verdadeiras.",
-        "d": "III, IV e V verdadeiras."
-      },
-      "resposta": "a",
-      "comentario": "I e IV são verdadeiras. II, III e V são falsas: há dispositivos híbridos, Windows é multitarefa, impressão pode ser configurada."
-    },
-    {
-      "id": 18,
-      "pergunta": "O significado correto da sigla URL é:",
-      "opcoes": {
-        "a": "Unique Resource Locator.",
-        "b": "Uniform Resource Locator.",
-        "c": "Uniform Research Locator.",
-        "d": "Uniform Research Local."
-      },
-      "resposta": "b",
-      "comentario": "URL = Uniform Resource Locator."
-    },
-    {
-      "id": 19,
-      "pergunta": "Assinale a alternativa correta sobre conceitos de internet:",
-      "opcoes": {
-        "a": "I, II e IV verdadeiras.",
-        "b": "I e IV verdadeiras.",
-        "c": "I, III e IV verdadeiras.",
-        "d": "II e III verdadeiras."
-      },
-      "resposta": "b",
-      "comentario": "I e IV são verdadeiras. II é incorreta (link ≠ URL); III é falsa (navegação inclui downloads)."
-    },
-    {
-      "id": 20,
-      "pergunta": "Julgue as afirmações sobre links, URLs e mecanismos de busca:",
-      "opcoes": {
-        "a": "V − F − F",
-        "b": "F − F − V",
-        "c": "V − V − V",
-        "d": "F − V − V"
-      },
-      "resposta": "d",
-      "comentario": "Link não é apenas texto (F); URL identifica recursos (V); motores de busca usam algoritmos (V)."
-    },
-
-
-    {
-      "id": 21,
-      "pergunta": "Sobre atalhos do Word 2010, avalie as proposições: I. CTRL + N = negrito. II. CTRL + I = alinhamento justificado. III. CTRL + Q = alinhamento à esquerda. Assinale a alternativa correta:",
-      "opcoes": {
-        "a": "II e III corretas.",
-        "b": "III correta.",
-        "c": "I e III corretas.",
-        "d": "I e II corretas."
-      },
-      "resposta": "b",
-      "comentario": "CTRL + Q realmente alinha à esquerda. CTRL + N = novo documento e CTRL + I = itálico."
-    },
-    {
-      "id": 22,
-      "pergunta": "Sobre os tipos de tabelas rápidas no Word, julgue como verdadeiras (V) ou falsas (F): Matriz / Tabela rasurada / Tabela tripla:",
-      "opcoes": {
-        "a": "V − F − V",
-        "b": "V − V − V",
-        "c": "V − F − F",
-        "d": "F − F − F"
-      },
-      "resposta": "c",
-      "comentario": "Apenas Matriz existe. Tabela rasurada e tabela tripla não fazem parte dos modelos rápidos."
-    },
-    {
-      "id": 23,
-      "pergunta": "A imagem apresentada corresponde a qual configuração do Word?",
-      "opcoes": {
-        "a": "Marcadores.",
-        "b": "Paginação.",
-        "c": "Numeração.",
-        "d": "Espaçamento."
-      },
-      "resposta": "c",
-      "comentario": "O ícone mostrado refere-se ao recurso de Numeração de parágrafos."
-    },
-    {
-      "id": 24,
-      "pergunta": "No Word, para repetir uma ação já realizada, qual comando é utilizado?",
-      "opcoes": {
-        "a": "Repetir ou CTRL + C.",
-        "b": "Repetir ou CTRL + R.",
-        "c": "Repetir ou CTRL + X.",
-        "d": "Repetir ou CTRL + Z."
-      },
-      "resposta": "b",
-      "comentario": "O atalho para repetir ações é CTRL + R. CTRL + Z desfaz ações."
-    },
-    {
-      "id": 25,
-      "pergunta": "Quais ações são corretas ao clicar em diferentes regiões de um documento no Word?",
-      "opcoes": {
-        "a": "Clique na margem esquerda seleciona o parágrafo; duplo clique seleciona linha.",
-        "b": "Clique no meio posiciona o cursor; duplo clique seleciona parágrafo.",
-        "c": "Triplo clique na margem esquerda seleciona todo o texto; triplo clique no meio seleciona linha.",
-        "d": "Clique na margem esquerda seleciona a linha; duplo clique no meio seleciona a palavra."
-      },
-      "resposta": "d",
-      "comentario": "Um clique na margem esquerda seleciona a linha; duplo clique em uma palavra seleciona a palavra inteira."
-    },
-    {
-      "id": 26,
-      "pergunta": "Sobre atalhos no Word 2010, assinale a correta:",
-      "opcoes": {
-        "a": "Alt + Shift + S sublinha apenas palavras.",
-        "b": "Ctrl + Shift + A transforma texto em MAIÚSCULAS.",
-        "c": "Ctrl + Shift + W diminui a fonte.",
-        "d": "Alt + Ctrl + A justifica parágrafo."
-      },
-      "resposta": "b",
-      "comentario": "CTRL + SHIFT + A converte texto para MAIÚSCULAS. As demais não correspondem aos atalhos citados."
-    },
-    {
-      "id": 27,
-      "pergunta": "No Word, o que é a 'Faixa de opções'?",
-      "opcoes": {
-        "a": "Região que informa margens e recuos.",
-        "b": "Contém menus separados por tarefas.",
-        "c": "Contém grupos de tarefas relacionadas, facilitando localizar comandos.",
-        "d": "Mostra páginas, palavras e modos de exibição."
-      },
-      "resposta": "c",
-      "comentario": "A Faixa de Opções reúne comandos organizados em grupos relacionados."
-    },
-    {
-      "id": 28,
-      "pergunta": "Ferramenta poderosa para produzir e formatar textos, relatórios e trabalhos:",
-      "opcoes": {
-        "a": "Word.",
-        "b": "Outlook.",
-        "c": "PowerPoint.",
-        "d": "Excel."
-      },
-      "resposta": "a",
-      "comentario": "O Word é a ferramenta principal de edição e formatação de textos."
-    },
-    {
-      "id": 29,
-      "pergunta": "Qual é o atalho para aplicar Negrito no Word?",
-      "opcoes": {
-        "a": "Ctrl + S.",
-        "b": "Ctrl + B.",
-        "c": "Ctrl + N.",
-        "d": "Ctrl + I."
-      },
-      "resposta": "b",
-      "comentario": "Ctrl + B aplica negrito. CTRL + N cria novo documento; CTRL + I aplica itálico."
-    },
-    {
-      "id": 30,
-      "pergunta": "Sobre colunas no Word, assinale a verdadeira:",
-      "opcoes": {
-        "a": "Não permite personalização das colunas.",
-        "b": "Não é possível adicionar linhas entre colunas.",
-        "c": "Não é possível aplicar colunas apenas em parte do texto.",
-        "d": "Para colunas com larguras diferentes, deve-se desmarcar 'colunas de mesma largura'."
-      },
-      "resposta": "d",
-      "comentario": "Desmarcar 'mesma largura' permite colunas assimétricas."
-    },
-
-
-
-
-
-    {
-      "id": 31,
-      "pergunta": "Sobre o Microsoft Office 365 e suas ferramentas, está correto o que se afirma:",
-      "opcoes": {
-        "a": "I, II e III.",
-        "b": "I e II, apenas.",
-        "c": "II, apenas.",
-        "d": "I e III, apenas."
-      },
-      "resposta": "a",
-      "comentario": "Word permite sumários automáticos; Excel usa PROCV para buscar dados; PowerPoint aceita links interativos."
-    },
-    {
-      "id": 32,
-      "pergunta": "Sobre o uso de planilhas para controle financeiro no Excel, está correto o que se afirma:",
-      "opcoes": {
-        "a": "I, II e III.",
-        "b": "II apenas.",
-        "c": "I apenas.",
-        "d": "I e III apenas."
-      },
-      "resposta": "d",
-      "comentario": "Formatação condicional e gráficos são possíveis. Afirmativa II é falsa: gráficos podem ser criados diretamente da seleção de dados."
-    },
-    {
-      "id": 33,
-      "pergunta": "Sobre fórmulas, precedência e funções no Excel, está correto o que se afirma:",
-      "opcoes": {
-        "a": "II e III apenas.",
-        "b": "II apenas.",
-        "c": "I, II e III.",
-        "d": "I apenas."
-      },
-      "resposta": "b",
-      "comentario": "II é correta: parênteses alteram ordem de execução. I e III são falsas: multiplica antes da soma, e função SOMA não funciona com expressões como A1:B1*C1."
-    },
-    {
-      "id": 34,
-      "pergunta": "Sobre formatação no Excel em relatórios financeiros, assinale a correta:",
-      "opcoes": {
-        "a": "Estilo de moeda não reconhece valores negativos automaticamente.",
-        "b": "Formatação condicional destaca automaticamente valores negativos.",
-        "c": "Alinhamento justificado é ideal para números.",
-        "d": "Formatação numérica impede uso de cores."
-      },
-      "resposta": "b",
-      "comentario": "A formatação condicional permite destacar automaticamente valores negativos e outros critérios."
-    },
-    {
-      "id": 35,
-      "pergunta": "Sobre Tabelas Dinâmicas no Excel 2019, assinale a sequência correta:",
-      "opcoes": {
-        "a": "V, V, V, V",
-        "b": "V, F, F, V",
-        "c": "F, F, V, V",
-        "d": "F, V, V, V"
-      },
-      "resposta": "d",
-      "comentario": "Tabelas dinâmicas não exigem complementos (F); segmentações são possíveis (V); Power Query integra dados (V); há melhorias de formatação condicional (V)."
-    },
-    {
-      "id": 36,
-      "pergunta": "A função SOMA() serve para:",
-      "opcoes": {
-        "a": "Adicionar todos os valores numéricos de um intervalo.",
-        "b": "Retornar o menor valor.",
-        "c": "Multiplicar os valores do intervalo.",
-        "d": "Calcular média."
-      },
-      "resposta": "a",
-      "comentario": "A função SOMA() soma todos os valores de um intervalo."
-    },
-    {
-      "id": 37,
-      "pergunta": "Sobre formatação condicional no Excel 2019, assinale a verdadeira:",
-      "opcoes": {
-        "a": "Exige mudanças manuais sempre que novos dados são adicionados.",
-        "b": "Só funciona em tabelas formatadas.",
-        "c": "Só altera cor do texto.",
-        "d": "Pode destacar células com critérios específicos."
-      },
-      "resposta": "d",
-      "comentario": "A formatação condicional altera cor de fundo, fonte, barras de dados e muito mais."
-    },
-    {
-      "id": 38,
-      "pergunta": "Como selecionar células alternadas no Excel?",
-      "opcoes": {
-        "a": "CTRL e clique em cada célula desejada.",
-        "b": "Clique na letra da coluna ou número da linha.",
-        "c": "SHIFT + clique na última célula.",
-        "d": "Arrastar com o mouse."
-      },
-      "resposta": "a",
-      "comentario": "CTRL + clique permite selecionar células não contíguas."
-    },
-    {
-      "id": 39,
-      "pergunta": "Uso correto da função SOMA para totalizar um intervalo:",
-      "opcoes": {
-        "a": " =SOMA(A1:A10)",
-        "b": " =SOMA((A1)+(A10))",
-        "c": " =SOMA(total(A1+A10))",
-        "d": " =SOMA(A1+A10)"
-      },
-      "resposta": "a",
-      "comentario": "A forma correta é =SOMA(A1:A10)."
-    },
-    {
-      "id": 40,
-      "pergunta": "Função que conta células não vazias que atendem a uma condição:",
-      "opcoes": {
-        "a": "=PROCV()",
-        "b": "=SOMASE()",
-        "c": "=CONTAR.VAZIO()",
-        "d": "=CONT.SE()"
-      },
-      "resposta": "d",
-      "comentario": "A função CONT.SE() conta células que atendem a critérios."
-    },
-
-
-    {
-      "id": 41,
-      "pergunta": "Qual aplicativo de segurança é responsável por monitorar e controlar o tráfego de rede, permitindo ou bloqueando conexões com base em regras de segurança?",
-      "opcoes": {
-        "a": "VPN.",
-        "b": "Anti-spyware.",
-        "c": "Antimalware.",
-        "d": "Firewall."
-      },
-      "resposta": "d",
-      "comentario": "O firewall controla o tráfego de rede conforme regras definidas, protegendo contra acessos não autorizados."
-    },
-    {
-      "id": 42,
-      "pergunta": "Sobre antivírus, firewalls e anti-spyware, julgue as afirmações e assinale a ordem correta (V/F): (1) Antivírus identifica e remove códigos maliciosos. (2) Firewalls monitoram o tráfego de rede. (3) Anti-spyware e antivírus têm a mesma função.",
-      "opcoes": {
-        "a": "V − V − F",
-        "b": "F − F − V",
-        "c": "V − V − V",
-        "d": "V − F − F"
-      },
-      "resposta": "a",
-      "comentario": "Apenas a terceira afirmação é falsa; antivírus e antispyware têm funções distintas."
-    },
-    {
-      "id": 43,
-      "pergunta": "No Windows 11, qual atalho maximiza uma janela no lado esquerdo da tela?",
-      "opcoes": {
-        "a": "Ctrl + Alt + Seta para a esquerda",
-        "b": "Win + Seta para a esquerda",
-        "c": "Shift + Seta para a esquerda",
-        "d": "Alt + Shift + Seta para a esquerda"
-      },
-      "resposta": "b",
-      "comentario": "A tecla Windows + seta direciona janelas para os lados da tela (Snap)."
-    },
-    {
-      "id": 44,
-      "pergunta": "No Windows Explorer, qual tecla permite selecionar vários arquivos com intervalos entre eles?",
-      "opcoes": {
-        "a": "Shift.",
-        "b": "Ctrl.",
-        "c": "AltGr.",
-        "d": "Alt."
-      },
-      "resposta": "b",
-      "comentario": "CTRL permite seleção múltipla não contígua."
-    },
-    {
-      "id": 45,
-      "pergunta": "Quais são os atalhos corretos para: recortar e desfazer?",
-      "opcoes": {
-        "a": "CTRL + R e CTRL + D.",
-        "b": "CTRL + X e CTRL + Z.",
-        "c": "SHIFT + R e SHIFT + D.",
-        "d": "SHIFT + X e SHIFT + Z."
-      },
-      "resposta": "b",
-      "comentario": "CTRL + X recorta; CTRL + Z desfaz ações."
-    },
-    {
-      "id": 46,
-      "pergunta": "No Word, qual atalho desfaz a última ação?",
-      "opcoes": {
-        "a": "Ctrl + V",
-        "b": "Ctrl + W",
-        "c": "Ctrl + L",
-        "d": "Ctrl + Z"
-      },
-      "resposta": "d",
-      "comentario": "CTRL + Z desfaz ações."
-    },
-    {
-      "id": 47,
-      "pergunta": "Para selecionar todos os itens em um documento do Word, qual atalho deve ser utilizado?",
-      "opcoes": {
-        "a": "Ctrl + J",
-        "b": "Ctrl + B",
-        "c": "Ctrl + V",
-        "d": "Ctrl + T"
-      },
-      "resposta": "d",
-      "comentario": "CTRL + T é o atalho em português equivalente a CTRL + A na versão inglesa."
-    },
-    {
-      "id": 48,
-      "pergunta": "Qual alternativa apresenta uma afirmação correta sobre firewall, antivírus e anti-spyware?",
-      "opcoes": {
-        "a": "O firewall pode ser implementado como software ou hardware.",
-        "b": "O firewall substitui antivírus e antispyware.",
-        "c": "Antivírus é usado apenas em redes corporativas.",
-        "d": "Anti-spyware controla portas e pacotes de rede."
-      },
-      "resposta": "a",
-      "comentario": "Firewalls podem existir como hardware dedicado ou software interno."
-    },
-    {
-      "id": 49,
-      "pergunta": "Sobre firewalls, assinale a correta:",
-      "opcoes": {
-        "a": "Age como barreira que controla tráfego com regras.",
-        "b": "Firewalls existem apenas como dispositivos físicos.",
-        "c": "Sua função é remover vírus e malwares.",
-        "d": "Todo tráfego é aceito por padrão."
-      },
-      "resposta": "a",
-      "comentario": "A principal função do firewall é filtrar tráfego conforme regras definidas pelo administrador."
-    },
-    {
-      "id": 50,
-      "pergunta": "Qual combinação de teclas coloca um texto em negrito no Word?",
-      "opcoes": {
-        "a": "Ctrl + S",
-        "b": "Ctrl + B",
-        "c": "Ctrl + N",
-        "d": "Ctrl + I"
-      },
-      "resposta": "b",
-      "comentario": "CTRL + B aplica negrito."
-    },
-
-
-    {
-      "id": 51,
-      "pergunta": "Qual tecla de atalho permite atualizar uma página da internet no navegador?",
-      "opcoes": {
-        "a": "Ctrl + P",
-        "b": "Ctrl + R",
-        "c": "Ctrl + S",
-        "d": "Ctrl + D"
-      },
-      "resposta": "b",
-      "comentario": "CTRL + R atualiza a página. Em alguns navegadores F5 também cumpre essa função."
-    },
-    {
-      "id": 52,
-      "pergunta": "Qual tecla de atalho abre uma nova aba no navegador?",
-      "opcoes": {
-        "a": "Ctrl + T",
-        "b": "Ctrl + H",
-        "c": "Ctrl + E",
-        "d": "Ctrl + W"
-      },
-      "resposta": "a",
-      "comentario": "CTRL + T abre uma nova aba."
-    },
-    {
-      "id": 53,
-      "pergunta": "Qual tecla de atalho fecha a aba atual no navegador?",
-      "opcoes": {
-        "a": "Ctrl + F4",
-        "b": "Ctrl + A",
-        "c": "Ctrl + N",
-        "d": "Ctrl + Shift + W"
-      },
-      "resposta": "a",
-      "comentario": "CTRL + F4 (ou CTRL + W) fecha a aba atual."
-    },
-    {
-      "id": 54,
-      "pergunta": "Qual tecla permite localizar palavras em uma página da internet?",
-      "opcoes": {
-        "a": "Ctrl + L",
-        "b": "Ctrl + F",
-        "c": "Ctrl + K",
-        "d": "Ctrl + Shift + P"
-      },
-      "resposta": "b",
-      "comentario": "CTRL + F abre a ferramenta de busca interna da página."
-    },
-    {
-      "id": 55,
-      "pergunta": "Qual comando abre o histórico do navegador?",
-      "opcoes": {
-        "a": "Ctrl + H",
-        "b": "Ctrl + J",
-        "c": "Ctrl + G",
-        "d": "Ctrl + Shift + H"
-      },
-      "resposta": "a",
-      "comentario": "CTRL + H abre o histórico de navegação."
-    },
-    {
-      "id": 56,
-      "pergunta": "Sobre Cookies, assinale a alternativa correta:",
-      "opcoes": {
-        "a": "Cookies são vírus que infectam computadores.",
-        "b": "Cookies registram preferências e dados de navegação.",
-        "c": "Cookies impedem o funcionamento de sites.",
-        "d": "Cookies apagam arquivos temporários automaticamente."
-      },
-      "resposta": "b",
-      "comentario": "Cookies armazenam preferências de navegação, login e personalização de sites."
-    },
-    {
-      "id": 57,
-      "pergunta": "Qual afirmativa está correta sobre navegação anônima?",
-      "opcoes": {
-        "a": "Impede totalmente o rastreamento na internet.",
-        "b": "Apaga histórico local ao fechar a janela.",
-        "c": "Desativa antivírus automaticamente.",
-        "d": "Bloqueia anúncios e scripts automaticamente."
-      },
-      "resposta": "b",
-      "comentario": "A navegação anônima não salva histórico local, mas não impede rastreamento externo."
-    },
-    {
-      "id": 58,
-      "pergunta": "O navegador Google Chrome é classificado como:",
-      "opcoes": {
-        "a": "Software utilitário.",
-        "b": "Software aplicativo.",
-        "c": "Software de sistema.",
-        "d": "Firmware."
-      },
-      "resposta": "b",
-      "comentario": "Navegadores são softwares aplicativos usados para navegação na web."
-    },
-    {
-      "id": 59,
-      "pergunta": "Qual recurso do navegador permite salvar uma página para acesso posterior?",
-      "opcoes": {
-        "a": "Extensões.",
-        "b": "Favoritos.",
-        "c": "Histórico.",
-        "d": "Privacidade."
-      },
-      "resposta": "b",
-      "comentario": "Favoritos (ou marcadores) guardam links para fácil acesso posterior."
-    },
-    {
-      "id": 60,
-      "pergunta": "Para abrir rapidamente o Gerenciador de Tarefas no Windows, utiliza-se:",
-      "opcoes": {
-        "a": "Ctrl + Shift + Esc",
-        "b": "Ctrl + Alt + Delete",
-        "c": "Shift + Esc",
-        "d": "Ctrl + Tab"
-      },
-      "resposta": "a",
-      "comentario": "CTRL + SHIFT + ESC abre diretamente o Gerenciador de Tarefas."
-    }
-  ]
-}
-
-
-
-
-
-
-
-
-
-
+    "gabarito": "a",
+    "comentario": "O Windows permite a personalização visual, organização e facilidade de gestão do sistema."
+  }
+]
+  
