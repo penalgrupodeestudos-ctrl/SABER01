@@ -118,6 +118,150 @@
     },
     "gabarito": "a",
     "comentario": "O Windows permite a personalização visual, organização e facilidade de gestão do sistema."
+  },
+  {
+    "id": 11,
+    "pergunta": "Os conceitos de URL, links, sites, ferramentas de busca e impressão de páginas são fundamentais para a navegação e uso eficiente da internet, sendo aplicados em diversas situações cotidianas e profissionais. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:
+(__)URLs (Uniform Resource Locators) são usados exclusivamente para identificar o endereço IP de servidores, não sendo aplicáveis a páginas específicas.
+(__)Um link é um elemento clicável em uma página que direciona o usuário para outro recurso, seja ele interno ou externo ao site.
+(__)As ferramentas de busca utilizam apenas os metadados das páginas para gerar resultados, ignorando o conteúdo textual.
+(__)A impressão de páginas da web permite que o conteúdo seja adaptado para um formato adequado à impressão, como remoção de elementos gráficos desnecessários.
+A sequência está correta em:",
+    "opcoes": {
+      "a": "V − F − F − V.",
+      "b": "F − V − V − F.",
+      "c": "F − F − V − F.",
+      "d": "F − V − F − V."
+    },
+    "gabarito": "d",
+    "comentario": "Somente a segunda e quarta frases estão corretas (urls não são só para IP, links podem ser internos/externos, busca usa conteúdo e impressão é adaptável)."
+  },
+  {
+    "id": 12,
+    "pergunta": "O acesso eficiente a recursos na internet envolve conhecimento técnico sobre os componentes estruturais das URLs, os comportamentos padrão e customizáveis dos hiperlinks, a correta distinção entre sites e serviços de indexação, bem como as possibilidades de manipulação e exportação de conteúdo via navegadores. Tais aspectos são essenciais não apenas para usuários, mas também para administradores de sistemas e desenvolvedores web. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:
+(__)Uma URL válida deve seguir a sintaxe definida pela RFC 3986, contendo, em geral, esquema (protocolo), autoridade (incluindo domínio), caminho e, opcionalmente, string de consulta e fragmento, permitindo a localização precisa de recursos na web.
+(__)Um hyperlink, por padrão, dispara a abertura de uma nova aba ou janela no navegador ao ser clicado, comportamento que não pode ser alterado por meio de atributos HTML como target="_self" ou target="_parent".
+(__)Um site é um sistema de indexação automatizada de conteúdos hospedados em servidores distintos, cuja principal função é permitir ao usuário realizar consultas com base em palavras-chave ou operadores booleanos.
+(__)Os navegadores modernos oferecem recursos nativos para impressão de páginas HTML via atalho de teclado, permitindo não apenas a seleção de trechos e ajuste de margens, mas também o redirecionamento da saída para formatos digitais como o Portable Document Format (PDF).
+Após análise, assinale a alternativa que apresenta a sequência correta dos itens acima, de cima para baixo:",
+    "opcoes": {
+      "a": "F – F – V – V.",
+      "b": "V – F – F – V.",
+      "c": "V – F – V – F.",
+      "d": "V – F – F – F."
+    },
+    "gabarito": "b",
+    "comentario": "Primeira e última corretas: URLs seguem RFC, browsers imprimem e exportam PDF nativamente."
+  },
+  {
+    "id": 13,
+    "pergunta": "Considerando a navegação na Internet, como você usaria uma URL para acessar diretamente a página de contato de um site?",
+    "opcoes": {
+      "a": "Use um motor de busca para pesquisar "contato no site example.com" e clique no link encontrado.",
+      "b": "Envie um email para info@example.com pedindo o link para a página de contato.",
+      "c": "Procure por "contato" no site www.example.com usando o campo de busca do site.",
+      "d": "Digite "http://www.example.com/contact" na barra de endereços do navegador para ir diretamente para a página de contato do site."
+    },
+    "gabarito": "d",
+    "comentario": "O uso direto da URL na barra do navegador é o método correto e mais eficiente."
+  },
+  {
+    "id": 14,
+    "pergunta": "Assinale a alternativa que corresponde à principal função da URL na Internet:",
+    "opcoes": {
+      "a": "Localizar recursos na internet ou em uma intranet.",
+      "b": "Definir a identidade visual de um site.",
+      "c": "Criar links para páginas específicas em um site.",
+      "d": "Armazenar recursos virtuais de um site."
+    },
+    "gabarito": "a",
+    "comentario": "Função principal da URL é localizar recursos na internet ou intranet."
+  },
+  {
+    "id": 15,
+    "pergunta": "A URL de um site, os links presentes nas páginas da web, e a funcionalidade dos mecanismos de busca desempenham papéis fundamentais na navegação e organização das informações. Qual dessas opções descreve corretamente o papel de uma URL na navegação?",
+    "opcoes": {
+      "a": "A URL cria o layout visual da página web exibida no navegador.",
+      "b": "A URL identifica o endereço único de uma página na web, permitindo seu acesso direto.",
+      "c": "A URL estabelece a conexão entre o navegador e o servidor para processar arquivos multimídia.",
+      "d": "A URL é responsável por armazenar o conteúdo de um site para acesso posterior."
+    },
+    "gabarito": "b",
+    "comentario": "A URL serve para identificar o endereço único de cada página na web."
+  },
+  {
+    "id": 16,
+    "pergunta": "Analise as alternativas a seguir sobre os conceitos de URL, links, sites e mecanismos de busca, depois assinale a correta:",
+    "opcoes": {
+      "a": "Links são elementos interativos em uma página web que, quando clicados, podem levar o usuário a diferentes locais dentro do mesmo site, mas não para sites externos.",
+      "b": "Uma URL sempre começa com "www" seguido do nome do domínio e não pode conter outros caracteres especiais além de letras e números.",
+      "c": "Mecanismos de busca utilizam algoritmos automatizados para indexar e recuperar informações da web, baseando-se em palavras-chave fornecidas pelos usuários.",
+      "d": "Um site é uma única página web com conteúdo estático, acessível por meio de um endereço de domínio."
+    },
+    "gabarito": "c",
+    "comentario": "A alternativa 'c' descreve corretamente o funcionamento dos mecanismos de busca."
+  },
+  {
+    "id": 17,
+    "pergunta": "Julgue as seguintes assertivas sobre conceitos básicos de hardware e software, dispositivos de entrada e saída, sistema operacional Windows, e Internet:
+I.Hardware refere-se a qualquer componente físico de um computador, enquanto software é um conjunto de instruções que diz ao hardware o que fazer.
+II.Dispositivos de entrada, como o teclado, permitem ao usuário inserir dados, mas não existem dispositivos que possam funcionar simultaneamente como entrada e saída de dados.
+III.O sistema operacional Windows não permite a execução de múltiplas aplicações ao mesmo tempo, sendo limitado a uma única tarefa.
+IV.Uma URL (Uniform Resource Locator) é um tipo específico de link que aponta para um recurso único na web, podendo ser usado para acessar sites através de navegadores.
+V.A impressão de páginas da Internet diretamente de um navegador é possível, mas não permite alterações no layout ou configurações de impressão antes de executar a impressão.
+Assinale a alternativa correta:",
+    "opcoes": {
+      "a": "Apenas as afirmativas I e IV são verdadeiras.",
+      "b": "Apenas as afirmativas I, II e V são verdadeiras.",
+      "c": "Apenas as afirmativas III e V são verdadeiras.",
+      "d": "Apenas as afirmativas III, IV e V são verdadeiras."
+    },
+    "gabarito": "a",
+    "comentario": "Somente as alternativas I e IV estão corretas; as demais apresentam imprecisões sobre dispositivos e softwares."
+  },
+  {
+    "id": 18,
+    "pergunta": "Assinale a alternativa que indica, corretamente, o significado da sigla URL:",
+    "opcoes": {
+      "a": "Unique Resource Locator.",
+      "b": "Uniform Resource Locator.",
+      "c": "Uniform Research Locator.",
+      "d": "Uniform Research Local."
+    },
+    "gabarito": "b",
+    "comentario": "A sigla URL significa Uniform Resource Locator."
+  },
+  {
+    "id": 19,
+    "pergunta": "A Internet é uma ferramenta onipresente na vida moderna, fundamental tanto para atividades cotidianas quanto para operações complexas de empresas e instituições. Avalie as seguintes afirmativas sobre a Internet:
+I.A impressão de páginas da Internet é possível diretamente através de navegadores modernos, que incluem opções para alterar o layout e o tamanho da impressão antes de executar o comando.
+II.A URL (Uniform Resource Locator) é o mesmo que um link, pois ambos se referem à localização exata de um documento na Internet.
+III.Navegar na Internet significa apenas visitar páginas web, sem incluir o download de arquivos ou o uso de aplicativos baseados na web.
+IV.Um site é uma coleção de páginas da web interconectadas que são acessadas a partir de um endereço web comum.
+Assinale a alternativa correta:",
+    "opcoes": {
+      "a": "Apenas as afirmativas I, II e IV são verdadeiras.",
+      "b": "Apenas as afirmativas I e IV são verdadeiras.",
+      "c": "Apenas as afirmativas I, III e IV são verdadeiras.",
+      "d": "Apenas as afirmativas II e III são verdadeiras."
+    },
+    "gabarito": "b",
+    "comentario": "Somente I e IV estão corretas; II confunde link/URL e III limita o conceito de navegação."
+  },
+  {
+    "id": 20,
+    "pergunta": "A internet, rede mundial de computadores interconectados, revolucionou a forma como as pessoas se comunicam, acessam informações e realizam transações. Sobre os conceitos básicos e ferramentas essenciais para navegação na internet, julgue as seguintes afirmações como verdadeiras (V) ou falsas (F):
+(__)Um link, elemento fundamental na navegação web, é um endereço eletrônico completo que direciona o usuário para um recurso específico na internet, ele pode aparecer apenas em um formato: texto.
+(__)Uma URL (Uniform Resource Locator) é um endereço web único que especifica a localização de um recurso na internet, permitindo que navegadores acessem e exibam o conteúdo.
+(__)Os mecanismos de busca, como Google, utilizam algoritmos complexos para indexar e organizar páginas web, permitindo aos usuários encontrar informações relevantes através de palavras-chave.
+Assinale a alternativa cuja respectiva ordem de julgamento está correta:",
+    "opcoes": {
+      "a": "V − F − F.",
+      "b": "F − F − V.",
+      "c": "V − V − V.",
+      "d": "F − V − V."
+    },
+    "gabarito": "d",
+    "comentario": "Primeira é falsa (link não é só endereço/txt), as duas últimas são verdadeiras."
   }
 ]
-  
