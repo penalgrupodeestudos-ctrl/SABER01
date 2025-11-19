@@ -1,0 +1,656 @@
+{
+  "titulo": "Simulado Completo: Espécies, Suspensão e Substituição de Penas (CP)",
+  "instrucoes": "Escolha a alternativa correta para cada questão com base no Código Penal Brasileiro.",
+  "questoes": [
+    {
+      "id": 1,
+      "tema": "Espécies de Penas",
+      "pergunta": "De acordo com o Art. 32 do Código Penal, as penas aplicadas no Brasil são:",
+      "opcoes": {
+        "a": "Privativas de Liberdade e de Multa.",
+        "b": "Privativas de Liberdade, Restritivas de Direitos e de Multa.",
+        "c": "Detenção, Reclusão e Prisão Simples.",
+        "d": "Restritivas de Direitos, Multa e Advertência."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Código Penal estabelece que as penas são: I - privativas de liberdade; II - restritivas de direitos; III - de multa (Art. 32, CP)."
+    },
+    {
+      "id": 2,
+      "tema": "Regimes de Pena",
+      "pergunta": "Assinale a alternativa que apresenta regimes de cumprimento da pena privativa de liberdade:",
+      "opcoes": {
+        "a": "Fechado, Semiaberto e Condicional.",
+        "b": "Integralmente Fechado e Condicional.",
+        "c": "Fechado, Semiaberto e Aberto.",
+        "d": "Fechado, Semiaberto e Domiciliar."
+      },
+      "resposta_correta": "C",
+      "comentario": "Os regimes de cumprimento da pena privativa de liberdade são o fechado, o semiaberto e o aberto (Art. 33, § 1º, CP)."
+    },
+    {
+      "id": 3,
+      "tema": "Regime Semiaberto",
+      "pergunta": "O regime semiaberto destina-se à execução da pena em:",
+      "opcoes": {
+        "a": "Estabelecimento de segurança máxima ou média.",
+        "b": "Casa de albergado ou estabelecimento adequado.",
+        "c": "Colônia agrícola, industrial ou estabelecimento similar.",
+        "d": "Domicílio do condenado, mediante vigilância eletrônica."
+      },
+      "resposta_correta": "C",
+      "comentario": "O regime semiaberto consiste na execução da pena em colônia agrícola, industrial ou estabelecimento similar (Art. 33, § 1º, alínea 'b', CP)."
+    },
+    {
+      "id": 4,
+      "tema": "Pena de Reclusão",
+      "pergunta": "A pena de reclusão deve ser cumprida, inicialmente, nos regimes:",
+      "opcoes": {
+        "a": "Aberto e Domiciliar.",
+        "b": "Fechado, Semiaberto ou Aberto.",
+        "c": "Apenas Fechado ou Semiaberto.",
+        "d": "Apenas Fechado."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena de reclusão comporta qualquer regime de cumprimento: fechado, semiaberto ou aberto, a depender da quantidade da pena e das circunstâncias judiciais (Art. 33, § 2º, CP)."
+    },
+    {
+      "id": 5,
+      "tema": "Pena de Detenção",
+      "pergunta": "A pena de detenção deve ser cumprida, inicialmente, nos regimes:",
+      "opcoes": {
+        "a": "Fechado e Semiaberto.",
+        "b": "Semiaberto e Aberto.",
+        "c": "Apenas Fechado.",
+        "d": "Aberto e Domiciliar."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena de detenção deve ser cumprida nos regimes semiaberto ou aberto. O regime fechado é aplicado apenas em caso de regressão (Art. 33, caput, parte final, CP)."
+    },
+    {
+      "id": 6,
+      "tema": "Pena de Multa",
+      "pergunta": "A pena de multa consiste:",
+      "opcoes": {
+        "a": "Na privação da liberdade por um período limitado, mediante pagamento.",
+        "b": "No pagamento ao fundo penitenciário do valor correspondente ao dano causado.",
+        "c": "No pagamento ao fundo penitenciário, calculado em dias-multa.",
+        "d": "Na prestação pecuniária à vítima e de multa ao Estado."
+      },
+      "resposta_correta": "C",
+      "comentario": "A pena de multa é calculada em dias-multa, sendo o valor de cada dia-multa fixado pelo juiz, e o montante revertido, em regra, ao fundo penitenciário (Art. 49, CP)."
+    },
+    {
+      "id": 7,
+      "tema": "Progressão de Regime",
+      "pergunta": "O tempo de cumprimento de pena em regime mais gravoso, para fins de progressão, é de:",
+      "opcoes": {
+        "a": "1/6 (um sexto).",
+        "b": "2/5 (dois quintos), se primário em crime hediondo.",
+        "c": "40% se primário e crime violento.",
+        "d": "Depende do percentual fixado na Lei de Execução Penal, que varia conforme a natureza do crime e a reincidência."
+      },
+      "resposta_correta": "D",
+      "comentario": "O percentual de progressão de regime é regido pela Lei de Execução Penal (LEP), variando conforme o condenado seja primário ou reincidente, e se o crime é comum, hediondo, com resultado morte, etc."
+    },
+    {
+      "id": 8,
+      "tema": "Regime Inicial",
+      "pergunta": "A respeito do regime inicial de cumprimento de pena privativa de liberdade, é correto afirmar que:",
+      "opcoes": {
+        "a": "A determinação do regime inicial é obrigatória e segue apenas o critério da quantidade da pena.",
+        "b": "O condenado a pena superior a 8 anos deve, obrigatoriamente, começar a cumpri-la em regime fechado.",
+        "c": "O regime semiaberto é imposto apenas para reincidentes condenados a pena superior a 4 anos.",
+        "d": "O juiz pode fixar regime mais brando que o previsto pela quantidade da pena, desde que favoráveis as circunstâncias judiciais (Art. 59)."
+      },
+      "resposta_correta": "B",
+      "comentario": "Se a pena for superior a 8 anos, o regime inicial é sempre o fechado (Art. 33, § 2º, 'a', CP), salvo exceções legais."
+    },
+    {
+      "id": 9,
+      "tema": "Conversão da Multa",
+      "pergunta": "A conversão da pena de multa em pena privativa de liberdade, em caso de não pagamento, é:",
+      "opcoes": {
+        "a": "Permitida e obrigatória, após o trânsito em julgado.",
+        "b": "Vedada, sendo a multa considerada dívida de valor, sujeita à execução fiscal.",
+        "c": "Permitida, desde que a pena de multa seja superior a 10 dias-multa.",
+        "d": "Vedada, exceto se o réu for reincidente em crime doloso."
+      },
+      "resposta_correta": "B",
+      "comentario": "A Lei 9.268/96 modificou o Art. 51 do CP, estabelecendo que a multa não paga se converte em dívida de valor, não podendo ser convertida em pena privativa de liberdade."
+    },
+    {
+      "id": 10,
+      "tema": "Regime Aberto",
+      "pergunta": "O recolhimento em casa de albergado ou estabelecimento adequado é característica do regime:",
+      "opcoes": {
+        "a": "Fechado.",
+        "b": "Semiaberto.",
+        "c": "Aberto.",
+        "d": "Domiciliar."
+      },
+      "resposta_correta": "C",
+      "comentario": "O regime aberto se caracteriza pela execução da pena em casa de albergado ou estabelecimento adequado (Art. 33, § 1º, 'c', CP)."
+    },
+    {
+      "id": 11,
+      "tema": "Substituição - Autonomia",
+      "pergunta": "As penas restritivas de direitos são:",
+      "opcoes": {
+        "a": "Dependentes e não substituem as privativas de liberdade.",
+        "b": "Autônomas e não substituem as privativas de liberdade.",
+        "c": "Autônomas e substituem as privativas de liberdade.",
+        "d": "Autônomas e somente substituem a pena de multa."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 44 do CP estabelece que as penas restritivas de direitos são autônomas e substituem as privativas de liberdade."
+    },
+    {
+      "id": 12,
+      "tema": "Substituição - Limite Doloso",
+      "pergunta": "Qual é o requisito objetivo em relação à quantidade da pena para a substituição da PPL por PRD, em crimes dolosos (sem violência/grave ameaça)?",
+      "opcoes": {
+        "a": "Pena inferior a 1 (um) ano.",
+        "b": "Pena não superior a 4 (quatro) anos.",
+        "c": "Pena não superior a 8 (oito) anos.",
+        "d": "Pena de até 6 (seis) meses."
+      },
+      "resposta_correta": "B",
+      "comentario": "Um dos requisitos objetivos é que a pena privativa de liberdade aplicada não seja superior a 4 (quatro) anos (Art. 44, I, CP)."
+    },
+    {
+      "id": 13,
+      "tema": "Substituição - Crime Culposo",
+      "pergunta": "Em crimes culposos, a substituição da PPL por PRD:",
+      "opcoes": {
+        "a": "É sempre cabível, independentemente da pena aplicada.",
+        "b": "Somente é cabível se a pena for inferior a 4 anos.",
+        "c": "Somente é cabível se a pena for inferior a 1 ano.",
+        "d": "É vedada, pois crimes culposos não admitem PRD."
+      },
+      "resposta_correta": "A",
+      "comentario": "O Art. 44, I, do CP, prevê que a substituição é cabível se 'o crime for culposo, qualquer que seja a pena aplicada'."
+    },
+    {
+      "id": 14,
+      "tema": "Substituição - Reincidência",
+      "pergunta": "O requisito subjetivo que impede a substituição da PPL por PRD é:",
+      "opcoes": {
+        "a": "O réu ser primário em crime culposo.",
+        "b": "O réu ser reincidente em crime culposo.",
+        "c": "O réu ser reincidente em crime doloso.",
+        "d": "O réu ter maus antecedentes."
+      },
+      "resposta_correta": "C",
+      "comentario": "A reincidência em crime doloso impede, em regra, a substituição da pena (Art. 44, II, CP)."
+    },
+    {
+      "id": 15,
+      "tema": "Espécies de PRD",
+      "pergunta": "Assinale a espécie de Pena Restritiva de Direitos:",
+      "opcoes": {
+        "a": "Internação em colônia agrícola.",
+        "b": "Perda de bens e valores.",
+        "c": "Suspensão condicional da pena.",
+        "d": "Limitação de frequência em juízo."
+      },
+      "resposta_correta": "B",
+      "comentario": "A Perda de bens e valores é uma das modalidades de PRD previstas no Art. 43, II, do CP."
+    },
+    {
+      "id": 16,
+      "tema": "Prestação de Serviços",
+      "pergunta": "A Prestação de Serviços à Comunidade (PSC) é cabível para condenações superiores a:",
+      "opcoes": {
+        "a": "Três meses de privação de liberdade.",
+        "b": "Quatro meses de privação de liberdade.",
+        "c": "Seis meses de privação de liberdade.",
+        "d": "Um ano de privação de liberdade."
+      },
+      "resposta_correta": "C",
+      "comentario": "A PSC é aplicável às condenações superiores a seis meses de privação da liberdade (Art. 46, caput, CP)."
+    },
+    {
+      "id": 17,
+      "tema": "PSC - Conceito",
+      "pergunta": "Em que consiste a Prestação de Serviços à Comunidade ou a Entidades Públicas?",
+      "opcoes": {
+        "a": "Atribuição de tarefas gratuitas ao condenado, na proporção de 1 hora por dia de condenação.",
+        "b": "Pagamento de um valor estipulado ao fundo penitenciário.",
+        "c": "Comparecimento mensal a juízo para justificar atividades.",
+        "d": "Proibição de frequentar bares e casas noturnas."
+      },
+      "resposta_correta": "A",
+      "comentario": "A PSC consiste na atribuição de tarefas gratuitas ao condenado, na proporção de uma hora de tarefa por dia de condenação (Art. 46, § 3º, CP)."
+    },
+    {
+      "id": 18,
+      "tema": "Prestação Pecuniária",
+      "pergunta": "A pena de Prestação Pecuniária consiste:",
+      "opcoes": {
+        "a": "No pagamento de um valor fixo ao Estado, destinado ao Tesouro Nacional.",
+        "b": "No pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social.",
+        "c": "Na obrigação de pagar os custos do processo e do inquérito policial.",
+        "d": "Na reparação do dano moral à vítima."
+      },
+      "resposta_correta": "B",
+      "comentario": "A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes, ou a entidade pública ou privada com destinação social (Art. 45, § 1º, CP)."
+    },
+    {
+      "id": 19,
+      "tema": "Interdição de Direitos",
+      "pergunta": "As penas de Interdição Temporária de Direitos são, exceto:",
+      "opcoes": {
+        "a": "Proibição do exercício de cargo, função ou atividade pública.",
+        "b": "Suspensão de autorização ou de habilitação para dirigir veículo.",
+        "c": "Proibição de frequentar determinados lugares.",
+        "d": "Limitação de fim de semana."
+      },
+      "resposta_correta": "D",
+      "comentario": "A Limitação de Fim de Semana (LFS) é uma modalidade autônoma de PRD (Art. 43, VI), e não de Interdição Temporária de Direitos (Art. 47)."
+    },
+    {
+      "id": 20,
+      "tema": "Conversão PRD em PPL",
+      "pergunta": "A conversão da PRD em PPL ocorrerá quando:",
+      "opcoes": {
+        "a": "O condenado for reincidente em crime culposo.",
+        "b": "A pena substituída for superior a um ano.",
+        "c": "Sobrevier condenação a pena privativa de liberdade, por outro crime, cuja execução não tenha sido suspensa.",
+        "d": "O condenado conseguir a reparação do dano antes do prazo final."
+      },
+      "resposta_correta": "C",
+      "comentario": "A conversão da PRD em PPL ocorre, entre outras hipóteses, se sobrevier condenação, por outro crime, a pena privativa de liberdade, cuja execução não tenha sido suspensa (Art. 44, § 5º, CP)."
+    },
+    {
+      "id": 21,
+      "tema": "Substituição - Violência/Ameaça",
+      "pergunta": "A regra de substituição de pena do Art. 44, I, do CP exige, nos crimes dolosos, que a pena não seja superior a 4 anos e o crime não seja cometido com:",
+      "opcoes": {
+        "a": "Estelionato ou peculato.",
+        "b": "Violência ou grave ameaça à pessoa.",
+        "c": "Meio fraudulento.",
+        "d": "Prejuízo à administração pública."
+      },
+      "resposta_correta": "B",
+      "comentario": "A lei veda a substituição nos crimes dolosos cometidos com violência ou grave ameaça à pessoa (Art. 44, I, in fine, CP)."
+    },
+    {
+      "id": 22,
+      "tema": "Conversão - Inviabilidade",
+      "pergunta": "Em caso de inviabilidade de cumprimento simultâneo das penas, em razão de nova condenação a PPL, o juiz da execução penal:",
+      "opcoes": {
+        "a": "Deve sempre converter a pena restritiva de direitos em privativa de liberdade.",
+        "b": "Decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior.",
+        "c": "Deve somar as penas e aplicar a mais grave.",
+        "d": "Deve converter a PRD em multa."
+      },
+      "resposta_correta": "B",
+      "comentario": "O juiz decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior (Art. 44, § 5º, CP)."
+    },
+    {
+      "id": 23,
+      "tema": "Duração da PRD",
+      "pergunta": "A pena restritiva de direitos terá a mesma duração da pena privativa de liberdade substituída, ressalvado que:",
+      "opcoes": {
+        "a": "Se a pena substituída for inferior a 6 meses, o tempo é dobrado.",
+        "b": "Se a pena substituída for superior a um ano, é facultado ao condenado cumprir a pena substitutiva em menor tempo, nunca inferior à metade da PPL fixada.",
+        "c": "A pena restritiva de direitos pode ter a duração reduzida à metade, independentemente da PPL.",
+        "d": "A pena restritiva de direitos deve ser sempre superior a 2 anos."
+      },
+      "resposta_correta": "B",
+      "comentario": "Se a pena substituída for superior a um ano, é facultado ao condenado cumprir a pena substitutiva em menor tempo, mas nunca inferior à metade da pena privativa de liberdade fixada (Art. 55, § 4º, CP)."
+    },
+    {
+      "id": 24,
+      "tema": "Prestação Pecuniária - Valor",
+      "pergunta": "A Prestação Pecuniária não pode ser inferior a:",
+      "opcoes": {
+        "a": "1 salário mínimo.",
+        "b": "10 dias-multa.",
+        "c": "1/30 (um trinta avos) do salário mínimo vigente.",
+        "d": "1/3 (um terço) do valor do prejuízo causado à vítima."
+      },
+      "resposta_correta": "A",
+      "comentario": "A prestação pecuniária não pode ser inferior a 1 (um) salário mínimo, nem superior a 360 (trezentos e sessenta) salários mínimos (Art. 45, § 1º, CP)."
+    },
+    {
+      "id": 25,
+      "tema": "Conversão por Descumprimento",
+      "pergunta": "O que ocorre se o condenado, injustificadamente, descumprir a restrição imposta na pena restritiva de direitos?",
+      "opcoes": {
+        "a": "O juiz deverá converter a PRD em multa.",
+        "b": "O juiz deverá converter a PRD em pena privativa de liberdade.",
+        "c": "O juiz deverá suspender o cumprimento da PRD e aplicar nova restrição.",
+        "d": "O juiz deverá prorrogar o prazo da PRD em mais 1/3."
+      },
+      "resposta_correta": "B",
+      "comentario": "O descumprimento injustificado da restrição imposta acarreta a conversão da PRD em pena privativa de liberdade (Art. 44, § 4º, CP)."
+    },
+    {
+      "id": 26,
+      "tema": "Limitação de Fim de Semana",
+      "pergunta": "A pena de Limitação de Fim de Semana consiste:",
+      "opcoes": {
+        "a": "Na proibição de frequentar bares ou casas noturnas nos fins de semana.",
+        "b": "Na obrigação de permanecer, aos sábados e domingos, por cinco horas diárias, em casa do albergado ou outro local adequado.",
+        "c": "Na obrigação de prestar serviços à comunidade apenas aos sábados.",
+        "d": "Na proibição de se ausentar da comarca nos fins de semana, sem autorização judicial."
+      },
+      "resposta_correta": "B",
+      "comentario": "A LFS consiste na obrigação de permanecer, aos sábados e domingos, por cinco horas diárias, em casa do albergado ou outro estabelecimento adequado (Art. 48, CP)."
+    },
+    {
+      "id": 27,
+      "tema": "Substituição - Até 1 Ano",
+      "pergunta": "Na substituição da pena, o Código Penal permite que, se a condenação for igual ou inferior a um ano:",
+      "opcoes": {
+        "a": "A pena privativa de liberdade seja substituída por uma multa e uma restritiva de direitos.",
+        "b": "A pena privativa de liberdade seja substituída por uma restritiva de direitos ou multa.",
+        "c": "A pena seja convertida em Sursis obrigatoriamente.",
+        "d": "A pena seja reduzida à metade."
+      },
+      "resposta_correta": "B",
+      "comentario": "Se a condenação for igual ou inferior a um ano, a substituição pode ser feita por multa OU por uma pena restritiva de direitos (Art. 44, § 2º, CP)."
+    },
+    {
+      "id": 28,
+      "tema": "Substituição - Acima de 1 Ano",
+      "pergunta": "Em regra, se a pena aplicada for superior a um ano, a PPL é substituída por:",
+      "opcoes": {
+        "a": "Uma pena restritiva de direitos e multa.",
+        "b": "Duas penas restritivas de direitos ou uma restritiva de direitos e multa.",
+        "c": "Apenas multa, caso a pena não ultrapasse 2 anos.",
+        "d": "Uma pena restritiva de direitos, no máximo."
+      },
+      "resposta_correta": "B",
+      "comentario": "Se superior a um ano, a pena privativa de liberdade pode ser substituída por duas restritivas de direitos OU por uma restritiva de direitos e multa (Art. 44, § 2º, CP)."
+    },
+    {
+      "id": 29,
+      "tema": "Substituição - Maria da Penha",
+      "pergunta": "No caso de condenação por violência doméstica e familiar contra a mulher (Lei Maria da Penha), é vedada a aplicação isolada de:",
+      "opcoes": {
+        "a": "Prestação de serviços à comunidade.",
+        "b": "Prestação pecuniária.",
+        "c": "Interdição temporária de direitos.",
+        "d": "Limitação de fim de semana."
+      },
+      "resposta_correta": "B",
+      "comentario": "A Lei Maria da Penha (Lei nº 11.340/06) veda a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de multa."
+    },
+    {
+      "id": 30,
+      "tema": "Substituição - Reincidência Especial",
+      "pergunta": "Em caso de reincidência dolosa, a substituição da PPL por PRD:",
+      "opcoes": {
+        "a": "É sempre vedada.",
+        "b": "Pode ser aplicada, desde que a condenação anterior não seja por crime doloso.",
+        "c": "Pode ser aplicada, se a reincidência não se der pelo mesmo crime e a pena for inferior a 4 anos.",
+        "d": "Pode ser aplicada, desde que as circunstâncias do Art. 59 a recomendem e a condenação anterior não seja pelo mesmo crime."
+      },
+      "resposta_correta": "D",
+      "comentario": "Mesmo que haja reincidência em crime doloso, a substituição pode ser aplicada se a reincidência não for específica (o réu não for reincidente no mesmo crime) e se as circunstâncias do Art. 59 o recomendarem (Art. 44, § 3º, CP)."
+    },
+    {
+      "id": 31,
+      "tema": "Sursis - Conceito",
+      "pergunta": "O Sursis (Suspensão Condicional da Pena) é um benefício:",
+      "opcoes": {
+        "a": "Que suspende a execução da pena restritiva de direitos.",
+        "b": "Que suspende a execução da pena privativa de liberdade.",
+        "c": "Que suspende a pena de multa.",
+        "d": "Que suspende o processo criminal."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Sursis suspende a execução da pena privativa de liberdade, atendidos os requisitos legais (Art. 77, CP)."
+    },
+    {
+      "id": 32,
+      "tema": "Sursis Comum - Limite Pena",
+      "pergunta": "A pena privativa de liberdade máxima para a concessão do Sursis Comum é:",
+      "opcoes": {
+        "a": "Não superior a 4 (quatro) anos.",
+        "b": "Não superior a 2 (dois) anos.",
+        "c": "Inferior a 1 (um) ano.",
+        "d": "Não superior a 8 (oito) anos."
+      },
+      "resposta_correta": "B",
+      "comentario": "A execução da pena privativa de liberdade, não superior a dois anos, poderá ser suspensa (Art. 77, caput, CP)."
+    },
+    {
+      "id": 33,
+      "tema": "Sursis Comum - Prazo",
+      "pergunta": "O período de prova do Sursis Comum é de:",
+      "opcoes": {
+        "a": "Um a três anos.",
+        "b": "Quatro a seis anos.",
+        "c": "Dois a quatro anos.",
+        "d": "Três a cinco anos."
+      },
+      "resposta_correta": "C",
+      "comentario": "O período de prova da suspensão condicional da pena comum é de dois a quatro anos (Art. 77, caput, CP)."
+    },
+    {
+      "id": 34,
+      "tema": "Sursis - Subsidiariedade",
+      "pergunta": "Qual é o requisito que torna o Sursis subsidiário à Substituição da Pena?",
+      "opcoes": {
+        "a": "O condenado não ser reincidente em crime doloso.",
+        "b": "A pena não ser superior a 2 anos.",
+        "c": "Não ser indicada ou cabível a substituição prevista no Art. 44 deste Código.",
+        "d": "A reparação do dano ter sido efetuada."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Sursis só é cabível se 'não for indicada ou cabível a substituição prevista no art. 44 deste Código' (Art. 77, III, CP)."
+    },
+    {
+      "id": 35,
+      "tema": "Sursis Etário",
+      "pergunta": "O Sursis Etário ou Humanitário é concedido quando o condenado é maior de 70 anos de idade ou razões de saúde justifiquem a suspensão. Neste caso, a pena privativa de liberdade máxima é de:",
+      "opcoes": {
+        "a": "Não superior a 2 (dois) anos.",
+        "b": "Não superior a 3 (três) anos.",
+        "c": "Não superior a 4 (quatro) anos.",
+        "d": "Não há limite de pena, desde que haja razões de saúde."
+      },
+      "resposta_correta": "C",
+      "comentario": "A execução da pena privativa de liberdade, não superior a quatro anos, poderá ser suspensa, no caso de Sursis Etário ou Humanitário (Art. 77, § 2º, CP)."
+    },
+    {
+      "id": 36,
+      "tema": "Sursis Etário - Prazo",
+      "pergunta": "Qual o período de prova do Sursis Etário ou Humanitário?",
+      "opcoes": {
+        "a": "Dois a quatro anos.",
+        "b": "Quatro a seis anos.",
+        "c": "Três a cinco anos.",
+        "d": "Oito a dez anos."
+      },
+      "resposta_correta": "B",
+      "comentario": "O prazo do Sursis Etário ou Humanitário é de quatro a seis anos (Art. 77, § 2º, CP)."
+    },
+    {
+      "id": 37,
+      "tema": "Sursis - Condições 1º Ano",
+      "pergunta": "No primeiro ano do prazo de Sursis, o condenado deverá, obrigatoriamente, cumprir uma das seguintes condições:",
+      "opcoes": {
+        "a": "Reparar o dano e pagar a multa.",
+        "b": "Frequentar curso de reabilitação.",
+        "c": "Prestar serviços à comunidade ou submeter-se à limitação de fim de semana.",
+        "d": "Comparecer mensalmente a juízo e justificar atividades."
+      },
+      "resposta_correta": "C",
+      "comentario": "No primeiro ano do prazo, o condenado deverá prestar serviços à comunidade (Art. 46) ou submeter-se à limitação de fim de semana (Art. 48) – Art. 78, § 1º, CP."
+    },
+    {
+      "id": 38,
+      "tema": "Sursis - Revogação Obrigatória I",
+      "pergunta": "A revogação obrigatória do Sursis ocorrerá se, no curso do prazo, o beneficiário:",
+      "opcoes": {
+        "a": "For condenado, em sentença irrecorrível, por contravenção penal.",
+        "b": "É condenado, em sentença irrecorrível, por crime culposo.",
+        "c": "É condenado, em sentença irrecorrível, por crime doloso.",
+        "d": "Deixar de comparecer a juízo por três meses consecutivos."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Sursis será obrigatoriamente revogado se o beneficiário for condenado, em sentença irrecorrível, por crime doloso (Art. 81, I, CP)."
+    },
+    {
+      "id": 39,
+      "tema": "Sursis - Revogação Obrigatória II",
+      "pergunta": "A revogação obrigatória do Sursis também ocorrerá se o beneficiário:",
+      "opcoes": {
+        "a": "Sofrer condenação por outro crime a pena restritiva de direitos.",
+        "b": "For condenado, em sentença irrecorrível, por crime culposo.",
+        "c": "Frustrar, embora solvente, a execução de pena de multa ou não efetuar, sem motivo justificado, a reparação do dano.",
+        "d": "Tiver mau comportamento social."
+      },
+      "resposta_correta": "C",
+      "comentario": "A frustração da execução da multa (embora solvente) ou a falta de reparação do dano (sem justificativa) são causas de revogação obrigatória (Art. 81, II, CP)."
+    },
+    {
+      "id": 40,
+      "tema": "Sursis - Revogação Facultativa",
+      "pergunta": "A revogação facultativa do Sursis ocorrerá se o condenado:",
+      "opcoes": {
+        "a": "É condenado, em sentença irrecorrível, por crime doloso.",
+        "b": "Descumprir a condição do Art. 78, § 1º (PSC ou LFS no primeiro ano).",
+        "c": "É condenado, em sentença irrecorrível, por crime culposo ou contravenção penal.",
+        "d": "Não for localizado para intimação."
+      },
+      "resposta_correta": "C",
+      "comentario": "A condenação por crime culposo ou contravenção penal no curso do prazo é causa de revogação facultativa do Sursis (Art. 81, § 1º, CP)."
+    },
+    {
+      "id": 41,
+      "tema": "Sursis - Condições Gerais",
+      "pergunta": "As condições impostas ao Sursis no Art. 78, § 2º, são:",
+      "opcoes": {
+        "a": "Proibição de frequentar determinados lugares, proibição de ausentar-se da comarca e comparecimento mensal a juízo.",
+        "b": "Prestação de serviços à comunidade e limitação de fim de semana.",
+        "c": "Reparação do dano e pagamento da multa.",
+        "d": "Proibição de portar armas e proibição de consumir bebidas alcoólicas."
+      },
+      "resposta_correta": "A",
+      "comentario": "As condições do Art. 78, § 2º (proibição de frequentar certos lugares, proibição de ausentar-se da comarca e comparecimento mensal a juízo) são as condições gerais do Sursis."
+    },
+    {
+      "id": 42,
+      "tema": "Sursis - Extinção",
+      "pergunta": "Se o benefício do Sursis não for revogado ao final do prazo de prova, a pena privativa de liberdade será:",
+      "opcoes": {
+        "a": "Extinta.",
+        "b": "Convertida em multa.",
+        "c": "Substituída por PRD.",
+        "d": "Considerada cumprida."
+      },
+      "resposta_correta": "A",
+      "comentario": "Expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade (Art. 82, CP)."
+    },
+    {
+      "id": 43,
+      "tema": "Sursis - Prorrogação",
+      "pergunta": "A suspensão condicional da pena pode ser prorrogada se:",
+      "opcoes": {
+        "a": "O beneficiário for condenado por crime doloso.",
+        "b": "O condenado for reincidente em crime culposo.",
+        "c": "O juiz entender que a reabilitação depende de mais tempo.",
+        "d": "O prazo terminar sem que tenha havido a revogação por descumprimento injustificado."
+      },
+      "resposta_correta": "D",
+      "comentario": "O prazo pode ser prorrogado até o máximo legal se houver motivo para a revogação facultativa ou se o juiz precisar de mais tempo para decidir sobre a revogação/extinção. No entanto, o final do prazo sem revogação leva à extinção da pena (Art. 82, CP)."
+    },
+    {
+      "id": 44,
+      "tema": "Sursis - Consequência da Revogação",
+      "pergunta": "O condenado em Sursis que for condenado, em sentença irrecorrível, por crime doloso, terá seu benefício:",
+      "opcoes": {
+        "a": "Suspenso, até a conclusão do processo penal do crime doloso.",
+        "b": "Revogado, obrigatoriamente.",
+        "c": "Revogado, facultativamente.",
+        "d": "Convertido em PRD."
+      },
+      "resposta_correta": "B",
+      "comentario": "A condenação irrecorrível por crime doloso é causa de revogação obrigatória do Sursis (Art. 81, I, CP)."
+    },
+    {
+      "id": 45,
+      "tema": "Sursis - Consequência da Revogação II",
+      "pergunta": "A revogação do Sursis implica que o condenado deve:",
+      "opcoes": {
+        "a": "Cumprir integralmente a pena que lhe foi imposta, descontado o tempo em que o Sursis vigorou.",
+        "b": "Cumprir integralmente a pena que lhe foi imposta, sem desconto do período de prova.",
+        "c": "Cumprir apenas a metade da pena.",
+        "d": "Ter a pena substituída por uma restritiva de direitos."
+      },
+      "resposta_correta": "B",
+      "comentario": "Revogado o Sursis, o condenado cumprirá integralmente a pena que lhe foi imposta, pois o período de prova não é considerado pena cumprida (Art. 81, § 2º, CP)."
+    },
+    {
+      "id": 46,
+      "tema": "PRD - Aplicação",
+      "pergunta": "A prestação de serviços à comunidade pode ser cumprida em hospitais, escolas e orfanatos. Sua aplicabilidade é determinada:",
+      "opcoes": {
+        "a": "Apenas em crimes contra a ordem tributária.",
+        "b": "Apenas em crimes ambientais.",
+        "c": "Apenas em crimes de trânsito.",
+        "d": "Em qualquer tipo de crime, desde que preenchidos os requisitos para substituição da PPL."
+      },
+      "resposta_correta": "D",
+      "comentario": "A PSC é uma modalidade de PRD e pode ser aplicada a qualquer crime, desde que preenchidos os requisitos do Art. 44 do CP para a substituição da PPL."
+    },
+    {
+      "id": 47,
+      "tema": "Substituição - Crime Culposo e Pena Alta",
+      "pergunta": "Se o juiz verificar que a pena aplicada ao réu é superior a 4 (quatro) anos, mas o crime foi culposo, a substituição da PPL por PRD:",
+      "opcoes": {
+        "a": "É vedada, pois o limite de pena foi ultrapassado.",
+        "b": "É obrigatória, independentemente da reincidência.",
+        "c": "É possível, pois em crime culposo a substituição é cabível, independentemente da pena.",
+        "d": "É vedada, pois o crime é de grande potencial ofensivo."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 44, I, do CP, permite a substituição se o crime for culposo, 'qualquer que seja a pena aplicada', desde que preenchidos os demais requisitos."
+    },
+    {
+      "id": 48,
+      "tema": "Substituição e Sursis - Limites",
+      "pergunta": "No caso de crime doloso cometido sem violência ou grave ameaça, com pena de 4 anos e 1 mês de reclusão, o juiz:",
+      "opcoes": {
+        "a": "Pode conceder o Sursis Comum.",
+        "b": "Pode conceder o Sursis Etário.",
+        "c": "Não pode realizar a substituição da PPL por PRD.",
+        "d": "Deve conceder o Sursis Comum ou a substituição."
+      },
+      "resposta_correta": "C",
+      "comentario": "O limite para substituição em crime doloso é não superior a 4 anos (Art. 44, I, CP). O Sursis Comum é vedado (limite de 2 anos), e o Sursis Etário/Humanitário, apesar de o limite ser 4 anos, exige mais de 70 anos ou razão de saúde."
+    },
+    {
+      "id": 49,
+      "tema": "PRD - Duração I",
+      "pergunta": "A Interdição Temporária de Direitos, como PRD, terá a mesma duração da pena privativa de liberdade substituída. Qual o prazo máximo de duração desta pena?",
+      "opcoes": {
+        "a": "2 anos.",
+        "b": "4 anos.",
+        "c": "8 anos.",
+        "d": "O Código Penal não fixa limite máximo, dependendo da PPL substituída."
+      },
+      "resposta_correta": "D",
+      "comentario": "As penas restritivas de direitos, em regra, terão a mesma duração da pena privativa de liberdade substituída (Art. 55, CP), não havendo um limite máximo fixado pelo artigo, mas dependente da pena aplicada na sentença."
+    },
+    {
+      "id": 50,
+      "tema": "Sursis - Finalidade",
+      "pergunta": "O Sursis é uma medida de política criminal que visa:",
+      "opcoes": {
+        "a": "Aumentar o encarceramento de infratores de menor potencial ofensivo.",
+        "b": "Estimular a substituição da PPL pela multa.",
+        "c": "Evitar a prisão de curta duração, permitindo a ressocialização em liberdade mediante condições.",
+        "d": "Impedir a aplicação de penas restritivas de direitos."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Sursis é uma alternativa penal que busca evitar o impacto negativo da prisão de curta duração, suspendendo a execução da PPL e sujeitando o condenado a um período de prova com condições."
+    }
+  ]
+}
