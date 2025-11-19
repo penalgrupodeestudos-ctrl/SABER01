@@ -1,0 +1,246 @@
+{
+  "titulo": "Simulado Reforço de Terça – IDECAP – Direito Administrativo (versão JSON com gabarito e comentários)",
+  "fonte": ":contentReference[oaicite:1]{index=1}",
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Os princípios expressos no art. 37 da Constituição Federal incluem:",
+      "opcoes": {
+        "a": "Eficiência, moralidade, publicidade, supremacia do interesse público e proporcionalidade.",
+        "b": "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+        "c": "Supremacia do interesse público, autotutela e indisponibilidade.",
+        "d": "Legalidade, moralidade, supremacia do interesse privado e eficiência."
+      },
+      "resposta": "b",
+      "comentario": "Art. 37, caput, CF/88: legalidade, impessoalidade, moralidade, publicidade e eficiência."
+    },
+    {
+      "id": 2,
+      "pergunta": "O princípio da impessoalidade determina que:",
+      "opcoes": {
+        "a": "O administrador pode se afastar da lei quando necessário.",
+        "b": "Os atos devem ser identificados com a figura pessoal do agente.",
+        "c": "A administração deve tratar todos de forma igualitária, sem favoritismo.",
+        "d": "Os atos administrativos não precisam ser motivados."
+      },
+      "resposta": "c",
+      "comentario": "Impessoalidade = igualdade + vedação de promoção pessoal."
+    },
+    {
+      "id": 3,
+      "pergunta": "O poder da Administração caracterizado pela possibilidade de organizar internamente suas funções e distribuir competências é o:",
+      "opcoes": {
+        "a": "Poder disciplinar.",
+        "b": "Poder hierárquico.",
+        "c": "Poder de polícia.",
+        "d": "Poder regulamentar."
+      },
+      "resposta": "b",
+      "comentario": "O poder hierárquico organiza funções e distribui competências."
+    },
+    {
+      "id": 4,
+      "pergunta": "O poder de polícia se manifesta por meio de:",
+      "opcoes": {
+        "a": "Contratos administrativos.",
+        "b": "Sanções entre particulares.",
+        "c": "Atos normativos e concretos que restringem direitos no interesse público.",
+        "d": "Pena de demissão exclusivamente."
+      },
+      "resposta": "c",
+      "comentario": "Poder de polícia limita direitos para proteger o interesse coletivo."
+    },
+    {
+      "id": 5,
+      "pergunta": "São atributos do ato administrativo, exceto:",
+      "opcoes": {
+        "a": "Presunção de legitimidade.",
+        "b": "Tipicidade.",
+        "c": "Imperatividade.",
+        "d": "Autoexecutoriedade."
+      },
+      "resposta": "b",
+      "comentario": "Tipicidade não é atributo do ato; é característica de atos vinculados."
+    },
+    {
+      "id": 6,
+      "pergunta": "A competência, como requisito do ato administrativo, é:",
+      "opcoes": {
+        "a": "Elemento discricionário.",
+        "b": "Elemento vinculado, inderrogável e improrrogável.",
+        "c": "Ato político.",
+        "d": "Atributo do ato administrativo."
+      },
+      "resposta": "b",
+      "comentario": "Competência é sempre vinculada e não pode ser delegada além da lei."
+    },
+    {
+      "id": 7,
+      "pergunta": "A anulação do ato administrativo:",
+      "opcoes": {
+        "a": "Só pode ser feita pelo Poder Judiciário.",
+        "b": "É feita quando o ato é inconveniente.",
+        "c": "Ocorre para corrigir ilegalidade, podendo ser pela própria Administração.",
+        "d": "É forma de convalidação."
+      },
+      "resposta": "c",
+      "comentario": "Autotutela: Súmula 473 do STF permite anulação pela Administração."
+    },
+    {
+      "id": 8,
+      "pergunta": "A revogação do ato administrativo ocorre quando:",
+      "opcoes": {
+        "a": "O ato é ilegal.",
+        "b": "Há vício grave.",
+        "c": "O ato se torna inoportuno ou inconveniente.",
+        "d": "O Judiciário determina."
+      },
+      "resposta": "c",
+      "comentario": "Revogação trata do mérito administrativo, não de ilegalidade."
+    },
+    {
+      "id": 9,
+      "pergunta": "O regime jurídico dos servidores públicos abrange:",
+      "opcoes": {
+        "a": "Apenas servidores estatutários.",
+        "b": "Apenas empregados públicos.",
+        "c": "Servidores estatutários e empregados públicos, conforme CF.",
+        "d": "Apenas temporários."
+      },
+      "resposta": "c",
+      "comentario": "CF/88 art. 39: coexistência de regimes estatutários e celetistas."
+    },
+    {
+      "id": 10,
+      "pergunta": "É dever do servidor público:",
+      "opcoes": {
+        "a": "Atender seus interesses pessoais.",
+        "b": "Atuar com zelo e dedicação.",
+        "c": "Aceitar presentes de qualquer valor.",
+        "d": "Recusar ordens legais."
+      },
+      "resposta": "b",
+      "comentario": "Dever funcional previsto no Decreto 1.171/1994 e estatutos."
+    },
+    {
+      "id": 11,
+      "pergunta": "A responsabilidade do servidor por danos ao erário pode ser:",
+      "opcoes": {
+        "a": "Apenas penal.",
+        "b": "Apenas civil.",
+        "c": "Civil, penal e administrativa.",
+        "d": "Apenas administrativa."
+      },
+      "resposta": "c",
+      "comentario": "As três esferas são independentes entre si."
+    },
+    {
+      "id": 12,
+      "pergunta": "Segundo a Lei nº 9.784/1999, constitui princípio do processo administrativo:",
+      "opcoes": {
+        "a": "Supremacia do interesse privado.",
+        "b": "Publicidade dos atos processuais.",
+        "c": "Direito adquirido à tramitação sigilosa.",
+        "d": "Restrição à motivação."
+      },
+      "resposta": "b",
+      "comentario": "Art. 2º: publicidade é regra; sigilo é exceção."
+    },
+    {
+      "id": 13,
+      "pergunta": "A Administração deve anular atos administrativos ilegais:",
+      "opcoes": {
+        "a": "A qualquer tempo.",
+        "b": "Em até 5 anos, salvo má-fé.",
+        "c": "Em até 180 dias.",
+        "d": "Somente por ordem judicial."
+      },
+      "resposta": "b",
+      "comentario": "Art. 54 da Lei 9.784/99: decadência de 5 anos."
+    },
+    {
+      "id": 14,
+      "pergunta": "Sobre responsabilidade civil do Estado, a CF/88 adota a teoria:",
+      "opcoes": {
+        "a": "Subjetiva para todos os atos.",
+        "b": "Objetiva para atos comissivos e subjetiva para omissivos.",
+        "c": "Objetiva para todos os atos.",
+        "d": "Subjetiva para atos comissivos."
+      },
+      "resposta": "b",
+      "comentario": "Jurisprudência: omissão exige culpa; ação = responsabilidade objetiva."
+    },
+    {
+      "id": 15,
+      "pergunta": "A responsabilidade civil objetiva do Estado exige:",
+      "opcoes": {
+        "a": "Prova de dolo do agente.",
+        "b": "Prova de culpa.",
+        "c": "Dano + nexo causal.",
+        "d": "Dano + culpa da vítima."
+      },
+      "resposta": "c",
+      "comentario": "Teoria do risco administrativo: não exige dolo ou culpa."
+    },
+    {
+      "id": 16,
+      "pergunta": "Conforme a LIA, constitui ato de improbidade que causa enriquecimento ilícito:",
+      "opcoes": {
+        "a": "Atrasar ato por negligência.",
+        "b": "Perceber vantagem patrimonial indevida.",
+        "c": "Causar dano culposo ao erário.",
+        "d": "Atentar contra princípios."
+      },
+      "resposta": "b",
+      "comentario": "Art. 9º da LIA: enriquecimento ilícito sempre exige vantagem indevida."
+    },
+    {
+      "id": 17,
+      "pergunta": "Atos de improbidade que causam lesão ao erário podem ser punidos quando:",
+      "opcoes": {
+        "a": "Apenas dolosos.",
+        "b": "Dolosos ou culposos (após a Lei 14.230/2021).",
+        "c": "Apenas culposos.",
+        "d": "Apenas com dolo específico."
+      },
+      "resposta": "b",
+      "comentario": "A reforma da LIA voltou a admitir culpa na lesão ao erário."
+    },
+    {
+      "id": 18,
+      "pergunta": "Com a reforma da LIA, o ato que viola princípios da Administração:",
+      "opcoes": {
+        "a": "Pode ser culposo.",
+        "b": "É punido mesmo sem dolo.",
+        "c": "Exige dolo.",
+        "d": "Não constitui improbidade."
+      },
+      "resposta": "c",
+      "comentario": "Art. 11: após 14.230/21, exige dolo."
+    },
+    {
+      "id": 19,
+      "pergunta": "A sanção de perda da função pública por improbidade:",
+      "opcoes": {
+        "a": "É automática após condenação.",
+        "b": "Alcança cargos que o agente não ocupa mais.",
+        "c": "Só recai sobre o cargo exercido na época do ilícito.",
+        "d": "Se estende a cargos futuros."
+      },
+      "resposta": "c",
+      "comentario": "STF: perda da função só atinge o cargo do momento do fato."
+    },
+    {
+      "id": 20,
+      "pergunta": "O poder regulamentar permite à Administração:",
+      "opcoes": {
+        "a": "Criar novas leis.",
+        "b": "Editar atos normativos para fiel execução da lei.",
+        "c": "Aplicar punições disciplinares.",
+        "d": "Usar força policial."
+      },
+      "resposta": "b",
+      "comentario": "Art. 84, IV, CF: poder regulamentar executa a lei, não cria direitos novos."
+    }
+  ]
+}
