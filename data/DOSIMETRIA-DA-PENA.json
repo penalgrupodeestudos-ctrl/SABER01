@@ -1,0 +1,656 @@
+{
+  "titulo": "Simulado Completo: Dosimetria, Aplicação e Individualização da Pena (CP)",
+  "instrucoes": "Escolha a alternativa correta para cada questão com base nos Arts. 59 a 77 do Código Penal Brasileiro, relativos à aplicação da pena.",
+  "questoes": [
+    {
+      "id": 1,
+      "tema": "Dosimetria - Estrutura",
+      "pergunta": "De acordo com o Art. 68 do Código Penal, a individualização da pena privativa de liberdade obedece, na ordem, a quais fases?",
+      "opcoes": {
+        "a": "Pena Base, Causas de Aumento/Diminuição e Agravantes/Atenuantes.",
+        "b": "Agravantes/Atenuantes, Pena Base e Causas de Aumento/Diminuição.",
+        "c": "Pena Base, Agravantes/Atenuantes e Causas de Aumento/Diminuição.",
+        "d": "Pena Base, Causas de Diminuição e Causas de Aumento."
+      },
+      "resposta_correta": "C",
+      "comentario": "A dosimetria segue o sistema trifásico: 1ª Fase (Pena Base/Art. 59), 2ª Fase (Agravantes/Atenuantes/Arts. 61-66) e 3ª Fase (Causas de Aumento e Diminuição/Art. 68)."
+    },
+    {
+      "id": 2,
+      "tema": "1ª Fase - Circunstâncias Judiciais",
+      "pergunta": "Qual é a fase da dosimetria da pena em que o juiz considera a culpabilidade, os antecedentes, a conduta social, a personalidade do agente, os motivos, as circunstâncias, as consequências do crime e o comportamento da vítima?",
+      "opcoes": {
+        "a": "Primeira Fase (Pena Base - Art. 59).",
+        "b": "Segunda Fase (Pena Intermediária - Agravantes e Atenuantes).",
+        "c": "Terceira Fase (Pena Definitiva - Causas de Aumento e Diminuição).",
+        "d": "Fixação do Regime Inicial."
+      },
+      "resposta_correta": "A",
+      "comentario": "As oito circunstâncias judiciais estão previstas no Art. 59 do CP e são utilizadas para fixar a pena base."
+    },
+    {
+      "id": 3,
+      "tema": "1ª Fase - Pena Base",
+      "pergunta": "Na primeira fase da dosimetria, a pena deve ser fixada, obrigatoriamente, entre:",
+      "opcoes": {
+        "a": "O mínimo da pena cominada e o máximo de 1/3 acima do máximo legal.",
+        "b": "O mínimo e o máximo da pena cominada em abstrato para o crime.",
+        "c": "O limite máximo de 4 anos de reclusão.",
+        "d": "O mínimo legal e o dobro do mínimo legal."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena base deve ser fixada dentro dos limites da pena cominada em abstrato para o crime (mínimo e máximo previstos na lei para o tipo penal), conforme o Art. 59 do CP."
+    },
+    {
+      "id": 4,
+      "tema": "2ª Fase - Agravantes",
+      "pergunta": "São circunstâncias agravantes da pena, conforme o Art. 61 do CP, exceto:",
+      "opcoes": {
+        "a": "Cometer o crime mediante paga ou promessa de recompensa (motivo torpe).",
+        "b": "Cometer o crime com abuso de autoridade ou prevalecendo-se de relações domésticas.",
+        "c": "Cometer o crime por motivo de relevante valor social ou moral.",
+        "d": "Cometer o crime contra ascendente, descendente, irmão ou cônjuge."
+      },
+      "resposta_correta": "C",
+      "comentario": "O motivo de relevante valor social ou moral é uma circunstância atenuante (Art. 65, I, CP), e não agravante."
+    },
+    {
+      "id": 5,
+      "tema": "2ª Fase - Atenuantes",
+      "pergunta": "É considerada circunstância atenuante da pena, segundo o Art. 65 do CP:",
+      "opcoes": {
+        "a": "A reincidência.",
+        "b": "Ter o agente cometido o crime por motivo fútil.",
+        "c": "Ter o agente confessado espontaneamente a autoria do crime.",
+        "d": "Ter o agente cometido o crime contra criança."
+      },
+      "resposta_correta": "C",
+      "comentario": "A confissão espontânea da autoria perante a autoridade é uma das atenuantes previstas no Art. 65, III, 'd', do CP."
+    },
+    {
+      "id": 6,
+      "tema": "2ª Fase - Limites",
+      "pergunta": "O que ocorre com a pena na segunda fase da dosimetria (aplicação de agravantes e atenuantes)?",
+      "opcoes": {
+        "a": "A pena pode ser reduzida aquém do mínimo legal ou aumentada além do máximo legal.",
+        "b": "A pena não pode ultrapassar o máximo legal nem ficar abaixo do mínimo legal (Súmula 231 do STJ).",
+        "c": "A pena deve ser aumentada em no máximo 1/3.",
+        "d": "A pena deve ser fixada em patamar intermediário entre as cominações mínima e máxima."
+      },
+      "resposta_correta": "B",
+      "comentario": "Conforme a Súmula 231 do STJ, a incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal."
+    },
+    {
+      "id": 7,
+      "tema": "3ª Fase - Causas",
+      "pergunta": "As causas de aumento e de diminuição de pena (majorantes e minorantes) são aplicadas em qual fase da dosimetria?",
+      "opcoes": {
+        "a": "Primeira Fase.",
+        "b": "Segunda Fase.",
+        "c": "Terceira Fase.",
+        "d": "Após a fixação do regime inicial."
+      },
+      "resposta_correta": "C",
+      "comentario": "As causas de aumento e de diminuição de pena (previstas na Parte Geral ou na Parte Especial do CP) são aplicadas na terceira fase da dosimetria (Art. 68, CP)."
+    },
+    {
+      "id": 8,
+      "tema": "3ª Fase - Limites",
+      "pergunta": "Na terceira fase da dosimetria, as causas de aumento e diminuição:",
+      "opcoes": {
+        "a": "São sempre aplicadas na fração de 1/6.",
+        "b": "Não podem levar a pena abaixo do mínimo ou acima do máximo legal cominado.",
+        "c": "Podem ultrapassar os limites da pena cominada em abstrato.",
+        "d": "São compensadas entre si na proporção de 1/3."
+      },
+      "resposta_correta": "C",
+      "comentario": "As causas de aumento e diminuição (diferente das agravantes/atenuantes) podem levar a pena final para aquém do mínimo ou além do máximo cominado em abstrato (ex: Tentativa ou Roubo Majorado)."
+    },
+    {
+      "id": 9,
+      "tema": "Concurso de Agravantes e Atenuantes",
+      "pergunta": "No concurso entre agravantes e atenuantes, o juiz deve, na segunda fase:",
+      "opcoes": {
+        "a": "Aplicar sempre a atenuante, por ser mais benéfica ao réu.",
+        "b": "Aplicar sempre a agravante, por representar maior reprovabilidade da conduta.",
+        "c": "Compensar, preponderando as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência.",
+        "d": "Desconsiderar as agravantes, aplicando apenas as atenuantes."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 67 do CP estabelece a regra da preponderância, na qual a reincidência e as circunstâncias ligadas à personalidade e motivos preponderam sobre as demais, para fins de compensação."
+    },
+    {
+      "id": 10,
+      "tema": "Preponderância",
+      "pergunta": "Dentre as circunstâncias da segunda fase, qual delas é considerada a mais preponderante, devendo ser compensada com as outras preponderantes?",
+      "opcoes": {
+        "a": "A confissão espontânea.",
+        "b": "O motivo fútil.",
+        "c": "A reincidência.",
+        "d": "A menoridade relativa (menos de 21 anos na data do fato)."
+      },
+      "resposta_correta": "C",
+      "comentario": "A reincidência é a circunstância legal que mais prepondera, devendo ser compensada, por exemplo, com a confissão ou a menoridade relativa (Art. 67, CP)."
+    },
+    {
+      "id": 11,
+      "tema": "Reincidência",
+      "pergunta": "A reincidência, como circunstância agravante, ocorre quando o agente comete novo crime:",
+      "opcoes": {
+        "a": "Em até 5 anos após a extinção da pena pelo crime anterior.",
+        "b": "Após o trânsito em julgado da sentença que o condenou por crime anterior.",
+        "c": "Após o cumprimento total da pena pelo crime anterior.",
+        "d": "Durante o período de prova do Sursis."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Art. 63 do CP define a reincidência: 'Verifica-se a reincidência quando o agente comete novo crime, depois de transitar em julgado a sentença que, no País ou no estrangeiro, o tenha condenado por crime anterior.'"
+    },
+    {
+      "id": 12,
+      "tema": "Atenuante - Idade",
+      "pergunta": "A menoridade relativa, ou seja, ter o agente menos de 21 (vinte e um) anos na data do fato, é:",
+      "opcoes": {
+        "a": "Uma causa de diminuição de pena.",
+        "b": "Uma circunstância agravante.",
+        "c": "Uma circunstância atenuante.",
+        "d": "Uma circunstância judicial (Art. 59)."
+      },
+      "resposta_correta": "C",
+      "comentario": "A menoridade relativa (Art. 65, I, CP) é uma atenuante legal, assim como a maioridade (mais de 70 anos) na data da sentença (Art. 65, I, CP)."
+    },
+    {
+      "id": 13,
+      "tema": "Agravante - Paga/Recompensa",
+      "pergunta": "Cometer o crime mediante paga ou promessa de recompensa é um motivo torpe que funciona como:",
+      "opcoes": {
+        "a": "Agravante genérica (Art. 61, II, 'a', CP).",
+        "b": "Causa de aumento de pena (Majorante).",
+        "c": "Atenuante inominada.",
+        "d": "Qualificadora do crime (exclusivamente)."
+      },
+      "resposta_correta": "A",
+      "comentario": "É agravante genérica do Art. 61, II, 'a', CP. Contudo, se também for qualificadora do crime (ex: homicídio qualificado), prevalece como qualificadora, sendo vedado o *bis in idem*."
+    },
+    {
+      "id": 14,
+      "tema": "Concurso Formal",
+      "pergunta": "No concurso formal de crimes, o juiz, na terceira fase da dosimetria, aplica a regra:",
+      "opcoes": {
+        "a": "Do cúmulo material (soma das penas).",
+        "b": "Da exasperação (aumenta a maior das penas de 1/6 até metade).",
+        "c": "Da substituição de pena.",
+        "d": "Da absorção (aplica apenas a pena mais grave)."
+      },
+      "resposta_correta": "B",
+      "comentario": "No concurso formal (Art. 70, CP), aplica-se a pena mais grave (ou a aumentada, se idênticas) por uma fração de 1/6 até 1/2, a depender do número de crimes (regra da exasperação)."
+    },
+    {
+      "id": 15,
+      "tema": "Tentativa",
+      "pergunta": "A tentativa (Art. 14, II, CP) é uma causa de diminuição de pena aplicada na terceira fase, cuja redução é de:",
+      "opcoes": {
+        "a": "1/6 a 1/3, a depender do 'iter criminis' percorrido.",
+        "b": "1/3 a 2/3, a depender do 'iter criminis' percorrido.",
+        "c": "2/3.",
+        "d": "Metade da pena base, no máximo."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Art. 14, parágrafo único, do CP, estabelece a diminuição da pena de um a dois terços, sendo o grau de diminuição inversamente proporcional ao caminho do crime (iter criminis) percorrido."
+    },
+    {
+      "id": 16,
+      "tema": "Crime Continuado",
+      "pergunta": "No crime continuado (Art. 71, CP), a pena de um só dos crimes (se idênticas) ou a mais grave (se diferentes) é aumentada:",
+      "opcoes": {
+        "a": "De um a dois terços.",
+        "b": "De 1/6 a 2/3, a depender do número de infrações.",
+        "c": "Do dobro.",
+        "d": "Em metade."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena é aumentada de 1/6 a 2/3, conforme o número de infrações cometidas. Esta é uma causa de aumento aplicada na terceira fase."
+    },
+    {
+      "id": 17,
+      "tema": "Regime Inicial - Regra Geral",
+      "pergunta": "Qual o regime inicial de cumprimento da pena privativa de liberdade para o condenado NÃO reincidente, com pena de 6 (seis) anos de reclusão, se todas as circunstâncias judiciais forem favoráveis?",
+      "opcoes": {
+        "a": "Fechado.",
+        "b": "Semiaberto.",
+        "c": "Aberto.",
+        "d": "Domiciliar."
+      },
+      "resposta_correta": "B",
+      "comentario": "Para réu primário e pena superior a 4 anos e não excedente a 8 anos (até 8 anos), o regime inicial é o semiaberto, se as circunstâncias judiciais forem favoráveis (Art. 33, § 2º, 'b', CP)."
+    },
+    {
+      "id": 18,
+      "tema": "Regime Inicial - Reincidente",
+      "pergunta": "Para o condenado reincidente, com pena de 4 (quatro) anos de reclusão, o regime inicial adequado é, em regra:",
+      "opcoes": {
+        "a": "Aberto, se as circunstâncias judiciais forem favoráveis.",
+        "b": "Semiaberto.",
+        "c": "Fechado, independentemente das circunstâncias.",
+        "d": "Domiciliar."
+      },
+      "resposta_correta": "B",
+      "comentario": "O reincidente, cuja pena não ultrapassa 4 anos, deve começar no regime semiaberto (Art. 33, § 2º, 'c', CP, combinado com a Súmula 269 do STJ)."
+    },
+    {
+      "id": 19,
+      "tema": "Substituição (PRD) - Limite",
+      "pergunta": "Em crime doloso sem violência ou grave ameaça à pessoa, a substituição da pena privativa de liberdade por restritivas de direitos é cabível se a pena aplicada for:",
+      "opcoes": {
+        "a": "Inferior a 2 (dois) anos.",
+        "b": "Não superior a 4 (quatro) anos.",
+        "c": "Não superior a 8 (oito) anos.",
+        "d": "Superior a 1 (um) ano."
+      },
+      "resposta_correta": "B",
+      "comentario": "O requisito objetivo é que a pena aplicada não seja superior a 4 (quatro) anos (Art. 44, I, CP)."
+    },
+    {
+      "id": 20,
+      "tema": "Substituição (PRD) - Crime Culposo",
+      "pergunta": "Em relação aos crimes culposos, a substituição da pena privativa de liberdade por restritivas de direitos é cabível:",
+      "opcoes": {
+        "a": "Apenas se a pena for inferior a 4 anos.",
+        "b": "Apenas se a pena for inferior a 2 anos.",
+        "c": "Qualquer que seja a pena aplicada, se favoráveis as circunstâncias.",
+        "d": "Desde que o réu não seja reincidente em crime doloso."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 44, I, do CP, estabelece que a substituição é cabível se 'o crime for culposo, qualquer que seja a pena aplicada'."
+    },
+    {
+      "id": 21,
+      "tema": "Sursis Comum - Limite Pena",
+      "pergunta": "Qual a pena privativa de liberdade máxima para a concessão do Sursis Comum (Suspensão Condicional da Pena)?",
+      "opcoes": {
+        "a": "Não superior a 4 (quatro) anos.",
+        "b": "Não superior a 2 (dois) anos.",
+        "c": "Inferior a 1 (um) ano.",
+        "d": "Não há limite, desde que o regime inicial seja o aberto."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Sursis Comum aplica-se à pena privativa de liberdade não superior a dois anos (Art. 77, caput, CP)."
+    },
+    {
+      "id": 22,
+      "tema": "Sursis - Subsidiariedade",
+      "pergunta": "O Sursis é subsidiário em relação à substituição da pena (PRD). O que isso significa?",
+      "opcoes": {
+        "a": "Que o juiz só aplica o Sursis se a pena for maior que 4 anos.",
+        "b": "Que a PRD deve ser aplicada antes do Sursis, sendo este cabível apenas se a substituição for inviável ou não indicada.",
+        "c": "Que o Sursis só é cabível em caso de crime culposo.",
+        "d": "Que o Sursis e a PRD podem ser aplicados simultaneamente."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Art. 77, III, CP, exige que não seja 'indicada ou cabível a substituição prevista no art. 44 deste Código', demonstrando a subsidiariedade do Sursis."
+    },
+    {
+      "id": 23,
+      "tema": "Período de Prova - Sursis",
+      "pergunta": "O período de prova do Sursis Comum é de:",
+      "opcoes": {
+        "a": "Um a três anos.",
+        "b": "Dois a quatro anos.",
+        "c": "Quatro a seis anos.",
+        "d": "No máximo, metade da pena aplicada."
+      },
+      "resposta_correta": "B",
+      "comentario": "O período de prova da suspensão condicional da pena comum é de dois a quatro anos (Art. 77, caput, CP)."
+    },
+    {
+      "id": 24,
+      "tema": "Sursis - Condição Obrigatória",
+      "pergunta": "No primeiro ano do prazo do Sursis Comum, qual é a condição obrigatória que o condenado deve cumprir?",
+      "opcoes": {
+        "a": "Reparar o dano.",
+        "b": "Limitação de fim de semana ou prestação de serviços à comunidade.",
+        "c": "Comparecer mensalmente ao juízo.",
+        "d": "Não se ausentar da comarca."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Art. 78, § 1º, CP, impõe, como condição obrigatória para o primeiro ano, a prestação de serviços à comunidade (Art. 46) ou a limitação de fim de semana (Art. 48)."
+    },
+    {
+      "id": 25,
+      "tema": "Sursis - Revogação Obrigatória",
+      "pergunta": "Qual das seguintes situações leva à revogação obrigatória do Sursis?",
+      "opcoes": {
+        "a": "Condenação irrecorrível por crime culposo.",
+        "b": "Condenação irrecorrível por crime doloso.",
+        "c": "Descumprimento das condições do Art. 78, § 2º (condições gerais).",
+        "d": "Condenação irrecorrível por contravenção penal."
+      },
+      "resposta_correta": "B",
+      "comentario": "A condenação irrecorrível por crime doloso no curso do prazo é causa de revogação obrigatória (Art. 81, I, CP)."
+    },
+    {
+      "id": 26,
+      "tema": "Circunstâncias Inominadas",
+      "pergunta": "As circunstâncias atenuantes que não estão expressamente previstas no Art. 65 do CP, mas que de alguma forma atenuam a pena, são chamadas de:",
+      "opcoes": {
+        "a": "Causas de diminuição de pena.",
+        "b": "Atenuantes preponderantes.",
+        "c": "Atenuantes inominadas (Art. 66).",
+        "d": "Circunstâncias judiciais."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 66 do CP prevê que 'O juiz poderá reconhecer em favor do réu qualquer circunstância relevante, embora não prevista expressamente em lei' (atenuantes inominadas)."
+    },
+    {
+      "id": 27,
+      "tema": "Agravante - Fração",
+      "pergunta": "Qual a fração ou valor geralmente aceito pela jurisprudência para o aumento ou diminuição da pena na segunda fase (agravantes e atenuantes)?",
+      "opcoes": {
+        "a": "1/6 (um sexto) para cada circunstância.",
+        "b": "1/3 (um terço) para cada circunstância.",
+        "c": "1/2 (metade) para cada circunstância.",
+        "d": "O aumento ou diminuição é livre, a critério do juiz."
+      },
+      "resposta_correta": "A",
+      "comentario": "Embora o CP não fixe a fração, a jurisprudência majoritária (STJ e STF) adota o patamar de 1/6 (um sexto) para o acréscimo ou decréscimo em cada agravante ou atenuante."
+    },
+    {
+      "id": 28,
+      "tema": "Agravante - Crime vs. Contravenção",
+      "pergunta": "A reincidência se verifica quando o agente comete novo **crime** depois de transitada em julgado a sentença que o condenou por crime anterior. O que acontece se a condenação anterior foi por **contravenção penal**?",
+      "opcoes": {
+        "a": "O agente é reincidente.",
+        "b": "O agente é reincidente, mas a agravante é minorada em metade.",
+        "c": "O agente não é reincidente, mas incide a agravante do Art. 61, I, 'b' (ter o crime sido cometido por alguém que já tinha condenação anterior).",
+        "d": "O agente não é reincidente, mas possui maus antecedentes."
+      },
+      "resposta_correta": "D",
+      "comentario": "A condenação anterior por contravenção penal não gera reincidência (Art. 63, CP), mas pode ser valorada negativamente na primeira fase como 'maus antecedentes' (Art. 59, CP)."
+    },
+    {
+      "id": 29,
+      "tema": "Concurso de Causas de Aumento",
+      "pergunta": "No concurso de causas de aumento de pena previstas na Parte Especial do Código Penal (majorantes), o juiz deve:",
+      "opcoes": {
+        "a": "Aplicar o cúmulo material (somar as frações).",
+        "b": "Aplicar apenas a majorante mais benéfica ao réu.",
+        "c": "Aplicar apenas uma das causas de aumento, mas o aumento deve ser o da causa que mais aumenta.",
+        "d": "Aplicar a causa que mais aumenta e desconsiderar as demais, a não ser que a lei preveja expressamente o contrário."
+      },
+      "resposta_correta": "D",
+      "comentario": "O Art. 68, parágrafo único, do CP, estabelece que, no concurso de majorantes da Parte Especial, o juiz deve aplicar uma só, a que mais aumenta, exceto se houver previsão legal de aplicação cumulativa."
+    },
+    {
+      "id": 30,
+      "tema": "Suspensão Condicional do Processo",
+      "pergunta": "O benefício da Suspensão Condicional do Processo (Sursis Processual) é cabível quando a pena mínima cominada for:",
+      "opcoes": {
+        "a": "Igual ou inferior a 1 (um) ano.",
+        "b": "Superior a 4 (quatro) anos.",
+        "c": "Não superior a 2 (dois) anos.",
+        "d": "Inferior a 1 (um) ano."
+      },
+      "resposta_correta": "A",
+      "comentario": "O Sursis Processual (Art. 89 da Lei 9.099/95) é cabível se a pena mínima cominada for igual ou inferior a um ano."
+    },
+    {
+      "id": 31,
+      "tema": "Agravante - Traição",
+      "pergunta": "Cometer o crime mediante traição, de emboscada, ou mediante dissimulação, ou outro recurso que dificulte ou torne impossível a defesa do ofendido é uma circunstância:",
+      "opcoes": {
+        "a": "Atenuante inominada.",
+        "b": "Agravante genérica (Art. 61, II, 'c').",
+        "c": "Causa de diminuição de pena.",
+        "d": "Circunstância judicial (Art. 59)."
+      },
+      "resposta_correta": "B",
+      "comentario": "Trata-se da agravante prevista no Art. 61, II, 'c', CP, comumente relacionada a crimes contra a vida e a integridade física."
+    },
+    {
+      "id": 32,
+      "tema": "Atenuante - Reparar o Dano",
+      "pergunta": "Ter o agente procurado, por sua espontânea vontade e com eficiência, logo após o crime, minorar-lhe as consequências ou reparar o dano antes do julgamento é uma circunstância:",
+      "opcoes": {
+        "a": "Obrigatória que gera perdão judicial.",
+        "b": "Atenuante (Art. 65, III, 'b').",
+        "c": "Agravante, por demonstrar conhecimento da ilicitude.",
+        "d": "Causa de diminuição de pena (Minorante)."
+      },
+      "resposta_correta": "B",
+      "comentario": "É a atenuante prevista no Art. 65, III, 'b', CP."
+    },
+    {
+      "id": 33,
+      "tema": "Regime Fechado",
+      "pergunta": "O regime inicial fechado é obrigatório quando a pena privativa de liberdade aplicada for:",
+      "opcoes": {
+        "a": "Igual ou superior a 4 (quatro) anos.",
+        "b": "Superior a 8 (oito) anos.",
+        "c": "Superior a 4 (quatro) anos, mas inferior a 8 (oito) anos.",
+        "d": "Qualquer que seja a pena, se o réu for reincidente em crime hediondo."
+      },
+      "resposta_correta": "B",
+      "comentario": "O Art. 33, § 2º, 'a', CP, estabelece que o condenado a pena superior a 8 (oito) anos deve começar a cumpri-la em regime fechado."
+    },
+    {
+      "id": 34,
+      "tema": "Teoria da Co-culpabilidade",
+      "pergunta": "O reconhecimento da 'co-culpabilidade', ou seja, a influência de fatores sociais (ex: pobreza, exclusão) na prática criminosa, pode ser aplicada na dosimetria como:",
+      "opcoes": {
+        "a": "Agravante, na 2ª fase.",
+        "b": "Atenuante inominada (Art. 66), na 2ª fase.",
+        "c": "Causa de diminuição de pena, na 3ª fase.",
+        "d": "Circunstância judicial (Art. 59), na 1ª fase."
+      },
+      "resposta_correta": "B",
+      "comentario": "A co-culpabilidade (ou atenuante inominada, Art. 66) é um tema doutrinário e jurisprudencial que permite ao juiz atenuar a pena em razão de circunstâncias sociais relevantes não previstas expressamente."
+    },
+    {
+      "id": 35,
+      "tema": "Dosimetria - Ordem de Aplicação",
+      "pergunta": "Qual das seguintes circunstâncias é aplicada **antes** da agravante da reincidência?",
+      "opcoes": {
+        "a": "Concurso Formal.",
+        "b": "Tentativa.",
+        "c": "Maus Antecedentes.",
+        "d": "Crime Continuado."
+      },
+      "resposta_correta": "C",
+      "comentario": "Os Maus Antecedentes são circunstâncias judiciais (Art. 59), aplicadas na 1ª fase. Reincidência é agravante (2ª fase). Concurso formal, tentativa e crime continuado são causas (3ª fase)."
+    },
+    {
+      "id": 36,
+      "tema": "Agravante - Meio Cruel",
+      "pergunta": "Ter o agente empregado veneno, fogo, explosivo, asfixia, tortura ou outro meio insidioso ou cruel é agravante, exceto se:",
+      "opcoes": {
+        "a": "O crime for doloso.",
+        "b": "O agente for primário.",
+        "c": "A circunstância for elementar do crime (ex: crime de tortura).",
+        "d": "A pena for inferior a 4 anos."
+      },
+      "resposta_correta": "C",
+      "comentario": "Não se pode utilizar a mesma circunstância (meio cruel) para agravar a pena se ela já constitui elemento do tipo penal ou qualificadora, sob pena de *bis in idem*."
+    },
+    {
+      "id": 37,
+      "tema": "Atenuante - Confissão Qualificada",
+      "pergunta": "A confissão espontânea da autoria do crime (Art. 65, III, 'd') é atenuante. O que a jurisprudência entende sobre a 'confissão qualificada' (quando o réu confessa a autoria, mas alega excludente de ilicitude ou culpabilidade)?",
+      "opcoes": {
+        "a": "Não pode ser reconhecida como atenuante.",
+        "b": "Deve ser reconhecida, se utilizada para fundamentar a condenação.",
+        "c": "Somente é atenuante se houver plena admissão dos fatos.",
+        "d": "É causa de diminuição de pena."
+      },
+      "resposta_correta": "B",
+      "comentario": "A Súmula 545 do STJ dispõe que a atenuante da confissão deve ser reconhecida, ainda que qualificada, desde que tenha sido utilizada para fundamentar a condenação."
+    },
+    {
+      "id": 38,
+      "tema": "Regime Inicial - Pena de Detenção",
+      "pergunta": "A pena de detenção deve ser cumprida, em regra, nos regimes:",
+      "opcoes": {
+        "a": "Fechado, Semiaberto ou Aberto.",
+        "b": "Aberto ou Semiaberto, salvo regressão.",
+        "c": "Apenas Aberto.",
+        "d": "Apenas Semiaberto."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena de detenção deve ser cumprida em regime semiaberto, ou aberto, salvo necessidade de transferência a regime mais rigoroso (regressão) (Art. 33, caput, CP)."
+    },
+    {
+      "id": 39,
+      "tema": "Suspensão Condicional da Pena - Etário",
+      "pergunta": "A pena privativa de liberdade não superior a 4 (quatro) anos pode ser suspensa (Sursis Etário/Humanitário) se o condenado tiver:",
+      "opcoes": {
+        "a": "Menos de 21 anos na data do fato.",
+        "b": "Mais de 60 anos na data da sentença.",
+        "c": "Mais de 70 anos na data da sentença, ou por razões de saúde.",
+        "d": "Mais de 65 anos e for réu primário."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Sursis Etário/Humanitário (Art. 77, § 2º, CP) se aplica a condenados com mais de 70 anos de idade na data da sentença, ou por razões de saúde."
+    },
+    {
+      "id": 40,
+      "tema": "Concurso Material",
+      "pergunta": "No concurso material de crimes (Art. 69, CP), o juiz deve:",
+      "opcoes": {
+        "a": "Aplicar a regra da exasperação.",
+        "b": "Aplicar a regra do cúmulo material (soma das penas).",
+        "c": "Aplicar apenas a pena mais grave.",
+        "d": "Aplicar o aumento de 1/6 a 2/3."
+      },
+      "resposta_correta": "B",
+      "comentario": "No concurso material, as penas privativas de liberdade aplicadas aos crimes são somadas (regra do cúmulo material)."
+    },
+    {
+      "id": 41,
+      "tema": "Agravante - Calamidade",
+      "pergunta": "É agravante genérica cometer o crime em ocasião de incêndio, naufrágio, inundação ou outra calamidade pública, ou de desgraça particular do ofendido (Art. 61, II, 'j'). Esta agravante relaciona-se ao:",
+      "opcoes": {
+        "a": "Meio de execução do crime.",
+        "b": "Modo de execução do crime.",
+        "c": "Momento ou circunstância de tempo/lugar do crime.",
+        "d": "Motivo do crime."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 61, II, 'j', refere-se ao momento e às circunstâncias do crime, aproveitando-se o agente da fragilidade decorrente da calamidade."
+    },
+    {
+      "id": 42,
+      "tema": "Substituição - Condição Subjetiva",
+      "pergunta": "Além dos requisitos objetivos (pena, tipo de crime, reincidência), a substituição da PPL por PRD exige que a culpabilidade, os antecedentes, a conduta social e a personalidade do agente autorizem a substituição. Estes são requisitos:",
+      "opcoes": {
+        "a": "Objetivos.",
+        "b": "Subjetivos (Art. 44, III).",
+        "c": "Mistos.",
+        "d": "Específicos da 3ª fase da dosimetria."
+      },
+      "resposta_correta": "B",
+      "comentario": "Os fatores ligados ao agente (culpabilidade, antecedentes, etc.) são os requisitos subjetivos para a concessão da substituição (Art. 44, III, CP)."
+    },
+    {
+      "id": 43,
+      "tema": "Atenuante - Emoção",
+      "pergunta": "Ter o agente cometido o crime sob coação a que podia resistir, ou em cumprimento de ordem de autoridade superior, ou sob a influência de violenta emoção provocada por ato injusto da vítima, é:",
+      "opcoes": {
+        "a": "Causa de diminuição de pena.",
+        "b": "Agravante, em regra.",
+        "c": "Atenuante (Art. 65, III, 'c').",
+        "d": "Causa de exclusão de culpabilidade."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Art. 65, III, 'c', prevê as atenuantes relacionadas à coação resistível, ordem de autoridade superior e violenta emoção."
+    },
+    {
+      "id": 44,
+      "tema": "Agravante - Prevalência de Sexo",
+      "pergunta": "O aumento de pena por prevalência de relações domésticas, de coabitação ou de hospitalidade (Art. 61, II, 'f') aplica-se aos crimes cometidos:",
+      "opcoes": {
+        "a": "Apenas contra a esposa ou companheira.",
+        "b": "Apenas contra a vítima vulnerável.",
+        "c": "Por qualquer ofendido que coabite com o agente, desde que não seja a vítima.",
+        "d": "No contexto dessas relações, independentemente do sexo do ofendido."
+      },
+      "resposta_correta": "D",
+      "comentario": "A agravante aplica-se aos crimes cometidos no contexto das relações especificadas (domésticas, coabitação ou hospitalidade), abrangendo qualquer vítima inserida nesse contexto."
+    },
+    {
+      "id": 45,
+      "tema": "1ª Fase - Comportamento da Vítima",
+      "pergunta": "Na primeira fase da dosimetria (Art. 59), o comportamento da vítima deve ser valorado. Se o comportamento da vítima tiver facilitado a prática criminosa, isso tende a ser valorado como:",
+      "opcoes": {
+        "a": "Agravante para o réu.",
+        "b": "Neutro (não interfere).",
+        "c": "Fator favorável ao réu.",
+        "d": "Atenuante inominada."
+      },
+      "resposta_correta": "C",
+      "comentario": "O comportamento da vítima é a única circunstância judicial que, quando favorável ao réu (ex: vítima que contribuiu ou facilitou), reduz o juízo de reprovação da conduta, atuando em benefício do agente."
+    },
+    {
+      "id": 46,
+      "tema": "Regime Fechado - Detenção",
+      "pergunta": "A pena de detenção pode ser cumprida em regime fechado?",
+      "opcoes": {
+        "a": "Sim, desde que a pena seja superior a 8 anos.",
+        "b": "Sim, apenas em caso de regressão de regime.",
+        "c": "Não, pois a detenção só admite semiaberto ou aberto.",
+        "d": "Não, pois o regime fechado é exclusivo da reclusão."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena de detenção só pode ser cumprida em regime semiaberto ou aberto. O fechado é reservado para a reclusão ou para a detenção em caso de regressão do regime (Art. 33, caput, CP)."
+    },
+    {
+      "id": 47,
+      "tema": "Princípio da Consunção",
+      "pergunta": "O que ocorre quando um crime (ex: porte ilegal de arma) é meio necessário para a prática de um crime fim (ex: roubo), aplicando-se o princípio da consunção?",
+      "opcoes": {
+        "a": "O agente responde pelos dois crimes, em concurso material.",
+        "b": "O crime meio (porte) é absorvido pelo crime fim (roubo), respondendo o agente apenas pelo último.",
+        "c": "O agente responde por crime continuado.",
+        "d": "A pena do crime meio é causa de aumento na 3ª fase."
+      },
+      "resposta_correta": "B",
+      "comentario": "O princípio da consunção (ou absorção) estabelece que o crime mais grave ou mais amplo absorve o crime menos grave ou mais estreito, sendo o agente punido apenas pelo crime fim (roubo)."
+    },
+    {
+      "id": 48,
+      "tema": "Causas de Aumento e Diminuição - Exemplos",
+      "pergunta": "Qual das seguintes previsões é uma causa de diminuição de pena (minorante) da Parte Geral do CP?",
+      "opcoes": {
+        "a": "Menoridade relativa (menos de 21 anos).",
+        "b": "Reincidência.",
+        "c": "Participação de menor importância.",
+        "d": "Motivo torpe."
+      },
+      "resposta_correta": "C",
+      "comentario": "A participação de menor importância (Art. 29, § 1º, CP) é uma minorante (diminui a pena de 1/6 a 1/3) aplicada na 3ª fase. As demais são atenuante (a), agravante (b) e agravante (d)."
+    },
+    {
+      "id": 49,
+      "tema": "Agravante - Crime Premeditado",
+      "pergunta": "Ter o agente cometido o crime com **premeditação** é agravante genérica (Art. 61, II, 'f'). A premeditação se relaciona com qual fase da dosimetria e com qual elemento?",
+      "opcoes": {
+        "a": "1ª fase, circunstâncias do crime.",
+        "b": "2ª fase, agravante legal.",
+        "c": "3ª fase, causa de aumento.",
+        "d": "1ª fase, motivos do crime."
+      },
+      "resposta_correta": "B",
+      "comentario": "A premeditação (Art. 61, II, 'f') é uma agravante genérica, aplicada na 2ª fase da dosimetria. Não deve ser confundida com a qualificadora do homicídio (motivo torpe ou fútil, por exemplo)."
+    },
+    {
+      "id": 50,
+      "tema": "Aplicação da Pena - Ordem Final",
+      "pergunta": "Após a aplicação das 3 fases da dosimetria, a pena definitiva será aquela utilizada para a análise imediata de:",
+      "opcoes": {
+        "a": "Atenuantes inominadas.",
+        "b": "Regime inicial de cumprimento e cabimento de substituição/sursis.",
+        "c": "Agravantes preponderantes.",
+        "d": "Pena base."
+      },
+      "resposta_correta": "B",
+      "comentario": "A pena definitiva é a pena 'in concreto' que será submetida ao Art. 33 (regime), Art. 44 (substituição) e Art. 77 (sursis) para definir a forma final de cumprimento da sanção penal."
+    }
+  ]
+}
