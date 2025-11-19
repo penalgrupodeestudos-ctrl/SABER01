@@ -1,122 +1,656 @@
-[
-  {
-    "id": 1,
-    "pergunta": "A organização hierárquica de arquivos em diretórios e subdiretórios aumenta a eficiência na localização e na manutenção dos dados, permitindo um controle de acesso mais seguro e estruturado. Analise as afirmativas a seguir:\nI.A estrutura de pastas e subpastas permite uma categorização adequada dos arquivos, simplificando a busca e a identificação de documentos.\nII.Permissões de acesso podem ser concedidas ou restringidas em níveis específicos de diretórios, aprimorando a segurança dos dados.\nIII.Uma árvore de diretórios bem projetada facilita a realização de backups e restaurações, pois reduz o tempo de verificação e cópia das informações.\nEstá correto o que se afirma em:",
-    "opcoes": {
-      "a": "I e III, apenas.",
-      "b": "I, II e III.",
-      "c": "II, apenas.",
-      "d": "I e II, apenas."
+{
+  "titulo": "Simulado de Informática para Concursos - 50 Questões (Gabarito e Comentários Gerados)",
+  "fonte": "INFORMATICA (1).pdf (Simulado sem Gabarito Original)",
+  "questoes": [
+    {
+      "id": 1,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "A organização hierárquica de arquivos em diretórios e subdiretórios aumenta a eficiência na localização e na manutenção dos dados, permitindo um controle de acesso mais seguro e estruturado. Analise as afirmativas a seguir:\nI. A estrutura de pastas e subpastas permite uma categorização adequada dos arquivos, simplificando a busca e a identificação de documentos.\nII. Permissões de acesso podem ser concedidas ou restringidas em níveis específicos de diretórios, aprimorando a segurança dos dados.\nIII. Uma árvore de diretórios bem projetada facilita a realização de backups e restaurações, pois reduz o tempo de verificação e cópia das informações.\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "I e III, apenas.",
+        "b": "I, II e III.",
+        "c": "II, apenas.",
+        "d": "I e II, apenas."
+      },
+      "resposta_correta": "B",
+      "comentario": "Todas as afirmações estão corretas. A organização hierárquica de arquivos (diretórios/pastas) no sistema operacional cumpre as três funções: facilita a organização e busca (I), permite aplicar permissões de segurança em nível de pasta (II) e otimiza operações como backup ao agrupar dados relacionados (III)."
     },
-    "gabarito": "b",
-    "comentario": "Todas as afirmativas são corretas: organização hierárquica facilita busca, controle e backup."
-  },
-  {
-    "id": 2,
-    "pergunta": "O funcionamento de um computador depende da interação entre hardware e software, sendo que cada um desempenha um papel essencial no processamento das informações. Sobre a relação entre hardware e software, analise as afirmativas a seguir:\nI.O hardware consiste nos componentes físicos do computador, como processador, placa de vídeo e memória, enquanto o software corresponde aos programas e instruções executadas sobre esse hardware.\nII.O desempenho de um software depende exclusivamente da capacidade do hardware, não sendo influenciado pela otimização do código ou pelo sistema operacional utilizado.\nIII.Um software de edição de texto instrui a CPU a executar processos de formatação e exibição na tela, enquanto um jogo em 3D exige o trabalho conjunto da placa de vídeo e da memória para renderização gráfica.\nEstá correto o que se afirma em:",
-    "opcoes": {
-      "a": "I e III apenas.",
-      "b": "II apenas.",
-      "c": "I e II apenas.",
-      "d": "I, II e III."
+    {
+      "id": 2,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "O funcionamento de um computador depende da interação entre hardware e software, sendo que cada um desempenha um papel essencial no processamento das informações. Sobre a relação entre hardware e software, analise as afirmativas a seguir:\nI. O hardware consiste nos componentes físicos do computador, como processador, placa de vídeo e memória, enquanto o software corresponde aos programas e instruções executadas sobre esse hardware.\nII. O desempenho de um software depende exclusivamente da capacidade do hardware, não sendo influenciado pela otimização do código ou pelo sistema operacional utilizado.\nIII. Um software de edição de texto instrui a CPU a executar processos de formatação e exibição na tela, enquanto um jogo em 3D exige o trabalho conjunto da placa de vídeo e da memória para renderização gráfica.\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "I e III apenas.",
+        "b": "II apenas.",
+        "c": "I e II apenas.",
+        "d": "I, II e III."
+      },
+      "resposta_correta": "A",
+      "comentario": "I e III estão corretas. A afirmativa II está incorreta. O desempenho de um software não depende *exclusivamente* do hardware. A otimização do código do software, a eficiência do algoritmo e o gerenciamento de recursos pelo sistema operacional são fatores cruciais para o desempenho."
     },
-    "gabarito": "a",
-    "comentario": "Somente I e III estão corretas. O desempenho não depende exclusivamente do hardware."
-  },
-  {
-    "id": 3,
-    "pergunta": "O Windows 10 manteve elementos familiares e introduziu novas funcionalidades de interface, tornando o sistema mais versátil para uso doméstico e corporativo. Analise as afirmativas a seguir:\nI.O Windows 10 não possui o recurso de múltiplas áreas de trabalho, recurso presente somente no Windows 7.\nII.O Windows 10 apresenta um Menu Iniciar reformulado, combinando blocos dinâmicos do Windows 8 com a estrutura clássica do Windows 7.\nIII.O navegador Microsoft Edge foi removido na versão de lançamento do Windows 10, mantendo somente o Internet Explorer como opção padrão.\nEstá correto o que se afirma em:",
-    "opcoes": {
-      "a": "I, II e III.",
-      "b": "III, apenas.",
-      "c": "II, apenas.",
-      "d": "I e II, apenas."
+    {
+      "id": 3,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "O Windows 10 manteve elementos familiares e introduziu novas funcionalidades de interface, tornando o sistema mais versátil para uso doméstico e corporativo. Analise as afirmativas a seguir:\nI. O Windows 10 não possui o recurso de múltiplas áreas de trabalho, recurso presente somente no Windows 7.\nII. O Windows 10 apresenta um Menu Iniciar reformulado, combinando blocos dinâmicos do Windows 8 com a estrutura clássica do Windows 7.\nIII. O navegador Microsoft Edge foi removido na versão de lançamento do Windows 10, mantendo somente o Internet Explorer como opção padrão.\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "I, II e III.",
+        "b": "III, apenas.",
+        "c": "II, apenas.",
+        "d": "I e II, apenas."
+      },
+      "resposta_correta": "C",
+      "comentario": "I está incorreta, pois o Windows 10 (e versões posteriores) possui, sim, o recurso de **Múltiplas Áreas de Trabalho** (Task View/Visão de Tarefas). III está incorreta, pois o Microsoft Edge foi introduzido como o novo navegador padrão no Windows 10."
     },
-    "gabarito": "c",
-    "comentario": "Apenas II está correta. O Windows 10 tem múltiplas áreas e mantém Edge."
-  },
-  {
-    "id": 4,
-    "pergunta": "Hardware e software compõem a base de qualquer sistema computacional, sendo o hardware responsável pelos componentes físicos e o software, pelas instruções de funcionamento. Analise as afirmativas a seguir:\nI.O hardware engloba os componentes físicos do computador, enquanto o software corresponde aos programas que permitem a interação e o controle desses componentes.\nII.O software pode executar suas funções totalmente independente do hardware, não precisando de nenhum componente físico para operar.\nIII.O hardware funciona sem qualquer instrução de software, sendo capaz de executar tarefas complexas de forma autônoma.\nEstá correto o que se afirma em:",
-    "opcoes": {
-      "a": "I, apenas.",
-      "b": "II, apenas.",
-      "c": "I, II e III.",
-      "d": "I e III, apenas."
+    {
+      "id": 4,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "Hardware e software compõem a base de qualquer sistema computacional, sendo o hardware responsável pelos componentes físicos e o software, pelas instruções de funcionamento. Analise as afirmativas a seguir:\nI. O hardware engloba os componentes físicos do computador, enquanto o software corresponde aos programas que permitem a interação e o controle desses componentes.\nII. O software pode executar suas funções totalmente independente do hardware, não precisando de nenhum componente físico para operar.\nIII. O hardware funciona sem qualquer instrução de software, sendo capaz de executar tarefas complexas de forma autônoma.\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "I, apenas.",
+        "b": "II, apenas.",
+        "c": "I, II e III.",
+        "d": "I e III, apenas."
+      },
+      "resposta_correta": "A",
+      "comentario": "I está correta, é a definição básica de Hardware e Software. II e III estão incorretas, pois hardware e software são interdependentes. O software precisa de hardware para ser executado e o hardware precisa de software (firmware/SO) para receber instruções."
     },
-    "gabarito": "a",
-    "comentario": "Só I está correta. Software depende do hardware, e hardware requer instruções de software."
-  },
-  {
-    "id": 5,
-    "pergunta": "O sistema operacional intermedeia a comunicação entre hardware e software, alocando recursos e organizando processos para assegurar o funcionamento integrado do computador, sobre o assunto, assinale a alternativa correta:",
-    "opcoes": {
-      "a": "O sistema operacional coordena tarefas apenas entre o processador e a memória, delegando o controle de dispositivos de E/S exclusivamente ao software aplicativo.",
-      "b": "Ele gerencia a execução de processos e interrupções de hardware, porém depende completamente de programas externos para controlar o uso de memória no computador.",
-      "c": "O sistema operacional gerencia memória, CPU e dispositivos de E/S, além de oferecer uma interface padronizada para usuários e desenvolvedores, garantindo a execução eficiente dos aplicativos.",
-      "d": "O sistema operacional administra a alocação de recursos e tarefas, mas não provê qualquer interface que permita a interação do usuário com o sistema."
+    {
+      "id": 5,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "O sistema operacional intermedeia a comunicação entre hardware e software, alocando recursos e organizando processos para assegurar o funcionamento integrado do computador, sobre o assunto, assinale a alternativa correta:",
+      "opcoes": {
+        "a": "O sistema operacional coordena tarefas apenas entre o processador e a memória, delegando o controle de dispositivos de E/S exclusivamente ao software aplicativo.",
+        "b": "Ele gerencia a execução de processos e interrupções de hardware, porém depende completamente de programas externos para controlar o uso de memória no computador.",
+        "c": "O sistema operacional gerencia memória, CPU e dispositivos de E/S, além de oferecer uma interface padronizada para usuários e desenvolvedores, garantindo a execução eficiente dos aplicativos.",
+        "d": "O sistema operacional administra a alocação de recursos e tarefas, mas não provê qualquer interface que permita a interação do usuário com o sistema."
+      },
+      "resposta_correta": "C",
+      "comentario": "A alternativa C resume as funções centrais de um Sistema Operacional (SO): gerenciamento de recursos (**CPU, Memória e E/S**) e fornecimento de uma **interface** padronizada para usuários e desenvolvedores."
     },
-    "gabarito": "c",
-    "comentario": "Correta: gerencia memória, CPU, dispositivos e fornece interface."
-  },
-  {
-    "id": 6,
-    "pergunta": "O Gerenciador de Tarefas do Windows evoluiu para fornecer dados detalhados sobre o desempenho do sistema, como uso de CPU, memória e rede, facilitando o monitoramento e a solução de problemas. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:\n(__)O Gerenciador de Tarefas não exibe processos em execução, restringindo-se apenas ao uso de CPU.\n(__)É possível visualizar e controlar quais programas iniciam junto com o sistema operacional.\n(__)O Gerenciador de Tarefas não inclui histórico de aplicativos, impossibilitando analisar o consumo de recursos ao longo do tempo.\n(__)As versões mais recentes permitem encerrar processos que causam lentidão ou falhas, tornando a manutenção mais simples.\nA sequência está correta em:",
-    "opcoes": {
-      "a": "F, F, V, V.",
-      "b": "V, F, F, V.",
-      "c": "F, V, F, V.",
-      "d": "V, V, V, F."
+    {
+      "id": 6,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "O Gerenciador de Tarefas do Windows evoluiu para fornecer dados detalhados sobre o desempenho do sistema, como uso de CPU, memória e rede, facilitando o monitoramento e a solução de problemas. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:\n(_) O Gerenciador de Tarefas não exibe processos em execução, restringindo-se apenas ao uso de CPU.\n( ) É possível visualizar e controlar quais programas iniciam junto com o sistema operacional.\n(_) O Gerenciador de Tarefas não inclui histórico de aplicativos, impossibilitando analisar o consumo de recursos ao longo do tempo.\n( ) As versões mais recentes permitem encerrar processos que causam lentidão ou falhas, tornando a manutenção mais simples.\nA sequência está correta em:",
+      "opcoes": {
+        "a": "F, F, V, V.",
+        "b": "V, F, F, V.",
+        "c": "F, V, F, V.",
+        "d": "V, V, V, F."
+      },
+      "resposta_correta": "C",
+      "comentario": "F-V-F-V. O Gerenciador de Tarefas exibe Processos (F). É possível gerenciar programas de Inicialização (V). Possui Histórico de aplicativos (F). Permite Encerrar Tarefas (V)."
     },
-    "gabarito": "c",
-    "comentario": "O Gerenciador exibe processos, controla inicialização, mostra histórico e encerra processos problemáticos."
-  },
-  {
-    "id": 7,
-    "pergunta": "O Windows tem uma ferramenta interna de acessibilidade, ele exibe um teclado visual com todas as teclas padrão que pode ser usada em vez de um teclado físico. Marque a alternativa CORRETA desse recurso de Acessibilidade do Windows.",
-    "opcoes": {
-      "a": "Lupa.",
-      "b": "Teclado virtual.",
-      "c": "Narrador.",
-      "d": "Reconhecimento de fala no Windows."
+    {
+      "id": 7,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "O Windows tem uma ferramenta interna de acessibilidade, ele exibe um teclado visual com todas as teclas padrão que pode ser usada em vez de um teclado físico. Marque a alternativa CORRETA desse recurso de Acessibilidade do Windows.",
+      "opcoes": {
+        "a": "Lupa.",
+        "b": "Teclado virtual.",
+        "c": "Narrador.",
+        "d": "Reconhecimento de fala no Windows."
+      },
+      "resposta_correta": "B",
+      "comentario": "O recurso que exibe um teclado visual na tela para ser usado sem um teclado físico é o **Teclado Virtual** (ou Teclado na Tela)."
     },
-    "gabarito": "b",
-    "comentario": "O teclado virtual é a ferramenta de acessibilidade que simula teclas na tela."
-  },
-  {
-    "id": 8,
-    "pergunta": "Julgue as assertivas a seguir sobre conceitos básicos de hardware e software:\nI.Os softwares gerenciadores de sistema é projetado para executar tarefas específicas e atender às necessidades dos usuários, como processadores de texto e planilhas eletrônicas.\nII.A memória cache é uma memória de acesso aleatório (RAM) de alta velocidade, utilizada para armazenar dados temporários que a CPU acessa com frequência.\nIII.O BIOS (Sistema Básico de Entrada/Saída) é um firmware responsável por inicializar o hardware do computador e carregar o sistema operacional na memória RAM.\nIV.Os dispositivos de entrada transformam dados em sinais que o computador pode processar, enquanto os dispositivos de saída exibem os resultados do processamento de dados.\nAssinale a alternativa correta:",
-    "opcoes": {
-      "a": "Apenas as afirmativas II e IV são verdadeiras.",
-      "b": "Apenas as afirmativas I e II são verdadeiras.",
-      "c": "Apenas as afirmativas I e IV são verdadeiras.",
-      "d": "Apenas as afirmativas II, III e IV são verdadeiras."
+    {
+      "id": 8,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "Julgue as assertivas a seguir sobre conceitos básicos de hardware e software:\nI. Os softwares gerenciadores de sistema é projetado para executar tarefas específicas e atender às necessidades dos usuários, como processadores de texto e planilhas eletrônicas.\nII. A memória cache é uma memória de acesso aleatório (RAM) de alta velocidade, utilizada para armazenar dados temporários que a CPU acessa com frequência.\nIII. O BIOS (Sistema Básico de Entrada/Saída) é um firmware responsável por inicializar o hardware do computador e carregar o sistema operacional na memória RAM.\nIV. Os dispositivos de entrada transformam dados em sinais que o computador pode processar, enquanto os dispositivos de saída exibem os resultados do processamento de dados.\nAssinale a alternativa correta:",
+      "opcoes": {
+        "a": "Apenas as afirmativas II e IV são verdadeiras.",
+        "b": "Apenas as afirmativas I e II são verdadeiras.",
+        "c": "Apenas as afirmativas I e IV são verdadeiras.",
+        "d": "Apenas as afirmativas II, III e IV são verdadeiras."
+      },
+      "resposta_correta": "D",
+      "comentario": "I está incorreta, pois descreve **Softwares Aplicativos** (ou de aplicação). II, III e IV estão corretas: Memória Cache armazena dados de uso frequente (II), BIOS inicializa o hardware (III) e a definição de Dispositivos de E/S está correta (IV)."
     },
-    "gabarito": "d",
-    "comentario": "Corretas: II, III e IV estão de acordo com o conceito de memória cache, BIOS e I/O."
-  },
-  {
-    "id": 9,
-    "pergunta": "Um software necessário em qualquer sistema operacional para navegar na internet. Marque a alternativa CORRETA que corresponde ao software descrito para usar a internet.",
-    "opcoes": {
-      "a": "Antivírus.",
-      "b": "Navegador.",
-      "c": "Desfragmentador.",
-      "d": "Compactador."
+    {
+      "id": 9,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "Um software necessário em qualquer sistema operacional para navegar na internet. Marque a alternativa CORRETA que corresponde ao software descrito para usar a internet.",
+      "opcoes": {
+        "a": "Antivírus.",
+        "b": "Navegador.",
+        "c": "Desfragmentador.",
+        "d": "Compactador."
+      },
+      "resposta_correta": "B",
+      "comentario": "O software essencial para acessar e visualizar páginas web (navegar na internet) é o **Navegador** (ou Browser)."
     },
-    "gabarito": "b",
-    "comentario": "O navegador (browser) é indispensável para acessar a internet."
-  },
-  {
-    "id": 10,
-    "pergunta": "Considerando as noções básicas de sistema operacional Windows, qual alternativa descreve corretamente uma funcionalidade essencial que o Windows proporciona para a gestão e operação de um computador?",
-    "opcoes": {
-      "a": "O Windows permite a personalização do ambiente de trabalho, incluindo a mudança de temas, configurações de exibição e organização de ícones.",
-      "b": "O Windows não suporta a instalação de novos dispositivos de hardware sem reinstalar o sistema operacional.",
-      "c": "O Windows permite apenas uma única conexão de rede de cada vez para maximizar a segurança da rede.",
-      "d": "O Windows usa exclusivamente a linha de comando para todas as operações de gerenciamento de arquivos e aplicativos."
+    {
+      "id": 10,
+      "tema": "SISTEMAS OPERACIONAIS E SOFTWARE",
+      "pergunta": "Considerando as noções básicas de sistema operacional Windows, qual alternativa descreve corretamente uma funcionalidade essencial que o Windows proporciona para a gestão e operação de um computador?",
+      "opcoes": {
+        "a": "O Windows permite a personalização do ambiente de trabalho, incluindo a mudança de temas, configurações de exibição e organização de ícones.",
+        "b": "O Windows não suporta a instalação de novos dispositivos de hardware sem reinstalar o sistema operacional.",
+        "c": "O Windows permite apenas uma única conexão de rede de cada vez para maximizar a segurança da rede.",
+        "d": "O Windows usa exclusivamente a linha de comando para todas as operações de gerenciamento de arquivos e aplicativos."
+      },
+      "resposta_correta": "A",
+      "comentario": "A alternativa A é uma funcionalidade básica e correta do Windows relacionada à interface e experiência do usuário. As demais alternativas estão incorretas (o Windows suporta Plug and Play, múltiplas conexões e usa a interface gráfica)."
     },
-    "gabarito": "a",
-    "comentario": "O Windows permite a personalização visual, organização e facilidade de gestão do sistema."
-  }
-]
+    {
+      "id": 11,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Os conceitos de URL, links, sites, ferramentas de busca e impressão de páginas são fundamentais para a navegação e uso eficiente da internet, sendo aplicados em diversas situações cotidianas e profissionais. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:\n(_) URLs (Uniform Resource Locators) são usados exclusivamente para identificar o endereço IP de servidores, não sendo aplicáveis a páginas específicas.\n( ) Um link é um elemento clicável em uma página que direciona o usuário para outro recurso, seja ele interno ou externo ao site.\n(_) As ferramentas de busca utilizam apenas os metadados das páginas para gerar resultados, ignorando o conteúdo textual.\n(_) A impressão de páginas da web permite que o conteúdo seja adaptado para um formato adequado à impressão, como remoção de elementos gráficos desnecessários.\nA sequência está correta em:",
+      "opcoes": {
+        "a": "V-F-F-V.",
+        "b": "F-V-V-F.",
+        "c": "F-F-V-F.",
+        "d": "F-V-F-V."
+      },
+      "resposta_correta": "D",
+      "comentario": "F-V-F-V. URLs identificam recursos específicos (F). Link é a definição correta (V). Ferramentas de busca analisam o conteúdo textual (F). A impressão de páginas permite adaptação (V)."
+    },
+    {
+      "id": 12,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "O acesso eficiente a recursos na internet envolve conhecimento técnico sobre os componentes estruturais das URLs, os comportamentos padrão e customizáveis dos hiperlinks, a correta distinção entre sites e serviços de indexação, bem como as possibilidades de manipulação e exportação de conteúdo via navegadores. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:\n(_) Uma URL válida deve seguir a sintaxe definida pela RFC 3986, contendo, em geral, esquema (protocolo), autoridade (incluindo domínio), caminho e, opcionalmente, string de consulta e fragmento, permitindo a localização precisa de recursos na web.\n(_) Um hyperlink, por padrão, dispara a abertura de uma nova aba ou janela no navegador ao ser clicado, comportamento que não pode ser alterado por meio de atributos HTML como target=\"_self\" ou target=\"_parent\".\n( ) Um site é um sistema de indexação automatizada de conteúdos hospedados em servidores distintos, cuja principal função é permitir ao usuário realizar consultas com base em palavras-chave ou operadores booleanos.\n(_) Os navegadores modernos oferecem recursos nativos para impressão de páginas HTML via atalho de teclado, permitindo não apenas a seleção de trechos e ajuste de margens, mas também o redirecionamento da saída para formatos digitais como o Portable Document Format (PDF).\nApós análise, assinale a alternativa que apresenta a sequência correta dos itens acima, de cima para baixo:",
+      "opcoes": {
+        "a": "F-F-V-V.",
+        "b": "V-F-F-V.",
+        "c": "V-F-V-F.",
+        "d": "V-F-F-F."
+      },
+      "resposta_correta": "B",
+      "comentario": "V-F-F-V. 1ª: Correta (sintaxe da URL). 2ª: Incorreta (o padrão é abrir na mesma aba, e pode ser alterado). 3ª: Incorreta (Descreve um Mecanismo de Busca, não um Site). 4ª: Correta (Navegadores suportam impressão para PDF)."
+    },
+    {
+      "id": 13,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Considerando a navegação na Internet, como você usaria uma URL para acessar diretamente a página de contato de um site?",
+      "opcoes": {
+        "a": "Use um motor de busca para pesquisar \"contato no site example.com\" e clique no link encontrado.",
+        "b": "Envie um email para info@example.com pedindo o link para a página de contato.",
+        "c": "Procure por \"contato\" no site www.example.com usando o campo de busca do site.",
+        "d": "Digite \"http://www.example.com/contact\" na barra de endereços do navegador para ir diretamente para a página de contato do site."
+      },
+      "resposta_correta": "D",
+      "comentario": "A **URL** é o endereço exato que, quando digitado na barra de endereços, leva o usuário diretamente ao recurso. O exemplo em D mostra o uso direto da URL."
+    },
+    {
+      "id": 14,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Assinale a alternativa que corresponde à principal função da sigla URL na Internet:",
+      "opcoes": {
+        "a": "Localizar recursos na internet ou em uma intranet.",
+        "b": "Definir a identidade visual de um site.",
+        "c": "Criar links para páginas específicas em um site.",
+        "d": "Armazenar recursos virtuais de um site."
+      },
+      "resposta_correta": "A",
+      "comentario": "URL significa Uniform Resource **Locator** (Localizador Uniforme de Recursos). Sua função primária é fornecer o endereço exato para **localizar** um recurso."
+    },
+    {
+      "id": 15,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "A URL de um site, os links presentes nas páginas da web, e a funcionalidade dos mecanismos de busca desempenham papéis fundamentais na navegação e organização das informações. Qual dessas opções descreve corretamente o papel de uma URL na navegação?",
+      "opcoes": {
+        "a": "A URL cria o layout visual da página web exibida no navegador.",
+        "b": "A URL identifica o endereço único de uma página na web, permitindo seu acesso direto.",
+        "c": "A URL estabelece a conexão entre o navegador e o servidor para processar arquivos multimídia.",
+        "d": "A URL é responsável por armazenar o conteúdo de um site para acesso posterior."
+      },
+      "resposta_correta": "B",
+      "comentario": "A URL é o endereço único de um recurso. Os elementos que definem o layout são linguagens como HTML e CSS. A conexão é estabelecida pelo protocolo (como HTTP/HTTPS)."
+    },
+    {
+      "id": 16,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Analise as alternativas a seguir sobre os conceitos de URL, links, sites e mecanismos de busca, depois assinale a correta:",
+      "opcoes": {
+        "a": "Links são elementos interativos em uma página web que, quando clicados, podem levar o usuário a diferentes locais dentro do mesmo site, mas não para sites externos.",
+        "b": "Uma URL sempre começa com \"www\" seguido do nome do domínio e não pode conter outros caracteres especiais além de letras e números.",
+        "c": "Mecanismos de busca utilizam algoritmos automatizados para indexar e recuperar informações da web, baseando-se em palavras-chave fornecidas pelos usuários.",
+        "d": "Um site é uma única página web com conteúdo estático, acessível por meio de um endereço de domínio."
+      },
+      "resposta_correta": "C",
+      "comentario": "A alternativa C é a definição correta de **Mecanismos de Busca**. A (links podem ser externos). B (URL deve incluir protocolo e pode ter caracteres especiais). D (Site é uma coleção de páginas)."
+    },
+    {
+      "id": 17,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Julgue as seguintes assertivas sobre conceitos básicos de hardware e software, dispositivos de entrada e saída, sistema operacional Windows, e Internet:\nI. Hardware refere-se a qualquer componente físico de um computador, enquanto software é um conjunto de instruções que diz ao hardware o que fazer.\nII. Dispositivos de entrada, como o teclado, permitem ao usuário inserir dados, mas não existem dispositivos que possam funcionar simultaneamente como entrada e saída de dados.\nIII. O sistema operacional Windows não permite a execução de múltiplas aplicações ao mesmo tempo, sendo limitado a uma única tarefa.\nIV. Uma URL (Uniform Resource Locator) é um tipo específico de link que aponta para um recurso único na web, podendo ser usado para acessar sites através de navegadores.\nV. A impressão de páginas da Internet diretamente de um navegador é possível, mas não permite alterações no layout ou configurações de impressão antes de executar a impressão.\nAssinale a alternativa correta:",
+      "opcoes": {
+        "a": "Apenas as afirmativas I e IV são verdadeiras.",
+        "b": "Apenas as afirmativas I, II e V são verdadeiras.",
+        "c": "Apenas as afirmativas III e V são verdadeiras.",
+        "d": "Apenas as afirmativas III, IV e V são verdadeiras."
+      },
+      "resposta_correta": "A",
+      "comentario": "I e IV estão corretas. II (Existem dispositivos E/S, como telas touch screen). III (Windows é Multitarefa). V (Navegador permite alterações de layout/configurações na impressão)."
+    },
+    {
+      "id": 18,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Assinale a alternativa que indica, corretamente, o significado da sigla URL:",
+      "opcoes": {
+        "a": "Unique Resource Locator.",
+        "b": "Uniform Resource Locator.",
+        "c": "Uniform Research Locator.",
+        "d": "Uniform Research Local."
+      },
+      "resposta_correta": "B",
+      "comentario": "A sigla **URL** significa **Uniform Resource Locator** (Localizador Uniforme de Recursos)."
+    },
+    {
+      "id": 19,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "A Internet é uma ferramenta onipresente na vida moderna, fundamental tanto para atividades cotidianas quanto para operações complexas de empresas e instituições. Avalie as seguintes afirmativas sobre a Internet:\nI. A impressão de páginas da Internet é possível diretamente através de navegadores modernos, que incluem opções para alterar o layout e o tamanho da impressão antes de executar o comando.\nII. A URL (Uniform Resource Locator) é o mesmo que um link, pois ambos se referem à localização exata de um documento na Internet.\nIII. Navegar na Internet significa apenas visitar páginas web, sem incluir o download de arquivos ou o uso de aplicativos baseados na web.\nIV. Um site é uma coleção de páginas da web interconectadas que são acessadas a partir de um endereço web comum.\nAssinale a alternativa correta:",
+      "opcoes": {
+        "a": "Apenas as afirmativas I, II e IV são verdadeiras.",
+        "b": "Apenas as afirmativas I e IV são verdadeiras.",
+        "c": "Apenas as afirmativas I, III e IV são verdadeiras.",
+        "d": "Apenas as afirmativas II e III são verdadeiras."
+      },
+      "resposta_correta": "B",
+      "comentario": "I e IV estão corretas. II (URL é o endereço; Link é o elemento interativo). III (Navegar inclui download e uso de aplicações web)."
+    },
+    {
+      "id": 20,
+      "tema": "NAVEGAÇÃO NA INTERNET",
+      "pergunta": "Sobre os conceitos básicos e ferramentas essenciais para navegação na internet, julgue as seguintes afirmações como verdadeiras (V) ou falsas (F):\n(_) Um link, elemento fundamental na navegação web, é um endereço eletrônico completo que direciona o usuário para um recurso específico na internet, ele pode aparecer apenas em um formato: texto.\n( ) Uma URL (Uniform Resource Locator) é um endereço web único que especifica a localização de um recurso na internet, permitindo que navegadores acessem e exibam o conteúdo.\n(_) Os mecanismos de busca, como Google, utilizam algoritmos complexos para indexar e organizar páginas web, permitindo aos usuários encontrar informações relevantes através de palavras-chave.\nAssinale a alternativa cuja respectiva ordem de julgamento está correta:",
+      "opcoes": {
+        "a": "V-F-F.",
+        "b": "F-F-V.",
+        "c": "V-V-V.",
+        "d": "F-V-V."
+      },
+      "resposta_correta": "D",
+      "comentario": "F-V-V. 1ª: Incorreta (Link pode ser imagem, botão, etc.). 2ª: Correta (Definição de URL). 3ª: Correta (Função dos mecanismos de busca)."
+    },
+    {
+      "id": 21,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "O aplicativo Microsoft Office Word (2010) em sua versão em português, possui diversos atalhos que facilitam a estruturação e escrita do texto. Assim, avalie as proposições:\nI. O atalho CTRL + N corresponde ao negrito.\nII. O atalho CTRL + I corresponde ao alinhamento justificado do texto.\nIII. O atalho CTRL + Q corresponde ao alinhamento à esquerda do texto.\nAssinale a alternativa correta:",
+      "opcoes": {
+        "a": "Apenas as proposições II e III estão corretas.",
+        "b": "Apenas a proposição III está correta.",
+        "c": "Apenas as proposições I e III estão corretas.",
+        "d": "Apenas as proposições I e II estão corretas."
+      },
+      "resposta_correta": "C",
+      "comentario": "I (Negrito) e III (Alinhamento à Esquerda) estão corretas. II está incorreta, pois CTRL + I é Itálico; o Justificado é CTRL + J."
+    },
+    {
+      "id": 22,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "O aplicativo Microsoft Office Word (2010) em português fornece diversos tipos de tabelas rápidas que podem ser utilizadas pelo usuário. Sobre o assunto, julgue as seguintes afirmações que apresentam modalidades de tabelas como verdadeiras (V) ou falsas (F):\n( ) Matriz.\n(_) Tabela rasurada.\n(_) Tabela tripla.\nAssinale a alternativa cuja respectiva ordem de julgamento esteja correta:",
+      "opcoes": {
+        "a": "V-F-V.",
+        "b": "V-V-V.",
+        "c": "V-F-F.",
+        "d": "F-F-F."
+      },
+      "resposta_correta": "C",
+      "comentario": "O Word inclui a opção **Matriz** nas Tabelas Rápidas, mas não 'Tabela rasurada' ou 'Tabela tripla' por padrão."
+    },
+    {
+      "id": 23,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "Dada a informação da imagem abaixo, da guia Página Inicial do Word. Marque a alternativa CORRETA que as opções acima são correspondente a qual configuração no Word. ",
+      "opcoes": {
+        "a": "Marcadores.",
+        "b": "Paginação.",
+        "c": "Numeração.",
+        "d": "Espaçamento."
+      },
+      "resposta_correta": "A",
+      "comentario": "A imagem mostra os símbolos usados para listas não ordenadas, que são chamados de **Marcadores** no Microsoft Word."
+    },
+    {
+      "id": 24,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "No Microsoft Word, quando um usuário comete um erro, ele pode desfazer e refazer as ações. Se um usuário deseja repetir uma ação, qual dos seguintes procedimentos ele deve seguir?",
+      "opcoes": {
+        "a": "Clique em Repetir ou digite o comando <CTRL + C>.",
+        "b": "Clique em Repetir ou digite o comando <CTRL + R>.",
+        "c": "Clique em Repetir ou digite o comando <CTRL + X>.",
+        "d": "Clique em Repetir ou digite o comando <CTRL + Z>."
+      },
+      "resposta_correta": "B",
+      "comentario": "Desfazer é CTRL+Z. Refazer ou **Repetir** a última ação é **CTRL+R** (ou CTRL+Y em algumas versões/contextos)."
+    },
+    {
+      "id": 25,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "Quais são as ações corretas realizadas ao clicar com o mouse em diferentes contextos em um documento de texto?",
+      "opcoes": {
+        "a": "Um clique na margem esquerda do texto seleciona todo o parágrafo, enquanto um duplo clique seleciona toda a linha.",
+        "b": "Um clique no meio de uma palavra posiciona o cursor onde foi clicado, enquanto um duplo clique seleciona todo o parágrafo.",
+        "c": "Um triplo clique na margem esquerda do texto seleciona todo o texto, enquanto um triplo clique no meio de uma palavra seleciona toda a linha.",
+        "d": "Um clique na margem esquerda do texto seleciona toda a linha, enquanto um duplo clique no meio de uma palavra seleciona toda a palavra."
+      },
+      "resposta_correta": "D",
+      "comentario": "Um clique na margem esquerda seleciona **toda a linha**. Um duplo clique em uma palavra seleciona **toda a palavra**."
+    },
+    {
+      "id": 26,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "O Microsoft Word é o melhor e mais utilizado programa do Microsoft Office para editar um documento. Uma das formas que facilita as operações de formatação é o uso de teclas de atalho (teclas de atalho é uma combinação de teclas). Sobre teclas de atalho no Word 2010, assinale a alternativa CORRETA.",
+      "opcoes": {
+        "a": "Alt + Shift + S sublinha somente as palavras, mas não os espaços.",
+        "b": "Ctrl + Shift + A formata as letras para maiúsculas.",
+        "c": "Ctrl + Shift + W diminui a fonte do texto.",
+        "d": "Alt + Ctrl + A formata paragrafo justificado."
+      },
+      "resposta_correta": "B",
+      "comentario": "**CTRL+SHIFT+A** alterna entre **TODAS MAIÚSCULAS** e minúsculas/Caixa Baixa."
+    },
+    {
+      "id": 27,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "No contexto de Editor de Texto, qual das alternativas se relaciona corretamente com o conceito de Faixa de opções?",
+      "opcoes": {
+        "a": "Localizada na parte superior da área de trabalho, informa a marcação das margens, recuos e outras marcações.",
+        "b": "Contém menus de acordo com as tarefas relacionadas.",
+        "c": "Contém grupos de tarefas relacionadas, facilitando encontrar, com mais eficiência, os comandos desejados.",
+        "d": "Mostra a quantidade de páginas, a quantidade de palavras, o idioma, os modos de exibição de um documento: Layout de impressão, Leitura de tela inteira, Layout de web, Estrutura de tópicos e Rascunho e o Zoom."
+      },
+      "resposta_correta": "C",
+      "comentario": "A **Faixa de Opções** (ou Ribbon) é organizada em **Guias** e **Grupos** de tarefas relacionadas. A: Régua. D: Barra de Status."
+    },
+    {
+      "id": 28,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "É uma ferramenta de alta complexidade, porém, conta com uma grande quantidade de recursos aplicáveis a diversas atividades que envolvem produzir e formatar textos, como elaborar relatórios de produtividade, contratos ou comunicados; confeccionar listas para organizar melhor as informações; desenvolver trabalhos acadêmicos, entre outros. Marque a alternativa CORRETA que corresponde ao contexto acima.",
+      "opcoes": {
+        "a": "Word.",
+        "b": "Outlook.",
+        "c": "Power Point.",
+        "d": "Excel."
+      },
+      "resposta_correta": "A",
+      "comentario": "A descrição é a função primária de um **processador de texto**, sendo o **Microsoft Word** o principal software do Office para essa finalidade."
+    },
+    {
+      "id": 29,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "Quando digitamos um documento num processador de texto, as teclas de atalho facilitam bastante o desenvolvimento do trabalho. Marque a alternativa CORRETA que corresponde a combinação de teclas para colocar uma palavra ou uma frase em Negrito.",
+      "opcoes": {
+        "a": "Ctrl + S.",
+        "b": "Ctrl + B.",
+        "c": "Ctrl + N.",
+        "d": "Ctrl + I."
+      },
+      "resposta_correta": "C",
+      "comentario": "No Microsoft Word (em português), o atalho para **Negrito** é **CTRL + N**."
+    },
+    {
+      "id": 30,
+      "tema": "EDITOR DE TEXTO (MS Word)",
+      "pergunta": "No Microsoft Word, ao trabalhar com o layout de colunas, qual das seguintes afirmações é verdadeira?",
+      "opcoes": {
+        "a": "O Word não permite a personalização das colunas, oferecendo apenas opções pré-definidas.",
+        "b": "Não é possível adicionar linhas entre as colunas.",
+        "c": "Não é possível adicionar colunas apenas a uma parte do texto.",
+        "d": "Para utilizar larguras de colunas diferentes, é necessário desmarcar a opção \"Colunas de mesma largura\"."
+      },
+      "resposta_correta": "D",
+      "comentario": "O Word permite larguras de colunas diferentes, bastando desmarcar a opção **\"Colunas de mesma largura\"** na caixa de diálogo de Colunas. As demais alternativas estão incorretas."
+    },
+    {
+      "id": 31,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "O pacote Microsoft Office 365 oferece ferramentas robustas para edição de textos, criação de planilhas e apresentações, com funcionalidades que integram recursos avançados para otimizar o trabalho em equipe e a produtividade. Considerando o uso dessas ferramentas, analise as afirmativas a seguir:\nI. No Microsoft Word, é possível criar sumários automáticos a partir do uso correto de estilos de títulos, como \"Título 1\" e \"Título 2\".\nII. No Microsoft Excel, a função PROCV permite buscar valores em uma coluna específica de uma tabela, retornando dados correspondentes de outra coluna.\nIII. No Microsoft PowerPoint, é possível criar apresentações interativas utilizando links que permitem navegar entre diferentes slides ou recursos externos.\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "I, II e III.",
+        "b": "I e II, apenas.",
+        "c": "II, apenas.",
+        "d": "I e III, apenas."
+      },
+      "resposta_correta": "A",
+      "comentario": "Todas as afirmativas estão corretas. I (Word e Estilos para Sumário). II (Função PROCV). III (PowerPoint e hiperlinks)."
+    },
+    {
+      "id": 32,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "O Microsoft Excel permite a criação de planilhas organizadas para controle financeiro, utilizando ferramentas como formatação condicional e gráficos para facilitar a análise dos dados. Em relação à criação de uma planilha de controle de despesas monetárias e à aplicação de formatação condicional e gráfica, analise as afirmativas a seguir:\nI. A formatação condicional pode ser usada para destacar automaticamente valores superiores a R$1.000, aplicando núcleos ou estilos visuais para facilitar a identificação de gastos elevados.\nII. No Excel, não é possível criar gráficos diretamente a partir de uma seleção de dados; é necessário inserir os valores manualmente em um editor de gráficos externo.\nIII. A legenda e o título dos gráficos podem ser ajustados para melhorar a visualização dos dados, tornando a análise mais intuitiva.\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "I, II e III.",
+        "b": "II apenas.",
+        "c": "I apenas.",
+        "d": "I e III apenas."
+      },
+      "resposta_correta": "D",
+      "comentario": "I e III estão corretas. II está incorreta: O Excel permite a criação de gráficos **diretamente a partir da seleção de dados** na planilha."
+    },
+    {
+      "id": 33,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "Em ambientes de planilhas eletrônicas, como Microsoft Excel e LibreOffice Calc, o domínio da estrutura das fórmulas e da lógica de precedência dos operadores é essencial para evitar erros de cálculo... Sobre esses aspectos, analise as afirmativas a seguir.\nI. Ao utilizar a fórmula =A1+B1*C1, o resultado dependerá da precedência dos operadores, sendo a multiplicação avaliada antes da adição, mesmo sem o uso de parênteses.\nII. A fórmula =((A2+B2)/C2)*D2 avalia corretamente as somas antes da divisão e da multiplicação subsequente, pois o uso de parênteses modifica a ordem natural de execução dos operadores.\nIII. A fórmula =SOMA(A1:B1*C1) é válida para multiplicar os valores do intervalo A1 até B1 pelo conteúdo de C1, e depois somar os resultados automaticamente, conforme comportamento padrão da função SOMA().\nEstá correto o que se afirma em:",
+      "opcoes": {
+        "a": "II e III apenas.",
+        "b": "II apenas.",
+        "c": "I, II e III.",
+        "d": "I apenas."
+      },
+      "resposta_correta": "B",
+      "comentario": "I está incorreta (o enunciado afirma que 'dependerá', mas a precedência é fixa: multiplicação é feita primeiro). III está incorreta (sintaxe incorreta para a operação descrita)."
+    },
+    {
+      "id": 34,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "Em um relatório mensal elaborado no Microsoft Excel, uma equipe de controle financeiro precisa apresentar os valores monetários com precisão visual, destacando automaticamente números negativos em vermelho... Para isso, é necessário o domínio de comandos de formatação que vão além da simples digitação. Considerando os recursos disponíveis nos editores de planilhas eletrônicas, assinale a alternativa correta quanto às técnicas de formatação aplicáveis nesse cenário.",
+      "opcoes": {
+        "a": "O estilo de moeda pode ser aplicado manualmente, mas não reconhece valores negativos, sendo necessário alterar o conteúdo da célula para aplicar coloração diferente.",
+        "b": "A formatação condicional pode ser utilizada para alterar automaticamente a cor da fonte com base em critérios definidos, como tornar os valores negativos visivelmente destacados em vermelho.",
+        "c": "O alinhamento justificado é o mais adequado para centralizar números em colunas, pois distribui os valores igualmente entre as margens da célula.",
+        "d": "A aplicação de formatação numérica personalizada impede o uso simultâneo de bordas e cores, já que essas configurações são mutuamente excludentes na interface de formatação de células."
+      },
+      "resposta_correta": "B",
+      "comentario": "A **Formatação Condicional** é a ferramenta correta para aplicar formatação (cor da fonte, preenchimento, etc.) **automaticamente** com base em um critério, como valores negativos."
+    },
+    {
+      "id": 35,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "As Tabelas Dinâmicas no Excel 2019 evoluíram para oferecer novas funcionalidades de análise, incorporando ferramentas interativas que permitem filtrar e relacionar dados em tempo real. Acerca do assunto, marque V, para as afirmativas verdadeiras, e F, para as falsas:\n(__) As Tabelas Dinâmicas do Excel 2019 exigem a instalação de complementos de terceiros para criar segmentações de dados.\n(__) É possível configurar segmentações de dados diretamente nas Tabelas Dinâmicas para filtrar informações de maneira mais intuitiva.\n(__) O recurso de conexão com o Power Query facilita a integração com diferentes fontes de dados, possibilitando atualizações em tempo real.\n(__) O Excel 2019 oferece melhorias que incluem a aplicação de formatação condicional integrada, destacando valores e tendências nos relatórios.\nA sequência está correta em:",
+      "opcoes": {
+        "a": "V, V, V, V.",
+        "b": "V, F, F, V.",
+        "c": "F, F, V, V.",
+        "d": "F, V, V, V."
+      },
+      "resposta_correta": "D",
+      "comentario": "F-V-V-V. 1ª: Incorreta (Segmentação de Dados é recurso nativo). 2ª, 3ª e 4ª: Corretas (Segmentações de Dados, Power Query e Formatação Condicional são recursos de análise de Tabela Dinâmica)."
+    },
+    {
+      "id": 36,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "No Microsoft Excel 2019, a manipulação de dados pode ser feita por meio de diversas ferramentas, incluindo fórmulas e funções para cálculos automáticos. Qual dessas opções descreve corretamente o uso da função SOMA()?",
+      "opcoes": {
+        "a": "A função SOMA() adiciona todos os valores numéricos em um intervalo de células especificado.",
+        "b": "A função SOMA() retorna o menor valor em um intervalo de células.",
+        "c": "A função SOMA() multiplica os valores numéricos de um intervalo de células especificado.",
+        "d": "A função SOMA() calcula a média dos valores numéricos em um intervalo de células."
+      },
+      "resposta_correta": "A",
+      "comentario": "A função **SOMA()** é usada para **adicionar** (somar) todos os valores numéricos em um intervalo de células especificado."
+    },
+    {
+      "id": 37,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "No Microsoft Office Excel 2019, a formatação condicional é uma ferramenta poderosa que permite alterar a aparência das células automaticamente com base em critérios específicos. Qual das seguintes afirmações é verdadeira sobre a aplicação da formatação condicional?",
+      "opcoes": {
+        "a": "A formatação condicional no Excel 2019 exige que o usuário insira manualmente as mudanças de formatação cada vez que novos dados são adicionados à planilha.",
+        "b": "No Excel 2019, a formatação condicional é exclusivamente disponível para uso em tabelas formatadas e não pode ser aplicada em intervalos de células normais.",
+        "c": "A formatação condicional no Excel só pode ser usada para alterar a cor do texto dentro das células, sem opções para modificar o fundo ou estilo da fonte.",
+        "d": "A formatação condicional pode ser aplicada para destacar células que atendem a critérios específicos, como valores acima de um limite ou células duplicadas."
+      },
+      "resposta_correta": "D",
+      "comentario": "A **Formatação Condicional** aplica a formatação **automaticamente** para destacar células que atendem a critérios específicos (como valores acima de um limite, valores duplicados, etc.)."
+    },
+    {
+      "id": 38,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "Existem várias maneiras de selecionar os dados no Excel. Marque a alternativa CORRETA que corresponde a selecionar células alternadas.",
+      "opcoes": {
+        "a": "Clique em uma célula, pressione CTRL e vá clicando sobre as outras células desejadas.",
+        "b": "Clique sobre a letra ou o número referente à coluna ou à linha, respectivamente.",
+        "c": "Clique na primeira célula desejada e, com a tecla SHIFT selecionada, clique na última célula do intervalo.",
+        "d": "Clique na primeira célula mantendo o botão esquerdo do mouse pressionado e arraste o cursor até a última célula que deseja selecionar."
+      },
+      "resposta_correta": "A",
+      "comentario": "A tecla **CTRL** (Control) é usada para selecionar itens **alternados** ou não adjacentes (com intervalos)."
+    },
+    {
+      "id": 39,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "Considerando o uso de fórmulas e funções no Microsoft Office Excel 2019, qual das seguintes alternativas descreve corretamente como utilizar a função SOMA para totalizar os valores em um intervalo de células?",
+      "opcoes": {
+        "a": "Para somar valores em um intervalo de células no Excel 2019, você pode usar a função =SOMA(A1:A10), que adiciona todos os valores das células de A1 até A10.",
+        "b": "Para somar valores em um intervalo de células no Excel 2019, você pode usar a função =SOMA((A1)+(A10)), que adiciona todos os valores das células de A1 até A10.",
+        "c": "Para somar valores em um intervalo de células no Excel 2019, você pode usar a função =SOMA(total(A1+A10)), que adiciona todos os valores das células de A1 até A10.",
+        "d": "Para somar valores em um intervalo de células no Excel 2019, você pode usar a função =SOMA(A1+A10), que adiciona todos os valores das células de A1 até A10."
+      },
+      "resposta_correta": "A",
+      "comentario": "O uso dos dois pontos (:) em Excel indica um **intervalo** de células. A sintaxe correta para somar o intervalo é **=SOMA(A1:A10)**."
+    },
+    {
+      "id": 40,
+      "tema": "PLANILHA ELETRÔNICA (MS Excel)",
+      "pergunta": "No Excel essa função determina a quantidade de células não vazias, no intervalo estabelecido, que atendem a uma determinada condição.",
+      "opcoes": {
+        "a": "=PROCV(valor_procurado;matriz_tabela;núm_coluna ;[proc_interv]).",
+        "b": "=SOMASE (intervalo; condição; intervalo_soma).",
+        "c": "=CONTAR.VAZIO(intervalo).",
+        "d": "=CONT.SE(intervalo; critérios)."
+      },
+      "resposta_correta": "D",
+      "comentario": "A função **CONT.SE** (ou COUNTIF em inglês) é usada para **contar** o número de células em um intervalo que atendem a um **critério** ou **condição** especificada."
+    },
+    {
+      "id": 41,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Qual dos seguintes aplicativos de segurança é responsável por monitorar e controlar o tráfego de rede, permitindo ou bloqueando conexões com base em regras de segurança?",
+      "opcoes": {
+        "a": "VPN.",
+        "b": "Anti-spyware.",
+        "c": "Antimalware.",
+        "d": "Firewall."
+      },
+      "resposta_correta": "D",
+      "comentario": "O **Firewall** atua como uma barreira que monitora e filtra o **tráfego de rede** com base em regras de segurança, permitindo ou bloqueando conexões."
+    },
+    {
+      "id": 42,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Sobre aplicativos de segurança, julgue as seguintes afirmações como verdadeiras (V) ou falsas (F):\n(__) Antivírus é um software desenvolvido para identificar e remover códigos maliciosos que podem comprometer o funcionamento de um dispositivo.\n(__) Firewalls são ferramentas que monitoram o tráfego de rede, podendo bloquear acessos não autorizados.\n(__) Anti-spyware e antivírus realizam a mesma função de proteção contra todos os tipos de malware.\nAssinale a alternativa cuja respectiva ordem de julgamento esteja correta:",
+      "opcoes": {
+        "a": "V − V − F.",
+        "b": "F − F − V.",
+        "c": "V − V − V.",
+        "d": "V − F − F."
+      },
+      "resposta_correta": "A",
+      "comentario": "V-V-F. As duas primeiras são definições corretas. A terceira é Falsa, pois, embora se complementem, tradicionalmente Antivírus e Anti-spyware têm focos ligeiramente diferentes, e não cobrem *todos* os tipos de malware da *mesma* forma."
+    },
+    {
+      "id": 43,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "No sistema operacional Windows 11, para maximizar uma aplicação ou janela no lado esquerdo da tela sem usar o mouse, qual dos atalhos de teclado abaixo é correto?",
+      "opcoes": {
+        "a": "Ctrl + Alt + Seta para a esquerda Ctrl + Alt + Seta para a esquerda",
+        "b": "Tecla do logótipo do Windows + Seta para a esquerda",
+        "c": "Shift + Seta para a esquerda",
+        "d": "Alt + Shift + Seta para a esquerda"
+      },
+      "resposta_correta": "B",
+      "comentario": "O atalho de teclado para fixar uma janela à **metade esquerda** ou **metade direita** da tela (recurso Snap do Windows) é a **Tecla do Logótipo do Windows + Seta** (para Esquerda ou Direita)."
+    },
+    {
+      "id": 44,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Para executar qualquer procedimento dentro do Explorer no Windows, é necessário que seja selecionado o objeto desejado. Marque a alternativa CORRETA que corresponde a tecla que seleciona vários objetos, contendo intervalos entre eles, através da tecla e a seleção dos objetos com o mouse:",
+      "opcoes": {
+        "a": "Shift.",
+        "b": "Ctrl.",
+        "c": "AltGr.",
+        "d": "Alt."
+      },
+      "resposta_correta": "B",
+      "comentario": "A tecla **CTRL** (Control) é usada para selecionar itens **alternados** (não contínuos)."
+    },
+    {
+      "id": 45,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Nos processos de como copiar, colar, desfazer e recortar uma pasta ou arquivo também podem ser executadas utilizando atalhos através do teclado. Marque a alternativa CORRETA que corresponde as teclas de atalho a sequência nessa ordem de: **recortar** e **desfazer**.",
+      "opcoes": {
+        "a": "CTRL + R + CTRL + D.",
+        "b": "CTRL + X e CTRL + Z.",
+        "c": "SHIFT + R e SHIFT +D.",
+        "d": "SHIFT + X e SHIFT +Z."
+      },
+      "resposta_correta": "B",
+      "comentario": "Os atalhos universais para **Recortar** (Cut) e **Desfazer** (Undo) são, respectivamente, **CTRL + X** e **CTRL + Z**."
+    },
+    {
+      "id": 46,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "No Word para desfazer uma ação, voltar ao estado anterior, basta clicar duas teclas. Marque a alternativa CORRETA que corresponde a sequência de teclas para desfazer de uma ação.",
+      "opcoes": {
+        "a": "Ctrl + V.",
+        "b": "Ctrl + W.",
+        "c": "Ctrl + L.",
+        "d": "Ctrl + Z."
+      },
+      "resposta_correta": "D",
+      "comentario": "O atalho padrão para **Desfazer** a última ação em softwares como o Word é **CTRL + Z**."
+    },
+    {
+      "id": 47,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Para selecionar todos os itens de um documento no MS-Word 2019, qual atalho pode ser utilizado pelo usuário?",
+      "opcoes": {
+        "a": "Ctrl + J.",
+        "b": "Ctrl + B.",
+        "c": "Ctrl + V.",
+        "d": "Ctrl + T."
+      },
+      "resposta_correta": "D",
+      "comentario": "O atalho universal para **Selecionar Tudo** em muitos aplicativos, incluindo o Word, é **CTRL + T** (do inglês *Select All*)."
+    },
+    {
+      "id": 48,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "O aplicativo Microsoft Office Word (2010) em sua versão em português, possui diversos atalhos que facilitam a estruturação e escrita do texto. Assim, avalie as proposições:\nI. O atalho CTRL + N corresponde ao negrito.\nII. O atalho CTRL + I corresponde ao alinhamento justificado do texto.\nIII. O atalho CTRL + Q corresponde ao alinhamento à esquerda do texto.\nAssinale a alternativa correta:",
+      "opcoes": {
+        "a": "Apenas as proposições II e III estão corretas.",
+        "b": "Apenas a proposição III está correta.",
+        "c": "Apenas as proposições I e III estão corretas.",
+        "d": "Apenas as proposições I e II estão corretas."
+      },
+      "resposta_correta": "C",
+      "comentario": "Repetição da Questão 21. I (Negrito) e III (Alinhamento à Esquerda) estão corretas. II está incorreta, pois CTRL + I é Itálico; o Justificado é CTRL + J."
+    },
+    {
+      "id": 49,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Assinale a alternativa a que apresenta uma afirmação correta sobre tipos de aplicativos firewall, antivírus e anti-spyware.",
+      "opcoes": {
+        "a": "O firewall pode ser implementado como software ou hardware.",
+        "b": "Um firewall substitui o antivírus e o anti-spyware em todas as suas funções.",
+        "c": "O antivírus e o anti-spyware são usados apenas em redes corporativas.",
+        "d": "O anti-spyware impede acessos não autorizados a partir do controle de portas e pacotes."
+      },
+      "resposta_correta": "A",
+      "comentario": "O **Firewall** pode ser implementado tanto como **software** (instalado em um computador) quanto como **hardware** (dispositivo dedicado)."
+    },
+    {
+      "id": 50,
+      "tema": "PROGRAMA ANTIVÍRUS E FIREWALL / TECLAS DE ATALHO",
+      "pergunta": "Um técnico de TI está configurando um firewall em uma pequena empresa para proteger a rede contra acessos não autorizados e ataques cibernéticos. Sobre firewalls, é correto afirmar que:",
+      "opcoes": {
+        "a": "um firewall atua como uma barreira de segurança que controla o tráfego de entrada e saída da rede com base em regras predefinidas.",
+        "b": "firewalls são exclusivamente dispositivos físicos, não existindo soluções de firewall em formato de software.",
+        "c": "a principal função de um firewall é detectar e remover vírus e malware dos arquivos que entram na rede.",
+        "d": "um firewall permite que todo o tráfego de rede seja aceito por padrão, exceto quando especificado manualmente pelo administrador."
+      },
+      "resposta_correta": "A",
+      "comentario": "A é a definição mais precisa do Firewall: atua como barreira, controlando o **tráfego de entrada e saída** com base em **regras predefinidas** (políticas de segurança)."
+    }
+  ]
+}
