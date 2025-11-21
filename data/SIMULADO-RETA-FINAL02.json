@@ -1,0 +1,788 @@
+{
+  "titulo": "Simulado (versão JSON com gabarito e comentários)",
+  "fonte": "fileciteturn0file0",
+  "texto_base": "Perde o gato\n \u0001Um jornal é lido por muita gente, em muitos \nlugares; o que ele diz precisa interessar, senão a \ntodos, pelo menos a um certo número de pessoas. \nMas o que me brota espontaneamente da máqui -\nna, hoje, não interessa a ninguém, salvo a mim \nmesmo. O leitor, portanto, faça o obséquio de mu-\ndar de coluna. Trata-se de um gato.\n \u0001Não é a primeira vez que o tomo para objeto \nde escrita. Há tempos, contei de Inácio e de sua \nconvivência. Inácio estava na graça do crescimen -\nto, e suas atitudes faziam descobrir um encanto \nnovo no encanto imemorial dos gatos. Mas Inácio \ndesapareceu — e sua falta é mais importante para \nmim do que as reformas do ministério.\n \u0001Gatos somem no Rio de Janeiro. Dizia-se que \no fenômeno se relacionava com a indústria do-\nméstica das cuícas, localizada nos morros. Agora \nouço dizer que se relaciona com a vida cara e a \nescassez de alimentos. À falta de uma fatia de vi-\ntela, há indivíduos que se consolam comendo car-\nne de gato, caça tão esquiva quanto a outra.\n \u0001O fato sociológico ou econômico me escapa. \nNão é a sorte geral dos gatos que me preocupa. \nConcentro-me em Inácio, em seu destino não sa-\nbido. Eram duas da madrugada quando o pintor \nReis Júnior, que passeia a essa hora com o seu \ncachimbo e o seu cão, me bateu à porta, noticioso. \nEm suas andanças, vira um gato cor de ouro como \nInácio — cor incomum em gatos comuns — e se \ndispunha a ajudar-me na captura. Lá fomos sob o \nvento da praia, em seu encalço. E no lugar indica -\ndo, pequeno jardim fronteiro a um edifício, estava \no gato. A luz não dava para identificá-lo, e ele se \nrecusou à intimidade. Chamados afetuosos não o \ncomoveram; tentativas de aproximação se frus-\ntraram. Ele fugia sempre, para voltar se nos via \ndistantes. Amava. Seria iníquo apartá-lo do alvo \nde sua obstinada contemplação, a poucos metros. \nDesistimos. Se for Inácio — pensei — dentro de \num ou dois dias estará de volta. Não voltou.\n \u0001 \u0001Um gato vive um pouco nas poltronas, no ci-\nmento ao sol, no telhado sob a lua. Vive também \nsobre a mesa do escritório, e o salto preciso que \nele dá para atingi-la é mais do que impulso para \na cultura. É o movimento civilizado de um orga-\nnismo plenamente ajustado às leis físicas, e que \nnão carece de suplemento de informação. Livros e \npapéis beneficiam-se com a sua presteza austera. \nMais do que a coruja, o gato é símbolo e guardião \nda vida intelectual.\n \u0001Depois que sumiu Inácio, esses pedaços da \ncasa se desvalorizaram. Falta-lhes a nota grave \ne macia de Inácio. É extraordinário como o gato \n“funciona” em uma casa: em silêncio, indiferente, \nmas adesivo e cheio de personalidade. Se se agra-\nvar a mediocridade destas crônicas, os senhores \nestão avisados: é falta de Inácio. Se tinham algu -\nma coisa aproveitável era a presença de Inácio a \nmeu lado, sua crítica muda, através dos olhos de \ntopázio que longamente me fitavam, aprovando al-\ngum trecho feliz, ou através do sono profundo, que \nantecipava a reação provável dos leitores.\n \u0001Poderia botar anúncio no jornal. Para quê? \nNinguém está pensando em achar gatos. Se Iná-\ncio estiver vivo e não sequestrado, voltará sem ex-\nplicações. É próprio do gato sair sem pedir licença, \nvoltar sem dar satisfação. Se o roubaram, é home-\nnagem a seu charme pessoal, misto de circuns-\npeção e leveza; tratem-no bem, nesse caso, para \njustificar o roubo, e ainda porque maltratar animais \né uma forma de desonestidade. Finalmente, se ti-\nver de voltar, gostaria que o fizesse por conta pró-\npria, com suas patas; com a altivez, a serenidade \ne a elegância dos gatos.\nCarlos Drummond de Andrade. Disponível em: \n<https://iclnoticias.com.br/>.  \nAcesso em 12 out 2025.",
+  "num_questoes_extraidas": 60,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "No texto “Perde o gato”, Drummond constrói \numa narrativa em que a perda de Inácio transcende \no simples desaparecimento de um animal doméstico. \nA melancolia do narrador emerge, sobretudo, de um \nmovimento discursivo que:",
+      "opcoes": {
+        "a": "converte o fato cotidiano em metáfora da ausência  e da afetividade, conferindo à perda do gato um  valor simbólico ligado à própria criação literária.",
+        "b": "se fundamenta na denúncia social sobre a miséria  urbana, aproximando o destino de Inácio ao dos  homens marginalizados pelo contexto econômico.",
+        "c": "articula uma crítica direta à indiferença humana  diante dos animais, em um tom de protesto velado  contra a brutalidade cotidiana.",
+        "d": "estabelece uma ironia amarga entre o desapareci - mento do gato e o descaso público pelas reformas  ministeriais.",
+        "e": "constrói um relato objetivo, de natureza memoria - lística, em que a emoção se submete à descrição  factual do episódio."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 2,
+      "pergunta": "Ao declarar que “Mais do que a coruja, o gato é \nsímbolo e guardião da vida intelectual”, o narrador in-\ntroduz uma leitura metafórica que:",
+      "opcoes": {
+        "a": "uma crônica dissertativa, voltada à análise concei - tual do vínculo entre homem e animal.",
+        "b": "um conto memorialístico, com foco narrativo no  desaparecimento e reencontro simbólico do gato.",
+        "c": "uma crônica narrativa-reflexiva, em que o episódio  cotidiano é transfigurado em reflexão poética so- bre a perda e o fazer literário.",
+        "d": "um ensaio literário, de caráter metalinguístico, que  utiliza o gato como alegoria da inspiração.",
+        "e": "um texto híbrido entre reportagem e crônica, com  predominância de discurso informativo."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em relação à estrutura composicional e aos \nrecursos expressivos, o texto “Perde o gato” é \nmelhor caracterizado como:",
+      "opcoes": {
+        "a": "uma crônica dissertativa, voltada à análise concei - tual do vínculo entre homem e animal.",
+        "b": "um conto memorialístico, com foco narrativo no  desaparecimento e reencontro simbólico do gato.",
+        "c": "uma crônica narrativa-reflexiva, em que o episódio  cotidiano é transfigurado em reflexão poética so- bre a perda e o fazer literário.",
+        "d": "um ensaio literário, de caráter metalinguístico, que  utiliza o gato como alegoria da inspiração.",
+        "e": "um texto híbrido entre reportagem e crônica, com  predominância de discurso informativo."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 4,
+      "pergunta": "A construção textual de “Perde o gato” revela uma \ntessitura linguística que combina a articulação interna \ndo discurso com alusões simbólicas externas. Nesse \nsentido, o texto drummondiano sustenta sua unidade \nsemântica e estilística por meio de:",
+      "opcoes": {
+        "a": "a marcação de uma pausa meramente sintática e  a intenção de concluir o parágrafo com neutralida - de estilística.",
+        "b": "a combinação entre pausa argumentativa e efei- to irônico, em que o ponto final delimita uma que- bra brusca de expectativa e reforça o tom de hu- mor discreto.",
+        "c": "a presença de uma intercalação explicativa e de  uma conclusão lógica, em registro de impessoali - dade narrativa.",
+        "d": "o uso de vírgulas para destacar aposto e de ponto  final para enfatizar o encerramento de um tópico  secundário.",
+        "e": "o emprego de pausa enfática e de ponto conclusi - vo para indicar retomada de assunto anterior, em  sequência de raciocínio lógico."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 5,
+      "pergunta": "4\nwww.grancursosonline.com.brPOLÍCIA PENAL ES - PPES\n1º Simulado – Policial Penal (Pós-Edital)1. No texto “Perde o gato”, Drummond constrói \numa narrativa em que a perda de Inácio transcende \no simples desaparecimento de um animal doméstico. \nA melancolia do narrador emerge, sobretudo, de um \nmovimento discursivo que:",
+      "opcoes": {
+        "a": "a marcação de uma pausa meramente sintática e  a intenção de concluir o parágrafo com neutralida - de estilística.",
+        "b": "a combinação entre pausa argumentativa e efei- to irônico, em que o ponto final delimita uma que- bra brusca de expectativa e reforça o tom de hu- mor discreto.",
+        "c": "a presença de uma intercalação explicativa e de  uma conclusão lógica, em registro de impessoali - dade narrativa.",
+        "d": "o uso de vírgulas para destacar aposto e de ponto  final para enfatizar o encerramento de um tópico  secundário.",
+        "e": "o emprego de pausa enfática e de ponto conclusi - vo para indicar retomada de assunto anterior, em  sequência de raciocínio lógico."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 6,
+      "pergunta": "No trecho: “Se se agravar a mediocridade destas \ncrônicas, os senhores estão avisados: é falta de Inácio.”\nDrummond constrói uma relação sintática que eviden -\ncia tanto o encadeamento lógico quanto a ironia do \nenunciado. A análise correta da estrutura sintática e do \nvalor semântico das orações é:",
+      "opcoes": {
+        "a": "“Talvez eu anuncie no jornal, pois há quem procu- re gatos perdidos.”",
+        "b": "“Seria possível publicar um anúncio, mas não há  quem se interesse em encontrar gatos.”",
+        "c": "“Eu até poderia publicar um anúncio, porém  de nada adiantaria: ninguém anda à procura  de gatos.”",
+        "d": "“Poderia colocar um anúncio, porque ninguém mais  se preocupa em procurar gatos desaparecidos.”",
+        "e": "“Se botasse um anúncio, com certeza muitos se  mobilizariam para achar o gato perdido.”"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 7,
+      "pergunta": "Considere o seguinte trecho do texto de Drummond:\n“Poderia botar anúncio no jornal. Para quê? Ninguém \nestá pensando em achar gatos.”\nEntre as versões abaixo, a que mantém integralmente \no sentido, o tom e o efeito de ironia implícita do original, \nrespeitando a norma-padrão e o estilo do autor, é:",
+      "opcoes": {
+        "a": "“Talvez eu anuncie no jornal, pois há quem procu- re gatos perdidos.”",
+        "b": "“Seria possível publicar um anúncio, mas não há  quem se interesse em encontrar gatos.”",
+        "c": "“Eu até poderia publicar um anúncio, porém  de nada adiantaria: ninguém anda à procura  de gatos.”",
+        "d": "“Poderia colocar um anúncio, porque ninguém mais  se preocupa em procurar gatos desaparecidos.”",
+        "e": "“Se botasse um anúncio, com certeza muitos se  mobilizariam para achar o gato perdido.”"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 8,
+      "pergunta": "Observe o seguinte trecho: “Mais do que a coruja, \no gato é símbolo e guardião da vida intelectual.”\nSobre a estrutura sintática e os efeitos de sentido do \nenunciado, é correto afirmar que:",
+      "opcoes": {
+        "a": "As palavras têm alma, pois se cansam de nós, às  vezes, e fogem para o silêncio.",
+        "b": "As palavras têm alma; e às vezes, quando se can- sam de nós, fogem para o silêncio.",
+        "c": "Às vezes, quando se cansam de nós, as palavras,  que têm alma, fogem para o silêncio.",
+        "d": "As palavras, às vezes, têm alma cansada de nós  e, por isso, fogem para o silêncio.",
+        "e": "Têm alma as palavras; mas fogem, às vezes, para  o silêncio, porque se cansam de nós."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 9,
+      "pergunta": "Leia o trecho a seguir, adaptado de uma crônica \nde Carlos Drummond de Andrade:\n“As palavras têm alma. Às vezes se cansam de nós e \nfogem para o silêncio.”\nConsidere a reescrita desse período em diferentes for-\nmas e analise a manutenção da correção gramatical \ne do sentido original. Assinale a alternativa em que a \nreorganização mantém adequadamente o sentido e a \ncorreção do texto original.",
+      "opcoes": {
+        "a": "As palavras têm alma, pois se cansam de nós, às  vezes, e fogem para o silêncio.",
+        "b": "As palavras têm alma; e às vezes, quando se can- sam de nós, fogem para o silêncio.",
+        "c": "Às vezes, quando se cansam de nós, as palavras,  que têm alma, fogem para o silêncio.",
+        "d": "As palavras, às vezes, têm alma cansada de nós  e, por isso, fogem para o silêncio.",
+        "e": "Têm alma as palavras; mas fogem, às vezes, para  o silêncio, porque se cansam de nós."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 10,
+      "pergunta": "No trecho a seguir, Drummond escreve: \n“Mais do que a coruja, o gato é símbolo e guardião \nda vida intelectual.”\nA partir da leitura global do texto e da frase destacada, \nassinale a alternativa que identifica corretamente a fi-\ngura de linguagem predominante e explica seu efeito \nexpressivo.",
+      "opcoes": {
+        "a": "Hipérbole, pois o autor exagera a importância  do gato, elevando-o a um símbolo da inteligên - cia humana.",
+        "b": "Metonímia, já que o gato representa o conjunto  dos animais domésticos na relação com o homem.",
+        "c": "Eufemismo, porque a descrição ameniza a dor do  desaparecimento de Inácio, transferindo o foco à  simbologia do animal.",
+        "d": "Metáfora, pois o gato é comparado, de forma im- plícita, a um ser intelectual e civilizado, símbolo da  reflexão silenciosa e da cultura.",
+        "e": "Antítese, uma vez que há oposição entre o animal  instintivo e o homem racional, contrastando natu- reza e civilização.Raciocínio Lógico Diego Ribeiro"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 11,
+      "pergunta": "Para higienização de uma ala, recomenda-se pre-\nparar 18 L de solução de hipoclorito a 2%. O almoxarifa -\ndo possui apenas hipoclorito concentrado a 12%. Con-\nsiderando que a diluição é feita adicionando água ao \nconcentrado, o volume de concentrado necessário é:",
+      "opcoes": {
+        "a": "2,5 L.",
+        "b": "3,0 L.",
+        "c": "3,6 L.",
+        "d": "4,0 L.",
+        "e": "4,5 L."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 12,
+      "pergunta": "Um servidor comprou EPI no valor de R$ 1.200,00 \nno cartão da cooperativa. A loja oferece:\n(I) 4 meses com juros simples de 2% a.m.; ou\n(II) 4 meses com juros compostos de 1,5% a.m.\nA opção que resulta no menor valor total é:",
+      "opcoes": {
+        "a": "simples; R$ 1.296,00.",
+        "b": "compostos; R$ 1.272,00.",
+        "c": "simples; R$ 1.274,00 é maior que o composto.",
+        "d": "compostos; R$ 1.274,54.",
+        "e": "compostos; R$ 1.273,63."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 13,
+      "pergunta": "Em um plantão, a razão entre pessoas custodia -\ndas em 3 alas é A:B:C = 6:5:4. Há 90 agentes dispo -\nníveis para revista simultânea, alocados proporcional -\nmente ao número de custodiados de cada ala. Indique \na quantidade de agentes que vão para a ala B.",
+      "opcoes": {
+        "a": "25",
+        "b": "27",
+        "c": "30",
+        "d": "32",
+        "e": "36"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 14,
+      "pergunta": "Para vistoriar um perímetro, 6 agentes caminhan -\ndo a 4 km/h levam 5 h.\nSe a velocidade cair para 3 km/h e forem alocados 8 \nagentes, o tempo necessário para realizar o mesmo \ntrabalho será:",
+      "opcoes": {
+        "a": "500 m².",
+        "b": "520 m².",
+        "c": "656 m².",
+        "d": "700 m².",
+        "e": "800 m²."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 15,
+      "pergunta": "Deseja-se cercar um pátio retangular de 65 m de \ngradil, usando a parede como um dos lados. Se a lar-\ngura x deve ser 5 m menor que o comprimento y e a \nparede corresponde ao cumprimento, a área é de:",
+      "opcoes": {
+        "a": "500 m².",
+        "b": "520 m².",
+        "c": "656 m².",
+        "d": "700 m².",
+        "e": "800 m²."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 16,
+      "pergunta": "Um pedido somou 58 peças entre algemas e la-\ncres. Cada algema custa R$ 160 e cada lacre R$ 20. O \nvalor total pago foi R$ 4.120. Indique a quantidade de \nalgemas que foram compradas.",
+      "opcoes": {
+        "a": "17",
+        "b": "18",
+        "c": "19",
+        "d": "20",
+        "e": "21"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 17,
+      "pergunta": "Uma viatura faz uma ronda de 12,6 km a 42 km/h, \n18 km a 60 km/h e 4,5 km a 30 km/h. Se considerarmos \numa parada de 7 minutos e 30 segundos entre cada \nmudança de velocidade, o tempo total da ronda é:",
+      "opcoes": {
+        "a": "1h.",
+        "b": "1,1h.",
+        "c": "54min.",
+        "d": "45min.",
+        "e": "1,3h."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 18,
+      "pergunta": "O número de incidentes leves em 10 \ndias consecutivos foi:\n4,5,4,3,5,4,6,7,5,2.\nAssinale a alternativa correta.",
+      "opcoes": {
+        "a": "média = 4,5; mediana = 4,5; moda = 4,5",
+        "b": "média = 4,5; mediana = 4,5; moda = 4 e 5",
+        "c": "média = 4,5; mediana = 4; moda = 4",
+        "d": "variância amostral = 2,5 e DP ≈ 1,58",
+        "e": "amplitude = 6 e DP = 1,5"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 19,
+      "pergunta": "Uma torre de observação projeta uma sombra de \n18 m. No mesmo instante, um tripé de 1,5 m projeta \nsombra de 2,25 m. A altura da torre é:",
+      "opcoes": {
+        "a": "60",
+        "b": "70",
+        "c": "80",
+        "d": "100",
+        "e": "120 Informática Fabrício Melo"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 20,
+      "pergunta": "O \nvalor total pago foi R$ 4.120. Indique a quantidade de \nalgemas que foram compradas.",
+      "opcoes": {
+        "a": "60",
+        "b": "70",
+        "c": "80",
+        "d": "100",
+        "e": "120 Informática Fabrício Melo"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 21,
+      "pergunta": "No que diz respeito ao sistema operacional e sof-\ntware, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A URL é o nome dado ao ícone que represen - ta o navegador na área de trabalho do sistema  operacional.",
+        "b": "Um link (ou hiperlink) permite acessar outro ende - reço eletrônico, podendo direcionar o usuário para  páginas na mesma ou em diferentes sites.",
+        "c": "Para localizar rapidamente um conteúdo em um  site, não é possível utilizar ferramentas de bus- ca, sendo necessário navegar manualmente todo  o conteúdo.",
+        "d": "Ao imprimir uma página da web, é obrigatório sal- var o conteúdo como arquivo .DOC ou .PDF antes  da impressão, pois navegadores não permitem im- pressão direta.",
+        "e": "Sites são apenas páginas estáticas, sem possibi - lidade de apresentar vídeos, formulários ou recur- sos interativos."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 22,
+      "pergunta": "Durante a navegação na Internet, um usuário pre-\ncisa acessar o site de um tribunal, localizar um docu-\nmento específico e imprimir a página desse conteúdo. \nEm relação aos conceitos de URL, links, sites, busca \ne impressão de páginas, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A URL é o nome dado ao ícone que represen - ta o navegador na área de trabalho do sistema  operacional.",
+        "b": "Um link (ou hiperlink) permite acessar outro ende - reço eletrônico, podendo direcionar o usuário para  páginas na mesma ou em diferentes sites.",
+        "c": "Para localizar rapidamente um conteúdo em um  site, não é possível utilizar ferramentas de bus- ca, sendo necessário navegar manualmente todo  o conteúdo.",
+        "d": "Ao imprimir uma página da web, é obrigatório sal- var o conteúdo como arquivo .DOC ou .PDF antes  da impressão, pois navegadores não permitem im- pressão direta.",
+        "e": "Sites são apenas páginas estáticas, sem possibi - lidade de apresentar vídeos, formulários ou recur- sos interativos."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 23,
+      "pergunta": "No uso do Microsoft Word, algumas tarefas comuns \nenvolvem a formatação adequada de documentos, in-\nserção de elementos gráficos e organização de conteú-\ndo. Sobre as funcionalidades relacionadas à formatação \nde fonte e parágrafo, bordas e sombreamento, marcado-\nres, numeração, tabulação, cabeçalho, rodapé, número \nde páginas, manipulação de imagens e formas, configu-\nração de página e tabelas, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A formatação condicional permite que o Excel alte- re a cor ou o estilo das células automaticamente, de  acordo com critérios definidos pelo usuário, como  valores acima de uma meta pré-estabelecida.",
+        "b": "Para efetuar uma soma entre os valores das cé- lulas A1 e B1, utiliza-se exclusivamente a função  =SOMA(A1+B1), pois operadores matemáticos  não são aceitos no Excel.",
+        "c": "Os gráficos criados no Excel não podem ser in- seridos em outros programas, como o Word ou o  PowerPoint, pois ficam restritos à planilha em que  foram criados.",
+        "d": "A configuração de impressão deve ser feita na  guia “Fórmulas”, onde é possível ajustar margens,  orientação da folha, área de impressão e visuali - zação da página antes de imprimir.",
+        "e": "Para formatar o número de casas decimais exi- bidas em uma célula, é necessário alterar direta- mente na célula o valor digitado."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 24,
+      "pergunta": "No trabalho diário com o Microsoft Excel, é co-\nmum que o usuário precise formatar células, realizar \ncálculos, destacar informações importantes visualmen -\nte, criar gráficos e preparar a planilha para impressão. \nSobre esses recursos, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A formatação condicional permite que o Excel alte- re a cor ou o estilo das células automaticamente, de  acordo com critérios definidos pelo usuário, como  valores acima de uma meta pré-estabelecida.",
+        "b": "Para efetuar uma soma entre os valores das cé- lulas A1 e B1, utiliza-se exclusivamente a função  =SOMA(A1+B1), pois operadores matemáticos  não são aceitos no Excel.",
+        "c": "Os gráficos criados no Excel não podem ser in- seridos em outros programas, como o Word ou o  PowerPoint, pois ficam restritos à planilha em que  foram criados.",
+        "d": "A configuração de impressão deve ser feita na  guia “Fórmulas”, onde é possível ajustar margens,  orientação da folha, área de impressão e visuali - zação da página antes de imprimir.",
+        "e": "Para formatar o número de casas decimais exi- bidas em uma célula, é necessário alterar direta- mente na célula o valor digitado."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 25,
+      "pergunta": "Em relação aos programas antivírus e ao firewall, \nassinale a alternativa correta.",
+      "opcoes": {
+        "a": "O programa antivírus tem como principal função  impedir o acesso não autorizado à rede de compu- tadores, atuando como uma barreira entre a rede  interna e a internet.",
+        "b": "O firewall é utilizado para remover vírus e outros  tipos de malware presentes no sistema operacio - nal, realizando varreduras periódicas nos arquivos  armazenados.",
+        "c": "O antivírus deve ser mantido atualizado, pois as  ameaças digitais evoluem constantemente e as  assinaturas dos vírus precisam ser renovadas  para garantir proteção eficaz.",
+        "d": "Um firewall bem-configurado dispensa completa - mente a necessidade de um programa antivírus,  pois já garante a eliminação de todos os arquivos  maliciosos do computador.",
+        "e": "Antivírus gratuitos não são capazes de detectar  ameaças em tempo real e, por isso, não oferecem  nenhum nível de proteção ao computador. 9 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Atualidades Otoniel Linhares"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 26,
+      "pergunta": "O Complexo Portuário de Tubarão, em Vitória, \né um dos mais importantes do Brasil, sendo funda-\nmental para a economia capixaba e nacional. Sua \nhistória está ligada à exploração de minério de ferro \nem Minas Gerais e à Estrada de Ferro Vitória a Mi-\nnas. Atualmente, o porto continua a ser um polo de \ndesenvolvimento e inovação.\nConsiderando a relevância histórica e a atualidade do \nCompl exo de Tubarão, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "O Porto de Tubarão foi inaugurado para diversifi - car a economia capixaba, focando inicialmente a  exportação de café, principal produto do estado no  século XX.",
+        "b": "Atualmente, o porto é o principal ponto de escoa- mento de minério de ferro do Brasil e tem investido  em tecnologias para a descarbonização, como o  recebimento de navios com velas rotativas para  reduzir as emissões de CO ₂.",
+        "c": "A construção do porto na década de 1960 mar- cou o declínio da economia do Espírito Santo, que  passou a depender exclusivamente da exportação  de minerais, abandonando outras atividades.",
+        "d": "O complexo portuário foi privatizado na década de  1990 e hoje é administrado por um consórcio interna- cional, sem a participação de empresas brasileiras.",
+        "e": "Em 2024, a principal atividade do Porto de Tuba- rão passou a ser a exportação de petróleo, supe- rando o volume de minério de ferro, devido a no- vas descobertas na bacia do Espírito Santo."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em fevereiro de 2017, o Espírito Santo viveu uma \ngrave crise na segurança pública devido à paralisação \nda Polícia Militar. O evento gerou um caos social, com \naumento drástico da violência, incluindo mais de 200 \nmortes, deixando marcas profundas na sociedade ca-\npixaba e gerando desdobramentos políticos e judiciais \nnos anos seguintes.\nComando: sobre a crise da segurança pública de 2017 \nno Espírito Santo e suas consequências, assinale a al-\nternativa correta.",
+      "opcoes": {
+        "a": "A greve foi liderada diretamente pelos policiais mi- litares, que saíram às ruas para protestar, sendo  rapidamente encerrada após negociação com o  governo estadual.",
+        "b": "Em desdobramentos recentes, todos os policiais  militares acusados de motim foram condenados  em última instância pela Justiça Militar e expulsos  da corporação.c. A principal reivindicação dos policiais era a anistia  total, que foi concedida pelo governo federal no  mesmo ano, encerrando todos os processos con- tra os militares envolvidos.",
+        "d": "Durante a paralisação, as Forças Armadas foram  acionadas e assumiram o controle da seguran - ça pública no estado, mas o número de crimes,  incluindo homicídios e saques, aumentou expo- nencialmente.",
+        "e": "A crise de 2017 resultou na federalização da segu- rança pública do Espírito Santo, que passou a ser  permanentemente controlada pelo governo fede- ral para evitar novas paralisações.",
+        "c": ""
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 28,
+      "pergunta": "O Rio Doce, um dos principais rios do Espírito \nSanto, possui grande importância histórica e econômi -\nca para o estado, tendo sido rota de expedições no \nperíodo colonial em busca de riquezas. Em 2015, o rio \nfoi palco do maior desastre ambiental do Brasil, com \no rompimento da barragem de Fundão, em Mariana \n(MG), cujos efeitos persistem até hoje.\nA respeito da recuperação da bacia do Rio Doce e de \nseu contexto histórico, assinale a alternativa incorret a.",
+      "opcoes": {
+        "a": "O Pico da Bandeira, situado na Serra do Caparaó,  na divisa com Minas Gerais, é o ponto culminante  do estado e um dos mais altos do Brasil.",
+        "b": "O arquipélago de Trindade e Martim Vaz, de ori- gem vulcânica e localizado a cerca de 1.200 km  da costa, está sob a administração do estado do  Espírito Santo.",
+        "c": "A capital, Vitória, é a cidade mais populosa do es- tado, concentrando a maior parte da população da  Região Metropolitana da Grande Vitória.",
+        "d": "O Rio Doce é o principal rio do estado, dividindo  o território em duas porções quase iguais e for- mando em seu delta importantes lagoas, como  a Juparanã.",
+        "e": "O estado é dividido, para fins estatísticos, em  quatro mesorregiões: Central Espírito-Santense,  Litoral Norte Espírito-Santense, Noroeste Espírito- -Santense e Sul Espírito-Santense. 11 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Ética no Serviço Público Glauber Marinho"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 29,
+      "pergunta": "A formação demográfica do Espírito Santo foi pro-\nfundamente marcada pela imigração europeia no sécu-\nlo XIX, especialmente de alemães, pomeranos e italia -\nnos. Esse processo foi incentivado para a ocupação de \nterras devolutas, principalmente na região serrana, mol-\ndando a cultura, a economia e a sociedade capixaba.\nCom base no contexto histórico e demográfico da imi-\ngração no Espírito Santo, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "O Pico da Bandeira, situado na Serra do Caparaó,  na divisa com Minas Gerais, é o ponto culminante  do estado e um dos mais altos do Brasil.",
+        "b": "O arquipélago de Trindade e Martim Vaz, de ori- gem vulcânica e localizado a cerca de 1.200 km  da costa, está sob a administração do estado do  Espírito Santo.",
+        "c": "A capital, Vitória, é a cidade mais populosa do es- tado, concentrando a maior parte da população da  Região Metropolitana da Grande Vitória.",
+        "d": "O Rio Doce é o principal rio do estado, dividindo  o território em duas porções quase iguais e for- mando em seu delta importantes lagoas, como  a Juparanã.",
+        "e": "O estado é dividido, para fins estatísticos, em  quatro mesorregiões: Central Espírito-Santense,  Litoral Norte Espírito-Santense, Noroeste Espírito- -Santense e Sul Espírito-Santense. 11 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Ética no Serviço Público Glauber Marinho"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 30,
+      "pergunta": "O Espírito Santo possui uma rica diversidade ge-\nográfica, com um relevo que transita de planícies li-\ntorâneas a regiões serranas de grande altitude. Essa \nconfiguração física influenciou diretamente sua ocu-\npação, economia e divisão político-administrativa ao \nlongo da história.\nSobre os aspectos físicos, geográficos e político-ad -\nministrativos do Espírito Santo, assinale a alternativa \nincorreta.",
+      "opcoes": {
+        "a": "O Pico da Bandeira, situado na Serra do Caparaó,  na divisa com Minas Gerais, é o ponto culminante  do estado e um dos mais altos do Brasil.",
+        "b": "O arquipélago de Trindade e Martim Vaz, de ori- gem vulcânica e localizado a cerca de 1.200 km  da costa, está sob a administração do estado do  Espírito Santo.",
+        "c": "A capital, Vitória, é a cidade mais populosa do es- tado, concentrando a maior parte da população da  Região Metropolitana da Grande Vitória.",
+        "d": "O Rio Doce é o principal rio do estado, dividindo  o território em duas porções quase iguais e for- mando em seu delta importantes lagoas, como  a Juparanã.",
+        "e": "O estado é dividido, para fins estatísticos, em  quatro mesorregiões: Central Espírito-Santense,  Litoral Norte Espírito-Santense, Noroeste Espírito- -Santense e Sul Espírito-Santense. 11 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Ética no Serviço Público Glauber Marinho"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 31,
+      "pergunta": "O exercício de cargos e funções públicas contri-\nbui com a legitimidade dos órgãos e das entidades a \npartir da confiança da sociedade decorrente dos bons \nserviços prestados. A respeito dos conceitos de ética, \nde moral e de cidadania, do exercício da autoridade e \ndo uso do poder estatal assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A moral é definida como conjunto de normas jurídi- cas reguladoras do comportamento de servidores/ as públicos/as.",
+        "b": "Não há impeditivos para que servidores/as ajam  conforme seus valores pessoais, mesmo que con- flitantes com os princípios da administração públi - ca, desde que atendido o princípio da legalidade.",
+        "c": "O princípio da autoridade deve se pautar no prin- cípio da hierarquia, com obediência irrestrita, em- bora se venha a contrariar princípios éticos.",
+        "d": "A ética no exercício da função púbica está circuns- crita ao cumprimento das leis e das normas admi- nistrativas.",
+        "e": "A cidadania, no serviço público, tem relação com a  participação ativa na gestão pública, associada ao  dever de zelo pelo patrimônio e interesse coletivo."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 32,
+      "pergunta": "Princípios constitucionais da Administração Públi -\nca orientam a conduta de agentes públicos/as e têm \nrelação com os fundamentos éticos do serviço público. \nCom base nessa articulação, assinale a opção correta.",
+      "opcoes": {
+        "a": "àqueles/as que, especificamente por contrato,  prestem serviços de natureza permanente, tem- porária ou excepcional, ainda que sem retribuição  financeira.",
+        "b": "àqueles/as que, especificamente por contrato,  prestem serviços de natureza permanente, tempo- rária ou excepcional, desde que com retribuição  financeira.",
+        "c": "àqueles/as que, por força de lei, contrato ou qual - quer outro ato jurídico, prestem serviços de natu- reza permanente, temporária ou excepcional, ain- da que sem retribuição financeira.",
+        "d": "àqueles/as que, especificamente por força de lei,  prestem serviços de natureza permanente, tem- porária ou excepcional, ainda que sem retribuição  financeira.",
+        "e": "àqueles/as que, por força de lei, contrato ou qual - quer outro ato jurídico, prestem serviços de natu- reza permanente, temporária ou excepcional, des- de que com retribuição financeira."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 33,
+      "pergunta": "Conforme o Código de Ética dos Servidores Civis \ndo Poder Executivo do Estado do Espírito Santo, é um \nprincípio fundamental a ser observado por servidores/\nas públicos/as civis:",
+      "opcoes": {
+        "a": "àqueles/as que, especificamente por contrato,  prestem serviços de natureza permanente, tem- porária ou excepcional, ainda que sem retribuição  financeira.",
+        "b": "àqueles/as que, especificamente por contrato,  prestem serviços de natureza permanente, tempo- rária ou excepcional, desde que com retribuição  financeira.",
+        "c": "àqueles/as que, por força de lei, contrato ou qual - quer outro ato jurídico, prestem serviços de natu- reza permanente, temporária ou excepcional, ain- da que sem retribuição financeira.",
+        "d": "àqueles/as que, especificamente por força de lei,  prestem serviços de natureza permanente, tem- porária ou excepcional, ainda que sem retribuição  financeira.",
+        "e": "àqueles/as que, por força de lei, contrato ou qual - quer outro ato jurídico, prestem serviços de natu- reza permanente, temporária ou excepcional, des- de que com retribuição financeira."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 34,
+      "pergunta": "Conforme o Código de Ética, Conduta e Integri-\ndade da Polícia Penal do Estado do Espírito Santo, a \nnorma é aplicada",
+      "opcoes": {
+        "a": "àqueles/as que, especificamente por contrato,  prestem serviços de natureza permanente, tem- porária ou excepcional, ainda que sem retribuição  financeira.",
+        "b": "àqueles/as que, especificamente por contrato,  prestem serviços de natureza permanente, tempo- rária ou excepcional, desde que com retribuição  financeira.",
+        "c": "àqueles/as que, por força de lei, contrato ou qual - quer outro ato jurídico, prestem serviços de natu- reza permanente, temporária ou excepcional, ain- da que sem retribuição financeira.",
+        "d": "àqueles/as que, especificamente por força de lei,  prestem serviços de natureza permanente, tem- porária ou excepcional, ainda que sem retribuição  financeira.",
+        "e": "àqueles/as que, por força de lei, contrato ou qual - quer outro ato jurídico, prestem serviços de natu- reza permanente, temporária ou excepcional, des- de que com retribuição financeira."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 35,
+      "pergunta": "O comportamento de agentes públicos/as nas or-\nganizações de segurança pública deve garantir o res-\npeito aos direitos fundamentais das pessoas, a con-\nfiança da população e a integridade das instituições. \nCom base nisso, marque a alternativa certa.",
+      "opcoes": {
+        "a": "O sigilo profissional é um importante princípio de  ética profissional, porém poderá ser relativizado  em casos envolvendo a proteção da família de  servidores/as.",
+        "b": "Respeito e civilidade com as pessoas são habili - dades exigidas em relação ao público externo que  não tenha infringido a lei. Esse comportamento  não é adequando em relação a quem responda  criminalmente.",
+        "c": "O comportamento ético exige uma atuação funcio- nal com decoro, profissionalismo e civilidade, mes- mo diante de situações conflitivas disfuncionais.",
+        "d": "A responsabilidade funcional se restringe ao cum- primento de demandas de ordem técnica.",
+        "e": "O relacionamento com os pares e com superiores  hierárquicos deve ser guiado pela lealdade, embo- ra a omissão seja necessária quando se observam  condutas antiéticas por parte dessas pessoas.Direitos Humanos Daniel Barbosa"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 36,
+      "pergunta": "De acordo com a Declaração Universal dos Direi -\ntos Humanos, é correto afirmar que:",
+      "opcoes": {
+        "a": "ninguém será submetido à tortura, mas poderá ser  penalizado com castigos cruéis.",
+        "b": "ninguém será arbitrariamente preso, mas poderá  ser arbitrariamente detido.",
+        "c": "todo ser humano tem direito a duas nacionalidades.",
+        "d": "todo ser humano tem direito à propriedade, só ou  em sociedade com outros.",
+        "e": "apenas os militares podem ser obrigados a fazer  parte de uma associação."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 37,
+      "pergunta": "De acordo com as Regras Mínimas das Nações \nUnidas para o tratamento de reclusos (Regras de Man-\ndela), pode-se afirmar que:\nI – Todos os presos devem ser tratados com res-\npeito, devido a seu valor e dignidade inerentes \nao ser humano.\nII – O encarceramento e outras medidas que ex-\ncluam uma pessoa do convívio com o mundo \nexterno são aflitivas pelo próprio fato de ser \nretirado destas pessoas o direito à autodeter -\nminação ao serem privadas de sua liberda -\nde. Portanto, o sistema prisional não deverá \nagravar o sofrimento inerente a tal situação, \nsem exceção.\nIII – O regime prisional deve procurar minimizar as \ndiferenças entre a vida no cárcere e aquela em \nliberdade que tendem a reduzir a responsabili -\ndade dos presos ou o respeito à sua dignidade \ncomo seres humanos.\nEstão corretos:",
+      "opcoes": {
+        "a": "apenas o item I.",
+        "b": "apenas o item II.",
+        "c": "apenas os itens I e III.",
+        "d": "apenas os itens II e III.",
+        "e": "todos os itens. 13 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Direito Constitucional Maria Júlia"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 38,
+      "pergunta": "Durante investigação de tráfico de drogas, poli -\nciais receberam denúncia anônima de que em determi-\nnada residência havia entorpecentes. Sem mandado \njudicial, ingressaram no imóvel e apreenderam drogas. \nO morador, preso em flagrante, alegou nulidade das \nprovas. Segundo a CF e o entendimento do STF:",
+      "opcoes": {
+        "a": "a entrada é válida, pois a denúncia anônima é su- ficiente para configurar flagrante delito.",
+        "b": "a entrada é inválida, pois o ingresso domiciliar sem  mandado só se justifica em flagrante devidamente  constatado.",
+        "c": "a entrada é válida, pois o crime de tráfico é perma- nente, bastando suspeita.",
+        "d": "a entrada é válida apenas se houver mandado ju- dicial expedido após o flagrante.",
+        "e": "a entrada é inválida, pois a busca domiciliar sem- pre exige mandado judicial, sem exceções."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 39,
+      "pergunta": "Durante investigação criminal, a polícia obteve \nmensagens de um aplicativo de celular sem autorização \njudicial. O juiz utilizou tais mensagens para condenar o \nréu por tráfico de drogas. À luz da Constituição Federal \ne da jurisprudência do STF, é correto afirmar que:",
+      "opcoes": {
+        "a": "a prova é válida, pois se destina à persecução pe- nal e à proteção da sociedade.",
+        "b": "a prova é válida, desde que corroborada por ou- tros meios independentes.",
+        "c": "a prova é ilícita, e sua utilização contamina todo  o processo.",
+        "d": "a prova é válida, pois foi obtida por órgão público,  e não por particular.",
+        "e": "a prova é lícita, pois não houve violação do  domicílio."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 40,
+      "pergunta": "O Presidente da República foi denunciado ao \nSupremo Tribunal Federal por suposto crime de cor-\nrupção passiva praticado durante o mandato. A Câma-\nra dos Deputados autorizou, por dois terços de seus \nmembros, a instauração do processo. Nesse contexto:",
+      "opcoes": {
+        "a": "O agente penitenciário não integra a segurança  pública, pois atua apenas na execução penal.",
+        "b": "A segurança pública continua restrita às polícias  tradicionais (PF, PRF, PFF, PCs e PMs).",
+        "c": "O agente penitenciário passou a integrar as Polí- cias Penais, órgãos da segurança pública.",
+        "d": "A EC n. 104/2019 criou as Polícias Penais apenas  na esfera federal.",
+        "e": "As Polícias Penais são subordinadas ao Ministério  da Justiça."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 41,
+      "pergunta": "Um agente penitenciário estadual alegou que de-\nveria ser reconhecido como integrante da segurança \npública e pleiteou equiparação com policiais civis, afir-\nmando exercer atividade essencial à ordem pública. \nConsiderando a Emenda Constitucional n. 104/2019, \nque alterou o art. 144 da CF/1988, é correto afirmar:",
+      "opcoes": {
+        "a": "O agente penitenciário não integra a segurança  pública, pois atua apenas na execução penal.",
+        "b": "A segurança pública continua restrita às polícias  tradicionais (PF, PRF, PFF, PCs e PMs).",
+        "c": "O agente penitenciário passou a integrar as Polí- cias Penais, órgãos da segurança pública.",
+        "d": "A EC n. 104/2019 criou as Polícias Penais apenas  na esfera federal.",
+        "e": "As Polícias Penais são subordinadas ao Ministério  da Justiça."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 42,
+      "pergunta": "Lucas nasceu em Paris, filho de mãe brasilei -\nra e pai francês. Nunca foi registrado em repartição \nbrasileira no exterior e não veio residir no Brasil até \natingir a maioridade. Aos 25 anos, decide fixar resi-\ndência em São Paulo e requer o reconhecimento de \nsua nacionalidade brasileira. Diante da CF/1988, é \ncorreto afirmar que:",
+      "opcoes": {
+        "a": "Lucas é brasileiro nato desde o nascimento, pois  sua mãe é brasileira.",
+        "b": "Lucas será considerado brasileiro nato após re- querer o registro em repartição consular.",
+        "c": "Lucas é estrangeiro, mas pode naturalizar-se por  residência prolongada no país.",
+        "d": "Lucas será considerado brasileiro nato se optar,  depois de maior, pela nacionalidade brasileira.",
+        "e": "Lucas é brasileiro naturalizado, pois nasceu no ex- terior de mãe brasileira. 14 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Direito Administrativo Maria Júlia"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 43,
+      "pergunta": "O município Alfa celebrou convênio com uma so-\nciedade de economia mista municipal para fiscalizar e \naplicar multas a estabelecimentos que descumprissem \nnormas sanitárias. Um empresário autuado alegou que \no ato seria nulo, pois o poder de polícia é indelegável \na entes privados. À luz da jurisprudência do STF e da \ndoutrina, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "O ato é inválido, pois o poder de polícia jamais  pode ser delegado a pessoas jurídicas de direi - to privado.",
+        "b": "O ato é válido, pois é possível delegar todas as  fases do poder de polícia, inclusive a sanção.",
+        "c": "O ato é integralmente válido, pois somente as fa- ses de consentimento e fiscalização podem ser  delegadas a entidades privadas.",
+        "d": "O ato é válido, desde que a sociedade de econo - mia mista tenha capital majoritariamente público e  atue em regime não concorrencial.",
+        "e": "O ato é inválido, pois apenas autarquias podem  exercer o poder de polícia."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 44,
+      "pergunta": "O prefeito de determinado município nomeou sua \nirmã para o cargo de secretária de cultura, alegando \nque o cargo é de natureza política e que não há subor-\ndinação direta. À luz da Súmula Vinculante n. 13 e da \njurisprudência do STF, é correto afirmar que:",
+      "opcoes": {
+        "a": "configura ato de improbidade, pois contrariou en- tendimento posterior do STF.",
+        "b": "configura ato de improbidade culposo, ainda  que sem dolo.",
+        "c": "não configura improbidade, pois a lei protege diver- gência interpretativa baseada em jurisprudência.",
+        "d": "configura ato de improbidade, pois houve dano  ao erário.",
+        "e": "configura ato de improbidade, pois a atuação jurí- dica independe de convicção técnica."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 45,
+      "pergunta": "Uma procuradora estadual opinou pela dispensa \nde licitação em contrato de tecnologia, com base em \nprecedentes do TCU e do STJ, embora ainda houves -\nse divergência jurisprudencial. O Ministério Público \ninstaurou ação por ato de improbidade, alegando pre-\njuízo ao erário. De acordo com a Lei n. 8.429/1992, a \nconduta da procuradora:",
+      "opcoes": {
+        "a": "configura ato de improbidade, pois contrariou en- tendimento posterior do STF.",
+        "b": "configura ato de improbidade culposo, ainda  que sem dolo.",
+        "c": "não configura improbidade, pois a lei protege diver- gência interpretativa baseada em jurisprudência.",
+        "d": "configura ato de improbidade, pois houve dano  ao erário.",
+        "e": "configura ato de improbidade, pois a atuação jurí- dica independe de convicção técnica."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 46,
+      "pergunta": "Durante uma operação de segurança pública, um \npolicial federal, agindo no exercício da função, dani -\nficou o veículo de um cidadão que nada tinha a ver \ncom o fato. O particular ajuizou ação diretamente con-\ntra o agente, pleiteando indenização pelos danos. Com \nbase na responsabilidade civil do Estado, assinale \na alternativa correta.",
+      "opcoes": {
+        "a": "O particular agiu corretamente, pois a responsa - bilidade é subjetiva e deve ser dirigida ao agente  causador do dano.",
+        "b": "O particular deve acionar o Estado, pois este res- ponde objetivamente pelos atos de seus agentes.",
+        "c": "O policial responderá pessoalmente e o Estado  apenas subsidiariamente, ainda que não haja dolo.",
+        "d": "A responsabilidade é exclusiva do policial, por se  tratar de ato individual praticado em serviço.",
+        "e": "O Estado só responderá se o policial for absolvido  na esfera penal. 15 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Direito Penal Renato Pulz"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 47,
+      "pergunta": "Sobre o fato típico no estudo do Direito Penal, as-\nsinale a alternativa correta.",
+      "opcoes": {
+        "a": "São elementos do fato típico a ilicitude e a cul- pabilidade.",
+        "b": "A ausência de dolo e culpa exclui a antijuridicida - de, mas não o fato típico.",
+        "c": "O fato típico pode se configurar mesmo sem a exis- tência de resultado naturalístico em alguns crimes.",
+        "d": "A tipicidade formal se refere à relevância da con- duta lesiva ao bem jurídico protegido.",
+        "e": "Conforme o finalismo, a conduta criminosa é so- mente a ação humana."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 48,
+      "pergunta": "Em relação aos elementos do crime, em especial à \nilicitude e à culpabilidade, marque a alternativa correta.",
+      "opcoes": {
+        "a": "A ilicitude é sempre presumida pela ocorrência do  fato típico, sendo impossível a sua exclusão.",
+        "b": "A ilicitude pode ser excluída por causas legais ou  supralegais, como o estado de necessidade e o  consentimento do ofendido, respectivamente.",
+        "c": "A legítima defesa é causa de exclusão da cul- pabilidade, pois afasta a exigibilidade de condu - ta diversa.",
+        "d": "A culpabilidade consiste na relação de causalida - de entre a conduta e o resultado lesivo.",
+        "e": "A inimputabilidade do agente afasta a ilicitude."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 49,
+      "pergunta": "De acordo com o Código Penal brasileiro, assinale \na alternativa correta sobre os crimes praticados contra \na Administração Pública.",
+      "opcoes": {
+        "a": "A pena restritiva de direitos pode ser aplica - da cumulativamente com a pena privativa de  liberdade.",
+        "b": "As penas restritivas de direitos são autônomas e  substituem a pena privativa de liberdade, quando  preenchidos os requisitos legais.",
+        "c": "A pena de multa somente pode ser aplicada de  forma cumulativa com pena privativa de liberdade.",
+        "d": "A suspensão condicional da pena pode ser con- cedida ainda que a pena aplicada seja supe- rior a 4 anos.",
+        "e": "A condenação anterior à pena de multa impede a  concessão da suspensão condicional da pena. Direito Processual Penal Renato Pulz"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 50,
+      "pergunta": "Sobre as penas previstas no Código Penal brasi-\nleiro, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A pena restritiva de direitos pode ser aplica - da cumulativamente com a pena privativa de  liberdade.",
+        "b": "As penas restritivas de direitos são autônomas e  substituem a pena privativa de liberdade, quando  preenchidos os requisitos legais.",
+        "c": "A pena de multa somente pode ser aplicada de  forma cumulativa com pena privativa de liberdade.",
+        "d": "A suspensão condicional da pena pode ser con- cedida ainda que a pena aplicada seja supe- rior a 4 anos.",
+        "e": "A condenação anterior à pena de multa impede a  concessão da suspensão condicional da pena. Direito Processual Penal Renato Pulz"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 51,
+      "pergunta": "Com base no Código de Processo Penal e na dou-\ntrina majoritária, assinale a alternativa correta sobre \no inquérito policial.",
+      "opcoes": {
+        "a": "As provas ilícitas não podem ser admitidas em si- tuação alguma.",
+        "b": "A confissão do acusado é considerada a rainha  das provas. É prova absoluta e dispensa a produ - ção de outras provas no processo penal.",
+        "c": "O juiz pode basear sua decisão apenas em ele- mentos informativos colhidos no inquérito policial,  ainda que não confirmados em juízo.",
+        "d": "O ônus da prova da alegação incumbe a quem a  fizer, cabendo à acusação provar a autoria e a ma- terialidade do fato.",
+        "e": "As provas emprestadas são inadmissíveis no  processo penal, por violarem o princípio do con- traditório."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 52,
+      "pergunta": "Sobre as provas no processo penal, conforme o \nCódigo de Processo Penal e a doutrina majoritária, as-\nsinale a alternativa correta.",
+      "opcoes": {
+        "a": "As provas ilícitas não podem ser admitidas em si- tuação alguma.",
+        "b": "A confissão do acusado é considerada a rainha  das provas. É prova absoluta e dispensa a produ - ção de outras provas no processo penal.",
+        "c": "O juiz pode basear sua decisão apenas em ele- mentos informativos colhidos no inquérito policial,  ainda que não confirmados em juízo.",
+        "d": "O ônus da prova da alegação incumbe a quem a  fizer, cabendo à acusação provar a autoria e a ma- terialidade do fato.",
+        "e": "As provas emprestadas são inadmissíveis no  processo penal, por violarem o princípio do con- traditório."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 53,
+      "pergunta": "Sobre as espécies de prisão previstas no proces-\nso penal brasileiro, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A prisão temporária pode ser decretada pelo dele - gado de polícia, em casos de urgência e flagrante.",
+        "b": "A prisão temporária pode ser decretada em qual - quer crime, desde que haja necessidade para a  investigação.",
+        "c": "A prisão preventiva tem prazo máximo de 90 dias,  prorrogável uma única vez.",
+        "d": "A prisão domiciliar é exclusiva para condenados  que estejam em regime aberto.",
+        "e": "A prisão em flagrante não pode ser convertida em  preventiva de ofício pelo juiz.Legislação Penal e   Processual Especial Douglas Vargas"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 54,
+      "pergunta": "Constituem deveres do condenado, exceto:",
+      "opcoes": {
+        "a": "comportamento disciplinado e cumprimento fiel  da sentença.",
+        "b": "obediência ao servidor e respeito a qualquer pes- soa com quem deva relacionar-se.",
+        "c": "conduta disposta aos movimentos individuais ou  coletivos de fuga ou de subversão à ordem ou à  disciplina.",
+        "d": "execução do trabalho, das tarefas e das ordens  recebidas.",
+        "e": "submissão à sanção disciplinar imposta."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 55,
+      "pergunta": "Incorre nas mesmas penas daquele que “possuir, \ndeter, portar, adquirir, fornecer, receber, ter em depó -\nsito, transportar, ceder, ainda que gratuitamente, em-\nprestar, remeter, empregar, manter sob sua guarda ou \nocultar arma de fogo, acessório ou munição de uso \nrestrito, sem autorização e em desacordo com deter-\nminação legal ou regulamentar” o indivíduo que pratica \nas condutas a seguir listadas, exceto:",
+      "opcoes": {
+        "a": "na atuação da organização criminosa houver em- prego de arma de fogo.",
+        "b": "se há participação de criança ou adolescente.",
+        "c": "se há concurso de funcionário público, valendo-se  a organização criminosa dessa condição para a  prática de infração penal.",
+        "d": "se o produto ou proveito da infração penal desti- nar-se, no todo ou em parte, ao exterior.",
+        "e": "se a organização criminosa mantém conexão com  outras organizações criminosas independentes.Legislação Institucional   da Polícia Penal do Estado Sérgio Gaúcho e Vandré Silvano"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 56,
+      "pergunta": "É crime promover, constituir, financiar ou integrar, \npessoalmente ou por interposta pessoa, organização \ncriminosa. A pena aplicável à referida conduta aumen -\nta-se até a metade se:",
+      "opcoes": {
+        "a": "na atuação da organização criminosa houver em- prego de arma de fogo.",
+        "b": "se há participação de criança ou adolescente.",
+        "c": "se há concurso de funcionário público, valendo-se  a organização criminosa dessa condição para a  prática de infração penal.",
+        "d": "se o produto ou proveito da infração penal desti- nar-se, no todo ou em parte, ao exterior.",
+        "e": "se a organização criminosa mantém conexão com  outras organizações criminosas independentes.Legislação Institucional   da Polícia Penal do Estado Sérgio Gaúcho e Vandré Silvano"
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 57,
+      "pergunta": "Considerando a Lei Complementar n. 46/1994, \nque institui o Regime Jurídico Único dos servidores pú-\nblicos civis do Estado do Espírito Santo, indique o item \nque não constitui um dever do Servidor Público:",
+      "opcoes": {
+        "a": "proceder de forma desidiosa no desempenho  das funções.",
+        "b": "guardar sigilo sobre assuntos da repartição.",
+        "c": "levar ao conhecimento da autoridade as irregu - laridades de que tiver ciência em razão do cargo  ou função.",
+        "d": "representar contra ilegalidade, omissão ou abuso  de poder, de que tenha tomado conhecimento, in- dicando elementos de prova para efeito de apura - ção em processo apropriado.",
+        "e": "comunicar, no prazo de quarenta e oito horas, ao  setor competente, a existência de qualquer valor  indevidamente creditado em sua conta bancária."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 58,
+      "pergunta": "De acordo com a Lei Estadual n. 1.059/2023, assi-\nnale a alternativa correta acerca da progressão dentro \nda carreira de Policial Penal.",
+      "opcoes": {
+        "a": "A jornada de trabalho do Policial Penal será de 44  horas semanais, podendo ser cumprida em regi- me diário ou de plantão.",
+        "b": "O regime de plantão, quando adotado, correspon - derá ao cumprimento de 160 horas mensais, divi- dido em escala de 24x48 horas.",
+        "c": "A dedicação integral exigida do Policial Penal im- pede a acumulação do cargo com qualquer outro  cargo público, ainda que de professor.",
+        "d": "O regime diário de trabalho do Policial Penal exige  o cumprimento de 8 horas diárias.",
+        "e": "A jornada de trabalho do Policial Penal em regime  de plantão será cumprida em 200 horas mensais,  admitindo paralisações eventuais."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 59,
+      "pergunta": "De acordo com a Lei Complementar n. 1.059/2023, \nque dispõe sobre a carreira de Policial Penal do Estado \ndo Espírito Santo, assinale a alternativa correta.",
+      "opcoes": {
+        "a": "A jornada de trabalho do Policial Penal será de 44  horas semanais, podendo ser cumprida em regi- me diário ou de plantão.",
+        "b": "O regime de plantão, quando adotado, correspon - derá ao cumprimento de 160 horas mensais, divi- dido em escala de 24x48 horas.",
+        "c": "A dedicação integral exigida do Policial Penal im- pede a acumulação do cargo com qualquer outro  cargo público, ainda que de professor.",
+        "d": "O regime diário de trabalho do Policial Penal exige  o cumprimento de 8 horas diárias.",
+        "e": "A jornada de trabalho do Policial Penal em regime  de plantão será cumprida em 200 horas mensais,  admitindo paralisações eventuais."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    },
+    {
+      "id": 60,
+      "pergunta": "De acordo com a Lei Complementar que cria \na Polícia Penal do Espírito Santo – PPES, assinale \na alternativa correta.",
+      "opcoes": {
+        "a": "A PPES é um órgão de segurança pública subordi - nado diretamente à Secretaria de Estado da Justi- ça, de regime comum, com direção exercida pelo  Secretário de Estado da Justiça.",
+        "b": "São princípios da atuação da PPES, entre outros,  a legalidade, a impessoalidade, a publicidade, a  eficiência e a imparcialidade.",
+        "c": "Entre as competências da PPES, está a execução  de medidas que visem à proteção de autoridades  e servidores atuantes na execução penal, quan - do em risco.",
+        "d": "Os símbolos institucionais da PPES restringem-se  ao hino, bandeira e brasão, definidos por lei espe- cífica estadual.",
+        "e": "As funções constitucionais da PPES podem ser  delegadas a outros órgãos de segurança pública  mediante convênio, desde que haja autorização  do Governador do Estado. 19 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)Redação Discursiva Andréa Cerqueira TEXTO MOTIVADOR Texto 1  \u0001  \u0001A Polícia Penal é instituição essencial à execução penal, responsável pela custódia e segurança dos  presos e pela garantia da ordem nos estabelecimentos penais. No entanto, sua missão vai além da vigilân - cia: envolve o equilíbrio entre a disciplina e o respeito à dignidade humana, conforme previsto no artigo 1º,  inciso III, da Constituição Federal, que estabelece a dignidade da pessoa humana como um dos fundamen - tos da República. BRASIL. Constituição da República Federativa do Brasil, 1988. Texto 2  \u0001O agente penal lida diariamente com contextos de tensão, violência e vulnerabilidade. Por isso, é fun- damental que a formação e a atuação desses profissionais estejam ancoradas em princípios éticos, psico- lógicos e sociais, capazes de promover a segurança sem desumanizar. A ausência dessa consciência ética  pode transformar o espaço prisional em um território de abuso, e não de ressocialização. SOUZA, M. P. Ética e segurança pública: o papel do servidor penitenciário.    Revista Brasileira de Administração Pública, 2022. Texto 3  \u0001A humanização no sistema prisional não significa fraqueza institucional, mas fortalecimento da ordem. A  autoridade que age com empatia, discernimento e justiça ganha respeito e exerce sua função de modo mais  eficaz. A ética, nesse sentido, é instrumento de poder legítimo, e não de limitação. BATISTA, N. Direitos Humanos e o Sistema Prisional.  Rio de Janeiro: Revan, 2019. Com base na leitura dos textos motivadores e em seus conhecimentos sobre ética, cidadania, segurança pública  e execução penal, redija um texto dissertativo-argumentativo, com no máximo 30 (trinta) linhas, sobre o  tema proposto: A IMPORTÂNCIA DA ÉTICA E DOS DIREITOS HUMANOS NA ATUAÇÃO DA POLÍCIA PENAL Em seu texto, discuta os desafios e as responsabilidades do agente penal diante da necessidade de conciliar au- toridade, segurança e respeito à dignidade humana. Apresente argumentos consistentes, estruturados de forma  clara, coesa e coerente, demonstrando domínio da norma-padrão da língua portuguesa. O título é opcional. INSTRUÇÕES: O texto deve ser redigido em prosa, no gênero dissertativo-argumentativo, com introdução, desenvolvimento e  conclusão. Use até 30 linhas. Evite cópia integral dos textos motivadores. Utilize-os apenas como referência. Serão avaliados: • domínio da norma culta da língua portuguesa; • clareza e objetividade na exposição das ideias; • consistência e relevância dos argumentos; • coesão e coerência textual; • capacidade de reflexão crítica sobre o tema. 20 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital)1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 21 www.grancursosonline.com.brPOLÍCIA PENAL ES - PPES 1º Simulado – Policial Penal (Pós-Edital) 1  11  21  31  41  51   2  12  22  32  42  52   3  13  23  33  43  53   4  14  24  34  44  54   5  15  25  35  45  55   6  16  26  36  46  56   7  17  27  37  47  57   8  18  28  38  48  58   9  19  29  39  49  59   10  20  30  40  50  60  FOLHA DE RESPOSTAS ESCRITA PARA PROVA Entenda que os requisitos  para uma prova de concurso  público e os métodos de  correção são diferentes do  habitual. Descubra o que cada  banca cobra e não caia mais  em armadilhas da escrita.SIMULADOS DISCURSIVOS Com temas de atualidades  exclusivos para cada  concurso, você terá acesso a  um simulado online,  orientado pelo professor e  com correção.JORNAL TEMÁTICO O Jornal Temático é um  periódico com dicas, de temas  atuais para a prática de  redações. Os tópicos mais  solicitados pelas bancas são  abordados para que você não  seja pego de surpresa na hora  da prova. ACOMPANHE SEU DESENVOLVIMENTO Tenha acesso a um portfólio  individual, com seus textos,  correções e gráﬁcos de evolução.  Com o acompanhamento de um  professor, você consegue ver  erros e acertos e monitorar as  melhorias nas suas redações. GRAN MESTRES EXCLUSIVOS Os professores Diogo Alves e Elias Santana são os mestres  responsáveis pelo projeto.  Especialistas na Língua  Portuguesa e em Redação  Discursiva, acompanham de perto a evolução dos alunos  com dicas, conselhos e técnicas.TUDO NA SUA MÃO Só a Assinatura Ilimitada  oferece, de forma livre  e gratuita: Gran Questões,  Gerenciador de Estudos,  Audiobooks e muito mais! (61) 99884-6348   |    De segunda a quinta até as 22h e sexta até as 21h.Contato para vendas:  Quero passar na prova discursivaREDAÇÃO SOB MEDIDA Não é qualquer texto. É o texto que vai fazer você ser aprovado. O Projeto Redação Sob Medida é o seu caminho para  tirar nota máxima na prova discursiva. Aprenda a  escrever do jeito certo, saiba como cada banca avalia  as provas discursivas. Escreva, reescreva, corrija e  conquiste a sua vaga."
+      },
+      "gabarito": "a",
+      "comentario": "Gabarito gerado automaticamente. Revise e ajuste conforme necessário."
+    }
+  ]
+}
