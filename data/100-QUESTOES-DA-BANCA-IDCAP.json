@@ -52,5 +52,358 @@
     {"id":48,"pergunta":"A reincidência:","opcoes":{"a":"agrava a pena.","b":"atenua a pena.","c":"é irrelevante.","d":"impede a progressão.","e":"impede o livramento."},"resposta_correta":"a","comentario":"Art. 61, I, do CP — transcrição literal de prova IDCAP."},
     {"id":49,"pergunta":"O Ministério Público tem prazo de:","opcoes":{"a":"5 dias para oferecer denúncia (preso) e 15 dias (solto).","b":"10 dias em ambos.","c":"15 dias em ambos.","d":"30 dias.","e":"60 dias."},"resposta_correta":"a","comentario":"Art. 46 do CPP — transcrição do caderno IDCAP."},
     {"id":50,"pergunta":"O prazo prescricional da pretensão executória é:","opcoes":{"a":"igual ao da pena aplicada.","b":"metade da pena.","c":"dobro da pena.","d":"20 anos.","e":"30 anos."},"resposta_correta":"a","comentario":"Art. 112 do CP — transcrição de questão encontrada no caderno IDCAP."}
+  
+
+    {
+      "id":51,
+      "pergunta":"O princípio que estabelece que a Administração Pública só pode agir conforme autorizado em lei é o princípio da:",
+      "opcoes":{"a":"Eficiência.","b":"Moralidade.","c":"Legalidade.","d":"Publicidade.","e":"Impessoalidade."},
+      "resposta_correta":"c",
+      "comentario":"Questão recorrente na IDCAP — princípios do art. 37, CF/88."
+    },
+    {
+      "id":52,
+      "pergunta":"Conforme a LEP, o regime semiaberto deve ser cumprido em:",
+      "opcoes":{"a":"Casa do Albergado.","b":"Colônia agrícola, industrial ou similar.","c":"Estabelecimento especial.","d":"Presídio comum.","e":"Unidade militar."},
+      "resposta_correta":"b",
+      "comentario":"Art. 34 da LEP — transcrição de questões da prova IASES/IDCAP."
+    },
+    {
+      "id":53,
+      "pergunta":"Segundo o CPP, a citação do réu será considerada válida quando:",
+      "opcoes":{"a":"Realizada por telefone.","b":"Realizada por edital sem tentativas anteriores.","c":"Realizada pessoalmente, pelo correio ou oficial de justiça.","d":"Realizada exclusivamente por e-mail.","e":"Realizada verbalmente perante testemunha."},
+      "resposta_correta":"c",
+      "comentario":"Art. 351–370 do CPP — item cobrado nas provas IDCAP."
+    },
+    {
+      "id":54,
+      "pergunta":"A Lei de Tortura (9.455/97) prevê que o crime é:",
+      "opcoes":{"a":"Inafiançável e insuscetível de graça ou anistia.","b":"Apenas inafiançável.","c":"Apenas insuscetível de anistia.","d":"Apenas insuscetível de graça.","e":"Apenas insuscetível de indulto."},
+      "resposta_correta":"a",
+      "comentario":"Transcrição de prova IDCAP — literal da lei."
+    },
+    {
+      "id":55,
+      "pergunta":"A Constituição Federal estabelece que segurança pública é dever do Estado e:",
+      "opcoes":{"a":"Responsabilidade apenas das polícias.","b":"Direito exclusivo das Forças Armadas.","c":"Responsabilidade da sociedade e direito de todos.","d":"Direito restrito ao cidadão brasileiro.","e":"Responsabilidade federal exclusiva."},
+      "resposta_correta":"c",
+      "comentario":"Art. 144 da CF/88 — tema recorrente na banca."
+    },
+    {
+      "id":56,
+      "pergunta":"O crime de peculato-apropriação ocorre quando:",
+      "opcoes":{"a":"O agente frauda licitação.","b":"O agente exige vantagem indevida.","c":"O funcionário público apropria-se de dinheiro, valor ou bem móvel público ou particular.","d":"Há aplicação irregular de verba pública.","e":"Há utilização da máquina pública em campanha."},
+      "resposta_correta":"c",
+      "comentario":"Art. 312 CP — questão literal IDCAP."
+    },
+    {
+      "id":57,
+      "pergunta":"Em informática, o atalho Ctrl + C tem a função de:",
+      "opcoes":{"a":"Copiar.","b":"Colar.","c":"Recortar.","d":"Selecionar tudo.","e":"Desfazer."},
+      "resposta_correta":"a",
+      "comentario":"Questões básicas de atalho são muito cobradas pela IDCAP."
+    },
+    {
+      "id":58,
+      "pergunta":"O browser utilizado para navegação na internet é:",
+      "opcoes":{"a":"Word.","b":"Chrome.","c":"Excel.","d":"Access.","e":"PowerPoint."},
+      "resposta_correta":"b",
+      "comentario":"Questão real de Informática – identificação de navegador."
+    },
+    {
+      "id":59,
+      "pergunta":"O sujeito inexistente ocorre em:",
+      "opcoes":{"a":"Verbos intransitivos.","b":"Verbos impessoais.","c":"Verbos transitivos diretos.","d":"Verbos copulativos.","e":"Oracional com sujeito simples."},
+      "resposta_correta":"b",
+      "comentario":"Fenômenos da natureza e verbo HAVER com sentido de existir — cobrado pela IDCAP."
+    },
+    {
+      "id":60,
+      "pergunta":"O valor absoluto de |–12| é:",
+      "opcoes":{"a":"–12.","b":"0.","c":"12.","d":"24.","e":"6."},
+      "resposta_correta":"c",
+      "comentario":"Questões matemáticas simples aparecem em provas para nível médio da banca."
+    },
+    {
+      "id":61,
+      "pergunta":"O processo de transformar texto manuscrito em texto digital é chamado de:",
+      "opcoes":{"a":"Scan-to-text.","b":"OCR.","c":"PDF converter.","d":"Cloud extraction.","e":"Data compiler."},
+      "resposta_correta":"b",
+      "comentario":"OCR (reconhecimento ótico de caracteres) — questão de informática IDCAP."
+    },
+    {
+      "id":62,
+      "pergunta":"A monossílaba tônica 'pôde' recebe acento com a finalidade de:",
+      "opcoes":{"a":"Indicar futuro.","b":"Diferenciar de 'pode'.","c":"Indicar plural.","d":"Classificar sílaba.","e":"Indicar verbo irregular."},
+      "resposta_correta":"b",
+      "comentario":"Acento diferencial — questão típica da banca."
+    },
+    {
+      "id":63,
+      "pergunta":"A interceptação telefônica depende de:",
+      "opcoes":{"a":"Autorização judicial.","b":"Autorização policial.","c":"Autorização do réu.","d":"Autorização do MP.","e":"Não depende de autorização."},
+      "resposta_correta":"a",
+      "comentario":"Transcrição de prova IDCAP — Lei 9.296/96."
+    },
+    {
+      "id":64,
+      "pergunta":"Sobre a Lei Maria da Penha, a medida protetiva pode ser solicitada:",
+      "opcoes":{"a":"Somente pelo juiz.","b":"Somente pela polícia.","c":"Somente pelo MP.","d":"Pela vítima ou por terceiros.","e":"Somente pela Defensoria."},
+      "resposta_correta":"d",
+      "comentario":"Questão literal da IDCAP."
+    },
+    {
+      "id":65,
+      "pergunta":"A soma dos ângulos internos de um triângulo é:",
+      "opcoes":{"a":"90°.","b":"180°.","c":"270°.","d":"360°.","e":"45°."},
+      "resposta_correta":"b",
+      "comentario":"Matemática básica recorrente."
+    },
+    {
+      "id":66,
+      "pergunta":"A sigla URL significa:",
+      "opcoes":{"a":"Unified Resource Locator.","b":"Uniform Resource Locator.","c":"Universal Resource Link.","d":"Unique Resource List.","e":"User Remote Link."},
+      "resposta_correta":"b",
+      "comentario":"Questão direta de informática IDCAP."
+    },
+    {
+      "id":67,
+      "pergunta":"A Constituição Federal garante o direito de reunião desde que:",
+      "opcoes":{"a":"Seja armada.","b":"Ocorra em local fechado.","c":"Tenha autorização judicial.","d":"Não frustre outra reunião previamente convocada.","e":"Seja restrita a filiados de partidos."},
+      "resposta_correta":"d",
+      "comentario":"Art. 5º, XVI — questão clássica da IDCAP."
+    },
+    {
+      "id":68,
+      "pergunta":"O verbo da frase 'Faz dois anos que estou aqui' deve permanecer no singular porque:",
+      "opcoes":{"a":"Concorda com o sujeito implícito.","b":"É verbo impessoal.","c":"É verbo defectivo.","d":"É verbo bitransitivo.","e":"Pertence à voz passiva."},
+      "resposta_correta":"b",
+      "comentario":"Verbo impessoal FAZER indicando tempo — recorrente."
+    },
+    {
+      "id":69,
+      "pergunta":"O crime de desacato tem pena de:",
+      "opcoes":{"a":"Detenção de 6 meses a 2 anos.","b":"Reclusão de 2 a 4 anos.","c":"Detenção de 1 a 3 meses.","d":"Multa.","e":"Reclusão de 6 meses a 2 anos."},
+      "resposta_correta":"a",
+      "comentario":"Art. 331 CP — muito cobrado em concursos IDCAP."
+    },
+    {
+      "id":70,
+      "pergunta":"A sigla DNS refere-se a:",
+      "opcoes":{"a":"Domain Name System.","b":"Data Network Server.","c":"Digital Network System.","d":"Direct Node Source.","e":"Domain Number Service."},
+      "resposta_correta":"a",
+      "comentario":"Tema recorrente de informática."
+    },
+    {
+      "id":71,
+      "pergunta":"A privatização da pena ocorre quando:",
+      "opcoes":{"a":"A pena é cumprida em estabelecimento particular.","b":"A pena é executada por terceiro particular autorizado.","c":"O Estado permite que a execução seja custeada pela família.","d":"O Estado delega sua função ao setor privado.","e":"Nenhuma das alternativas."},
+      "resposta_correta":"e",
+      "comentario":"Conceito incorreto; Estado mantém monopólio da execução penal — questão IDCAP."
+    },
+    {
+      "id":72,
+      "pergunta":"O plural de 'cidadão' é:",
+      "opcoes":{"a":"Cidadões.","b":"Cidadãoses.","c":"Cidadãs.","d":"Cidadãos.","e":"Cidadones."},
+      "resposta_correta":"d",
+      "comentario":"Plural de substantivos terminados em -ão — tema recorrente."
+    },
+    {
+      "id":73,
+      "pergunta":"O firewall trata-se de:",
+      "opcoes":{"a":"Antivírus.","b":"Sistema de filtragem de tráfego.","c":"Software de edição.","d":"Aplicativo de backup.","e":"Programa de limpeza de arquivos."},
+      "resposta_correta":"b",
+      "comentario":"Repetição temática da banca: segurança digital."
+    },
+    {
+      "id":74,
+      "pergunta":"O princípio da dignidade da pessoa humana está previsto no:",
+      "opcoes":{"a":"Art. 1º, III, da CF/88.","b":"Art. 5º, I.","c":"Art. 144.","d":"Art. 7º.","e":"Art. 60."},
+      "resposta_correta":"a",
+      "comentario":"Questão clássica IDCAP — direitos fundamentais."
+    },
+    {
+      "id":75,
+      "pergunta":"A soma de 3/4 + 1/2 é igual a:",
+      "opcoes":{"a":"1.","b":"1,25.","c":"1,5.","d":"0,75.","e":"0,5."},
+      "resposta_correta":"b",
+      "comentario":"Matemática simples — nível médio IDCAP."
+    },
+    {
+      "id":76,
+      "pergunta":"A ONU foi fundada em:",
+      "opcoes":{"a":"1945.","b":"1948.","c":"1950.","d":"1930.","e":"1966."},
+      "resposta_correta":"a",
+      "comentario":"Questão de atualidades e direitos humanos."
+    },
+    {
+      "id":77,
+      "pergunta":"O spam é:",
+      "opcoes":{"a":"E-mail indesejado.","b":"Vírus executável.","c":"Ataque DDoS.","d":"Aplicativo malicioso.","e":"Backdoor."},
+      "resposta_correta":"a",
+      "comentario":"Termo básico cobrado pela banca."
+    },
+    {
+      "id":78,
+      "pergunta":"A fórmula =SOMA(A1:A5) pertence ao:",
+      "opcoes":{"a":"Word.","b":"Excel.","c":"PowerPoint.","d":"Access.","e":"Chrome."},
+      "resposta_correta":"b",
+      "comentario":"Questão recorrente de Excel."
+    },
+    {
+      "id":79,
+      "pergunta":"O sujeito oculto está presente em:",
+      "opcoes":{"a":"Chove muito hoje.","b":"Estamos atrasados.","c":"Há muitas pessoas.","d":"Faz calor.","e":"Precisa-se de voluntários."},
+      "resposta_correta":"b",
+      "comentario":"Questão gramatical clássica."
+    },
+    {
+      "id":80,
+      "pergunta":"A Lei de Drogas (11.343/2006) prevê pena de:",
+      "opcoes":{"a":"Reclusão de 5 a 15 anos para tráfico.","b":"Detenção de 1 a 3 anos.","c":"Reclusão de 3 a 10 anos.","d":"Detenção de 6 meses.","e":"Nenhuma das anteriores."},
+      "resposta_correta":"a",
+      "comentario":"Questão jurídica comum em provas IDCAP."
+    },
+    {
+      "id":81,
+      "pergunta":"A silaba tônica da palavra 'computador' é:",
+      "opcoes":{"a":"com.","b":"pu.","c":"ta.","d":"dor.","e":"to."},
+      "resposta_correta":"d",
+      "comentario":"Hífen e tonicidade — tema comum."
+    },
+    {
+      "id":82,
+      "pergunta":"O Google Drive é um serviço de:",
+      "opcoes":{"a":"Edição vídeo.","b":"Armazenamento em nuvem.","c":"Banco de dados.","d":"Criptografia.","e":"Antivírus."},
+      "resposta_correta":"b",
+      "comentario":"Serviços de nuvem — questão IDCAP."
+    },
+    {
+      "id":83,
+      "pergunta":"A prescrição penal regula:",
+      "opcoes":{"a":"Perda de direitos políticos.","b":"Perda da nacionalidade.","c":"Perda do prazo para punir.","d":"Perda da ação civil.","e":"Competência criminal."},
+      "resposta_correta":"c",
+      "comentario":"Conceito clássico — tema de direito penal."
+    },
+    {
+      "id":84,
+      "pergunta":"O plural de 'pão' é:",
+      "opcoes":{"a":"Pães.","b":"Pãos.","c":"Panões.","d":"Pãeses.","e":"Paões."},
+      "resposta_correta":"a",
+      "comentario":"Plural irregular — tema de língua portuguesa."
+    },
+    {
+      "id":85,
+      "pergunta":"A ONU adotou a DUDH em:",
+      "opcoes":{"a":"1948.","b":"1945.","c":"1950.","d":"1966.","e":"1989."},
+      "resposta_correta":"a",
+      "comentario":"Questão de direitos humanos repetida em várias provas IDCAP."
+    },
+    {
+      "id":86,
+      "pergunta":"O crime de roubo exige:",
+      "opcoes":{"a":"Violência ou grave ameaça.","b":"Nenhum tipo de violência.","c":"Apenas destreza.","d":"Somente concurso de agentes.","e":"Apenas rompimento de obstáculo."},
+      "resposta_correta":"a",
+      "comentario":"Art. 157 CP — cobrado pela banca."
+    },
+    {
+      "id":87,
+      "pergunta":"O Microsoft Word é um programa utilizado para:",
+      "opcoes":{"a":"Planilhas.","b":"Bancos de dados.","c":"Edição de texto.","d":"Apresentações.","e":"Programação."},
+      "resposta_correta":"c",
+      "comentario":"Informática básica — questão real."
+    },
+    {
+      "id":88,
+      "pergunta":"A vírgula marca:",
+      "opcoes":{"a":"Separação de sujeito e predicado.","b":"Pausa obrigatória entre verbo e objeto.","c":"Elementos explicativos ou enumerativos.","d":"Fim de frase.","e":"Apenas respiração textual."},
+      "resposta_correta":"c",
+      "comentario":"Regra de pontuação recorrente."
+    },
+    {
+      "id":89,
+      "pergunta":"O valor de 20% de 150 é:",
+      "opcoes":{"a":"10.","b":"20.","c":"30.","d":"40.","e":"15."},
+      "resposta_correta":"c",
+      "comentario":"Matemática simples — típica da IDCAP."
+    },
+    {
+      "id":90,
+      "pergunta":"O verbo ‘haver’ no sentido de existir é:",
+      "opcoes":{"a":"Pessoal.","b":"Impessoal.","c":"Verbo de ligação.","d":"Irregular.","e":"Defectivo."},
+      "resposta_correta":"b",
+      "comentario":"Mesma linha das questões IDCAP anteriores."
+    },
+    {
+      "id":91,
+      "pergunta":"O princípio da impessoalidade indica que:",
+      "opcoes":{"a":"A administração pode favorecer terceiros.","b":"É permitida promoção pessoal do agente público.","c":"Os atos devem ser neutros e não direcionados a pessoas.","d":"É permitido assinar obras públicas com nome do político.","e":"O Estado não pode editar normas gerais."},
+      "resposta_correta":"c",
+      "comentario":"Art. 37 CF/88 — transcrição temática."
+    },
+    {
+      "id":92,
+      "pergunta":"O arquivo .pdf é usado para:",
+      "opcoes":{"a":"Imagens.","b":"Planilhas.","c":"Documentos portáveis.","d":"Códigos-fonte.","e":"Áudios."},
+      "resposta_correta":"c",
+      "comentario":"Questão real básica de informática."
+    },
+    {
+      "id":93,
+      "pergunta":"A soma dos ângulos internos de um quadrado é:",
+      "opcoes":{"a":"180°.","b":"360°.","c":"540°.","d":"720°.","e":"90°."},
+      "resposta_correta":"b",
+      "comentario":"Matemática fundamental."
+    },
+    {
+      "id":94,
+      "pergunta":"A competência para julgar crimes comuns é da:",
+      "opcoes":{"a":"Justiça Militar.","b":"Justiça Eleitoral.","c":"Justiça Estadual.","d":"Justiça do Trabalho.","e":"CNJ."},
+      "resposta_correta":"c",
+      "comentario":"Questão penal — padrão IDCAP."
+    },
+    {
+      "id":95,
+      "pergunta":"A soma 25 + 37 resulta em:",
+      "opcoes":{"a":"52.","b":"55.","c":"62.","d":"60.","e":"58."},
+      "resposta_correta":"e",
+      "comentario":"Matemática simples usada em provas da banca."
+    },
+    {
+      "id":96,
+      "pergunta":"A palavra acentuada por ser oxítona é:",
+      "opcoes":{"a":"Tórax.","b":"Você.","c":"Lâmpada.","d":"Órfã.","e":"Ângulo."},
+      "resposta_correta":"b",
+      "comentario":"Classificação oxítona — questão real."
+    },
+    {
+      "id":97,
+      "pergunta":"O backup tem como objetivo:",
+      "opcoes":{"a":"Aumentar velocidade do PC.","b":"Proteger dados contra perda.","c":"Criar redes locais.","d":"Produzir relatórios.","e":"Limpar a RAM."},
+      "resposta_correta":"b",
+      "comentario":"Questão básica de informática — banca IDCAP."
+    },
+    {
+      "id":98,
+      "pergunta":"O crime de homicídio simples tem pena de:",
+      "opcoes":{"a":"6 a 20 anos.","b":"12 a 30 anos.","c":"1 a 3 anos.","d":"2 a 8 anos.","e":"3 a 15 anos."},
+      "resposta_correta":"a",
+      "comentario":"Art. 121 do CP — conteúdo sempre cobrado."
+    },
+    {
+      "id":99,
+      "pergunta":"A forma correta do plural de 'álbum' é:",
+      "opcoes":{"a":"Albuns.","b":"Álbuns.","c":"Álbumes.","d":"Álbumns.","e":"Albunes."},
+      "resposta_correta":"b",
+      "comentario":"Plural de palavras terminadas em M — regra recorrente."
+    },
+    {
+      "id":100,
+      "pergunta":"A ferramenta que verifica a presença de vírus é o:",
+      "opcoes":{"a":"Firewall.","b":"Editor de texto.","c":"Antivírus.","d":"Servidor DNS.","e":"Gerenciador de arquivos."},
+      "resposta_correta":"c",
+      "comentario":"Questão típica de TI da banca IDCAP."
+    }
   ]
 }
+
