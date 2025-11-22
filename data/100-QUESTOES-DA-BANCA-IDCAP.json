@@ -1,5 +1,5 @@
 {
-  "titulo": "Simulado PPES 2025 (versão JSON com gabarito e comentários)",
+  "titulo": "Simulado PPES 2025 (versão JSON com gabarito e comentários) — Bloco 1",
   "fonte": "0",
   "questoes": [
     {
@@ -16,7 +16,7 @@
       "opcoes": { "a": "Me disseram a verdade.", "b": "Disse-lhe a verdade.", "c": "Entregaram-me o relatório ontem.", "d": "Falou-me que vai embora-se." },
       "resposta": "c",
       "resposta_texto": "Entregaram-me o relatório ontem.",
-      "comentario": "‘Entregaram-me’ (ênclise) é correto; nas demais, há impropriedades."
+      "comentario": "‘Entregaram-me’ (ênclise) é correto; nas demais, há impropriedades de colocação ou uso."
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "opcoes": { "a": "Ativa", "b": "Reflexiva", "c": "Passiva analítica", "d": "Passiva sintética" },
       "resposta": "c",
       "resposta_texto": "Passiva analítica",
-      "comentario": "Estrutura ‘foram aplicadas’ + agente da passiva caracteriza voz passiva analítica."
+      "comentario": "Locução verbal com particípio + agente da passiva caracteriza voz passiva analítica."
     },
     {
       "id": 4,
@@ -32,7 +32,7 @@
       "opcoes": { "a": "O astro-rei nasceu cedo.", "b": "A casa grande foi pintada.", "c": "O aluno leu o livro.", "d": "Ele correu rápido." },
       "resposta": "a",
       "resposta_texto": "O astro-rei nasceu cedo.",
-      "comentario": "‘Astro-rei’ é perífrase para o sol."
+      "comentario": "‘Astro-rei’ é perífrase para o sol, uma forma indireta de nomear."
     },
     {
       "id": 5,
@@ -40,7 +40,7 @@
       "opcoes": { "a": "Se chover, não irei; porém se parar, eu vou.", "b": "Se chover não irei; porém, se parar, eu vou.", "c": "Se chover não irei porém, se parar, eu vou.", "d": "Se chover, não irei porém se parar, eu vou." },
       "resposta": "b",
       "resposta_texto": "Se chover não irei; porém, se parar, eu vou.",
-      "comentario": "Há vírgula após a conjunção adversativa ‘porém’ e vírgulas corretas."
+      "comentario": "Vírgula após ‘porém’ e separações adequadas das orações condicionais."
     },
     {
       "id": 6,
@@ -48,7 +48,7 @@
       "opcoes": { "a": "1/4", "b": "1/3", "c": "1/2", "d": "2" },
       "resposta": "a",
       "resposta_texto": "1/4",
-      "comentario": "12:48 = 12/48 = 1/4."
+      "comentario": "12:48 = 12/48 = 1/4 após simplificação."
     },
     {
       "id": 7,
@@ -56,7 +56,7 @@
       "opcoes": { "a": "1/6", "b": "1/3", "c": "1/2", "d": "2/3" },
       "resposta": "c",
       "resposta_texto": "1/2",
-      "comentario": "Par: {2,4,6} = 3/6 = 1/2."
+      "comentario": "Resultados pares {2,4,6} totalizam 3 em 6: 3/6 = 1/2."
     },
     {
       "id": 8,
@@ -64,7 +64,7 @@
       "opcoes": { "a": "5", "b": "10", "c": "25", "d": "120" },
       "resposta": "d",
       "resposta_texto": "120",
-      "comentario": "P(5) = 5! = 120."
+      "comentario": "P(5) = 5! = 120 ordens possíveis."
     },
     {
       "id": 9,
@@ -72,7 +72,7 @@
       "opcoes": { "a": "12", "b": "15", "c": "30", "d": "720" },
       "resposta": "c",
       "resposta_texto": "30",
-      "comentario": "A(6,2) = 6×5 = 30."
+      "comentario": "A(6,2) = 6×5 = 30 (ordem importa)."
     },
     {
       "id": 10,
@@ -80,7 +80,7 @@
       "opcoes": { "a": "12", "b": "15", "c": "30", "d": "720" },
       "resposta": "b",
       "resposta_texto": "15",
-      "comentario": "C(6,2) = 6×5/2 = 15."
+      "comentario": "C(6,2) = 6×5/2 = 15 (ordem não importa)."
     },
     {
       "id": 11,
@@ -88,7 +88,7 @@
       "opcoes": { "a": "Backup de disco", "b": "Filtragem de tráfego por regras", "c": "Criptografia de arquivos", "d": "Impressão remota" },
       "resposta": "b",
       "resposta_texto": "Filtragem de tráfego por regras",
-      "comentario": "Firewalls filtram tráfego de rede conforme políticas."
+      "comentario": "Controla conexões e pacotes conforme políticas de segurança."
     },
     {
       "id": 12,
@@ -96,7 +96,7 @@
       "opcoes": { "a": "Ctrl+U", "b": "Ctrl+I", "c": "Ctrl+B", "d": "Ctrl+N" },
       "resposta": "c",
       "resposta_texto": "Ctrl+B",
-      "comentario": "Negrito: Ctrl+B."
+      "comentario": "Negrito: Ctrl+B; sublinhado: Ctrl+U; itálico: Ctrl+I."
     },
     {
       "id": 13,
@@ -104,7 +104,7 @@
       "opcoes": { "a": "=SOMA()", "b": "=MÉDIA()", "c": "=MÁXIMO()", "d": "=CONT.SE()" },
       "resposta": "b",
       "resposta_texto": "=MÉDIA()",
-      "comentario": "Média aritmética: =MÉDIA()."
+      "comentario": "Calcula a média aritmética dos valores selecionados."
     },
     {
       "id": 14,
@@ -112,7 +112,7 @@
       "opcoes": { "a": "Tipo de arquivo", "b": "Endereço de recurso na web", "c": "Protocolo de impressão", "d": "Script de execução local" },
       "resposta": "b",
       "resposta_texto": "Endereço de recurso na web",
-      "comentario": "URL é o endereço do recurso (Uniform Resource Locator)."
+      "comentario": "Uniform Resource Locator: localizador do recurso na internet."
     },
     {
       "id": 15,
@@ -120,7 +120,7 @@
       "opcoes": { "a": "Aumentar banda", "b": "Detectar e mitigar malware", "c": "Configurar roteadores", "d": "Salvar cookies" },
       "resposta": "b",
       "resposta_texto": "Detectar e mitigar malware",
-      "comentario": "Antivírus detecta, bloqueia e remove malware."
+      "comentario": "Monitora, identifica e remove softwares maliciosos."
     },
     {
       "id": 16,
@@ -128,10 +128,39 @@
       "opcoes": { "a": "Uso ilimitado de recursos", "b": "Atender presente sem comprometer futuro", "c": "Crescimento a qualquer custo", "d": "Suspender matrizes energéticas" },
       "resposta": "b",
       "resposta_texto": "Atender presente sem comprometer futuro",
-      "comentario": "Definição clássica: satisfazer necessidades atuais preservando as futuras."
+      "comentario": "Princípio base dos ODS: equilíbrio ambiental, social e econômico."
     },
     {
       "id": 17,
       "pergunta": "Inflação alta tende a:",
       "opcoes": { "a": "Aumentar poder de compra", "b": "Reduzir poder de compra", "c": "Não impactar salários", "d": "Diminuir preços relativos" },
       "resposta": "b",
+      "resposta_texto": "Reduzir poder de compra",
+      "comentario": "Preços sobem mais rápido que a renda, reduzindo consumo real."
+    },
+    {
+      "id": 18,
+      "pergunta": "Intertextualidade ocorre quando:",
+      "opcoes": { "a": "Um texto não se relaciona a outros", "b": "Um texto dialoga com outros textos", "c": "Um texto é totalmente literal", "d": "Um texto apresenta apenas enumeração" },
+      "resposta": "b",
+      "resposta_texto": "Um texto dialoga com outros textos",
+      "comentario": "Pode ocorrer por citação, alusão, paródia ou referência explícita/implícita."
+    },
+    {
+      "id": 19,
+      "pergunta": "Em 'Vende-se apartamento', o elemento 'se' funciona como:",
+      "opcoes": { "a": "Pronome reflexivo", "b": "Partícula expletiva", "c": "Índice de indeterminação do sujeito", "d": "Conjunção subordinativa" },
+      "resposta": "c",
+      "resposta_texto": "Índice de indeterminação do sujeito",
+      "comentario": "Indetermina o agente da ação em construções impessoais com verbo transitivo."
+    },
+    {
+      "id": 20,
+      "pergunta": "‘Há’ com sentido de ‘existir’ deve ficar:",
+      "opcoes": { "a": "No plural quando o objeto é plural", "b": "No singular sempre", "c": "No futuro do presente", "d": "Com pronome tônico obrigatório" },
+      "resposta": "b",
+      "resposta_texto": "No singular sempre",
+      "comentario": "Verbo ‘haver’ impessoal (existencial) é invariável: ‘Há muitas pessoas’, nunca ‘Haviam’."
+    }
+  ]
+}
