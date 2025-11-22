@@ -1,409 +1,1406 @@
 {
-  "titulo": "Simulado PPES - 50 questões reais IDCAP (parte 1/4)",
-  "fonte": "Provas públicas IDCAP (PCIconcursos)",
+  "titulo": "Simulado Especial Polícia Penal ES - 25/10/2025 (versão JSON com gabarito e comentários)",
+  "fonte": "0",
   "questoes": [
-    {"id":1,"pergunta":"Qual das seguintes medidas foi mencionada como parte das ações propostas pelo INCA para reduzir o consumo de bebidas alcoólicas no Brasil?","opcoes":{"a":"Abertura de novas clínicas de reabilitação para alcoólatras.","b":"Aumento do preço dos medicamentos para tratamento de dependência alcoólica.","c":"Distribuição gratuita de bebidas alcoólicas com menor teor alcoólico.","d":"Implementação de um imposto seletivo sobre produtos prejudiciais à saúde.","e":"A criminalização do consumo de álcool como é de algumas substâncias entorpecentes."},"resposta_correta":"d","comentario":"Transcrição da prova – o texto menciona imposto seletivo como medida. (fonte: Prova Agente Administrativo, IDCAP)."},
-    {"id":2,"pergunta":"Qual dos seguintes tipos de câncer NÃO é mencionado no texto como estando relacionado ao etilismo?","opcoes":{"a":"Colorretal.","b":"Mama.","c":"Cavidade oral.","d":"Pulmão.","e":"Fígado."},"resposta_correta":"d","comentario":"No texto não aparece 'pulmão' entre os tipos listados. (fonte: Prova Agente Administrativo, IDCAP)."},
-    {"id":3,"pergunta":"Em quais das afirmativas lidas há o emprego de um par de palavras homônimas? (I a V conforme enunciado no caderno)","opcoes":{"a":"I e IV.","b":"II e V.","c":"IV e V.","d":"II e III.","e":"I e III."},"resposta_correta":"a","comentario":"Questão de interpretação / vocabulário (transcrição literal)."},
-    {"id":4,"pergunta":"Qual das alternativas abaixo possui a concordância verbal correta?","opcoes":{"a":"A multidão gritaram assim que viram a explosão.","b":"Conquistaria a vaga olímpica o rapaz e a sua esposa.","c":"Estados Unidos são um país importante para solução de conflitos no oriente.","d":"Vende-se eletrônicos.","e":"Foi eu que chegou primeiro na sala de aula hoje."},"resposta_correta":"e","comentario":"Transcrição da prova; concordância correta: 'Fui eu que cheguei...' mas entre as alternativas a letra E foi apontada como correta no gabarito do caderno."},
-    {"id":5,"pergunta":"Qual é a figura de linguagem empregada em: 'O Rei do Futebol encantou o mundo com suas jogadas inesquecíveis.'?","opcoes":{"a":"Catacrese.","b":"Eufemismo.","c":"Comparação.","d":"Sinestesia.","e":"Perífrase."},"resposta_correta":"e","comentario":"Perífrase: uso de expressão descritiva para nomear alguém (transcrição)."},
-    {"id":6,"pergunta":"Uma empresa de construção civil tem 12 operários que constroem 3 casas em 6 meses, trabalhando 8 horas por dia. Se a empresa deseja construir 5 casas em 4 meses, trabalhando 10 horas por dia, quantos operários serão necessários?","opcoes":{"a":"30 operários.","b":"25 operários.","c":"18 operários.","d":"20 operários.","e":"24 operários."},"resposta_correta":"e","comentario":"Regra de três composta (transcrição da prova)."},
-    {"id":7,"pergunta":"Analise as afirmativas sobre Raciocínio Lógico e assinale a alternativa correta (I–IV conforme enunciado).","opcoes":{"a":"Apenas as afirmativas III e IV são verdadeiras.","b":"Apenas as afirmativas I, II e IV são verdadeiras.","c":"Apenas as afirmativas I, III e IV são verdadeiras.","d":"Apenas as afirmativas II, III e IV são verdadeiras.","e":"Todas são verdadeiras."},"resposta_correta":"c","comentario":"Transcrição; resolver conforme as proposições apresentadas no caderno."},
-    {"id":8,"pergunta":"O trabalho do preso é:","opcoes":{"a":"obrigatório, salvo impossibilidade.","b":"facultativo.","c":"vedado.","d":"apenas para regime aberto.","e":"apenas para semiaberto."},"resposta_correta":"a","comentario":"Questão alinhada a conteúdo de execução penal (embasamento legal: LEP). (transcrição de prova IDCAP com tema jurídico presente no edital PPES)."},
-    {"id":9,"pergunta":"Nos termos do enunciado sobre legislação administrativa: A vedação estabelecida pela Constituição Federal proíbe que qualquer ente federativo:","opcoes":{"a":"estabeleça cultos religiosos, mantenha relações de dependência com igrejas e crie distinções entre brasileiros.","b":"crie distinções entre brasileiros por lei municipal.","c":"institua tributos federais sem autorização.","d":"publique decretos sem fundamentação.","e":"contrate servidores sem concurso."},"resposta_correta":"a","comentario":"Transcrição de questão sobre organização do Estado; corresponde ao princípio de laicidade e igualdade constitucional."},
-    {"id":10,"pergunta":"Ao considerar a implementação de aplicativos para segurança em um ambiente de computação, qual das seguintes afirmações descreve corretamente a função de um firewall?","opcoes":{"a":"Um firewall monitora e controla o tráfego de entrada e saída na rede com base em regras de segurança predefinidas, ajudando a bloquear tráfegos maliciosos.","b":"Um firewall é responsável por detectar e remover spyware específico de dispositivos de armazenamento externos.","c":"Um firewall pode ser usado para acelerar a velocidade da conexão de internet.","d":"Um firewall serve como uma ferramenta de backup de dados.","e":"Um firewall elimina exclusivamente vírus e worms."},"resposta_correta":"a","comentario":"Conceito básico de segurança da informação (transcrição da prova de Informática IDCAP)."},
-    {"id":11,"pergunta":"De acordo com as regras de organização do Estado previstas na Constituição, assinale a alternativa correta: (itens sobre criação de entes e plebiscito conforme enunciado)","opcoes":{"a":"A União, os Estados, o DF e Municípios podem criar distinções entre brasileiros, desde que justificadas administrativamente.","b":"A criação de novos Estados ocorre por aprovação exclusiva do Congresso, sem plebiscito.","c":"A criação de municípios pode ser feita por lei federal sem plebiscito.","d":"A criação, transformação ou reintegração de Territórios Federais não necessita de aprovação do Congresso.","e":"A vedação constitucional proíbe que qualquer ente federativo estabeleça cultos religiosos e crie distinções entre brasileiros."},"resposta_correta":"e","comentario":"Transcrição; reforça a laicidade do Estado e igualdade constitucional."},
-    {"id":12,"pergunta":"Assinale a alternativa que está de acordo com o regramento da Lei nº 8.429/92 (improbidade):","opcoes":{"a":"São considerados atos de improbidade apenas os atos dolosos tipificados na Lei.","b":"Atos de improbidade incluem qualquer ato doloso independente do exercício da função pública.","c":"O mero exercício da função pública configura improbidade sem ato doloso.","d":"O sistema de responsabilização não se aplica a entidades privadas que recebem subvenções.","e":"A mera divergência interpretativa da Lei configura improbidade."},"resposta_correta":"a","comentario":"Interpretação da Lei de Improbidade: a questão foi transcrita do caderno (gabarito oficial: A)."},
-    {"id":13,"pergunta":"Nos termos da Lei nº 8.429/92, será nula a decisão de mérito total ou parcial da ação de improbidade administrativa que: (I–III no enunciado) Assinale a alternativa correta.","opcoes":{"a":"Apenas as proposições II e III estão corretas.","b":"Todas as proposições estão corretas.","c":"Apenas a proposição II está correta.","d":"Apenas a proposição III está correta.","e":"Apenas as proposições I e II estão corretas."},"resposta_correta":"e","comentario":"Transcrição literal da prova; observe os itens I–III apresentados no enunciado original."},
-    {"id":14,"pergunta":"Analise o caso hipotético: servidor agrediu outro servidor no expediente. À luz da Lei nº 2.360/2001, qual a penalidade disciplinar aplicável?","opcoes":{"a":"Destituição de cargo em comissão.","b":"Cassação de aposentadoria ou disponibilidade.","c":"Advertência.","d":"Suspensão.","e":"Demissão."},"resposta_correta":"e","comentario":"Transcrição do caso: agressão física entre servidores geralmente configura falta grave com pena de demissão conforme legislação/regime local citado na prova."},
-    {"id":15,"pergunta":"Considerando a navegação na Internet, como você usaria uma URL para acessar diretamente a página de contato de um site?","opcoes":{"a":"Enviar um email pedindo o link.","b":"Usar um motor de busca.","c":"Ligação para atendimento solicitando URL.","d":"Digitar http://www.example.com/contact na barra de endereços do navegador.","e":"Procurar por 'contato' no site usando o campo de busca."},"resposta_correta":"d","comentario":"Conceito básico de uso de URL (transcrição de Informática do caderno)."},
-    {"id":16,"pergunta":"Considerando noções básicas de sistema operacional Windows, qual funcionalidade essencial ele proporciona?","opcoes":{"a":"Não suporta instalação de novos dispositivos sem reinstalar.","b":"Permite personalização do ambiente de trabalho (temas, exibição, ícones).","c":"Usa exclusivamente linha de comando para gestão de arquivos.","d":"Não é possível instalar mais de um navegador.","e":"Permite apenas uma única conexão de rede por vez."},"resposta_correta":"b","comentario":"Transcrição: funcionalidade típica do Windows (personalização)."},
-    {"id":17,"pergunta":"A relação entre consumo de álcool e câncer — segundo o texto, que percentagem de registros foi atribuída ao consumo de álcool em 2020?","opcoes":{"a":"2,1%.","b":"4,1%.","c":"6,5%.","d":"10%.","e":"Não informado."},"resposta_correta":"b","comentario":"Dado do texto base (transcrito da prova)."},
-    {"id":18,"pergunta":"Qual é a função da linguagem presente no texto 'Declaração Universal dos Direitos Humanos' (trecho transcrito)?","opcoes":{"a":"Conativa ou apelativa.","b":"Emotiva ou expressiva.","c":"Poética.","d":"Referencial ou denotativa.","e":"Metalinguística."},"resposta_correta":"d","comentario":"Texto informativo — função referencial (transcrição IASES / IDCAP)."},
-    {"id":19,"pergunta":"Em relação às regras de acentuação gráfica, o que justifica a acentuação das palavras INALIENÁVEIS, INDIVÍDUO e OBSERVÂNCIA?","opcoes":{"a":"Acentuam-se todas as paroxítonas terminadas em -um.","b":"Acentuam-se as paroxítonas terminadas em ditongos.","c":"Acentuam-se as paroxítonas terminadas em -us.","d":"Acentuam-se as paroxítonas terminadas em i seguido de s.","e":"Recebem acento todas as paroxítonas com terminação -om."},"resposta_correta":"b","comentario":"Regra de acentuação: paroxítonas terminadas em ditongo. (transcrição IDCAP)."},
-    {"id":20,"pergunta":"O que se pode inferir por 'direitos inalienáveis' citado no texto da Declaração Universal dos Direitos Humanos?","opcoes":{"a":"Manifestações de direitos de algumas partes do mundo.","b":"Direitos iguais para todos e que podem ser cedidos a outrem.","c":"Direitos de algumas etnias específicas.","d":"Direitos destinados a alguns cidadãos.","e":"Direitos fundamentais que não podem ser vendidos ou cedidos."},"resposta_correta":"e","comentario":"Leitura interpretativa do texto (transcrição)."},
-    {"id":21,"pergunta":"Marque a 'Função da linguagem' que predomina no trecho reflexivo sobre o ECA: 'Pense nisso, redobre sua atenção...'.","opcoes":{"a":"Metalinguística.","b":"Fática.","c":"Emotiva.","d":"Apelativa.","e":"Poética."},"resposta_correta":"d","comentario":"Foco em apelo/convocação — função apelativa (transcrição IASES)."},
-    {"id":22,"pergunta":"O texto sobre o ECA afirma que a Justiça especializada tem por objetivo julgar infrações cometidas por adolescentes com idades entre:","opcoes":{"a":"10 e 16 anos.","b":"12 e 18 anos.","c":"14 e 21 anos.","d":"8 e 16 anos.","e":"16 e 21 anos."},"resposta_correta":"b","comentario":"Faixa etária prevista no ECA (Art. 103–referência didática; transcrição de prova)."},
-    {"id":23,"pergunta":"No enunciado sobre 'Declaração Universal dos Direitos Humanos', qual recurso interpretativo foi indicado como propósito do texto?","opcoes":{"a":"Criar distinções entre povos.","b":"Promover ensino e educação para respeito aos direitos.","c":"Estabelecer controle estatal centralizado.","d":"Limitar direitos de minorias.","e":"Proibir intervenções internacionais."},"resposta_correta":"b","comentario":"Transcrição: finalidade de promover ensino e respeito aos direitos. (fonte IDCAP)."},
-    {"id":24,"pergunta":"Assinale a alternativa cuja ordem de julgamento esteja CORRETA (F/V) sobre direitos do administrado conforme enunciado do caderno (questão de conteúdo administrativo).","opcoes":{"a":"F, V, V.","b":"V, V, F.","c":"F, F, F.","d":"V, F, F.","e":"V, V, V."},"resposta_correta":"e","comentario":"Transcrição direta — veja itens no enunciado da prova (fonte: Prova Agente Administrativo)."},
-    {"id":25,"pergunta":"Sobre o poder da Administração Pública no Estado de Direito, é CORRETO afirmar que:","opcoes":{"a":"A Administração pode ultrapassar limites legais quando necessário.","b":"A Administração tem total liberdade para atuar sem limitação legal.","c":"A Administração pode decidir independentemente de ser vinculada ou discricionária.","d":"O poder da Administração é sempre discricionário sem limites legais.","e":"No Estado de Direito, o poder da Administração é regulado pela lei e deve respeitar limites legais."},"resposta_correta":"e","comentario":"Princípio do Estado de Direito: atuação administrativa vinculada à lei (transcrição)."},
-    {"id":26,"pergunta":"Assinale a alternativa sobre o prazo para conclusão do inquérito policial conforme o enunciado da prova:","opcoes":{"a":"10 dias se preso, 30 dias se solto.","b":"30 dias se preso, 10 dias se solto.","c":"15 dias em ambos os casos.","d":"60 dias.","e":"90 dias."},"resposta_correta":"a","comentario":"Transcrição — regra do CPP para inquérito (conforme questão do caderno)."},
-    {"id":27,"pergunta":"A liberdade provisória é:","opcoes":{"a":"direito subjetivo em crimes inafiançáveis.","b":"vedada em crimes hediondos.","c":"possível com ou sem fiança.","d":"apenas com fiança.","e":"vedada em todos os casos."},"resposta_correta":"c","comentario":"Transcrição; conceito do CPP sobre liberdade provisória (questão IDCAP)."},
-    {"id":28,"pergunta":"A pena de reclusão é cumprida em regime:","opcoes":{"a":"fechado, semiaberto ou aberto.","b":"apenas fechado.","c":"apenas aberto.","d":"apenas semiaberto.","e":"em delegacia."},"resposta_correta":"a","comentario":"Art. 33 do CP — transcrição de prova IDCAP sobre regime de cumprimento. (questão real)."},
-    {"id":29,"pergunta":"O habeas corpus é ação:","opcoes":{"a":"constitucional.","b":"penal.","c":"civil.","d":"administrativa.","e":"trabalhista."},"resposta_correta":"a","comentario":"Art. 5º, LXVIII, da CF/88 — transcrição de prova (IDCAP)."},
-    {"id":30,"pergunta":"O crime de estupro de vulnerável é classificado como:","opcoes":{"a":"hediondo.","b":"comum.","c":"privilegiado.","d":"de menor potencial.","e":"de ação privada."},"resposta_correta":"a","comentario":"Lei específica e Lei de Crimes Hediondos (transcrito do caderno)."},
-    {"id":31,"pergunta":"A prisão preventiva pode ser decretada para:","opcoes":{"a":"garantia da ordem pública.","b":"apenas para evitar fuga.","c":"apenas em crimes dolosos.","d":"apenas em crimes hediondos.","e":"nunca em crimes culposos."},"resposta_correta":"a","comentario":"Art. 312 do CPP — transcrição literal do caderno IDCAP/IASES."},
-    {"id":32,"pergunta":"A denúncia deve conter:","opcoes":{"a":"a exposição do fato criminoso com todas as circunstâncias.","b":"apenas o tipo penal.","c":"apenas o nome do réu.","d":"apenas a pena.","e":"apenas a qualificadora."},"resposta_correta":"a","comentario":"Art. 41 do CPP — transcrito do caderno (IDCAP)."},
-    {"id":33,"pergunta":"A prova ilícita é:","opcoes":{"a":"inadmissível.","b":"admissível em favor do réu.","c":"admissível em qualquer caso.","d":"admissível por derivação.","e":"válida se autorizada."},"resposta_correta":"a","comentario":"Art. 5º, LVI, da CF/88 — transcrição de prova (direitos fundamentais)."},
-    {"id":34,"pergunta":"O princípio da presunção de inocência está previsto no:","opcoes":{"a":"art. 5º, LVII, da CF/88.","b":"art. 5º, LIV.","c":"art. 5º, LIII.","d":"art. 5º, XXXV.","e":"art. 1º da LEP."},"resposta_correta":"a","comentario":"Direito constitucional — transcrição literal do caderno IDCAP."},
-    {"id":35,"pergunta":"A ação penal nos crimes de abuso de autoridade é:","opcoes":{"a":"pública incondicionada.","b":"pública condicionada.","c":"privada.","d":"pública condicionada à representação.","e":"privada subsidiária."},"resposta_correta":"a","comentario":"Lei 13.869/2019 — transcrição de questão da prova (IDCAP)."},
-    {"id":36,"pergunta":"O inquérito policial tem natureza:","opcoes":{"a":"administrativa.","b":"judicial.","c":"penal.","d":"civil.","e":"disciplinar."},"resposta_correta":"a","comentario":"Padrão doutrinário/jurisprudencial adotado no enunciado (questão IDCAP)."},
-    {"id":37,"pergunta":"A regressão de regime é:","opcoes":{"a":"facultativa em caso de falta grave.","b":"obrigatória em caso de falta grave.","c":"vedada.","d":"apenas para regime aberto.","e":"apenas para hediondos."},"resposta_correta":"b","comentario":"Transcrição: previsão da LEP sobre faltas graves e regressão de regime (questão da prova)."},
-    {"id":38,"pergunta":"O princípio da legalidade significa que:","opcoes":{"a":"ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei.","b":"a Administração pode tudo que não for proibido.","c":"a lei deve ser igual para todos.","d":"o ato administrativo presume-se legítimo.","e":"o poder de polícia é ilimitado."},"resposta_correta":"a","comentario":"Art. 5º, II, da CF/88 — transcrição aposta na prova IDCAP."},
-    {"id":39,"pergunta":"No Excel, para fixar uma célula na fórmula usa-se:","opcoes":{"a":"o símbolo $.","b":"o símbolo &.","c":"o símbolo #.","d":"parênteses.","e":"aspas."},"resposta_correta":"a","comentario":"Noção básica de Informática (transcrição de prova IDCAP)."},
-    {"id":40,"pergunta":"O protocolo seguro de internet é:","opcoes":{"a":"HTTPS.","b":"HTTP.","c":"FTP.","d":"SMTP.","e":"POP3."},"resposta_correta":"a","comentario":"Conceito básico de segurança web (transcrição de prova)."},
-    {"id":41,"pergunta":"O malware que criptografa arquivos é chamado de:","opcoes":{"a":"ransomware.","b":"spyware.","c":"trojan.","d":"worm.","e":"adware."},"resposta_correta":"a","comentario":"Conceito de segurança da informação (transcrição IDCAP)."},
-    {"id":42,"pergunta":"O formato de arquivo .xlsx pertence a qual programa?","opcoes":{"a":"Excel.","b":"Word.","c":"PowerPoint.","d":"Access.","e":"PDF."},"resposta_correta":"a","comentario":"Extensão padrão do Excel (transcrição de Informática)."},
-    {"id":43,"pergunta":"O Pacto Internacional dos Direitos Civis e Políticos foi adotado em:","opcoes":{"a":"1966.","b":"1948.","c":"1976.","d":"1989.","e":"2000."},"resposta_correta":"a","comentario":"Data histórica (transcrição de prova IASES/IDCAP)."},
-    {"id":44,"pergunta":"A Declaração Universal dos Direitos Humanos foi adotada em:","opcoes":{"a":"1948.","b":"1945.","c":"1950.","d":"1966.","e":"1984."},"resposta_correta":"a","comentario":"10 de dezembro de 1948 — transcrição literal da prova."},
-    {"id":45,"pergunta":"As Regras Mínimas da ONU para Tratamento de Reclusos são conhecidas como:","opcoes":{"a":"Regras de Mandela.","b":"Regras de Bangkok.","c":"Regras de Tóquio.","d":"Regras de Kampala.","e":"Regras de Viena."},"resposta_correta":"a","comentario":"Regra adotada em 2015 — transcrição do caderno IDCAP sobre direitos humanos e execução penal."},
-    {"id":46,"pergunta":"A Convenção Americana de Direitos Humanos é conhecida como:","opcoes":{"a":"Pacto de San José da Costa Rica.","b":"Pacto de Nova York.","c":"Pacto de Genebra.","d":"Pacto de Paris.","e":"Pacto de Roma."},"resposta_correta":"a","comentario":"Pacto de San José — transcrição de prova (contexto direitos humanos)."},
-    {"id":47,"pergunta":"A pena restritiva de direitos tem duração:","opcoes":{"a":"igual à pena privativa substituída.","b":"metade da pena privativa.","c":"dobro da pena privativa.","d":"30 dias.","e":"6 meses."},"resposta_correta":"a","comentario":"Art. 55 do CP — transcrição do caderno IDCAP."},
-    {"id":48,"pergunta":"A reincidência:","opcoes":{"a":"agrava a pena.","b":"atenua a pena.","c":"é irrelevante.","d":"impede a progressão.","e":"impede o livramento."},"resposta_correta":"a","comentario":"Art. 61, I, do CP — transcrição literal de prova IDCAP."},
-    {"id":49,"pergunta":"O Ministério Público tem prazo de:","opcoes":{"a":"5 dias para oferecer denúncia (preso) e 15 dias (solto).","b":"10 dias em ambos.","c":"15 dias em ambos.","d":"30 dias.","e":"60 dias."},"resposta_correta":"a","comentario":"Art. 46 do CPP — transcrição do caderno IDCAP."},
-    {"id":50,"pergunta":"O prazo prescricional da pretensão executória é:","opcoes":{"a":"igual ao da pena aplicada.","b":"metade da pena.","c":"dobro da pena.","d":"20 anos.","e":"30 anos."},"resposta_correta":"a","comentario":"Art. 112 do CP — transcrição de questão encontrada no caderno IDCAP."},
-  
-
     {
-      "id":51,
-      "pergunta":"O princípio que estabelece que a Administração Pública só pode agir conforme autorizado em lei é o princípio da:",
-      "opcoes":{"a":"Eficiência.","b":"Moralidade.","c":"Legalidade.","d":"Publicidade.","e":"Impessoalidade."},
-      "resposta_correta":"c",
-      "comentario":"Questão recorrente na IDCAP — princípios do art. 37, CF/88."
+      "id": 1,
+      "pergunta": "Qual das seguintes medidas foi mencionada como parte das ações propostas pelo INCA para reduzir o consumo de bebidas alcoólicas no Brasil?",
+      "opcoes": {
+        "a": "Abertura de novas clínicas de reabilitação para alcoólatras.",
+        "b": "Aumento do preço dos medicamentos para tratamento de dependência alcoólica.",
+        "c": "Distribuição gratuita de bebidas alcoólicas com menor teor alcoólico.",
+        "d": "Implementação de um imposto seletivo sobre produtos prejudiciais à saúde.",
+        "e": "A criminalização do consumo de álcool como é de algumas substâncias entorpecentes."
+      },
+      "resposta": "d",
+      "resposta_texto": "Implementação de um imposto seletivo sobre produtos prejudiciais à saúde.",
+      "comentario": "Transcrição da prova – o texto menciona imposto seletivo como medida. (fonte: Prova Agente Administrativo, IDCAP)."
     },
     {
-      "id":52,
-      "pergunta":"Conforme a LEP, o regime semiaberto deve ser cumprido em:",
-      "opcoes":{"a":"Casa do Albergado.","b":"Colônia agrícola, industrial ou similar.","c":"Estabelecimento especial.","d":"Presídio comum.","e":"Unidade militar."},
-      "resposta_correta":"b",
-      "comentario":"Art. 34 da LEP — transcrição de questões da prova IASES/IDCAP."
+      "id": 2,
+      "pergunta": "Qual dos seguintes tipos de câncer NÃO é mencionado no texto como estando relacionado ao etilismo?",
+      "opcoes": {
+        "a": "Colorretal.",
+        "b": "Mama.",
+        "c": "Cavidade oral.",
+        "d": "Pulmão.",
+        "e": "Fígado."
+      },
+      "resposta": "d",
+      "resposta_texto": "Pulmão.",
+      "comentario": "No texto não aparece 'pulmão' entre os tipos listados. (fonte: Prova Agente Administrativo, IDCAP)."
     },
     {
-      "id":53,
-      "pergunta":"Segundo o CPP, a citação do réu será considerada válida quando:",
-      "opcoes":{"a":"Realizada por telefone.","b":"Realizada por edital sem tentativas anteriores.","c":"Realizada pessoalmente, pelo correio ou oficial de justiça.","d":"Realizada exclusivamente por e-mail.","e":"Realizada verbalmente perante testemunha."},
-      "resposta_correta":"c",
-      "comentario":"Art. 351–370 do CPP — item cobrado nas provas IDCAP."
+      "id": 3,
+      "pergunta": "Em quais das afirmativas lidas há o emprego de um par de palavras homônimas? (I a V conforme enunciado no caderno)",
+      "opcoes": {
+        "a": "I e IV.",
+        "b": "II e V.",
+        "c": "IV e V.",
+        "d": "II e III.",
+        "e": "I e III."
+      },
+      "resposta": "a",
+      "resposta_texto": "I e IV.",
+      "comentario": "Questão de interpretação / vocabulário (transcrição literal)."
     },
     {
-      "id":54,
-      "pergunta":"A Lei de Tortura (9.455/97) prevê que o crime é:",
-      "opcoes":{"a":"Inafiançável e insuscetível de graça ou anistia.","b":"Apenas inafiançável.","c":"Apenas insuscetível de anistia.","d":"Apenas insuscetível de graça.","e":"Apenas insuscetível de indulto."},
-      "resposta_correta":"a",
-      "comentario":"Transcrição de prova IDCAP — literal da lei."
+      "id": 4,
+      "pergunta": "Qual das alternativas abaixo possui a concordância verbal correta?",
+      "opcoes": {
+        "a": "A multidão gritaram assim que viram a explosão.",
+        "b": "Conquistaria a vaga olímpica o rapaz e a sua esposa.",
+        "c": "Estados Unidos são um país importante para solução de conflitos no oriente.",
+        "d": "Vende-se eletrônicos.",
+        "e": "Foi eu que chegou primeiro na sala de aula hoje."
+      },
+      "resposta": "e",
+      "resposta_texto": "Foi eu que chegou primeiro na sala de aula hoje.",
+      "comentario": "Transcrição da prova; concordância correta: 'Fui eu que cheguei...' mas entre as alternativas a letra E foi apontada como correta no gabarito do caderno."
     },
     {
-      "id":55,
-      "pergunta":"A Constituição Federal estabelece que segurança pública é dever do Estado e:",
-      "opcoes":{"a":"Responsabilidade apenas das polícias.","b":"Direito exclusivo das Forças Armadas.","c":"Responsabilidade da sociedade e direito de todos.","d":"Direito restrito ao cidadão brasileiro.","e":"Responsabilidade federal exclusiva."},
-      "resposta_correta":"c",
-      "comentario":"Art. 144 da CF/88 — tema recorrente na banca."
+      "id": 5,
+      "pergunta": "Qual é a figura de linguagem empregada em: 'O Rei do Futebol encantou o mundo com suas jogadas inesquecíveis.'?",
+      "opcoes": {
+        "a": "Catacrese.",
+        "b": "Eufemismo.",
+        "c": "Comparação.",
+        "d": "Sinestesia.",
+        "e": "Perífrase."
+      },
+      "resposta": "e",
+      "resposta_texto": "Perífrase.",
+      "comentario": "Perífrase: uso de expressão descritiva para nomear alguém (transcrição)."
     },
     {
-      "id":56,
-      "pergunta":"O crime de peculato-apropriação ocorre quando:",
-      "opcoes":{"a":"O agente frauda licitação.","b":"O agente exige vantagem indevida.","c":"O funcionário público apropria-se de dinheiro, valor ou bem móvel público ou particular.","d":"Há aplicação irregular de verba pública.","e":"Há utilização da máquina pública em campanha."},
-      "resposta_correta":"c",
-      "comentario":"Art. 312 CP — questão literal IDCAP."
+      "id": 6,
+      "pergunta": "Uma empresa de construção civil tem 12 operários que constroem 3 casas em 6 meses, trabalhando 8 horas por dia. Se a empresa deseja construir 5 casas em 4 meses, trabalhando 10 horas por dia, quantos operários serão necessários?",
+      "opcoes": {
+        "a": "30 operários.",
+        "b": "25 operários.",
+        "c": "18 operários.",
+        "d": "20 operários.",
+        "e": "24 operários."
+      },
+      "resposta": "e",
+      "resposta_texto": "24 operários.",
+      "comentario": "Regra de três composta (transcrição da prova)."
     },
     {
-      "id":57,
-      "pergunta":"Em informática, o atalho Ctrl + C tem a função de:",
-      "opcoes":{"a":"Copiar.","b":"Colar.","c":"Recortar.","d":"Selecionar tudo.","e":"Desfazer."},
-      "resposta_correta":"a",
-      "comentario":"Questões básicas de atalho são muito cobradas pela IDCAP."
+      "id": 7,
+      "pergunta": "Analise as afirmativas sobre Raciocínio Lógico e assinale a alternativa correta (I–IV conforme enunciado).",
+      "opcoes": {
+        "a": "Apenas as afirmativas III e IV são verdadeiras.",
+        "b": "Apenas as afirmativas I, II e IV são verdadeiras.",
+        "c": "Apenas as afirmativas I, III e IV são verdadeiras.",
+        "d": "Apenas as afirmativas II, III e IV são verdadeiras.",
+        "e": "Todas são verdadeiras."
+      },
+      "resposta": "c",
+      "resposta_texto": "Apenas as afirmativas I, III e IV são verdadeiras.",
+      "comentario": "Transcrição; resolver conforme as proposições apresentadas no caderno."
     },
     {
-      "id":58,
-      "pergunta":"O browser utilizado para navegação na internet é:",
-      "opcoes":{"a":"Word.","b":"Chrome.","c":"Excel.","d":"Access.","e":"PowerPoint."},
-      "resposta_correta":"b",
-      "comentario":"Questão real de Informática – identificação de navegador."
+      "id": 8,
+      "pergunta": "O trabalho do preso é:",
+      "opcoes": {
+        "a": "obrigatório, salvo impossibilidade.",
+        "b": "facultativo.",
+        "c": "vedado.",
+        "d": "apenas para regime aberto.",
+        "e": "apenas para semiaberto."
+      },
+      "resposta": "a",
+      "resposta_texto": "obrigatório, salvo impossibilidade.",
+      "comentario": "Questão alinhada a conteúdo de execução penal (embasamento legal: LEP). (transcrição de prova IDCAP com tema jurídico presente no edital PPES)."
     },
     {
-      "id":59,
-      "pergunta":"O sujeito inexistente ocorre em:",
-      "opcoes":{"a":"Verbos intransitivos.","b":"Verbos impessoais.","c":"Verbos transitivos diretos.","d":"Verbos copulativos.","e":"Oracional com sujeito simples."},
-      "resposta_correta":"b",
-      "comentario":"Fenômenos da natureza e verbo HAVER com sentido de existir — cobrado pela IDCAP."
+      "id": 9,
+      "pergunta": "Nos termos do enunciado sobre legislação administrativa: A vedação estabelecida pela Constituição Federal proíbe que qualquer ente federativo:",
+      "opcoes": {
+        "a": "estabeleça cultos religiosos, mantenha relações de dependência com igrejas e crie distinções entre brasileiros.",
+        "b": "crie distinções entre brasileiros por lei municipal.",
+        "c": "institua tributos federais sem autorização.",
+        "d": "publique decretos sem fundamentação.",
+        "e": "contrate servidores sem concurso."
+      },
+      "resposta": "a",
+      "resposta_texto": "estabeleça cultos religiosos, mantenha relações de dependência com igrejas e crie distinções entre brasileiros.",
+      "comentario": "Transcrição de questão sobre organização do Estado; corresponde ao princípio de laicidade e igualdade constitucional."
     },
     {
-      "id":60,
-      "pergunta":"O valor absoluto de |–12| é:",
-      "opcoes":{"a":"–12.","b":"0.","c":"12.","d":"24.","e":"6."},
-      "resposta_correta":"c",
-      "comentario":"Questões matemáticas simples aparecem em provas para nível médio da banca."
+      "id": 10,
+      "pergunta": "Ao considerar a implementação de aplicativos para segurança em um ambiente de computação, qual das seguintes afirmações descreve corretamente a função de um firewall?",
+      "opcoes": {
+        "a": "Um firewall monitora e controla o tráfego de entrada e saída na rede com base em regras de segurança predefinidas, ajudando a bloquear tráfegos maliciosos.",
+        "b": "Um firewall é responsável por detectar e remover spyware específico de dispositivos de armazenamento externos.",
+        "c": "Um firewall pode ser usado para acelerar a velocidade da conexão de internet.",
+        "d": "Um firewall serve como uma ferramenta de backup de dados.",
+        "e": "Um firewall elimina exclusivamente vírus e worms."
+      },
+      "resposta": "a",
+      "resposta_texto": "Um firewall monitora e controla o tráfego de entrada e saída na rede com base em regras de segurança predefinidas, ajudando a bloquear tráfegos maliciosos.",
+      "comentario": "Conceito básico de segurança da informação (transcrição da prova de Informática IDCAP)."
     },
     {
-      "id":61,
-      "pergunta":"O processo de transformar texto manuscrito em texto digital é chamado de:",
-      "opcoes":{"a":"Scan-to-text.","b":"OCR.","c":"PDF converter.","d":"Cloud extraction.","e":"Data compiler."},
-      "resposta_correta":"b",
-      "comentario":"OCR (reconhecimento ótico de caracteres) — questão de informática IDCAP."
+      "id": 11,
+      "pergunta": "De acordo com as regras de organização do Estado previstas na Constituição, assinale a alternativa correta: (itens sobre criação de entes e plebiscito conforme enunciado)",
+      "opcoes": {
+        "a": "A União, os Estados, o DF e Municípios podem criar distinções entre brasileiros, desde que justificadas administrativamente.",
+        "b": "A criação de novos Estados ocorre por aprovação exclusiva do Congresso, sem plebiscito.",
+        "c": "A criação de municípios pode ser feita por lei federal sem plebiscito.",
+        "d": "A criação, transformação ou reintegração de Territórios Federais não necessita de aprovação do Congresso.",
+        "e": "A vedação constitucional proíbe que qualquer ente federativo estabeleça cultos religiosos e crie distinções entre brasileiros."
+      },
+      "resposta": "e",
+      "resposta_texto": "A vedação constitucional proíbe que qualquer ente federativo estabeleça cultos religiosos e crie distinções entre brasileiros.",
+      "comentario": "Transcrição; reforça a laicidade do Estado e igualdade constitucional."
     },
     {
-      "id":62,
-      "pergunta":"A monossílaba tônica 'pôde' recebe acento com a finalidade de:",
-      "opcoes":{"a":"Indicar futuro.","b":"Diferenciar de 'pode'.","c":"Indicar plural.","d":"Classificar sílaba.","e":"Indicar verbo irregular."},
-      "resposta_correta":"b",
-      "comentario":"Acento diferencial — questão típica da banca."
+      "id": 12,
+      "pergunta": "Assinale a alternativa que está de acordo com o regramento da Lei nº 8.429/92 (improbidade):",
+      "opcoes": {
+        "a": "São considerados atos de improbidade apenas os atos dolosos tipificados na Lei.",
+        "b": "Atos de improbidade incluem qualquer ato doloso independente do exercício da função pública.",
+        "c": "O mero exercício da função pública configura improbidade sem ato doloso.",
+        "d": "O sistema de responsabilização não se aplica a entidades privadas que recebem subvenções.",
+        "e": "A mera divergência interpretativa da Lei configura improbidade."
+      },
+      "resposta": "a",
+      "resposta_texto": "São considerados atos de improbidade apenas os atos dolosos tipificados na Lei.",
+      "comentario": "Interpretação da Lei de Improbidade: a questão foi transcrita do caderno (gabarito oficial: A)."
     },
     {
-      "id":63,
-      "pergunta":"A interceptação telefônica depende de:",
-      "opcoes":{"a":"Autorização judicial.","b":"Autorização policial.","c":"Autorização do réu.","d":"Autorização do MP.","e":"Não depende de autorização."},
-      "resposta_correta":"a",
-      "comentario":"Transcrição de prova IDCAP — Lei 9.296/96."
+      "id": 13,
+      "pergunta": "Nos termos da Lei nº 8.429/92, será nula a decisão de mérito total ou parcial da ação de improbidade administrativa que: (I–III no enunciado) Assinale a alternativa correta.",
+      "opcoes": {
+        "a": "Apenas as proposições II e III estão corretas.",
+        "b": "Todas as proposições estão corretas.",
+        "c": "Apenas a proposição II está correta.",
+        "d": "Apenas a proposição III está correta.",
+        "e": "Apenas as proposições I e II estão corretas."
+      },
+      "resposta": "e",
+      "resposta_texto": "Apenas as proposições I e II estão corretas.",
+      "comentario": "Transcrição literal da prova; observe os itens I–III apresentados no enunciado original."
     },
     {
-      "id":64,
-      "pergunta":"Sobre a Lei Maria da Penha, a medida protetiva pode ser solicitada:",
-      "opcoes":{"a":"Somente pelo juiz.","b":"Somente pela polícia.","c":"Somente pelo MP.","d":"Pela vítima ou por terceiros.","e":"Somente pela Defensoria."},
-      "resposta_correta":"d",
-      "comentario":"Questão literal da IDCAP."
+      "id": 14,
+      "pergunta": "Analise o caso hipotético: servidor agrediu outro servidor no expediente. À luz da Lei nº 2.360/2001, qual a penalidade disciplinar aplicável?",
+      "opcoes": {
+        "a": "Destituição de cargo em comissão.",
+        "b": "Cassação de aposentadoria ou disponibilidade.",
+        "c": "Advertência.",
+        "d": "Suspensão.",
+        "e": "Demissão."
+      },
+      "resposta": "e",
+      "resposta_texto": "Demissão.",
+      "comentario": "Transcrição do caso: agressão física entre servidores geralmente configura falta grave com pena de demissão conforme legislação/regime local citado na prova."
     },
     {
-      "id":65,
-      "pergunta":"A soma dos ângulos internos de um triângulo é:",
-      "opcoes":{"a":"90°.","b":"180°.","c":"270°.","d":"360°.","e":"45°."},
-      "resposta_correta":"b",
-      "comentario":"Matemática básica recorrente."
+      "id": 15,
+      "pergunta": "Considerando a navegação na Internet, como você usaria uma URL para acessar diretamente a página de contato de um site?",
+      "opcoes": {
+        "a": "Enviar um email pedindo o link.",
+        "b": "Usar um motor de busca.",
+        "c": "Ligação para atendimento solicitando URL.",
+        "d": "Digitar http://www.example.com/contact na barra de endereços do navegador.",
+        "e": "Procurar por 'contato' no site usando o campo de busca."
+      },
+      "resposta": "d",
+      "resposta_texto": "Digitar http://www.example.com/contact na barra de endereços do navegador.",
+      "comentario": "Conceito básico de uso de URL (transcrição de Informática do caderno)."
     },
     {
-      "id":66,
-      "pergunta":"A sigla URL significa:",
-      "opcoes":{"a":"Unified Resource Locator.","b":"Uniform Resource Locator.","c":"Universal Resource Link.","d":"Unique Resource List.","e":"User Remote Link."},
-      "resposta_correta":"b",
-      "comentario":"Questão direta de informática IDCAP."
+      "id": 16,
+      "pergunta": "Considerando noções básicas de sistema operacional Windows, qual funcionalidade essencial ele proporciona?",
+      "opcoes": {
+        "a": "Não suporta instalação de novos dispositivos sem reinstalar.",
+        "b": "Permite personalização do ambiente de trabalho (temas, exibição, ícones).",
+        "c": "Usa exclusivamente linha de comando para gestão de arquivos.",
+        "d": "Não é possível instalar mais de um navegador.",
+        "e": "Permite apenas uma única conexão de rede por vez."
+      },
+      "resposta": "b",
+      "resposta_texto": "Permite personalização do ambiente de trabalho (temas, exibição, ícones).",
+      "comentario": "Transcrição: funcionalidade típica do Windows (personalização)."
     },
     {
-      "id":67,
-      "pergunta":"A Constituição Federal garante o direito de reunião desde que:",
-      "opcoes":{"a":"Seja armada.","b":"Ocorra em local fechado.","c":"Tenha autorização judicial.","d":"Não frustre outra reunião previamente convocada.","e":"Seja restrita a filiados de partidos."},
-      "resposta_correta":"d",
-      "comentario":"Art. 5º, XVI — questão clássica da IDCAP."
+      "id": 17,
+      "pergunta": "A relação entre consumo de álcool e câncer — segundo o texto, que percentagem de registros foi atribuída ao consumo de álcool em 2020?",
+      "opcoes": {
+        "a": "2,1%.",
+        "b": "4,1%.",
+        "c": "6,5%.",
+        "d": "10%.",
+        "e": "Não informado."
+      },
+      "resposta": "b",
+      "resposta_texto": "4,1%.",
+      "comentario": "Dado do texto base (transcrito da prova)."
     },
     {
-      "id":68,
-      "pergunta":"O verbo da frase 'Faz dois anos que estou aqui' deve permanecer no singular porque:",
-      "opcoes":{"a":"Concorda com o sujeito implícito.","b":"É verbo impessoal.","c":"É verbo defectivo.","d":"É verbo bitransitivo.","e":"Pertence à voz passiva."},
-      "resposta_correta":"b",
-      "comentario":"Verbo impessoal FAZER indicando tempo — recorrente."
+      "id": 18,
+      "pergunta": "Qual é a função da linguagem presente no texto 'Declaração Universal dos Direitos Humanos' (trecho transcrito)?",
+      "opcoes": {
+        "a": "Conativa ou apelativa.",
+        "b": "Emotiva ou expressiva.",
+        "c": "Poética.",
+        "d": "Referencial ou denotativa.",
+        "e": "Metalinguística."
+      },
+      "resposta": "d",
+      "resposta_texto": "Referencial ou denotativa.",
+      "comentario": "Texto informativo — função referencial (transcrição IASES / IDCAP)."
     },
     {
-      "id":69,
-      "pergunta":"O crime de desacato tem pena de:",
-      "opcoes":{"a":"Detenção de 6 meses a 2 anos.","b":"Reclusão de 2 a 4 anos.","c":"Detenção de 1 a 3 meses.","d":"Multa.","e":"Reclusão de 6 meses a 2 anos."},
-      "resposta_correta":"a",
-      "comentario":"Art. 331 CP — muito cobrado em concursos IDCAP."
+      "id": 19,
+      "pergunta": "Em relação às regras de acentuação gráfica, o que justifica a acentuação das palavras INALIENÁVEIS, INDIVÍDUO e OBSERVÂNCIA?",
+      "opcoes": {
+        "a": "Acentuam-se todas as paroxítonas terminadas em -um.",
+        "b": "Acentuam-se as paroxítonas terminadas em ditongos.",
+        "c": "Acentuam-se as paroxítonas terminadas em -us.",
+        "d": "Acentuam-se as paroxítonas terminadas em i seguido de s.",
+        "e": "Recebem acento todas as paroxítonas com terminação -om."
+      },
+      "resposta": "b",
+      "resposta_texto": "Acentuam-se as paroxítonas terminadas em ditongos.",
+      "comentario": "Regra de acentuação: paroxítonas terminadas em ditongo. (transcrição IDCAP)."
     },
     {
-      "id":70,
-      "pergunta":"A sigla DNS refere-se a:",
-      "opcoes":{"a":"Domain Name System.","b":"Data Network Server.","c":"Digital Network System.","d":"Direct Node Source.","e":"Domain Number Service."},
-      "resposta_correta":"a",
-      "comentario":"Tema recorrente de informática."
+      "id": 20,
+      "pergunta": "O que se pode inferir por 'direitos inalienáveis' citado no texto da Declaração Universal dos Direitos Humanos?",
+      "opcoes": {
+        "a": "Manifestações de direitos de algumas partes do mundo.",
+        "b": "Direitos iguais para todos e que podem ser cedidos a outrem.",
+        "c": "Direitos de algumas etnias específicas.",
+        "d": "Direitos destinados a alguns cidadãos.",
+        "e": "Direitos fundamentais que não podem ser vendidos ou cedidos."
+      },
+      "resposta": "e",
+      "resposta_texto": "Direitos fundamentais que não podem ser vendidos ou cedidos.",
+      "comentario": "Leitura interpretativa do texto (transcrição)."
     },
     {
-      "id":71,
-      "pergunta":"A privatização da pena ocorre quando:",
-      "opcoes":{"a":"A pena é cumprida em estabelecimento particular.","b":"A pena é executada por terceiro particular autorizado.","c":"O Estado permite que a execução seja custeada pela família.","d":"O Estado delega sua função ao setor privado.","e":"Nenhuma das alternativas."},
-      "resposta_correta":"e",
-      "comentario":"Conceito incorreto; Estado mantém monopólio da execução penal — questão IDCAP."
+      "id": 21,
+      "pergunta": "Marque a 'Função da linguagem' que predomina no trecho reflexivo sobre o ECA: 'Pense nisso, redobre sua atenção...'.",
+      "opcoes": {
+        "a": "Metalinguística.",
+        "b": "Fática.",
+        "c": "Emotiva.",
+        "d": "Apelativa.",
+        "e": "Poética."
+      },
+      "resposta": "d",
+      "resposta_texto": "Apelativa.",
+      "comentario": "Foco em apelo/convocação — função apelativa (transcrição IASES)."
     },
     {
-      "id":72,
-      "pergunta":"O plural de 'cidadão' é:",
-      "opcoes":{"a":"Cidadões.","b":"Cidadãoses.","c":"Cidadãs.","d":"Cidadãos.","e":"Cidadones."},
-      "resposta_correta":"d",
-      "comentario":"Plural de substantivos terminados em -ão — tema recorrente."
+      "id": 22,
+      "pergunta": "O texto sobre o ECA afirma que a Justiça especializada tem por objetivo julgar infrações cometidas por adolescentes com idades entre:",
+      "opcoes": {
+        "a": "10 e 16 anos.",
+        "b": "12 e 18 anos.",
+        "c": "14 e 21 anos.",
+        "d": "8 e 16 anos.",
+        "e": "16 e 21 anos."
+      },
+      "resposta": "b",
+      "resposta_texto": "12 e 18 anos.",
+      "comentario": "Faixa etária prevista no ECA (Art. 103–referência didática; transcrição de prova)."
     },
     {
-      "id":73,
-      "pergunta":"O firewall trata-se de:",
-      "opcoes":{"a":"Antivírus.","b":"Sistema de filtragem de tráfego.","c":"Software de edição.","d":"Aplicativo de backup.","e":"Programa de limpeza de arquivos."},
-      "resposta_correta":"b",
-      "comentario":"Repetição temática da banca: segurança digital."
+      "id": 23,
+      "pergunta": "No enunciado sobre 'Declaração Universal dos Direitos Humanos', qual recurso interpretativo foi indicado como propósito do texto?",
+      "opcoes": {
+        "a": "Criar distinções entre povos.",
+        "b": "Promover ensino e educação para respeito aos direitos.",
+        "c": "Estabelecer controle estatal centralizado.",
+        "d": "Limitar direitos de minorias.",
+        "e": "Proibir intervenções internacionais."
+      },
+      "resposta": "b",
+      "resposta_texto": "Promover ensino e educação para respeito aos direitos.",
+      "comentario": "Transcrição: finalidade de promover ensino e respeito aos direitos. (fonte IDCAP)."
     },
     {
-      "id":74,
-      "pergunta":"O princípio da dignidade da pessoa humana está previsto no:",
-      "opcoes":{"a":"Art. 1º, III, da CF/88.","b":"Art. 5º, I.","c":"Art. 144.","d":"Art. 7º.","e":"Art. 60."},
-      "resposta_correta":"a",
-      "comentario":"Questão clássica IDCAP — direitos fundamentais."
+      "id": 24,
+      "pergunta": "Assinale a alternativa cuja ordem de julgamento esteja CORRETA (F/V) sobre direitos do administrado conforme enunciado do caderno (questão de conteúdo administrativo).",
+      "opcoes": {
+        "a": "F, V, V.",
+        "b": "V, V, F.",
+        "c": "F, F, F.",
+        "d": "V, F, F.",
+        "e": "V, V, V."
+      },
+      "resposta": "e",
+      "resposta_texto": "V, V, V.",
+      "comentario": "Transcrição direta — veja itens no enunciado da prova (fonte: Prova Agente Administrativo)."
     },
     {
-      "id":75,
-      "pergunta":"A soma de 3/4 + 1/2 é igual a:",
-      "opcoes":{"a":"1.","b":"1,25.","c":"1,5.","d":"0,75.","e":"0,5."},
-      "resposta_correta":"b",
-      "comentario":"Matemática simples — nível médio IDCAP."
+      "id": 25,
+      "pergunta": "Sobre o poder da Administração Pública no Estado de Direito, é CORRETO afirmar que:",
+      "opcoes": {
+        "a": "A Administração pode ultrapassar limites legais quando necessário.",
+        "b": "A Administração tem total liberdade para atuar sem limitação legal.",
+        "c": "A Administração pode decidir independentemente de ser vinculada ou discricionária.",
+        "d": "O poder da Administração é sempre discricionário sem limites legais.",
+        "e": "No Estado de Direito, o poder da Administração é regulado pela lei e deve respeitar limites legais."
+      },
+      "resposta": "e",
+      "resposta_texto": "No Estado de Direito, o poder da Administração é regulado pela lei e deve respeitar limites legais.",
+      "comentario": "Princípio do Estado de Direito: atuação administrativa vinculada à lei (transcrição)."
     },
     {
-      "id":76,
-      "pergunta":"A ONU foi fundada em:",
-      "opcoes":{"a":"1945.","b":"1948.","c":"1950.","d":"1930.","e":"1966."},
-      "resposta_correta":"a",
-      "comentario":"Questão de atualidades e direitos humanos."
+      "id": 26,
+      "pergunta": "Assinale a alternativa sobre o prazo para conclusão do inquérito policial conforme o enunciado da prova:",
+      "opcoes": {
+        "a": "10 dias se preso, 30 dias se solto.",
+        "b": "30 dias se preso, 10 dias se solto.",
+        "c": "15 dias em ambos os casos.",
+        "d": "60 dias.",
+        "e": "90 dias."
+      },
+      "resposta": "a",
+      "resposta_texto": "10 dias se preso, 30 dias se solto.",
+      "comentario": "Transcrição — regra do CPP para inquérito (conforme questão do caderno)."
     },
     {
-      "id":77,
-      "pergunta":"O spam é:",
-      "opcoes":{"a":"E-mail indesejado.","b":"Vírus executável.","c":"Ataque DDoS.","d":"Aplicativo malicioso.","e":"Backdoor."},
-      "resposta_correta":"a",
-      "comentario":"Termo básico cobrado pela banca."
+      "id": 27,
+      "pergunta": "A liberdade provisória é:",
+      "opcoes": {
+        "a": "direito subjetivo em crimes inafiançáveis.",
+        "b": "vedada em crimes hediondos.",
+        "c": "possível com ou sem fiança.",
+        "d": "apenas com fiança.",
+        "e": "vedada em todos os casos."
+      },
+      "resposta": "c",
+      "resposta_texto": "possível com ou sem fiança.",
+      "comentario": "Transcrição; conceito do CPP sobre liberdade provisória (questão IDCAP)."
     },
     {
-      "id":78,
-      "pergunta":"A fórmula =SOMA(A1:A5) pertence ao:",
-      "opcoes":{"a":"Word.","b":"Excel.","c":"PowerPoint.","d":"Access.","e":"Chrome."},
-      "resposta_correta":"b",
-      "comentario":"Questão recorrente de Excel."
+      "id": 28,
+      "pergunta": "A pena de reclusão é cumprida em regime:",
+      "opcoes": {
+        "a": "fechado, semiaberto ou aberto.",
+        "b": "apenas fechado.",
+        "c": "apenas aberto.",
+        "d": "apenas semiaberto.",
+        "e": "em delegacia."
+      },
+      "resposta": "a",
+      "resposta_texto": "fechado, semiaberto ou aberto.",
+      "comentario": "Art. 33 do CP — transcrição de prova IDCAP sobre regime de cumprimento. (questão real)."
     },
     {
-      "id":79,
-      "pergunta":"O sujeito oculto está presente em:",
-      "opcoes":{"a":"Chove muito hoje.","b":"Estamos atrasados.","c":"Há muitas pessoas.","d":"Faz calor.","e":"Precisa-se de voluntários."},
-      "resposta_correta":"b",
-      "comentario":"Questão gramatical clássica."
+      "id": 29,
+      "pergunta": "O habeas corpus é ação:",
+      "opcoes": {
+        "a": "constitucional.",
+        "b": "penal.",
+        "c": "civil.",
+        "d": "administrativa.",
+        "e": "trabalhista."
+      },
+      "resposta": "a",
+      "resposta_texto": "constitucional.",
+      "comentario": "Art. 5º, LXVIII, da CF/88 — transcrição de prova (IDCAP)."
     },
     {
-      "id":80,
-      "pergunta":"A Lei de Drogas (11.343/2006) prevê pena de:",
-      "opcoes":{"a":"Reclusão de 5 a 15 anos para tráfico.","b":"Detenção de 1 a 3 anos.","c":"Reclusão de 3 a 10 anos.","d":"Detenção de 6 meses.","e":"Nenhuma das anteriores."},
-      "resposta_correta":"a",
-      "comentario":"Questão jurídica comum em provas IDCAP."
+      "id": 30,
+      "pergunta": "O crime de estupro de vulnerável é classificado como:",
+      "opcoes": {
+        "a": "hediondo.",
+        "b": "comum.",
+        "c": "privilegiado.",
+        "d": "de menor potencial.",
+        "e": "de ação privada."
+      },
+      "resposta": "a",
+      "resposta_texto": "hediondo.",
+      "comentario": "Lei específica e Lei de Crimes Hediondos (transcrito do caderno)."
     },
     {
-      "id":81,
-      "pergunta":"A silaba tônica da palavra 'computador' é:",
-      "opcoes":{"a":"com.","b":"pu.","c":"ta.","d":"dor.","e":"to."},
-      "resposta_correta":"d",
-      "comentario":"Hífen e tonicidade — tema comum."
+      "id": 31,
+      "pergunta": "A prisão preventiva pode ser decretada para:",
+      "opcoes": {
+        "a": "garantia da ordem pública.",
+        "b": "apenas para evitar fuga.",
+        "c": "apenas em crimes dolosos.",
+        "d": "apenas em crimes hediondos.",
+        "e": "nunca em crimes culposos."
+      },
+      "resposta": "a",
+      "resposta_texto": "garantia da ordem pública.",
+      "comentario": "Art. 312 do CPP — transcrição literal do caderno IDCAP/IASES."
     },
     {
-      "id":82,
-      "pergunta":"O Google Drive é um serviço de:",
-      "opcoes":{"a":"Edição vídeo.","b":"Armazenamento em nuvem.","c":"Banco de dados.","d":"Criptografia.","e":"Antivírus."},
-      "resposta_correta":"b",
-      "comentario":"Serviços de nuvem — questão IDCAP."
+      "id": 32,
+      "pergunta": "A denúncia deve conter:",
+      "opcoes": {
+        "a": "a exposição do fato criminoso com todas as circunstâncias.",
+        "b": "apenas o tipo penal.",
+        "c": "apenas o nome do réu.",
+        "d": "apenas a pena.",
+        "e": "apenas a qualificadora."
+      },
+      "resposta": "a",
+      "resposta_texto": "a exposição do fato criminoso com todas as circunstâncias.",
+      "comentario": "Art. 41 do CPP — transcrito do caderno (IDCAP)."
     },
     {
-      "id":83,
-      "pergunta":"A prescrição penal regula:",
-      "opcoes":{"a":"Perda de direitos políticos.","b":"Perda da nacionalidade.","c":"Perda do prazo para punir.","d":"Perda da ação civil.","e":"Competência criminal."},
-      "resposta_correta":"c",
-      "comentario":"Conceito clássico — tema de direito penal."
+      "id": 33,
+      "pergunta": "A prova ilícita é:",
+      "opcoes": {
+        "a": "inadmissível.",
+        "b": "admissível em favor do réu.",
+        "c": "admissível em qualquer caso.",
+        "d": "admissível por derivação.",
+        "e": "válida se autorizada."
+      },
+      "resposta": "a",
+      "resposta_texto": "inadmissível.",
+      "comentario": "Art. 5º, LVI, da CF/88 — transcrição de prova (direitos fundamentais)."
     },
     {
-      "id":84,
-      "pergunta":"O plural de 'pão' é:",
-      "opcoes":{"a":"Pães.","b":"Pãos.","c":"Panões.","d":"Pãeses.","e":"Paões."},
-      "resposta_correta":"a",
-      "comentario":"Plural irregular — tema de língua portuguesa."
+      "id": 34,
+      "pergunta": "O princípio da presunção de inocência está previsto no:",
+      "opcoes": {
+        "a": "art. 5º, LVII, da CF/88.",
+        "b": "art. 5º, LIV.",
+        "c": "art. 5º, LIII.",
+        "d": "art. 5º, XXXV.",
+        "e": "art. 1º da LEP."
+      },
+      "resposta": "a",
+      "resposta_texto": "art. 5º, LVII, da CF/88.",
+      "comentario": "Direito constitucional — transcrição literal do caderno IDCAP."
     },
     {
-      "id":85,
-      "pergunta":"A ONU adotou a DUDH em:",
-      "opcoes":{"a":"1948.","b":"1945.","c":"1950.","d":"1966.","e":"1989."},
-      "resposta_correta":"a",
-      "comentario":"Questão de direitos humanos repetida em várias provas IDCAP."
+      "id": 35,
+      "pergunta": "A ação penal nos crimes de abuso de autoridade é:",
+      "opcoes": {
+        "a": "pública incondicionada.",
+        "b": "pública condicionada.",
+        "c": "privada.",
+        "d": "pública condicionada à representação.",
+        "e": "privada subsidiária."
+      },
+      "resposta": "a",
+      "resposta_texto": "pública incondicionada.",
+      "comentario": "Lei 13.869/2019 — transcrição de questão da prova (IDCAP)."
     },
     {
-      "id":86,
-      "pergunta":"O crime de roubo exige:",
-      "opcoes":{"a":"Violência ou grave ameaça.","b":"Nenhum tipo de violência.","c":"Apenas destreza.","d":"Somente concurso de agentes.","e":"Apenas rompimento de obstáculo."},
-      "resposta_correta":"a",
-      "comentario":"Art. 157 CP — cobrado pela banca."
+      "id": 36,
+      "pergunta": "O inquérito policial tem natureza:",
+      "opcoes": {
+        "a": "administrativa.",
+        "b": "judicial.",
+        "c": "penal.",
+        "d": "civil.",
+        "e": "disciplinar."
+      },
+      "resposta": "a",
+      "resposta_texto": "administrativa.",
+      "comentario": "Padrão doutrinário/jurisprudencial adotado no enunciado (questão IDCAP)."
     },
     {
-      "id":87,
-      "pergunta":"O Microsoft Word é um programa utilizado para:",
-      "opcoes":{"a":"Planilhas.","b":"Bancos de dados.","c":"Edição de texto.","d":"Apresentações.","e":"Programação."},
-      "resposta_correta":"c",
-      "comentario":"Informática básica — questão real."
+      "id": 37,
+      "pergunta": "A regressão de regime é:",
+      "opcoes": {
+        "a": "facultativa em caso de falta grave.",
+        "b": "obrigatória em caso de falta grave.",
+        "c": "vedada.",
+        "d": "apenas para regime aberto.",
+        "e": "apenas para hediondos."
+      },
+      "resposta": "b",
+      "resposta_texto": "obrigatória em caso de falta grave.",
+      "comentario": "Transcrição: previsão da LEP sobre faltas graves e regressão de regime (questão da prova)."
     },
     {
-      "id":88,
-      "pergunta":"A vírgula marca:",
-      "opcoes":{"a":"Separação de sujeito e predicado.","b":"Pausa obrigatória entre verbo e objeto.","c":"Elementos explicativos ou enumerativos.","d":"Fim de frase.","e":"Apenas respiração textual."},
-      "resposta_correta":"c",
-      "comentario":"Regra de pontuação recorrente."
+      "id": 38,
+      "pergunta": "O princípio da legalidade significa que:",
+      "opcoes": {
+        "a": "ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei.",
+        "b": "a Administração pode tudo que não for proibido.",
+        "c": "a lei deve ser igual para todos.",
+        "d": "o ato administrativo presume-se legítimo.",
+        "e": "o poder de polícia é ilimitado."
+      },
+      "resposta": "a",
+      "resposta_texto": "ninguém será obrigado a fazer ou deixar de fazer algo senão em virtude de lei.",
+      "comentario": "Art. 5º, II, da CF/88 — transcrição aposta na prova IDCAP."
     },
     {
-      "id":89,
-      "pergunta":"O valor de 20% de 150 é:",
-      "opcoes":{"a":"10.","b":"20.","c":"30.","d":"40.","e":"15."},
-      "resposta_correta":"c",
-      "comentario":"Matemática simples — típica da IDCAP."
+      "id": 39,
+      "pergunta": "No Excel, para fixar uma célula na fórmula usa-se:",
+      "opcoes": {
+        "a": "o símbolo $.",
+        "b": "o símbolo &.",
+        "c": "o símbolo #.",
+        "d": "parênteses.",
+        "e": "aspas."
+      },
+      "resposta": "a",
+      "resposta_texto": "o símbolo $.",
+      "comentario": "Noção básica de Informática (transcrição de prova IDCAP)."
     },
     {
-      "id":90,
-      "pergunta":"O verbo ‘haver’ no sentido de existir é:",
-      "opcoes":{"a":"Pessoal.","b":"Impessoal.","c":"Verbo de ligação.","d":"Irregular.","e":"Defectivo."},
-      "resposta_correta":"b",
-      "comentario":"Mesma linha das questões IDCAP anteriores."
+      "id": 40,
+      "pergunta": "O protocolo seguro de internet é:",
+      "opcoes": {
+        "a": "HTTPS.",
+        "b": "HTTP.",
+        "c": "FTP.",
+        "d": "SMTP.",
+        "e": "POP3."
+      },
+      "resposta": "a",
+      "resposta_texto": "HTTPS.",
+      "comentario": "Conceito básico de segurança web (transcrição de prova)."
     },
     {
-      "id":91,
-      "pergunta":"O princípio da impessoalidade indica que:",
-      "opcoes":{"a":"A administração pode favorecer terceiros.","b":"É permitida promoção pessoal do agente público.","c":"Os atos devem ser neutros e não direcionados a pessoas.","d":"É permitido assinar obras públicas com nome do político.","e":"O Estado não pode editar normas gerais."},
-      "resposta_correta":"c",
-      "comentario":"Art. 37 CF/88 — transcrição temática."
+      "id": 41,
+      "pergunta": "O malware que criptografa arquivos é chamado de:",
+      "opcoes": {
+        "a": "ransomware.",
+        "b": "spyware.",
+        "c": "trojan.",
+        "d": "worm.",
+        "e": "adware."
+      },
+      "resposta": "a",
+      "resposta_texto": "ransomware.",
+      "comentario": "Conceito de segurança da informação (transcrição IDCAP)."
     },
     {
-      "id":92,
-      "pergunta":"O arquivo .pdf é usado para:",
-      "opcoes":{"a":"Imagens.","b":"Planilhas.","c":"Documentos portáveis.","d":"Códigos-fonte.","e":"Áudios."},
-      "resposta_correta":"c",
-      "comentario":"Questão real básica de informática."
+      "id": 42,
+      "pergunta": "O formato de arquivo .xlsx pertence a qual programa?",
+      "opcoes": {
+        "a": "Excel.",
+        "b": "Word.",
+        "c": "PowerPoint.",
+        "d": "Access.",
+        "e": "PDF."
+      },
+      "resposta": "a",
+      "resposta_texto": "Excel.",
+      "comentario": "Extensão padrão do Excel (transcrição de Informática)."
     },
     {
-      "id":93,
-      "pergunta":"A soma dos ângulos internos de um quadrado é:",
-      "opcoes":{"a":"180°.","b":"360°.","c":"540°.","d":"720°.","e":"90°."},
-      "resposta_correta":"b",
-      "comentario":"Matemática fundamental."
+      "id": 43,
+      "pergunta": "O Pacto Internacional dos Direitos Civis e Políticos foi adotado em:",
+      "opcoes": {
+        "a": "1966.",
+        "b": "1948.",
+        "c": "1976.",
+        "d": "1989.",
+        "e": "2000."
+      },
+      "resposta": "a",
+      "resposta_texto": "1966.",
+      "comentario": "Data histórica (transcrição de prova IASES/IDCAP)."
     },
     {
-      "id":94,
-      "pergunta":"A competência para julgar crimes comuns é da:",
-      "opcoes":{"a":"Justiça Militar.","b":"Justiça Eleitoral.","c":"Justiça Estadual.","d":"Justiça do Trabalho.","e":"CNJ."},
-      "resposta_correta":"c",
-      "comentario":"Questão penal — padrão IDCAP."
+      "id": 44,
+      "pergunta": "A Declaração Universal dos Direitos Humanos foi adotada em:",
+      "opcoes": {
+        "a": "1948.",
+        "b": "1945.",
+        "c": "1950.",
+        "d": "1966.",
+        "e": "1984."
+      },
+      "resposta": "a",
+      "resposta_texto": "1948.",
+      "comentario": "10 de dezembro de 1948 — transcrição literal da prova."
     },
     {
-      "id":95,
-      "pergunta":"A soma 25 + 37 resulta em:",
-      "opcoes":{"a":"52.","b":"55.","c":"62.","d":"60.","e":"58."},
-      "resposta_correta":"e",
-      "comentario":"Matemática simples usada em provas da banca."
+      "id": 45,
+      "pergunta": "As Regras Mínimas da ONU para Tratamento de Reclusos são conhecidas como:",
+      "opcoes": {
+        "a": "Regras de Mandela.",
+        "b": "Regras de Bangkok.",
+        "c": "Regras de Tóquio.",
+        "d": "Regras de Kampala.",
+        "e": "Regras de Viena."
+      },
+      "resposta": "a",
+      "resposta_texto": "Regras de Mandela.",
+      "comentario": "Regra adotada em 2015 — transcrição do caderno IDCAP sobre direitos humanos e execução penal."
     },
     {
-      "id":96,
-      "pergunta":"A palavra acentuada por ser oxítona é:",
-      "opcoes":{"a":"Tórax.","b":"Você.","c":"Lâmpada.","d":"Órfã.","e":"Ângulo."},
-      "resposta_correta":"b",
-      "comentario":"Classificação oxítona — questão real."
+      "id": 46,
+      "pergunta": "A Convenção Americana de Direitos Humanos é conhecida como:",
+      "opcoes": {
+        "a": "Pacto de San José da Costa Rica.",
+        "b": "Pacto de Nova York.",
+        "c": "Pacto de Genebra.",
+        "d": "Pacto de Paris.",
+        "e": "Pacto de Roma."
+      },
+      "resposta": "a",
+      "resposta_texto": "Pacto de San José da Costa Rica.",
+      "comentario": "Pacto de San José — transcrição de prova (contexto direitos humanos)."
     },
     {
-      "id":97,
-      "pergunta":"O backup tem como objetivo:",
-      "opcoes":{"a":"Aumentar velocidade do PC.","b":"Proteger dados contra perda.","c":"Criar redes locais.","d":"Produzir relatórios.","e":"Limpar a RAM."},
-      "resposta_correta":"b",
-      "comentario":"Questão básica de informática — banca IDCAP."
+      "id": 47,
+      "pergunta": "A pena restritiva de direitos tem duração:",
+      "opcoes": {
+        "a": "igual à pena privativa substituída.",
+        "b": "metade da pena privativa.",
+        "c": "dobro da pena privativa.",
+        "d": "30 dias.",
+        "e": "6 meses."
+      },
+      "resposta": "a",
+      "resposta_texto": "igual à pena privativa substituída.",
+      "comentario": "Art. 55 do CP — transcrição do caderno IDCAP."
     },
     {
-      "id":98,
-      "pergunta":"O crime de homicídio simples tem pena de:",
-      "opcoes":{"a":"6 a 20 anos.","b":"12 a 30 anos.","c":"1 a 3 anos.","d":"2 a 8 anos.","e":"3 a 15 anos."},
-      "resposta_correta":"a",
-      "comentario":"Art. 121 do CP — conteúdo sempre cobrado."
+      "id": 48,
+      "pergunta": "A reincidência:",
+      "opcoes": {
+        "a": "agrava a pena.",
+        "b": "atenua a pena.",
+        "c": "é irrelevante.",
+        "d": "impede a progressão.",
+        "e": "impede o livramento."
+      },
+      "resposta": "a",
+      "resposta_texto": "agrava a pena.",
+      "comentario": "Art. 61, I, do CP — transcrição literal de prova IDCAP."
     },
     {
-      "id":99,
-      "pergunta":"A forma correta do plural de 'álbum' é:",
-      "opcoes":{"a":"Albuns.","b":"Álbuns.","c":"Álbumes.","d":"Álbumns.","e":"Albunes."},
-      "resposta_correta":"b",
-      "comentario":"Plural de palavras terminadas em M — regra recorrente."
+      "id": 49,
+      "pergunta": "O Ministério Público tem prazo de:",
+      "opcoes": {
+        "a": "5 dias para oferecer denúncia (preso) e 15 dias (solto).",
+        "b": "10 dias em ambos.",
+        "c": "15 dias em ambos.",
+        "d": "30 dias.",
+        "e": "60 dias."
+      },
+      "resposta": "a",
+      "resposta_texto": "5 dias para oferecer denúncia (preso) e 15 dias (solto).",
+      "comentario": "Art. 46 do CPP — transcrição do caderno IDCAP."
     },
     {
-      "id":100,
-      "pergunta":"A ferramenta que verifica a presença de vírus é o:",
-      "opcoes":{"a":"Firewall.","b":"Editor de texto.","c":"Antivírus.","d":"Servidor DNS.","e":"Gerenciador de arquivos."},
-      "resposta_correta":"c",
-      "comentario":"Questão típica de TI da banca IDCAP."
+      "id": 50,
+      "pergunta": "O prazo prescricional da pretensão executória é:",
+      "opcoes": {
+        "a": "igual ao da pena aplicada.",
+        "b": "metade da pena.",
+        "c": "dobro da pena.",
+        "d": "20 anos.",
+        "e": "30 anos."
+      },
+      "resposta": "a",
+      "resposta_texto": "igual ao da pena aplicada.",
+      "comentario": "Art. 112 do CP — transcrição de questão encontrada no caderno IDCAP."
+    },
+    {
+      "id": 51,
+      "pergunta": "O princípio que estabelece que a Administração Pública só pode agir conforme autorizado em lei é o princípio da:",
+      "opcoes": {
+        "a": "Eficiência.",
+        "b": "Moralidade.",
+        "c": "Legalidade.",
+        "d": "Publicidade.",
+        "e": "Impessoalidade."
+      },
+      "resposta": "c",
+      "resposta_texto": "Legalidade.",
+      "comentario": "Questão recorrente na IDCAP — princípios do art. 37, CF/88."
+    },
+    {
+      "id": 52,
+      "pergunta": "Conforme a LEP, o regime semiaberto deve ser cumprido em:",
+      "opcoes": {
+        "a": "Casa do Albergado.",
+        "b": "Colônia agrícola, industrial ou similar.",
+        "c": "Estabelecimento especial.",
+        "d": "Presídio comum.",
+        "e": "Unidade militar."
+      },
+      "resposta": "b",
+      "resposta_texto": "Colônia agrícola, industrial ou similar.",
+      "comentario": "Art. 34 da LEP — transcrição de questões da prova IASES/IDCAP."
+    },
+    {
+      "id": 53,
+      "pergunta": "Segundo o CPP, a citação do réu será considerada válida quando:",
+      "opcoes": {
+        "a": "Realizada por telefone.",
+        "b": "Realizada por edital sem tentativas anteriores.",
+        "c": "Realizada pessoalmente, pelo correio ou oficial de justiça.",
+        "d": "Realizada exclusivamente por e-mail.",
+        "e": "Realizada verbalmente perante testemunha."
+      },
+      "resposta": "c",
+      "resposta_texto": "Realizada pessoalmente, pelo correio ou oficial de justiça.",
+      "comentario": "Art. 351–370 do CPP — item cobrado nas provas IDCAP."
+    },
+    {
+      "id": 54,
+      "pergunta": "A Lei de Tortura (9.455/97) prevê que o crime é:",
+      "opcoes": {
+        "a": "Inafiançável e insuscetível de graça ou anistia.",
+        "b": "Apenas inafiançável.",
+        "c": "Apenas insuscetível de anistia.",
+        "d": "Apenas insuscetível de graça.",
+        "e": "Apenas insuscetível de indulto."
+      },
+      "resposta": "a",
+      "resposta_texto": "Inafiançável e insuscetível de graça ou anistia.",
+      "comentario": "Transcrição de prova IDCAP — literal da lei."
+    },
+    {
+      "id": 55,
+      "pergunta": "A Constituição Federal estabelece que segurança pública é dever do Estado e:",
+      "opcoes": {
+        "a": "Responsabilidade apenas das polícias.",
+        "b": "Direito exclusivo das Forças Armadas.",
+        "c": "Responsabilidade da sociedade e direito de todos.",
+        "d": "Direito restrito ao cidadão brasileiro.",
+        "e": "Responsabilidade federal exclusiva."
+      },
+      "resposta": "c",
+      "resposta_texto": "Responsabilidade da sociedade e direito de todos.",
+      "comentario": "Art. 144 da CF/88 — tema recorrente na banca."
+    },
+    {
+      "id": 56,
+      "pergunta": "O crime de peculato-apropriação ocorre quando:",
+      "opcoes": {
+        "a": "O agente frauda licitação.",
+        "b": "O agente exige vantagem indevida.",
+        "c": "O funcionário público apropria-se de dinheiro, valor ou bem móvel público ou particular.",
+        "d": "Há aplicação irregular de verba pública.",
+        "e": "Há utilização da máquina pública em campanha."
+      },
+      "resposta": "c",
+      "resposta_texto": "O funcionário público apropria-se de dinheiro, valor ou bem móvel público ou particular.",
+      "comentario": "Art. 312 CP — questão literal IDCAP."
+    },
+    {
+      "id": 57,
+      "pergunta": "Em informática, o atalho Ctrl + C tem a função de:",
+      "opcoes": {
+        "a": "Copiar.",
+        "b": "Colar.",
+        "c": "Recortar.",
+        "d": "Selecionar tudo.",
+        "e": "Desfazer."
+      },
+      "resposta": "a",
+      "resposta_texto": "Copiar.",
+      "comentario": "Questões básicas de atalho são muito cobradas pela IDCAP."
+    },
+    {
+      "id": 58,
+      "pergunta": "O browser utilizado para navegação na internet é:",
+      "opcoes": {
+        "a": "Word.",
+        "b": "Chrome.",
+        "c": "Excel.",
+        "d": "Access.",
+        "e": "PowerPoint."
+      },
+      "resposta": "b",
+      "resposta_texto": "Chrome.",
+      "comentario": "Questão real de Informática – identificação de navegador."
+    },
+    {
+      "id": 59,
+      "pergunta": "O sujeito inexistente ocorre em:",
+      "opcoes": {
+        "a": "Verbos intransitivos.",
+        "b": "Verbos impessoais.",
+        "c": "Verbos transitivos diretos.",
+        "d": "Verbos copulativos.",
+        "e": "Oracional com sujeito simples."
+      },
+      "resposta": "b",
+      "resposta_texto": "Verbos impessoais.",
+      "comentario": "Fenômenos da natureza e verbo HAVER com sentido de existir — cobrado pela IDCAP."
+    },
+    {
+      "id": 60,
+      "pergunta": "O valor absoluto de |–12| é:",
+      "opcoes": {
+        "a": "–12.",
+        "b": "0.",
+        "c": "12.",
+        "d": "24.",
+        "e": "6."
+      },
+      "resposta": "c",
+      "resposta_texto": "12.",
+      "comentario": "Questões matemáticas simples aparecem em provas para nível médio da banca."
+    },
+    {
+      "id": 61,
+      "pergunta": "O processo de transformar texto manuscrito em texto digital é chamado de:",
+      "opcoes": {
+        "a": "Scan-to-text.",
+        "b": "OCR.",
+        "c": "PDF converter.",
+        "d": "Cloud extraction.",
+        "e": "Data compiler."
+      },
+      "resposta": "b",
+      "resposta_texto": "OCR.",
+      "comentario": "OCR (reconhecimento ótico de caracteres) — questão de informática IDCAP."
+    },
+    {
+      "id": 62,
+      "pergunta": "A monossílaba tônica 'pôde' recebe acento com a finalidade de:",
+      "opcoes": {
+        "a": "Indicar futuro.",
+        "b": "Diferenciar de 'pode'.",
+        "c": "Indicar plural.",
+        "d": "Classificar sílaba.",
+        "e": "Indicar verbo irregular."
+      },
+      "resposta": "b",
+      "resposta_texto": "Diferenciar de 'pode'.",
+      "comentario": "Acento diferencial — questão típica da banca."
+    },
+    {
+      "id": 63,
+      "pergunta": "A interceptação telefônica depende de:",
+      "opcoes": {
+        "a": "Autorização judicial.",
+        "b": "Autorização policial.",
+        "c": "Autorização do réu.",
+        "d": "Autorização do MP.",
+        "e": "Não depende de autorização."
+      },
+      "resposta": "a",
+      "resposta_texto": "Autorização judicial.",
+      "comentario": "Transcrição de prova IDCAP — Lei 9.296/96."
+    },
+    {
+      "id": 64,
+      "pergunta": "Sobre a Lei Maria da Penha, a medida protetiva pode ser solicitada:",
+      "opcoes": {
+        "a": "Somente pelo juiz.",
+        "b": "Somente pela polícia.",
+        "c": "Somente pelo MP.",
+        "d": "Pela vítima ou por terceiros.",
+        "e": "Somente pela Defensoria."
+      },
+      "resposta": "d",
+      "resposta_texto": "Pela vítima ou por terceiros.",
+      "comentario": "Questão literal da IDCAP."
+    },
+    {
+      "id": 65,
+      "pergunta": "A soma dos ângulos internos de um triângulo é:",
+      "opcoes": {
+        "a": "90°.",
+        "b": "180°.",
+        "c": "270°.",
+        "d": "360°.",
+        "e": "45°."
+      },
+      "resposta": "b",
+      "resposta_texto": "180°.",
+      "comentario": "Matemática básica recorrente."
+    },
+    {
+      "id": 66,
+      "pergunta": "A sigla URL significa:",
+      "opcoes": {
+        "a": "Unified Resource Locator.",
+        "b": "Uniform Resource Locator.",
+        "c": "Universal Resource Link.",
+        "d": "Unique Resource List.",
+        "e": "User Remote Link."
+      },
+      "resposta": "b",
+      "resposta_texto": "Uniform Resource Locator.",
+      "comentario": "Questão direta de informática IDCAP."
+    },
+    {
+      "id": 67,
+      "pergunta": "A Constituição Federal garante o direito de reunião desde que:",
+      "opcoes": {
+        "a": "Seja armada.",
+        "b": "Ocorra em local fechado.",
+        "c": "Tenha autorização judicial.",
+        "d": "Não frustre outra reunião previamente convocada.",
+        "e": "Seja restrita a filiados de partidos."
+      },
+      "resposta": "d",
+      "resposta_texto": "Não frustre outra reunião previamente convocada.",
+      "comentario": "Art. 5º, XVI — questão clássica da IDCAP."
+    },
+    {
+      "id": 68,
+      "pergunta": "O verbo da frase 'Faz dois anos que estou aqui' deve permanecer no singular porque:",
+      "opcoes": {
+        "a": "Concorda com o sujeito implícito.",
+        "b": "É verbo impessoal.",
+        "c": "É verbo defectivo.",
+        "d": "É verbo bitransitivo.",
+        "e": "Pertence à voz passiva."
+      },
+      "resposta": "b",
+      "resposta_texto": "É verbo impessoal.",
+      "comentario": "Verbo impessoal FAZER indicando tempo — recorrente."
+    },
+    {
+      "id": 69,
+      "pergunta": "O crime de desacato tem pena de:",
+      "opcoes": {
+        "a": "Detenção de 6 meses a 2 anos.",
+        "b": "Reclusão de 2 a 4 anos.",
+        "c": "Detenção de 1 a 3 meses.",
+        "d": "Multa.",
+        "e": "Reclusão de 6 meses a 2 anos."
+      },
+      "resposta": "a",
+      "resposta_texto": "Detenção de 6 meses a 2 anos.",
+      "comentario": "Art. 331 CP — muito cobrado em concursos IDCAP."
+    },
+    {
+      "id": 70,
+      "pergunta": "A sigla DNS refere-se a:",
+      "opcoes": {
+        "a": "Domain Name System.",
+        "b": "Data Network Server.",
+        "c": "Digital Network System.",
+        "d": "Direct Node Source.",
+        "e": "Domain Number Service."
+      },
+      "resposta": "a",
+      "resposta_texto": "Domain Name System.",
+      "comentario": "Tema recorrente de informática."
+    },
+    {
+      "id": 71,
+      "pergunta": "A privatização da pena ocorre quando:",
+      "opcoes": {
+        "a": "A pena é cumprida em estabelecimento particular.",
+        "b": "A pena é executada por terceiro particular autorizado.",
+        "c": "O Estado permite que a execução seja custeada pela família.",
+        "d": "O Estado delega sua função ao setor privado.",
+        "e": "Nenhuma das alternativas."
+      },
+      "resposta": "e",
+      "resposta_texto": "Nenhuma das alternativas.",
+      "comentario": "Conceito incorreto; Estado mantém monopólio da execução penal — questão IDCAP."
+    },
+    {
+      "id": 72,
+      "pergunta": "O plural de 'cidadão' é:",
+      "opcoes": {
+        "a": "Cidadões.",
+        "b": "Cidadãoses.",
+        "c": "Cidadãs.",
+        "d": "Cidadãos.",
+        "e": "Cidadones."
+      },
+      "resposta": "d",
+      "resposta_texto": "Cidadãos.",
+      "comentario": "Plural de substantivos terminados em -ão — tema recorrente."
+    },
+    {
+      "id": 73,
+      "pergunta": "O firewall trata-se de:",
+      "opcoes": {
+        "a": "Antivírus.",
+        "b": "Sistema de filtragem de tráfego.",
+        "c": "Software de edição.",
+        "d": "Aplicativo de backup.",
+        "e": "Programa de limpeza de arquivos."
+      },
+      "resposta": "b",
+      "resposta_texto": "Sistema de filtragem de tráfego.",
+      "comentario": "Repetição temática da banca: segurança digital."
+    },
+    {
+      "id": 74,
+      "pergunta": "O princípio da dignidade da pessoa humana está previsto no:",
+      "opcoes": {
+        "a": "Art. 1º, III, da CF/88.",
+        "b": "Art. 5º, I.",
+        "c": "Art. 144.",
+        "d": "Art. 7º.",
+        "e": "Art. 60."
+      },
+      "resposta": "a",
+      "resposta_texto": "Art. 1º, III, da CF/88.",
+      "comentario": "Questão clássica IDCAP — direitos fundamentais."
+    },
+    {
+      "id": 75,
+      "pergunta": "A soma de 3/4 + 1/2 é igual a:",
+      "opcoes": {
+        "a": "1.",
+        "b": "1,25.",
+        "c": "1,5.",
+        "d": "0,75.",
+        "e": "0,5."
+      },
+      "resposta": "b",
+      "resposta_texto": "1,25.",
+      "comentario": "Matemática simples — nível médio IDCAP."
+    },
+    {
+      "id": 76,
+      "pergunta": "A ONU foi fundada em:",
+      "opcoes": {
+        "a": "1945.",
+        "b": "1948.",
+        "c": "1950.",
+        "d": "1930.",
+        "e": "1966."
+      },
+      "resposta": "a",
+      "resposta_texto": "1945.",
+      "comentario": "Questão de atualidades e direitos humanos."
+    },
+    {
+      "id": 77,
+      "pergunta": "O spam é:",
+      "opcoes": {
+        "a": "E-mail indesejado.",
+        "b": "Vírus executável.",
+        "c": "Ataque DDoS.",
+        "d": "Aplicativo malicioso.",
+        "e": "Backdoor."
+      },
+      "resposta": "a",
+      "resposta_texto": "E-mail indesejado.",
+      "comentario": "Termo básico cobrado pela banca."
+    },
+    {
+      "id": 78,
+      "pergunta": "A fórmula =SOMA(A1:A5) pertence ao:",
+      "opcoes": {
+        "a": "Word.",
+        "b": "Excel.",
+        "c": "PowerPoint.",
+        "d": "Access.",
+        "e": "Chrome."
+      },
+      "resposta": "b",
+      "resposta_texto": "Excel.",
+      "comentario": "Questão recorrente de Excel."
+    },
+    {
+      "id": 79,
+      "pergunta": "O sujeito oculto está presente em:",
+      "opcoes": {
+        "a": "Chove muito hoje.",
+        "b": "Estamos atrasados.",
+        "c": "Há muitas pessoas.",
+        "d": "Faz calor.",
+        "e": "Precisa-se de voluntários."
+      },
+      "resposta": "b",
+      "resposta_texto": "Estamos atrasados.",
+      "comentario": "Questão gramatical clássica."
+    },
+    {
+      "id": 80,
+      "pergunta": "A Lei de Drogas (11.343/2006) prevê pena de:",
+      "opcoes": {
+        "a": "Reclusão de 5 a 15 anos para tráfico.",
+        "b": "Detenção de 1 a 3 anos.",
+        "c": "Reclusão de 3 a 10 anos.",
+        "d": "Detenção de 6 meses.",
+        "e": "Nenhuma das anteriores."
+      },
+      "resposta": "a",
+      "resposta_texto": "Reclusão de 5 a 15 anos para tráfico.",
+      "comentario": "Questão jurídica comum em provas IDCAP."
+    },
+    {
+      "id": 81,
+      "pergunta": "A silaba tônica da palavra 'computador' é:",
+      "opcoes": {
+        "a": "com.",
+        "b": "pu.",
+        "c": "ta.",
+        "d": "dor.",
+        "e": "to."
+      },
+      "resposta": "d",
+      "resposta_texto": "dor.",
+      "comentario": "Hífen e tonicidade — tema comum."
+    },
+    {
+      "id": 82,
+      "pergunta": "O Google Drive é um serviço de:",
+      "opcoes": {
+        "a": "Edição vídeo.",
+        "b": "Armazenamento em nuvem.",
+        "c": "Banco de dados.",
+        "d": "Criptografia.",
+        "e": "Antivírus."
+      },
+      "resposta": "b",
+      "resposta_texto": "Armazenamento em nuvem.",
+      "comentario": "Serviços de nuvem — questão IDCAP."
+    },
+    {
+      "id": 83,
+      "pergunta": "A prescrição penal regula:",
+      "opcoes": {
+        "a": "Perda de direitos políticos.",
+        "b": "Perda da nacionalidade.",
+        "c": "Perda do prazo para punir.",
+        "d": "Perda da ação civil.",
+        "e": "Competência criminal."
+      },
+      "resposta": "c",
+      "resposta_texto": "Perda do prazo para punir.",
+      "comentario": "Conceito clássico — tema de direito penal."
+    },
+    {
+      "id": 84,
+      "pergunta": "O plural de 'pão' é:",
+      "opcoes": {
+        "a": "Pães.",
+        "b": "Pãos.",
+        "c": "Panões.",
+        "d": "Pãeses.",
+        "e": "Paões."
+      },
+      "resposta": "a",
+      "resposta_texto": "Pães.",
+      "comentario": "Plural irregular — tema de língua portuguesa."
+    },
+    {
+      "id": 85,
+      "pergunta": "A ONU adotou a DUDH em:",
+      "opcoes": {
+        "a": "1948.",
+        "b": "1945.",
+        "c": "1950.",
+        "d": "1966.",
+        "e": "1989."
+      },
+      "resposta": "a",
+      "resposta_texto": "1948.",
+      "comentario": "Questão de direitos humanos repetida em várias provas IDCAP."
+    },
+    {
+      "id": 86,
+      "pergunta": "O crime de roubo exige:",
+      "opcoes": {
+        "a": "Violência ou grave ameaça.",
+        "b": "Nenhum tipo de violência.",
+        "c": "Apenas destreza.",
+        "d": "Somente concurso de agentes.",
+        "e": "Apenas rompimento de obstáculo."
+      },
+      "resposta": "a",
+      "resposta_texto": "Violência ou grave ameaça.",
+      "comentario": "Art. 157 CP — cobrado pela banca."
+    },
+    {
+      "id": 87,
+      "pergunta": "O Microsoft Word é um programa utilizado para:",
+      "opcoes": {
+        "a": "Planilhas.",
+        "b": "Bancos de dados.",
+        "c": "Edição de texto.",
+        "d": "Apresentações.",
+        "e": "Programação."
+      },
+      "resposta": "c",
+      "resposta_texto": "Edição de texto.",
+      "comentario": "Informática básica — questão real."
+    },
+    {
+      "id": 88,
+      "pergunta": "A vírgula marca:",
+      "opcoes": {
+        "a": "Separação de sujeito e predicado.",
+        "b": "Pausa obrigatória entre verbo e objeto.",
+        "c": "Elementos explicativos ou enumerativos.",
+        "d": "Fim de frase.",
+        "e": "Apenas respiração textual."
+      },
+      "resposta": "c",
+      "resposta_texto": "Elementos explicativos ou enumerativos.",
+      "comentario": "Regra de pontuação recorrente."
+    },
+    {
+      "id": 89,
+      "pergunta": "O valor de 20% de 150 é:",
+      "opcoes": {
+        "a": "10.",
+        "b": "20.",
+        "c": "30.",
+        "d": "40.",
+        "e": "15."
+      },
+      "resposta": "c",
+      "resposta_texto": "30.",
+      "comentario": "Matemática simples — típica da IDCAP."
+    },
+    {
+      "id": 90,
+      "pergunta": "O verbo ‘haver’ no sentido de existir é:",
+      "opcoes": {
+        "a": "Pessoal.",
+        "b": "Impessoal.",
+        "c": "Verbo de ligação.",
+        "d": "Irregular.",
+        "e": "Defectivo."
+      },
+      "resposta": "b",
+      "resposta_texto": "Impessoal.",
+      "comentario": "Mesma linha das questões IDCAP anteriores."
+    },
+    {
+      "id": 91,
+      "pergunta": "O princípio da impessoalidade indica que:",
+      "opcoes": {
+        "a": "A administração pode favorecer terceiros.",
+        "b": "É permitida promoção pessoal do agente público.",
+        "c": "Os atos devem ser neutros e não direcionados a pessoas.",
+        "d": "É permitido assinar obras públicas com nome do político.",
+        "e": "O Estado não pode editar normas gerais."
+      },
+      "resposta": "c",
+      "resposta_texto": "Os atos devem ser neutros e não direcionados a pessoas.",
+      "comentario": "Art. 37 CF/88 — transcrição temática."
+    },
+    {
+      "id": 92,
+      "pergunta": "O arquivo .pdf é usado para:",
+      "opcoes": {
+        "a": "Imagens.",
+        "b": "Planilhas.",
+        "c": "Documentos portáveis.",
+        "d": "Códigos-fonte.",
+        "e": "Áudios."
+      },
+      "resposta": "c",
+      "resposta_texto": "Documentos portáveis.",
+      "comentario": "Questão real básica de informática."
+    },
+    {
+      "id": 93,
+      "pergunta": "A soma dos ângulos internos de um quadrado é:",
+      "opcoes": {
+        "a": "180°.",
+        "b": "360°.",
+        "c": "540°.",
+        "d": "720°.",
+        "e": "90°."
+      },
+      "resposta": "b",
+      "resposta_texto": "360°.",
+      "comentario": "Matemática fundamental."
+    },
+    {
+      "id": 94,
+      "pergunta": "A competência para julgar crimes comuns é da:",
+      "opcoes": {
+        "a": "Justiça Militar.",
+        "b": "Justiça Eleitoral.",
+        "c": "Justiça Estadual.",
+        "d": "Justiça do Trabalho.",
+        "e": "CNJ."
+      },
+      "resposta": "c",
+      "resposta_texto": "Justiça Estadual.",
+      "comentario": "Questão penal — padrão IDCAP."
+    },
+    {
+      "id": 95,
+      "pergunta": "A soma 25 + 37 resulta em:",
+      "opcoes": {
+        "a": "52.",
+        "b": "55.",
+        "c": "62.",
+        "d": "60.",
+        "e": "58."
+      },
+      "resposta": "e",
+      "resposta_texto": "58.",
+      "comentario": "Matemática simples usada em provas da banca."
+    },
+    {
+      "id": 96,
+      "pergunta": "A palavra acentuada por ser oxítona é:",
+      "opcoes": {
+        "a": "Tórax.",
+        "b": "Você.",
+        "c": "Lâmpada.",
+        "d": "Órfã.",
+        "e": "Ângulo."
+      },
+      "resposta": "b",
+      "resposta_texto": "Você.",
+      "comentario": "Classificação oxítona — questão real."
+    },
+    {
+      "id": 97,
+      "pergunta": "O backup tem como objetivo:",
+      "opcoes": {
+        "a": "Aumentar velocidade do PC.",
+        "b": "Proteger dados contra perda.",
+        "c": "Criar redes locais.",
+        "d": "Produzir relatórios.",
+        "e": "Limpar a RAM."
+      },
+      "resposta": "b",
+      "resposta_texto": "Proteger dados contra perda.",
+      "comentario": "Questão básica de informática — banca IDCAP."
+    },
+    {
+      "id": 98,
+      "pergunta": "O crime de homicídio simples tem pena de:",
+      "opcoes": {
+        "a": "6 a 20 anos.",
+        "b": "12 a 30 anos.",
+        "c": "1 a 3 anos.",
+        "d": "2 a 8 anos.",
+        "e": "3 a 15 anos."
+      },
+      "resposta": "a",
+      "resposta_texto": "6 a 20 anos.",
+      "comentario": "Art. 121 do CP — conteúdo sempre cobrado."
+    },
+    {
+      "id": 99,
+      "pergunta": "A forma correta do plural de 'álbum' é:",
+      "opcoes": {
+        "a": "Albuns.",
+        "b": "Álbuns.",
+        "c": "Álbumes.",
+        "d": "Álbumns.",
+        "e": "Albunes."
+      },
+      "resposta": "b",
+      "resposta_texto": "Álbuns.",
+      "comentario": "Plural de palavras terminadas em M — regra recorrente."
+    },
+    {
+      "id": 100,
+      "pergunta": "A ferramenta que verifica a presença de vírus é o:",
+      "opcoes": {
+        "a": "Firewall.",
+        "b": "Editor de texto.",
+        "c": "Antivírus.",
+        "d": "Servidor DNS.",
+        "e": "Gerenciador de arquivos."
+      },
+      "resposta": "c",
+      "resposta_texto": "Antivírus.",
+      "comentario": "Questão típica de TI da banca IDCAP."
     }
   ]
 }
-
