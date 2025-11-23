@@ -1,270 +1,430 @@
 {
   "titulo": "Simulado PPES 2025 (versão JSON com gabarito e comentários)",
-  "fonte": "0",
+  "fonte": "IDCAP-MODO01",
   "questoes": [
     {
       "id": 1,
       "pergunta": "O conectivo 'embora' em 'Embora estivesse cansado, continuou trabalhando' indica:",
-      "opcoes": { "a": "Adição", "b": "Concessão", "c": "Causa", "d": "Finalidade" },
+      "opcoes": {
+        "a": "Adição",
+        "b": "Concessão",
+        "c": "Causa",
+        "d": "Finalidade"
+      },
       "resposta": "b",
-      "resposta_texto": "Concessão",
       "comentario": "‘Embora’ expressa concessão, isto é, uma ideia que se admite apesar de outra."
     },
     {
       "id": 2,
       "pergunta": "Assinale a frase com emprego CORRETO do pronome oblíquo átono.",
-      "opcoes": { "a": "Me disseram a verdade.", "b": "Disse-lhe a verdade.", "c": "Entregaram-me o relatório ontem.", "d": "Falou-me que vai embora-se." },
+      "opcoes": {
+        "a": "Me disseram a verdade.",
+        "b": "Disse-lhe a verdade.",
+        "c": "Entregaram-me o relatório ontem.",
+        "d": "Falou-me que vai embora-se."
+      },
       "resposta": "c",
-      "resposta_texto": "Entregaram-me o relatório ontem.",
       "comentario": "‘Entregaram-me’ (ênclise) é correto; nas demais, há impropriedades de colocação ou uso."
     },
     {
       "id": 3,
       "pergunta": "Em 'As provas foram aplicadas pelo fiscal', o verbo está na voz:",
-      "opcoes": { "a": "Ativa", "b": "Reflexiva", "c": "Passiva analítica", "d": "Passiva sintética" },
+      "opcoes": {
+        "a": "Ativa",
+        "b": "Reflexiva",
+        "c": "Passiva analítica",
+        "d": "Passiva sintética"
+      },
       "resposta": "c",
-      "resposta_texto": "Passiva analítica",
       "comentario": "Locução verbal com particípio + agente da passiva caracteriza voz passiva analítica."
     },
     {
       "id": 4,
       "pergunta": "Qual opção apresenta uma perífrase?",
-      "opcoes": { "a": "O astro-rei nasceu cedo.", "b": "A casa grande foi pintada.", "c": "O aluno leu o livro.", "d": "Ele correu rápido." },
+      "opcoes": {
+        "a": "O astro-rei nasceu cedo.",
+        "b": "A casa grande foi pintada.",
+        "c": "O aluno leu o livro.",
+        "d": "Ele correu rápido."
+      },
       "resposta": "a",
-      "resposta_texto": "O astro-rei nasceu cedo.",
       "comentario": "‘Astro-rei’ é perífrase para o sol, uma forma indireta de nomear."
     },
     {
       "id": 5,
       "pergunta": "Assinale o período com pontuação correta.",
-      "opcoes": { "a": "Se chover, não irei; porém se parar, eu vou.", "b": "Se chover não irei; porém, se parar, eu vou.", "c": "Se chover não irei porém, se parar, eu vou.", "d": "Se chover, não irei porém se parar, eu vou." },
+      "opcoes": {
+        "a": "Se chover, não irei; porém se parar, eu vou.",
+        "b": "Se chover não irei; porém, se parar, eu vou.",
+        "c": "Se chover não irei porém, se parar, eu vou.",
+        "d": "Se chover, não irei porém se parar, eu vou."
+      },
       "resposta": "b",
-      "resposta_texto": "Se chover não irei; porém, se parar, eu vou.",
       "comentario": "Vírgula após ‘porém’ e separações adequadas das orações condicionais."
     },
+
     {
       "id": 6,
       "pergunta": "A razão entre 12 e 48 é:",
-      "opcoes": { "a": "1/4", "b": "1/3", "c": "1/2", "d": "2" },
+      "opcoes": {
+        "a": "1/4",
+        "b": "1/3",
+        "c": "1/2",
+        "d": "2"
+      },
       "resposta": "a",
-      "resposta_texto": "1/4",
       "comentario": "12:48 = 12/48 = 1/4 após simplificação."
     },
+
     {
       "id": 7,
       "pergunta": "Probabilidade de sair número par em um dado honesto:",
-      "opcoes": { "a": "1/6", "b": "1/3", "c": "1/2", "d": "2/3" },
+      "opcoes": {
+        "a": "1/6",
+        "b": "1/3",
+        "c": "1/2",
+        "d": "2/3"
+      },
       "resposta": "c",
-      "resposta_texto": "1/2",
       "comentario": "Resultados pares {2,4,6} totalizam 3 em 6: 3/6 = 1/2."
     },
+
     {
       "id": 8,
       "pergunta": "Permutações de 5 elementos distintos:",
-      "opcoes": { "a": "5", "b": "10", "c": "25", "d": "120" },
+      "opcoes": {
+        "a": "5",
+        "b": "10",
+        "c": "25",
+        "d": "120"
+      },
       "resposta": "d",
-      "resposta_texto": "120",
       "comentario": "P(5) = 5! = 120 ordens possíveis."
     },
+
     {
       "id": 9,
       "pergunta": "Arranjos de 6 elementos tomados 2 a 2:",
-      "opcoes": { "a": "12", "b": "15", "c": "30", "d": "720" },
+      "opcoes": {
+        "a": "12",
+        "b": "15",
+        "c": "30",
+        "d": "720"
+      },
       "resposta": "c",
-      "resposta_texto": "30",
       "comentario": "A(6,2) = 6×5 = 30 (ordem importa)."
     },
+
     {
       "id": 10,
       "pergunta": "Combinações de 6 elementos tomados 2 a 2:",
-      "opcoes": { "a": "12", "b": "15", "c": "30", "d": "720" },
+      "opcoes": {
+        "a": "12",
+        "b": "15",
+        "c": "30",
+        "d": "720"
+      },
       "resposta": "b",
-      "resposta_texto": "15",
       "comentario": "C(6,2) = 6×5/2 = 15 (ordem não importa)."
     },
+
     {
       "id": 11,
       "pergunta": "Um firewall faz:",
-      "opcoes": { "a": "Backup de disco", "b": "Filtragem de tráfego por regras", "c": "Criptografia de arquivos", "d": "Impressão remota" },
+      "opcoes": {
+        "a": "Backup de disco",
+        "b": "Filtragem de tráfego por regras",
+        "c": "Criptografia de arquivos",
+        "d": "Impressão remota"
+      },
       "resposta": "b",
-      "resposta_texto": "Filtragem de tráfego por regras",
       "comentario": "Controla conexões e pacotes conforme políticas de segurança."
     },
+
     {
       "id": 12,
       "pergunta": "Atalho do Word para negrito:",
-      "opcoes": { "a": "Ctrl+U", "b": "Ctrl+I", "c": "Ctrl+B", "d": "Ctrl+N" },
+      "opcoes": {
+        "a": "Ctrl+U",
+        "b": "Ctrl+I",
+        "c": "Ctrl+B",
+        "d": "Ctrl+N"
+      },
       "resposta": "c",
-      "resposta_texto": "Ctrl+B",
       "comentario": "Negrito: Ctrl+B; sublinhado: Ctrl+U; itálico: Ctrl+I."
     },
+
     {
       "id": 13,
       "pergunta": "No Excel, a função para média é:",
-      "opcoes": { "a": "=SOMA()", "b": "=MÉDIA()", "c": "=MÁXIMO()", "d": "=CONT.SE()" },
+      "opcoes": {
+        "a": "=SOMA()",
+        "b": "=MÉDIA()",
+        "c": "=MÁXIMO()",
+        "d": "=CONT.SE()"
+      },
       "resposta": "b",
-      "resposta_texto": "=MÉDIA()",
       "comentario": "Calcula a média aritmética dos valores selecionados."
     },
+
     {
       "id": 14,
       "pergunta": "URL identifica:",
-      "opcoes": { "a": "Tipo de arquivo", "b": "Endereço de recurso na web", "c": "Protocolo de impressão", "d": "Script de execução local" },
+      "opcoes": {
+        "a": "Tipo de arquivo",
+        "b": "Endereço de recurso na web",
+        "c": "Protocolo de impressão",
+        "d": "Script de execução local"
+      },
       "resposta": "b",
-      "resposta_texto": "Endereço de recurso na web",
       "comentario": "Uniform Resource Locator: localizador do recurso na internet."
     },
+
     {
       "id": 15,
       "pergunta": "Antivírus é usado para:",
-      "opcoes": { "a": "Aumentar banda", "b": "Detectar e mitigar malware", "c": "Configurar roteadores", "d": "Salvar cookies" },
+      "opcoes": {
+        "a": "Aumentar banda",
+        "b": "Detectar e mitigar malware",
+        "c": "Configurar roteadores",
+        "d": "Salvar cookies"
+      },
       "resposta": "b",
-      "resposta_texto": "Detectar e mitigar malware",
       "comentario": "Monitora, identifica e remove softwares maliciosos."
     },
+
     {
       "id": 16,
       "pergunta": "Desenvolvimento sustentável envolve:",
-      "opcoes": { "a": "Uso ilimitado de recursos", "b": "Atender presente sem comprometer futuro", "c": "Crescimento a qualquer custo", "d": "Suspender matrizes energéticas" },
+      "opcoes": {
+        "a": "Uso ilimitado de recursos",
+        "b": "Atender presente sem comprometer futuro",
+        "c": "Crescimento a qualquer custo",
+        "d": "Suspender matrizes energéticas"
+      },
       "resposta": "b",
-      "resposta_texto": "Atender presente sem comprometer futuro",
       "comentario": "Princípio base dos ODS: equilíbrio ambiental, social e econômico."
     },
+
     {
       "id": 17,
       "pergunta": "Inflação alta tende a:",
-      "opcoes": { "a": "Aumentar poder de compra", "b": "Reduzir poder de compra", "c": "Não impactar salários", "d": "Diminuir preços relativos" },
+      "opcoes": {
+        "a": "Aumentar poder de compra",
+        "b": "Reduzir poder de compra",
+        "c": "Não impactar salários",
+        "d": "Diminuir preços relativos"
+      },
       "resposta": "b",
-      "resposta_texto": "Reduzir poder de compra",
       "comentario": "Preços sobem mais rápido que a renda, reduzindo consumo real."
     },
+
     {
       "id": 18,
       "pergunta": "Concordância correta:",
-      "opcoes": { "a": "Fazem dois anos que trabalho aqui.", "b": "Faz dois anos que trabalho aqui.", "c": "Haviam muitas pessoas.", "d": "Devem haver soluções." },
+      "opcoes": {
+        "a": "Fazem dois anos que trabalho aqui.",
+        "b": "Faz dois anos que trabalho aqui.",
+        "c": "Haviam muitas pessoas.",
+        "d": "Devem haver soluções."
+      },
       "resposta": "b",
-      "resposta_texto": "Faz dois anos que trabalho aqui.",
       "comentario": "‘Fazer’ e ‘haver’ impessoais ficam no singular."
     },
+
     {
       "id": 19,
       "pergunta": "Regra de três simples: se 4 máquinas produzem 100 peças, 6 máquinas produzirão:",
-      "opcoes": { "a": "150", "b": "125", "c": "200", "d": "75" },
+      "opcoes": {
+        "a": "150",
+        "b": "125",
+        "c": "200",
+        "d": "75"
+      },
       "resposta": "a",
-      "resposta_texto": "150",
       "comentario": "Proporção direta: 6/4 = 1,5; 1,5×100 = 150."
     },
+
     {
       "id": 20,
       "pergunta": "Porcentagem: 30% de 250 =",
-      "opcoes": { "a": "60", "b": "65", "c": "70", "d": "75" },
+      "opcoes": {
+        "a": "60",
+        "b": "65",
+        "c": "70",
+        "d": "75"
+      },
       "resposta": "d",
-      "resposta_texto": "75",
       "comentario": "0,3×250 = 75."
     },
+
     {
       "id": 21,
       "pergunta": "Sistema linear: x+y=10 e x−y=2 ⇒ x=",
-      "opcoes": { "a": "6", "b": "4", "c": "8", "d": "12" },
+      "opcoes": {
+        "a": "6",
+        "b": "4",
+        "c": "8",
+        "d": "12"
+      },
       "resposta": "a",
-      "resposta_texto": "6",
       "comentario": "Somando: 2x=12 ⇒ x=6."
     },
+
     {
       "id": 22,
       "pergunta": "Área de um retângulo 7×9:",
-      "opcoes": { "a": "16", "b": "63", "c": "72", "d": "81" },
+      "opcoes": {
+        "a": "16",
+        "b": "63",
+        "c": "72",
+        "d": "81"
+      },
       "resposta": "b",
-      "resposta_texto": "63",
       "comentario": "A=7×9=63."
     },
+
     {
       "id": 23,
       "pergunta": "Sequência lógica: 2, 6, 18, 54, ...",
-      "opcoes": { "a": "72", "b": "108", "c": "162", "d": "216" },
+      "opcoes": {
+        "a": "72",
+        "b": "108",
+        "c": "162",
+        "d": "216"
+      },
       "resposta": "c",
-      "resposta_texto": "162",
       "comentario": "Multiplica por 3: próximo 54×3=162."
     },
+
     {
       "id": 24,
       "pergunta": "No Word, ‘Cabeçalho’ serve para:",
-      "opcoes": { "a": "Inserir conteúdo no topo das páginas", "b": "Aumentar margem esquerda", "c": "Exportar PDF", "d": "Traduzir textos" },
+      "opcoes": {
+        "a": "Inserir conteúdo no topo das páginas",
+        "b": "Aumentar margem esquerda",
+        "c": "Exportar PDF",
+        "d": "Traduzir textos"
+      },
       "resposta": "a",
-      "resposta_texto": "Inserir conteúdo no topo das páginas",
       "comentario": "Cabeçalho aparece no topo de todas as páginas."
     },
+
     {
       "id": 25,
       "pergunta": "Formatação condicional no Excel permite:",
-      "opcoes": { "a": "Alterar senha", "b": "Aplicar estilos com base em regras sobre valores", "c": "Criar macros automaticamente", "d": "Imprimir em massa" },
+      "opcoes": {
+        "a": "Alterar senha",
+        "b": "Aplicar estilos com base em regras sobre valores",
+        "c": "Criar macros automaticamente",
+        "d": "Imprimir em massa"
+      },
       "resposta": "b",
-      "resposta_texto": "Aplicar estilos com base em regras sobre valores",
-      "comentario": "Destaca células conforme critérios (maior que, igual, etc.)."
+      "comentario": "Destaca células conforme critérios."
     },
+
     {
       "id": 26,
       "pergunta": "Atalho para salvar:",
-      "opcoes": { "a": "Ctrl+S", "b": "Ctrl+P", "c": "Ctrl+Z", "d": "Ctrl+X" },
+      "opcoes": {
+        "a": "Ctrl+S",
+        "b": "Ctrl+P",
+        "c": "Ctrl+Z",
+        "d": "Ctrl+X"
+      },
       "resposta": "a",
-      "resposta_texto": "Ctrl+S",
       "comentario": "Salvar: Ctrl+S."
     },
+
     {
       "id": 27,
       "pergunta": "Relações internacionais tratam de:",
-      "opcoes": { "a": "Interações entre Estados e atores globais", "b": "Apenas comércio interno", "c": "Política municipal", "d": "Tributos locais" },
+      "opcoes": {
+        "a": "Interações entre Estados e atores globais",
+        "b": "Apenas comércio interno",
+        "c": "Política municipal",
+        "d": "Tributos locais"
+      },
       "resposta": "a",
-      "resposta_texto": "Interações entre Estados e atores globais",
       "comentario": "Diplomacia, comércio, segurança, organismos internacionais."
     },
+
     {
       "id": 28,
       "pergunta": "Impessoalidade significa:",
-      "opcoes": { "a": "Favorecer conhecidos", "b": "Atuar sem discriminação ou promoção pessoal", "c": "Ocultar informações", "d": "Ser sempre formal" },
+      "opcoes": {
+        "a": "Favorecer conhecidos",
+        "b": "Atuar sem discriminação ou promoção pessoal",
+        "c": "Ocultar informações",
+        "d": "Ser sempre formal"
+      },
       "resposta": "b",
-      "resposta_texto": "Atuar sem discriminação ou promoção pessoal",
       "comentario": "Foco no interesse público, vedação à promoção pessoal."
     },
+
     {
       "id": 29,
       "pergunta": "Aplicabilidade dos DH no sistema prisional implica:",
-      "opcoes": { "a": "Suspensão total de direitos", "b": "Respeito às garantias remanescentes e vedação a violações", "c": "Regime militar integral", "d": "Incomunicabilidade obrigatória" },
+      "opcoes": {
+        "a": "Suspensão total de direitos",
+        "b": "Respeito às garantias remanescentes e vedação a violações",
+        "c": "Regime militar integral",
+        "d": "Incomunicabilidade obrigatória"
+      },
       "resposta": "b",
-      "resposta_texto": "Respeito às garantias remanescentes e vedação a violações",
-      "comentario": "Pessoas privadas de liberdade mantêm direitos fundamentais não incompatíveis."
+      "comentario": "Direitos fundamentais remanescentes devem ser preservados."
     },
+
     {
       "id": 30,
       "pergunta": "Art. 144 prevê órgãos como:",
-      "opcoes": { "a": "MP e Defensoria", "b": "Polícias Federal, Rodoviária, Ferroviária, Civis, Militares, Corpo de Bombeiros", "c": "Justiça Eleitoral", "d": "Receita Federal" },
+      "opcoes": {
+        "a": "MP e Defensoria",
+        "b": "Polícias Federal, Rodoviária, Ferroviária, Civis, Militares, Corpo de Bombeiros",
+        "c": "Justiça Eleitoral",
+        "d": "Receita Federal"
+      },
       "resposta": "b",
-      "resposta_texto": "Polícias Federal, Rodoviária, Ferroviária, Civis, Militares, Corpo de Bombeiros",
-      "comentario": "Rol de órgãos da segurança pública."
+      "comentario": "Rol de órgãos constitucionais da segurança pública."
     },
+
     {
       "id": 31,
       "pergunta": "Anulação de ato administrativo ocorre quando:",
-      "opcoes": { "a": "Ato válido e conveniente", "b": "Ato é ilegal", "c": "Ato é perfeito", "d": "Há interesse político" },
+      "opcoes": {
+        "a": "Ato válido e conveniente",
+        "b": "Ato é ilegal",
+        "c": "Ato é perfeito",
+        "d": "Há interesse político"
+      },
       "resposta": "b",
-      "resposta_texto": "Ato é ilegal",
-      "comentario": "A anulação é feita quando há vício de legalidade; já a revogação ocorre por conveniência e oportunidade."
+      "comentario": "A anulação é feita quando há vício de legalidade."
     },
+
     {
       "id": 32,
       "pergunta": "Teoria do crime envolve:",
-      "opcoes": { "a": "Fato típico, ilicitude e culpabilidade", "b": "Ilicitude e pena apenas", "c": "Tipicidade e sanção apenas", "d": "Culpabilidade e execução" },
+      "opcoes": {
+        "a": "Fato típico, ilicitude e culpabilidade",
+        "b": "Ilicitude e pena apenas",
+        "c": "Tipicidade e sanção apenas",
+        "d": "Culpabilidade e execução"
+      },
       "resposta": "a",
-      "resposta_texto": "Fato típico, ilicitude e culpabilidade",
-      "comentario": "A teoria tripartida do crime considera esses três elementos essenciais."
+      "comentario": "Teoria tripartida."
     },
+
     {
       "id": 60,
       "pergunta": "Tipicidade penal significa:",
-      "opcoes": { "a": "Adequação da conduta à norma penal incriminadora", "b": "Culpabilidade do agente", "c": "Ilicitude da ação", "d": "Sanção aplicada" },
+      "opcoes": {
+        "a": "Adequação da conduta à norma penal incriminadora",
+        "b": "Culpabilidade do agente",
+        "c": "Ilicitude da ação",
+        "d": "Sanção aplicada"
+      },
       "resposta": "a",
-      "resposta_texto": "Adequação da conduta à norma penal incriminadora",
-      "comentario": "Tipicidade é a subsunção da conduta ao tipo penal previsto em lei."
+      "comentario": "Tipicidade é a subsunção da conduta ao tipo penal."
     }
   ]
 }
