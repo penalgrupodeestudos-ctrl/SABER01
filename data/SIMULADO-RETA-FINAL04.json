@@ -1,73 +1,26 @@
 {
-  "titulo": "Simulado Especial Polícia Penal ES - 25/10/2025 (versão JSON com gabarito e comentários)",
-  "fonte": "Simulado Amostra PPES 2025 - Policial Penal",
+  "titulo": "Simulado Especial Polícia Penal ES - IDCAP - 2025 (com gabarito e dicas para aprovação)",
+  "fonte": "Conteúdo Programático Edital 2025, Banca IDCAP, Questões inéditas e adaptadas",
   "questoes": [
-    {
-      "id": 1,
-      "pergunta": "A idade cronológica de uma pessoa nem sempre coincide com a sua idade biológica. Sintaticamente, é correto afirmar que, nesta frase:",
-      "opcoes": {
-        "a": "'biológica' é o termo que complementa o objeto direto, considerado adjunto adnominal.",
-        "b": "'a idade cronológica de uma pessoa' refere-se ao sujeito simples.",
-        "c": "'coincide' comporta-se como um verbo intransitivo, não apresentando complementos.",
-        "d": "o núcleo do sujeito é o termo 'pessoa', pois trata-se do vocábulo mais importante.",
-        "e": "o predicado verbo-nominal é composto pela expressão 'coincide com a sua idade biológica'."
-      },
-      "resposta_correta": "b",
-      "comentario": "O sujeito simples da frase é 'a idade cronológica de uma pessoa'. O núcleo do sujeito é 'idade'. A alternativa b exige atenção à hierarquia sintática, macete: não confunda termo preposicionado do sujeito com núcleo."
-    },
-    {
-      "id": 2,
-      "pergunta": "Descobrimos 'que um grupo de diversas proteínas liberadas pelas células zumbis funciona como biomarcadores da senescência' e prevê resultados relacionados à saúde em adultos mais velhos. A expressão destacada trata-se de uma oração:",
-      "opcoes": {
-        "a": "Subordinada substantiva.",
-        "b": "Oração principal.",
-        "c": "Adjetiva restritiva.",
-        "d": "Coordenada assindética.",
-        "e": "Coordenada sindética."
-      },
-      "resposta_correta": "a",
-      "comentario": "A oração funciona como objeto direto do verbo 'descobrimos', ou seja, é subordinada substantiva objetiva direta. Dica: oração introduzida por 'que' e que completa o sentido do verbo principal = oração subordinada substantiva."
-    },
-    {
-      "id": 3,
-      "pergunta": "Com a idade, elas passam por um processo de senescência, um estado em que não 'crescem' e não se dividem, no entanto resistem em morrer e 'liberam' uma combinação prejudicial de sinais biológicos nocivos. Os verbos destacados, nesta frase, comportam-se, respectivamente, como verbos:",
-      "opcoes": {
-        "a": "Transitivo direto – bitransitivo.",
-        "b": "Intransitivo – transitivo direto.",
-        "c": "Transitivo direto – transitivo direto.",
-        "d": "Bitransitivo - intransitivo.",
-        "e": "Transitivo indireto – bitransitivo."
-      },
-      "resposta_correta": "b",
-      "comentario": "'Crescer' é intransitivo (não precisa de complemento), enquanto 'liberar' exige complemento direto ('liberam uma combinação'). Macete: se o verbo pede complemento sem preposição, é transitivo direto."
-    },
-    {
-      "id": 4,
-      "pergunta": "Existe erro de concordância verbal no seguinte período:",
-      "opcoes": {
-        "a": "Havia muitas mulheres na festa.",
-        "b": "Existia provas contra eles.",
-        "c": "Trata-se de doenças contagiosas.",
-        "d": "Vendem-se apartamentos na cidade.",
-        "e": "Procura-se cão desaparecido."
-      },
-      "resposta_correta": "b",
-      "comentario": "'Existia provas' está errado; o correto é 'Existiam provas' pois o verbo existir concorda com o sujeito (provas - plural). Dica: verbo 'existir' e 'haver' têm regras diferentes de concordância."
-    },
-    {
-      "id": 5,
-      "pergunta": "Assinale a única alternativa que está de acordo com as normas de regência da língua culta:",
-      "opcoes": {
-        "a": "Notifiquei-lhe de que não pretendia substituí-lo na liderança do batalhão, porque apesar de ter sempre servido a polícia, jamais aspirei a tal posição.",
-        "b": "Notifiquei-lhe de que não pretendia substituir-lhe na liderança do batalhão, porque apesar de ter sempre servido à polícia, jamais aspirei a tal posição.",
-        "c": "Notifiquei-o de que não pretendia substituir-lhe na liderança do batalhão, porque apesar de ter sempre servido à polícia, jamais aspirei tal posição.",
-        "d": "Notifiquei-o de que não pretendia substituí-lo na liderança do batalhão, porque apesar de ter sempre servido a polícia, jamais aspirei tal posição.",
-        "e": "Notifiquei-o de que não pretendia substituí-lo na liderança do batalhão, porque apesar de ter sempre servido à polícia, jamais aspirei a tal posição."
-      },
-      "resposta_correta": "e",
-      "comentario": "Correta: 'Notifiquei-o de que...' (quem notifica, notifica alguém de algo), 'servir à polícia' (crase), 'aspirar a tal posição' (aspirar algo = desejar, sem preposição; aspirar a algo = respirar, com preposição). Macete: atenção ao verbo e exigência de preposição."
-    }
-    // Continue o mesmo padrão para o restante das questões do simulado.
+    {"id":1,"pergunta":"O Novo Acordo Ortográfico determina que o trema foi abolido em qual palavra?","opcoes":{"a":"tranqüilo","b":"frequência","c":"conseqüência","d":"lingüiça","e":"seqüência"},"resposta_correta":"b","comentario":"O trema foi abolido nas demais; 'frequência' está correta. Questão clássica ortográfica IDCAP."},
+    {"id":2,"pergunta":"Sobre tipologia textual, um texto dissertativo é marcado por:","opcoes":{"a":"Narração de fatos","b":"Argumentação","c":"Descrição de ambientes","d":"Instruções","e":"Diálogo"},"resposta_correta":"b","comentario":"Dissertação = argumentação. Saiba diferenciar tipos textuais."},
+    {"id":3,"pergunta":"O plural de 'cidadão' está correto em:","opcoes":{"a":"Cidadoens","b":"Cidadaos","c":"Cidadãos","d":"Cidadães","e":"Cidadones"},"resposta_correta":"c","comentario":"Atenção aos plurais irregulares. Item frequente em provas!"},
+    {"id":4,"pergunta":"Está correta a regência nominal em:","opcoes":{"a":"Acessível ao público.","b":"Acessível de público.","c":"Acessível para público.","d":"Acessível pelo público.","e":"Acessível com público."},"resposta_correta":"a","comentario":"Regência: acessível a alguém. Macete pra não errar regra de preposição."},
+    {"id":5,"pergunta":"O uso da vírgula é obrigatório em:","opcoes":{"a":"Apesar de tudo, seguiu em frente.","b":"Ela gosta de estudar e, trabalhar.","c":"Choveu porque houve frente fria.","d":"Todos quiseram vir; ainda assim, ninguém veio.","e":"Comprei pão queijo."},"resposta_correta":"a","comentario":"Vírgula obrigatória em orações subordinadas desplazadas."},
+    {"id":6,"pergunta":"Resolva a equação: 2x + 7 = 15","opcoes":{"a":"3","b":"4","c":"5","d":"6","e":"7"},"resposta_correta":"b","comentario":"2x=8 => x=4. Resolva equações direto no rascunho."},
+    {"id":7,"pergunta":"Média aritmética de 10, 20 e 30:","opcoes":{"a":"15","b":"20","c":"25","d":"30","e":"60"},"resposta_correta":"b","comentario":"Soma tudo e divide por 3. Calcule sempre média completa!"},
+    {"id":8,"pergunta":"O artigo 144 da Constituição trata de:","opcoes":{"a":"Direitos sociais.","b":"Segurança pública.","c":"Educação.","d":"Saúde.","e":"Meio ambiente."},"resposta_correta":"b","comentario":"Art. 144: tema central concursos policiais."},
+    {"id":9,"pergunta":"Responsabilidade penal por crime ambiental caracteriza-se por:","opcoes":{"a":"Apenas punição administrativa.","b":"Apenas penal.","c":"Administração e penal.","d":"Civil, administrativa e penal.","e":"Só isenção de punição."},"resposta_correta":"d","comentario":"Crimes ambientais geram três tipos de responsabilidade."},
+    {"id":10,"pergunta":"Direitos Humanos: é princípio fundamental:","opcoes":{"a":"Dignidade da pessoa humana.","b":"Liberdade de imprensa.","c":"Livre iniciativa.","d":"Isonomia tributária.","e":"Indústria nacional."},"resposta_correta":"a","comentario":"A dignidade é a base dos Direitos Humanos."},
+    {"id":11,"pergunta":"O plural de 'pão' é:","opcoes":{"a":"Pães","b":"Pãos","c":"Pones","d":"Pãeses","e":"Paos"},"resposta_correta":"a","comentario":"Atenção aos plurais irregulares do português!"},
+    {"id":12,"pergunta":"Qual termo é exemplo de interjeição?","opcoes":{"a":"Oh!","b":"Velho","c":"Simples","d":"Rápido","e":"Belo"},"resposta_correta":"a","comentario":"Interjeição exprime emoção ou reação espontânea."},
+    {"id":13,"pergunta":"O Raciocínio Lógico envolve qual conceito?","opcoes":{"a":"Ordem total","b":"Sequência","c":"Tendência","d":"Proposição","e":"Probabilidade"},"resposta_correta":"d","comentario":"Proposição lógica está em 90% das provas IDCAP."},
+    {"id":14,"pergunta":"O resultado da expressão 4x-6=10 é:","opcoes":{"a":"4","b":"5","c":"3","d":"2","e":"8"},"resposta_correta":"a","comentario":"4x=16, x=4. Resolva passo a passo."},
+    {"id":15,"pergunta":"No Excel, para somar células A2 e B2, utilize:","opcoes":{"a":"=A2+B2","b":"=SUM(A2:B2)","c":"=SOMA(A2,B2)","d":"A2+B2","e":"A2 x B2"},"resposta_correta":"a","comentario":"Excel exige o '=' antes da soma."},
+    {"id":16,"pergunta":"O conceito de URL se refere a:","opcoes":{"a":"Endereço de página web","b":"Senha de acesso","c":"Usuário do sistema","d":"Segurança","e":"Impressora"},"resposta_correta":"a","comentario":"URL = endereço virtual do site."},
+    {"id":17,"pergunta":"A vírgula é usada corretamente em:","opcoes":{"a":"Contudo, seguiu estudando.","b":"Ela gosta de estudar e, brincar.","c":"Seguiu porque quis.","d":"Cheguei logo.","e":"Vamos estudar amanhã"},"resposta_correta":"a","comentario":"Após conectivo adversativo, sempre use vírgula."},
+    {"id":18,"pergunta":"Em um processo administrativo, o princípio da ampla defesa garante:","opcoes":{"a":"Direito de contraditório","b":"Liberdade total","c":"Sigilo","d":"Responsabilidade","e":"Autonomia"},"resposta_correta":"a","comentario":"Ampla defesa = direito de contestar acusações."},
+    {"id":19,"pergunta":"Qual é o princípio constitucional que exige que o servidor público atue sem favoritismos?","opcoes":{"a":"Impessoalidade","b":"Publicidade","c":"Legalidade","d":"Moralidade","e":"Eficiência"},"resposta_correta":"a","comentario":"Impessoalidade: não pode tratar com preferência pessoal."},
+    {"id":20,"pergunta":"O artigo central para crimes contra a administração pública no Código Penal é:","opcoes":{"a":"Art. 312","b":"Art. 335","c":"Art. 299","d":"Art. 44","e":"Art. 121"},"resposta_correta":"a","comentario":"Peculato: art. 312 do CP é recorrente em prova IDCAP."}
   ]
 }
-
