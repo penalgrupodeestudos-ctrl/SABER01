@@ -1,0 +1,578 @@
+[
+  {
+    "id": 25,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Quanto à colocação pronominal, assinale a alternativa CORRETA:",
+    "alternativas": {
+      "A": "Não se lembrava do ocorrido.",
+      "B": "Lembrava-se de tudo claramente.",
+      "C": "Se lembrava dos detalhes importantes.",
+      "D": "Lembrou-se que havia esquecido o documento.",
+      "E": "Todos se lembraram do acontecimento."
+    },
+    "resposta_correta": "A",
+    "comentario": "Com advérbio negativo, o pronome deve vir antes do verbo (próclise obrigatória).",
+    "dicas": "Advérbio negativo = próclise obrigatória",
+    "machetes": "NÃO + verbo = pronome ANTES"
+  },
+  {
+    "id": 26,
+    "disciplina": "Raciocínio Lógico-Matemático", 
+    "questao": "Se 3 agentes revistam 15 celas em 2 horas, quanto tempo 5 agentes levariam para revistar 30 celas?",
+    "alternativas": {
+      "A": "1,5 horas",
+      "B": "2 horas",
+      "C": "2,4 horas",
+      "D": "3 horas",
+      "E": "4 horas"
+    },
+    "resposta_correta": "C",
+    "comentario": "Regra de três composta: 3/5 × 15/30 = 2/x → 45/150 = 2/x → x = 300/45 = 6,66 horas = 2,4h",
+    "dicas": "Regra de três composta: mantenha proporções diretas/inversas",
+    "machetes": "Agentes inverso, celas direto"
+  },
+  {
+    "id": 27,
+    "disciplina": "Informática",
+    "questao": "Qual função do Excel retorna o maior valor de um intervalo?",
+    "alternativas": {
+      "A": "MAXIMO",
+      "B": "MAIOR",
+      "C": "MÁXIMO",
+      "D": "MAIOR.VALOR",
+      "E": "TOP"
+    },
+    "resposta_correta": "C",
+    "comentario": "A função MÁXIMO (MAX em inglês) retorna o maior valor do intervalo.",
+    "dicas": "MÁXIMO = maior valor; MÍNIMO = menor valor",
+    "machetes": "MÁXIMO = maior"
+  },
+  {
+    "id": 28,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Qual princípio exige divulgação oficial dos atos administrativos?",
+    "alternativas": {
+      "A": "Legalidade",
+      "B": "Impessoalidade", 
+      "C": "Moralidade",
+      "D": "Publicidade",
+      "E": "Eficiência"
+    },
+    "resposta_correta": "D",
+    "comentario": "Publicidade = divulgação oficial para conhecimento público e início dos efeitos.",
+    "dicas": "Publicidade = divulgação oficial",
+    "machetes": "Divulgar = Publicidade"
+  },
+  {
+    "id": 29,
+    "disciplina": "Direitos Humanos",
+    "questao": "Qual princípio veda submissão a experimentos sem consentimento?",
+    "alternativas": {
+      "A": "Dignidade humana",
+      "B": "Inviolabilidade física",
+      "C": "Legalidade",
+      "D": "Liberdade de consciência",
+      "E": "Igualdade"
+    },
+    "resposta_correta": "A",
+    "comentario": "Dignidade humana protege contra tratamentos desumanos e experimentos não consentidos.",
+    "dicas": "Dignidade = base de todos os direitos humanos",
+    "machetes": "Experimentação = dignidade"
+  },
+  {
+    "id": 30,
+    "disciplina": "Direito Constitucional",
+    "questao": "Qual direito fundamental é cláusula pétrea?",
+    "alternativas": {
+      "A": "Direito de propriedade",
+      "B": "Direito de herança", 
+      "C": "Direito de reunião",
+      "D": "Direito de votar",
+      "E": "Direito à vida"
+    },
+    "resposta_correta": "E",
+    "comentario": "Direito à vida é cláusula pétrea, não pode ser abolido por emenda constitucional.",
+    "dicas": "Cláusulas pétreas: forma federativa, voto direto, separação poderes, direitos fundamentais",
+    "machetes": "Vida = cláusula pétrea"
+  },
+  {
+    "id": 31,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Assinale a alternativa com ERRO de pontuação:",
+    "alternativas": {
+      "A": "O preso, que tentou fugir, foi transferido.",
+      "B": "O agente disse, que não havia testemunhas.",
+      "C": "Entretanto, o caso permanece em investigação.",
+      "D": "O diretor, embora novo, mostrou competência.",
+      "E": "Chegando ao local, a equipe isolou a área."
+    },
+    "resposta_correta": "B",
+    "comentario": "Não se usa vírgula entre sujeito e verbo ou verbo e complemento. 'O agente disse que não havia testemunhas' é a forma correta.",
+    "dicas": "Vírgula não separa sujeito do verbo nem verbo do objeto.",
+    "machetes": "Sujeito + verbo + objeto = SEM vírgula"
+  },
+  {
+    "id": 32,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Em um presídio com 800 presos, 30% estão no regime fechado. Quantos presos NÃO estão no regime fechado?",
+    "alternativas": {
+      "A": "240",
+      "B": "360",
+      "C": "480",
+      "D": "560",
+      "E": "640"
+    },
+    "resposta_correta": "D",
+    "comentario": "30% de 800 = 240 no fechado. Não fechado: 800 - 240 = 560",
+    "dicas": "100% - 30% = 70% não estão no fechado. 70% de 800 = 560",
+    "machetes": "Porcentagem = parte/total × 100"
+  },
+  {
+    "id": 33,
+    "disciplina": "Informática",
+    "questao": "Qual função do Excel conta células NÃO vazias em um intervalo?",
+    "alternativas": {
+      "A": "CONTAR",
+      "B": "CONT.VALORES",
+      "C": "CONT.SE",
+      "D": "CONTAR.VAZIAS",
+      "E": "TOTAL"
+    },
+    "resposta_correta": "B",
+    "comentario": "CONT.VALORES conta células não vazias; CONTAR conta apenas células com números.",
+    "dicas": "CONT.VALORES = não vazias; CONTAR = apenas números; CONT.SE = com condição",
+    "machetes": "Não vazias = CONT.VALORES"
+  },
+  {
+    "id": 34,
+    "disciplina": "Atualidades",
+    "questao": "Qual iniciativa do ES ganhou destaque nacional em segurança pública em 2024?",
+    "alternativas": {
+      "A": "Polícia comunitária",
+      "B": "Integração de inteligência",
+      "C": "Política de armamento",
+      "D": "Reforma dos presídios",
+      "E": "Sistema de monitoramento"
+    },
+    "resposta_correta": "B",
+    "comentario": "O ES implementou sistema integrado de inteligência entre as polícias, modelo copiado por outros estados.",
+    "dicas": "Foco em integração e inteligência como tendência nacional.",
+    "machetes": "ES 2024 = integração inteligência"
+  },
+  {
+    "id": 35,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Qual situação caracteriza CONFLITO DE INTERESSES?",
+    "alternativas": {
+      "A": "Atender parente no serviço",
+      "B": "Decisão que beneficia empresa do cunhado",
+      "C": "Receber presente de colega",
+      "D": "Usar veículo oficial para lazer",
+      "E": "Fazer hora extra voluntária"
+    },
+    "resposta_correta": "B",
+    "comentario": "Conflito de interesses ocorre quando decisão profissional pode beneficiar interesse pessoal.",
+    "dicas": "Conflito interesses = decisão profissional vs interesse pessoal",
+    "machetes": "Decisão + benefício pessoal = conflito"
+  },
+  {
+    "id": 36,
+    "disciplina": "Direitos Humanos",
+    "questao": "Qual direito é VIOLADO com revista íntima vexatória?",
+    "alternativas": {
+      "A": "Liberdade de locomoção",
+      "B": "Inviolabilidade da intimidade",
+      "C": "Direito de propriedade",
+      "D": "Liberdade de expressão",
+      "E": "Direito de reunião"
+    },
+    "resposta_correta": "B",
+    "comentario": "Revista íntima vexatória viola a inviolabilidade da intimidade e dignidade da pessoa humana.",
+    "dicas": "Revista deve respeitar dignidade e ser proporcional.",
+    "machetes": "Revista vexatória = dignidade"
+  },
+  {
+    "id": 37,
+    "disciplina": "Direito Constitucional",
+    "questao": "Qual NÃO é competência do Ministério Público?",
+    "alternativas": {
+      "A": "Ação civil pública",
+      "B": "Controle externo da atividade policial",
+      "C": "Defesa de acusados",
+      "D": "Ação penal pública",
+      "E": "Fiscalização da execução penal"
+    },
+    "resposta_correta": "C",
+    "comentario": "Defesa de acusados é atribuição da Defensoria Pública, não do MP.",
+    "dicas": "MP = acusação; Defensoria = defesa",
+    "machetes": "MP ≠ defesa"
+  },
+  {
+    "id": 38,
+    "disciplina": "Direito Administrativo",
+    "questao": "Qual característica NÃO pertence aos atos administrativos?",
+    "alternativas": {
+      "A": "Presunção de legitimidade",
+      "B": "Autoexecutoriedade",
+      "C": "Imperatividade",
+      "D": "Discricionariedade",
+      "E": "Irretratabilidade"
+    },
+    "resposta_correta": "E",
+    "comentario": "Atos administrativos podem ser revogados ou anulados, não são irretratáveis.",
+    "dicas": "Atos administrativos: presumidos legítimos, autoexecutórios, imperativos",
+    "machetes": "Atos ≠ irretratáveis"
+  },
+  {
+    "id": 39,
+    "disciplina": "Direito Penal",
+    "questao": "Qual elemento NÃO exclui a culpabilidade?",
+    "alternativas": {
+      "A": "Cozimento irresistível",
+      "B": "Embriaguez acidental",
+      "C": "Legítima defesa",
+      "D": "Doença mental",
+      "E": "Menoridade"
+    },
+    "resposta_correta": "C",
+    "comentario": "Legítima defesa exclui ilicitude, não culpabilidade.",
+    "dicas": "Excludentes culpabilidade: coação, embriaguez, doença mental, menoridade",
+    "machetes": "Culpabilidade ≠ ilicitude"
+  },
+  {
+    "id": 40,
+    "disciplina": "Direito Processual Penal",
+    "questao": "Qual princípio garante ao acusado o direito ao silêncio?",
+    "alternativas": {
+      "A": "Contraditório",
+      "B": "Ampla defesa",
+      "C": "Presunção de inocência",
+      "D": "Nemo tenetur se detegere",
+      "E": "Publicidade"
+    },
+    "resposta_correta": "D",
+    "comentario": "Nemo tenetur se detegere = ninguém é obrigado a produzir prova contra si mesmo.",
+    "dicas": "Direito ao silêncio = nemo tenetur se detegere",
+    "machetes": "Silêncio = nemo tenetur"
+  },
+  {
+    "id": 41,
+    "disciplina": "Legislação Penal Especial",
+    "questao": "Segundo a LEP, qual é o PRAZO MÁXIMO para o preso provisório?",
+    "alternativas": {
+      "A": "60 dias",
+      "B": "81 dias",
+      "C": "90 dias",
+      "D": "120 dias",
+      "E": "180 dias"
+    },
+    "resposta_correta": "B",
+    "comentario": "Preso provisório: 81 dias de custódia, conforme entendimento do STF.",
+    "dicas": "Preso provisório = 81 dias máximo",
+    "machetes": "Provisório = 81 dias"
+  },
+  {
+    "id": 42,
+    "disciplina": "Legislação Institucional",
+    "questao": "Qual NÃO é atribuição do Policial Penal?",
+    "alternativas": {
+      "A": "Custódia de presos",
+      "B": "Revista pessoal",
+      "C": "Investigação criminal",
+      "D": "Escolta de presos",
+      "E": "Controle de visitas"
+    },
+    "resposta_correta": "C",
+    "comentario": "Investigação criminal é atribuição da Polícia Civil, não da Penal.",
+    "dicas": "PPES = custódia, vigilância, segurança; PC = investigação",
+    "machetes": "PPES ≠ investigação"
+  },
+  {
+    "id": 43,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Qual alternativa apresenta linguagem formal adequada ao serviço público?",
+    "alternativas": {
+      "A": "Vou verificar a parada e te aviso.",
+      "B": "Solicito sejam adotadas as providências cabíveis.",
+      "C": "Manda logo isso pra frente.",
+      "D": "Tá tudo certo, pode deixar.",
+      "E": "Vamos resolver essa bagunça."
+    },
+    "resposta_correta": "B",
+    "comentario": "A linguagem formal exige vocabulário técnico e construção impessoal.",
+    "dicas": "Linguagem formal: impessoal, técnico, padrão culto",
+    "machetes": "Formal = impessoal + culto"
+  },
+  {
+    "id": 44,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Qual a média de idade de 5 presos com idades: 25, 30, 35, 40, 45 anos?",
+    "alternativas": {
+      "A": "30",
+      "B": "33",
+      "C": "35",
+      "D": "37",
+      "E": "40"
+    },
+    "resposta_correta": "C",
+    "comentario": "Soma: 25+30+35+40+45 = 175. Média: 175/5 = 35",
+    "dicas": "Média = soma dos valores / quantidade",
+    "machetes": "Média = total / n"
+  },
+  {
+    "id": 45,
+    "disciplina": "Informática",
+    "questao": "Qual NÃO é um tipo de dado no Excel?",
+    "alternativas": {
+      "A": "Texto",
+      "B": "Número",
+      "C": "Data",
+      "D": "Fórmula",
+      "E": "Vídeo"
+    },
+    "resposta_correta": "E",
+    "comentario": "Excel não armazena vídeos como tipo de dado nativo.",
+    "dicas": "Tipos dados Excel: texto, número, data, fórmula, booleano",
+    "machetes": "Excel ≠ multimídia"
+  },
+  {
+    "id": 46,
+    "disciplina": "Atualidades",
+    "questao": "Qual tema dominou a reunião do G20 sobre segurança em 2024?",
+    "alternativas": {
+      "A": "Terrorismo internacional",
+      "B": "Crimes cibernéticos",
+      "C": "Tráfico de armas",
+      "D": "Migração ilegal",
+      "E": "Pandemia"
+    },
+    "resposta_correta": "B",
+    "comentario": "Crimes cibernéticos foram o foco principal do G20 em segurança.",
+    "dicas": "Crimes cibernéticos = tendência global em segurança",
+    "machetes": "G20 2024 = crimes cibernéticos"
+  },
+  {
+    "id": 47,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Qual situação caracteria NEPOTISMO?",
+    "alternativas": {
+      "A": "Promoção por merecimento",
+      "B": "Contratação de parente",
+      "C": "Ascensão funcional",
+      "D": "Progressão por tempo",
+      "E": "Recondução ao cargo"
+    },
+    "resposta_correta": "B",
+    "comentario": "Nepotismo = favorecimento de parentes em concursos e nomeações.",
+    "dicas": "Nepotismo = parentes em cargos públicos",
+    "machetes": "Parentes = nepotismo"
+  },
+  {
+    "id": 48,
+    "disciplina": "Direitos Humanos",
+    "questao": "Qual documento estabelece direitos específicos para crianças presas?",
+    "alternativas": {
+      "A": "Estatuto da Criança",
+      "B": "Regras de Beijing",
+      "C": "Convenção 182 OIT",
+      "D": "Protocolo de Maputo",
+      "E": "Declaração de Dacar"
+    },
+    "resposta_correta": "B",
+    "comentario": "Regras de Beijing = regras mínimas para justiça juvenil.",
+    "dicas": "Crianças presas = Regras de Beijing",
+    "machetes": "Crianças = Beijing"
+  },
+  {
+    "id": 49,
+    "disciplina": "Direito Constitucional",
+    "questao": "Qual NÃO é direito social previsto na CF?",
+    "alternativas": {
+      "A": "Educação",
+      "B": "Saúde",
+      "C": "Lazer",
+      "D": "Transporte",
+      "E": "Segurança"
+    },
+    "resposta_correta": "E",
+    "comentario": "Segurança é direito fundamental, não social. Art. 6º: educação, saúde, trabalho, lazer, segurança, previdência, proteção maternidade/infância.",
+    "dicas": "Direitos sociais: art. 6º da CF",
+    "machetes": "Sociais = art. 6º"
+  },
+  {
+    "id": 50,
+    "disciplina": "Direito Administrativo",
+    "questao": "Qual NÃO é espécie de licitação?",
+    "alternativas": {
+      "A": "Concorrência",
+      "B": "Tomada de preços",
+      "C": "Convite",
+      "D": "Leilão",
+      "E": "Adjudicação"
+    },
+    "resposta_correta": "E",
+    "comentario": "Adjudicação é fase da licitação, não modalidade. Modalidades: concorrência, tomada preços, convite, concurso, leilão.",
+    "dicas": "Modalidades licitação: concorrência, tomada preços, convite, concurso, leilão",
+    "machetes": "Licitação = 5 modalidades"
+  },
+  {
+    "id": 51,
+    "disciplina": "Direito Penal",
+    "questao": "Qual crime é HEDIONDO?",
+    "alternativas": {
+      "A": "Furto simples",
+      "B": "Lesão corporal",
+      "C": "Estelionato",
+      "D": "Latrocínio",
+      "E": "Calúnia"
+    },
+    "resposta_correta": "D",
+    "comentario": "Latrocínio (roubo seguido de morte) é crime hediondo.",
+    "dicas": "Hediondos: latrocínio, extorsão, tráfico, tortura, terrorismo",
+    "machetes": "Hediondo = latrocínio"
+  },
+  {
+    "id": 52,
+    "disciplina": "Direito Processual Penal",
+    "questao": "Qual NÃO é requisito da prisão preventiva?",
+    "alternativas": {
+      "A": "Fundamento legal",
+      "B": "Motivação idônea",
+      "C": "Prova da materialidade",
+      "D": "Indício de autoria",
+      "E": "Certeza da condenação"
+    },
+    "resposta_correta": "E",
+    "comentario": "Preventiva não exige certeza de condenação, apenas indícios de autoria e materialidade.",
+    "dicas": "Preventiva: materialidade + indícios autoria + fundamentação",
+    "machetes": "Preventiva ≠ certeza condenação"
+  },
+  {
+    "id": 53,
+    "disciplina": "Legislação Penal Especial",
+    "questao": "Qual pena a Lei de Drogas prevê para PORTE de drogas?",
+    "alternativas": {
+      "A": "1 a 3 anos",
+      "B": "2 a 5 anos",
+      "C": "3 a 6 anos",
+      "D": "4 a 8 anos",
+      "E": "5 a 10 anos"
+    },
+    "resposta_correta": "E",
+    "comentario": "Porte de drogas: 5 a 15 anos. Para usuário, as penas são diferentes.",
+    "dicas": "Porte = tráfico = 5 a 15 anos; Usuário = medidas educativas",
+    "machetes": "Porte = tráfico"
+  },
+  {
+    "id": 54,
+    "disciplina": "Legislação Institucional",
+    "questao": "Qual lei estabelece o RJU dos servidores do ES?",
+    "alternativas": {
+      "A": "LC 46/1994",
+      "B": "Lei 1.059/2023",
+      "C": "Lei 1.061/2023",
+      "D": "Lei 7.210/1984",
+      "E": "Lei 8.429/1992"
+    },
+    "resposta_correta": "A",
+    "comentario": "LC 46/1994 = Regime Jurídico Único dos servidores estaduais.",
+    "dicas": "RJU ES = LC 46/1994",
+    "machetes": "RJU = LC 46/1994"
+  },
+  {
+    "id": 55,
+    "disciplina": "Língua Portuguesa",
+    "questao": "Qual alternativa apresenta sentido DENOTATIVO?",
+    "alternativas": {
+      "A": "Ele tem coração de pedra.",
+      "B": "A justiça é cega.",
+      "C": "O sol beijou a terra.",
+      "D": "O preso está na cela 5.",
+      "E": "O tempo voa."
+    },
+    "resposta_correta": "D",
+    "comentario": "Sentido denotativo = literal, objetivo. Demais alternativas usam linguagem figurada.",
+    "dicas": "Denotativo = literal; Conotativo = figurado",
+    "machetes": "Denotativo = literal"
+  },
+  {
+    "id": 56,
+    "disciplina": "Raciocínio Lógico-Matemático",
+    "questao": "Se 60% dos 500 presos são reincidentes, quantos são primários?",
+    "alternativas": {
+      "A": "150",
+      "B": "200",
+      "C": "250",
+      "D": "300",
+      "E": "350"
+    },
+    "resposta_correta": "B",
+    "comentario": "60% reincidentes = 300. Primários: 500 - 300 = 200",
+    "dicas": "100% - 60% = 40% primários. 40% de 500 = 200",
+    "machetes": "Primários = total - reincidentes"
+  },
+  {
+    "id": 57,
+    "disciplina": "Informática",
+    "questao": "Qual atalho ABRE o menu de pesquisa no Windows?",
+    "alternativas": {
+      "A": "Ctrl + P",
+      "B": "Ctrl + F",
+      "C": "Ctrl + B",
+      "D": "Ctrl + S",
+      "E": "Ctrl + A"
+    },
+    "resposta_correta": "B",
+    "comentario": "Ctrl + F abre pesquisa na maioria dos programas.",
+    "dicas": "Ctrl+F = encontrar/find",
+    "machetes": "Pesquisar = Ctrl+F"
+  },
+  {
+    "id": 58,
+    "disciplina": "Atualidades",
+    "questao": "Qual política nacional impactou o sistema prisional em 2024?",
+    "alternativas": {
+      "A": "Redução da maioridade",
+      "B": "Descriminalização drogas",
+      "C": "Expansão penas alternativas",
+      "D": "Fim da progressão",
+      "E": "Prisão perpétua"
+    },
+    "resposta_correta": "C",
+    "comentario": "Expansão de penas alternativas para desafogar o sistema prisional.",
+    "dicas": "Penas alternativas = tendência para reduzir superlotação",
+    "machetes": "2024 = penas alternativas"
+  },
+  {
+    "id": 59,
+    "disciplina": "Ética no Serviço Público",
+    "questao": "Qual princípio exige atuação dentro da lei?",
+    "alternativas": {
+      "A": "Legalidade",
+      "B": "Impessoalidade",
+      "C": "Moralidade",
+      "D": "Publicidade",
+      "E": "Eficiência"
+    },
+    "resposta_correta": "A",
+    "comentario": "Legalidade = agente público só faz o que a lei permite.",
+    "dicas": "Legalidade = só o que a lei permite",
+    "machetes": "Dentro da lei = Legalidade"
+  },
+  {
+    "id": 60,
+    "disciplina": "Direitos Humanos",
+    "questao": "Qual órgão fiscaliza direitos humanos no sistema prisional brasileiro?",
+    "alternativas": {
+      "A": "Conselho Nacional de Justiça",
+      "B": "Ministério Público",
+      "C": "Conselho Penitenciário",
+      "D": "Ouvidoria Geral",
+      "E": "Comissão de Direitos Humanos"
+    },
+    "resposta_correta": "B",
+    "comentario": "MP é fiscal da lei e dos direitos humanos no sistema prisional.",
+    "dicas": "MP = fiscal dos direitos humanos nos presídios",
+    "machetes": "Fiscal direitos = MP"
+  }
+]
