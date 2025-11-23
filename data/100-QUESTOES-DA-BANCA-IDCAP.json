@@ -1,430 +1,436 @@
 {
   "titulo": "Simulado PPES 2025 (versão JSON com gabarito e comentários)",
-  "fonte": "IDCAP-MODO01",
+  "fonte": "0",
   "questoes": [
     {
       "id": 1,
-      "pergunta": "O conectivo 'embora' em 'Embora estivesse cansado, continuou trabalhando' indica:",
-      "opcoes": {
-        "a": "Adição",
-        "b": "Concessão",
-        "c": "Causa",
-        "d": "Finalidade"
-      },
-      "resposta": "b",
-      "comentario": "‘Embora’ expressa concessão, isto é, uma ideia que se admite apesar de outra."
+      "pergunta": "O conectivo 'contudo' em 'Estava cansado, contudo permaneceu no trabalho' indica:",
+      "opcoes": { "a": "Adição", "b": "Concessão", "c": "Adversidade", "d": "Finalidade" },
+      "resposta_correta": "c",
+      "comentario": "‘Contudo’ expressa oposição ou contraste entre ideias."
     },
     {
       "id": 2,
-      "pergunta": "Assinale a frase com emprego CORRETO do pronome oblíquo átono.",
-      "opcoes": {
-        "a": "Me disseram a verdade.",
-        "b": "Disse-lhe a verdade.",
-        "c": "Entregaram-me o relatório ontem.",
-        "d": "Falou-me que vai embora-se."
-      },
-      "resposta": "c",
-      "comentario": "‘Entregaram-me’ (ênclise) é correto; nas demais, há impropriedades de colocação ou uso."
+      "pergunta": "Assinale a alternativa em que há erro de regência verbal.",
+      "opcoes": { "a": "Assisti ao filme ontem.", "b": "Prefiro café a chá.", "c": "Cheguei à escola cedo.", "d": "Visamos melhores salários." },
+      "resposta_correta": "d",
+      "comentario": "O verbo ‘visar’, no sentido de ‘ter como objetivo’, exige a preposição ‘a’: visamos a melhores salários."
     },
     {
       "id": 3,
-      "pergunta": "Em 'As provas foram aplicadas pelo fiscal', o verbo está na voz:",
-      "opcoes": {
-        "a": "Ativa",
-        "b": "Reflexiva",
-        "c": "Passiva analítica",
-        "d": "Passiva sintética"
-      },
-      "resposta": "c",
-      "comentario": "Locução verbal com particípio + agente da passiva caracteriza voz passiva analítica."
+      "pergunta": "Qual das alternativas apresenta um exemplo de conotação?",
+      "opcoes": { "a": "O coração é um órgão vital.", "b": "Ele tem coração de pedra.", "c": "A Terra gira em torno do Sol.", "d": "O Brasil é um país da América do Sul." },
+      "resposta_correta": "b",
+      "comentario": "Uso figurado da palavra ‘coração’, indicando insensibilidade."
     },
     {
       "id": 4,
-      "pergunta": "Qual opção apresenta uma perífrase?",
-      "opcoes": {
-        "a": "O astro-rei nasceu cedo.",
-        "b": "A casa grande foi pintada.",
-        "c": "O aluno leu o livro.",
-        "d": "Ele correu rápido."
-      },
-      "resposta": "a",
-      "comentario": "‘Astro-rei’ é perífrase para o sol, uma forma indireta de nomear."
+      "pergunta": "Assinale a alternativa em que a palavra destacada é um advérbio.",
+      "opcoes": { "a": "Ele correu rapidamente.", "b": "O livro é interessante.", "c": "A casa é grande.", "d": "O aluno estudioso passou." },
+      "resposta_correta": "a",
+      "comentario": "‘Rapidamente’ modifica o verbo ‘correu’, indicando modo."
     },
     {
       "id": 5,
-      "pergunta": "Assinale o período com pontuação correta.",
-      "opcoes": {
-        "a": "Se chover, não irei; porém se parar, eu vou.",
-        "b": "Se chover não irei; porém, se parar, eu vou.",
-        "c": "Se chover não irei porém, se parar, eu vou.",
-        "d": "Se chover, não irei porém se parar, eu vou."
-      },
-      "resposta": "b",
-      "comentario": "Vírgula após ‘porém’ e separações adequadas das orações condicionais."
+      "pergunta": "Qual é a função da vírgula na frase: 'João, venha aqui imediatamente.'?",
+      "opcoes": { "a": "Separar sujeito do predicado", "b": "Indicar vocativo", "c": "Marcar enumeração", "d": "Indicar oração subordinada" },
+      "resposta_correta": "b",
+      "comentario": "A vírgula separa o vocativo ‘João’ do restante da oração."
     },
-
     {
       "id": 6,
-      "pergunta": "A razão entre 12 e 48 é:",
-      "opcoes": {
-        "a": "1/4",
-        "b": "1/3",
-        "c": "1/2",
-        "d": "2"
-      },
-      "resposta": "a",
-      "comentario": "12:48 = 12/48 = 1/4 após simplificação."
+      "pergunta": "A porcentagem de 20% de 450 é:",
+      "opcoes": { "a": "80", "b": "85", "c": "90", "d": "100" },
+      "resposta_correta": "c",
+      "comentario": "0,2 × 450 = 90."
     },
-
     {
       "id": 7,
-      "pergunta": "Probabilidade de sair número par em um dado honesto:",
-      "opcoes": {
-        "a": "1/6",
-        "b": "1/3",
-        "c": "1/2",
-        "d": "2/3"
-      },
-      "resposta": "c",
-      "comentario": "Resultados pares {2,4,6} totalizam 3 em 6: 3/6 = 1/2."
+      "pergunta": "A média aritmética de 5, 7, 9 e 11 é:",
+      "opcoes": { "a": "7", "b": "8", "c": "9", "d": "10" },
+      "resposta_correta": "b",
+      "comentario": "(5+7+9+11)/4 = 32/4 = 8."
     },
-
     {
       "id": 8,
-      "pergunta": "Permutações de 5 elementos distintos:",
-      "opcoes": {
-        "a": "5",
-        "b": "10",
-        "c": "25",
-        "d": "120"
-      },
-      "resposta": "d",
-      "comentario": "P(5) = 5! = 120 ordens possíveis."
+      "pergunta": "Probabilidade de sair número ímpar em um dado honesto:",
+      "opcoes": { "a": "1/6", "b": "1/3", "c": "1/2", "d": "2/3" },
+      "resposta_correta": "c",
+      "comentario": "Ímpares {1,3,5} = 3/6 = 1/2."
     },
-
     {
       "id": 9,
-      "pergunta": "Arranjos de 6 elementos tomados 2 a 2:",
-      "opcoes": {
-        "a": "12",
-        "b": "15",
-        "c": "30",
-        "d": "720"
-      },
-      "resposta": "c",
-      "comentario": "A(6,2) = 6×5 = 30 (ordem importa)."
+      "pergunta": "Permutações de 4 elementos distintos:",
+      "opcoes": { "a": "12", "b": "24", "c": "16", "d": "20" },
+      "resposta_correta": "b",
+      "comentario": "P(4) = 4! = 24."
     },
-
     {
       "id": 10,
-      "pergunta": "Combinações de 6 elementos tomados 2 a 2:",
-      "opcoes": {
-        "a": "12",
-        "b": "15",
-        "c": "30",
-        "d": "720"
-      },
-      "resposta": "b",
-      "comentario": "C(6,2) = 6×5/2 = 15 (ordem não importa)."
+      "pergunta": "Arranjos de 5 elementos tomados 3 a 3:",
+      "opcoes": { "a": "60", "b": "120", "c": "20", "d": "10" },
+      "resposta_correta": "a",
+      "comentario": "A(5,3) = 5×4×3 = 60."
     },
-
+    
     {
       "id": 11,
-      "pergunta": "Um firewall faz:",
-      "opcoes": {
-        "a": "Backup de disco",
-        "b": "Filtragem de tráfego por regras",
-        "c": "Criptografia de arquivos",
-        "d": "Impressão remota"
-      },
-      "resposta": "b",
-      "comentario": "Controla conexões e pacotes conforme políticas de segurança."
+      "pergunta": "No Word, o recurso 'Rodapé' serve para:",
+      "opcoes": { "a": "Inserir conteúdo no final das páginas", "b": "Aumentar margem superior", "c": "Exportar PDF", "d": "Traduzir textos" },
+      "resposta_correta": "a",
+      "comentario": "Rodapé aparece no fim de todas as páginas."
     },
-
     {
       "id": 12,
-      "pergunta": "Atalho do Word para negrito:",
-      "opcoes": {
-        "a": "Ctrl+U",
-        "b": "Ctrl+I",
-        "c": "Ctrl+B",
-        "d": "Ctrl+N"
-      },
-      "resposta": "c",
-      "comentario": "Negrito: Ctrl+B; sublinhado: Ctrl+U; itálico: Ctrl+I."
+      "pergunta": "No Excel, a função =SOMA(A1:A5) realiza:",
+      "opcoes": { "a": "Média dos valores", "b": "Soma dos valores", "c": "Máximo dos valores", "d": "Contagem dos valores" },
+      "resposta_correta": "b",
+      "comentario": "A função SOMA adiciona os valores do intervalo."
     },
-
     {
       "id": 13,
-      "pergunta": "No Excel, a função para média é:",
-      "opcoes": {
-        "a": "=SOMA()",
-        "b": "=MÉDIA()",
-        "c": "=MÁXIMO()",
-        "d": "=CONT.SE()"
-      },
-      "resposta": "b",
-      "comentario": "Calcula a média aritmética dos valores selecionados."
+      "pergunta": "Atalho para copiar no Windows:",
+      "opcoes": { "a": "Ctrl+X", "b": "Ctrl+C", "c": "Ctrl+V", "d": "Ctrl+Z" },
+      "resposta_correta": "b",
+      "comentario": "Ctrl+C copia o conteúdo selecionado."
     },
-
     {
       "id": 14,
-      "pergunta": "URL identifica:",
-      "opcoes": {
-        "a": "Tipo de arquivo",
-        "b": "Endereço de recurso na web",
-        "c": "Protocolo de impressão",
-        "d": "Script de execução local"
-      },
-      "resposta": "b",
-      "comentario": "Uniform Resource Locator: localizador do recurso na internet."
+      "pergunta": "Um antivírus tem como função principal:",
+      "opcoes": { "a": "Aumentar velocidade da internet", "b": "Detectar e remover malware", "c": "Configurar impressoras", "d": "Gerar senhas" },
+      "resposta_correta": "b",
+      "comentario": "Antivírus protege contra softwares maliciosos."
     },
-
     {
       "id": 15,
-      "pergunta": "Antivírus é usado para:",
-      "opcoes": {
-        "a": "Aumentar banda",
-        "b": "Detectar e mitigar malware",
-        "c": "Configurar roteadores",
-        "d": "Salvar cookies"
-      },
-      "resposta": "b",
-      "comentario": "Monitora, identifica e remove softwares maliciosos."
+      "pergunta": "O que significa URL?",
+      "opcoes": { "a": "User Resource Link", "b": "Uniform Resource Locator", "c": "Universal Reference Line", "d": "Unique Resource Language" },
+      "resposta_correta": "b",
+      "comentario": "É o endereço de um recurso na internet."
     },
-
+    
     {
       "id": 16,
-      "pergunta": "Desenvolvimento sustentável envolve:",
-      "opcoes": {
-        "a": "Uso ilimitado de recursos",
-        "b": "Atender presente sem comprometer futuro",
-        "c": "Crescimento a qualquer custo",
-        "d": "Suspender matrizes energéticas"
-      },
-      "resposta": "b",
-      "comentario": "Princípio base dos ODS: equilíbrio ambiental, social e econômico."
+      "pergunta": "A inflação é caracterizada por:",
+      "opcoes": { "a": "Aumento generalizado e contínuo dos preços", "b": "Queda permanente dos salários", "c": "Estabilidade monetária", "d": "Crescimento econômico sustentável" },
+      "resposta_correta": "a",
+      "comentario": "Inflação é o aumento persistente do nível geral de preços."
     },
-
     {
       "id": 17,
-      "pergunta": "Inflação alta tende a:",
-      "opcoes": {
-        "a": "Aumentar poder de compra",
-        "b": "Reduzir poder de compra",
-        "c": "Não impactar salários",
-        "d": "Diminuir preços relativos"
-      },
-      "resposta": "b",
-      "comentario": "Preços sobem mais rápido que a renda, reduzindo consumo real."
+      "pergunta": "O princípio da moralidade administrativa exige:",
+      "opcoes": { "a": "Atos sempre convenientes", "b": "Atos pautados em ética e honestidade", "c": "Atos sigilosos", "d": "Atos discricionários sem controle" },
+      "resposta_correta": "b",
+      "comentario": "A moralidade é princípio constitucional que exige probidade e ética na Administração."
     },
-
     {
       "id": 18,
-      "pergunta": "Concordância correta:",
-      "opcoes": {
-        "a": "Fazem dois anos que trabalho aqui.",
-        "b": "Faz dois anos que trabalho aqui.",
-        "c": "Haviam muitas pessoas.",
-        "d": "Devem haver soluções."
-      },
-      "resposta": "b",
-      "comentario": "‘Fazer’ e ‘haver’ impessoais ficam no singular."
+      "pergunta": "A Declaração Universal dos Direitos Humanos de 1948 é:",
+      "opcoes": { "a": "Tratado vinculante universal", "b": "Resolução com força moral e referência normativa", "c": "Lei brasileira ordinária", "d": "Acordo bilateral" },
+      "resposta_correta": "b",
+      "comentario": "A DUHD orienta os Estados e fundamenta diversos tratados subsequentes."
     },
-
     {
       "id": 19,
-      "pergunta": "Regra de três simples: se 4 máquinas produzem 100 peças, 6 máquinas produzirão:",
-      "opcoes": {
-        "a": "150",
-        "b": "125",
-        "c": "200",
-        "d": "75"
-      },
-      "resposta": "a",
-      "comentario": "Proporção direta: 6/4 = 1,5; 1,5×100 = 150."
+      "pergunta": "O princípio da legalidade no Direito Administrativo significa que:",
+      "opcoes": { "a": "O administrador pode agir livremente", "b": "O administrador está estritamente vinculado à lei", "c": "A lei é apenas uma recomendação", "d": "A administração não precisa justificar seus atos" },
+      "resposta_correta": "b",
+      "comentario": "A Administração só pode agir conforme a lei."
     },
-
     {
       "id": 20,
-      "pergunta": "Porcentagem: 30% de 250 =",
-      "opcoes": {
-        "a": "60",
-        "b": "65",
-        "c": "70",
-        "d": "75"
-      },
-      "resposta": "d",
-      "comentario": "0,3×250 = 75."
+      "pergunta": "No sistema penal, a culpabilidade envolve:",
+      "opcoes": { "a": "Tipicidade e sanção", "b": "Imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa", "c": "Somente dolo", "d": "Apenas pena aplicada" },
+      "resposta_correta": "b",
+      "comentario": "Culpabilidade exige imputabilidade e consciência da ilicitude."
     },
 
     {
       "id": 21,
-      "pergunta": "Sistema linear: x+y=10 e x−y=2 ⇒ x=",
-      "opcoes": {
-        "a": "6",
-        "b": "4",
-        "c": "8",
-        "d": "12"
-      },
-      "resposta": "a",
-      "comentario": "Somando: 2x=12 ⇒ x=6."
+      "pergunta": "Em processo penal, a ação penal privada é proposta por:",
+      "opcoes": { "a": "Juiz", "b": "Ministério Público", "c": "Ofendido ou seu representante legal", "d": "Delegado de polícia" },
+      "resposta_correta": "c",
+      "comentario": "Depende de iniciativa do ofendido."
     },
-
     {
       "id": 22,
-      "pergunta": "Área de um retângulo 7×9:",
-      "opcoes": {
-        "a": "16",
-        "b": "63",
-        "c": "72",
-        "d": "81"
-      },
-      "resposta": "b",
-      "comentario": "A=7×9=63."
+      "pergunta": "Na execução penal, a progressão de regime depende, em regra:",
+      "opcoes": { "a": "De confissão", "b": "De cumprimento de fração da pena e bom comportamento carcerário", "c": "De autorização do juiz sem requisitos", "d": "Apenas de parecer do diretor do presídio" },
+      "resposta_correta": "b",
+      "comentario": "Exige requisitos objetivos e subjetivos."
     },
-
     {
       "id": 23,
-      "pergunta": "Sequência lógica: 2, 6, 18, 54, ...",
-      "opcoes": {
-        "a": "72",
-        "b": "108",
-        "c": "162",
-        "d": "216"
-      },
-      "resposta": "c",
-      "comentario": "Multiplica por 3: próximo 54×3=162."
+      "pergunta": "Na informática, uma VPN é utilizada para:",
+      "opcoes": { "a": "Acelerar downloads", "b": "Criar uma conexão segura e criptografada em rede pública", "c": "Excluir arquivos temporários", "d": "Instalar impressoras" },
+      "resposta_correta": "b",
+      "comentario": "Cria túnel seguro e criptografado."
     },
-
     {
       "id": 24,
-      "pergunta": "No Word, ‘Cabeçalho’ serve para:",
-      "opcoes": {
-        "a": "Inserir conteúdo no topo das páginas",
-        "b": "Aumentar margem esquerda",
-        "c": "Exportar PDF",
-        "d": "Traduzir textos"
-      },
-      "resposta": "a",
-      "comentario": "Cabeçalho aparece no topo de todas as páginas."
+      "pergunta": "Em Excel, a função =CONT.SE(intervalo; critério) retorna:",
+      "opcoes": { "a": "A soma dos valores", "b": "A média dos valores", "c": "A contagem de células que atendem ao critério", "d": "O valor máximo do intervalo" },
+      "resposta_correta": "c",
+      "comentario": "Conta células conforme critério."
     },
-
     {
       "id": 25,
-      "pergunta": "Formatação condicional no Excel permite:",
-      "opcoes": {
-        "a": "Alterar senha",
-        "b": "Aplicar estilos com base em regras sobre valores",
-        "c": "Criar macros automaticamente",
-        "d": "Imprimir em massa"
-      },
-      "resposta": "b",
-      "comentario": "Destaca células conforme critérios."
+      "pergunta": "Atualidades: transição energética tem como objetivo principal:",
+      "opcoes": { "a": "Expandir combustíveis fósseis", "b": "Reduzir emissões e ampliar fontes renováveis", "c": "Suspender a energia elétrica", "d": "Aumentar o consumo per capita" },
+      "resposta_correta": "b",
+      "comentario": "Foca na descarbonização."
     },
 
     {
       "id": 26,
-      "pergunta": "Atalho para salvar:",
-      "opcoes": {
-        "a": "Ctrl+S",
-        "b": "Ctrl+P",
-        "c": "Ctrl+Z",
-        "d": "Ctrl+X"
-      },
-      "resposta": "a",
-      "comentario": "Salvar: Ctrl+S."
+      "pergunta": "Ética no serviço público: conflito de interesses exige:",
+      "opcoes": { "a": "Atuar mesmo com benefício próprio", "b": "Abstenção de atuar e comunicação à autoridade competente", "c": "Decisão individual e sigilosa", "d": "Delegação a subordinado sem informar" },
+      "resposta_correta": "b",
+      "comentario": "Evita prejuízo ao interesse público."
     },
-
     {
       "id": 27,
-      "pergunta": "Relações internacionais tratam de:",
-      "opcoes": {
-        "a": "Interações entre Estados e atores globais",
-        "b": "Apenas comércio interno",
-        "c": "Política municipal",
-        "d": "Tributos locais"
-      },
-      "resposta": "a",
-      "comentario": "Diplomacia, comércio, segurança, organismos internacionais."
+      "pergunta": "Direitos Humanos: as Regras de Mandela referem-se a:",
+      "opcoes": { "a": "Trânsito urbano", "b": "Tratamento de pessoas privadas de liberdade", "c": "Direitos trabalhistas gerais", "d": "Impostos e contribuições" },
+      "resposta_correta": "b",
+      "comentario": "Normas mínimas da ONU para presos."
     },
-
     {
       "id": 28,
-      "pergunta": "Impessoalidade significa:",
-      "opcoes": {
-        "a": "Favorecer conhecidos",
-        "b": "Atuar sem discriminação ou promoção pessoal",
-        "c": "Ocultar informações",
-        "d": "Ser sempre formal"
-      },
-      "resposta": "b",
-      "comentario": "Foco no interesse público, vedação à promoção pessoal."
+      "pergunta": "Direito Constitucional: cláusulas pétreas protegem, entre outros, os:",
+      "opcoes": { "a": "Direitos e garantias individuais", "b": "Impostos municipais", "c": "Decretos do Executivo", "d": "Atos administrativos discricionários" },
+      "resposta_correta": "a",
+      "comentario": "Art. 60, §4º."
     },
-
     {
       "id": 29,
-      "pergunta": "Aplicabilidade dos DH no sistema prisional implica:",
-      "opcoes": {
-        "a": "Suspensão total de direitos",
-        "b": "Respeito às garantias remanescentes e vedação a violações",
-        "c": "Regime militar integral",
-        "d": "Incomunicabilidade obrigatória"
-      },
-      "resposta": "b",
-      "comentario": "Direitos fundamentais remanescentes devem ser preservados."
+      "pergunta": "Direito Administrativo: poder de polícia é a atividade estatal que:",
+      "opcoes": { "a": "Amplia liberdades sem limites", "b": "Limita direitos em prol do interesse público", "c": "Julga ações penais", "d": "Cria leis orçamentárias" },
+      "resposta_correta": "b",
+      "comentario": "Limita direitos em favor da coletividade."
     },
-
     {
       "id": 30,
-      "pergunta": "Art. 144 prevê órgãos como:",
-      "opcoes": {
-        "a": "MP e Defensoria",
-        "b": "Polícias Federal, Rodoviária, Ferroviária, Civis, Militares, Corpo de Bombeiros",
-        "c": "Justiça Eleitoral",
-        "d": "Receita Federal"
-      },
-      "resposta": "b",
-      "comentario": "Rol de órgãos constitucionais da segurança pública."
+      "pergunta": "Direito Penal: concurso de pessoas pressupõe:",
+      "opcoes": { "a": "Apenas presença física", "b": "Pluralidade de agentes, vínculo subjetivo e relevância causal", "c": "Ordem de superior hierárquico apenas", "d": "Ausência de cooperação" },
+      "resposta_correta": "b",
+      "comentario": "Vontade comum e contribuição efetiva."
     },
 
     {
       "id": 31,
-      "pergunta": "Anulação de ato administrativo ocorre quando:",
-      "opcoes": {
-        "a": "Ato válido e conveniente",
-        "b": "Ato é ilegal",
-        "c": "Ato é perfeito",
-        "d": "Há interesse político"
-      },
-      "resposta": "b",
-      "comentario": "A anulação é feita quando há vício de legalidade."
+      "pergunta": "O princípio da impessoalidade na Administração Pública significa:",
+      "opcoes": { "a": "Favorecer conhecidos", "b": "Atuar sem discriminação ou promoção pessoal", "c": "Ocultar informações", "d": "Ser sempre formal" },
+      "resposta_correta": "b",
+      "comentario": "Veda promoção pessoal."
     },
-
     {
       "id": 32,
-      "pergunta": "Teoria do crime envolve:",
-      "opcoes": {
-        "a": "Fato típico, ilicitude e culpabilidade",
-        "b": "Ilicitude e pena apenas",
-        "c": "Tipicidade e sanção apenas",
-        "d": "Culpabilidade e execução"
-      },
-      "resposta": "a",
-      "comentario": "Teoria tripartida."
+      "pergunta": "Direitos Humanos: é vedado no sistema prisional:",
+      "opcoes": { "a": "Trabalho remunerado", "b": "Educação básica", "c": "Tortura e tratamento cruel", "d": "Assistência religiosa" },
+      "resposta_correta": "c",
+      "comentario": "Vedação absoluta."
+    },
+    {
+      "id": 33,
+      "pergunta": "Direito Constitucional: segurança pública é dever:",
+      "opcoes": { "a": "Exclusivo da União", "b": "Do Estado e responsabilidade de todos", "c": "Apenas dos Municípios", "d": "Privativa do Exército" },
+      "resposta_correta": "b",
+      "comentario": "Art. 144 da CF."
+    },
+    {
+      "id": 34,
+      "pergunta": "Direito Administrativo: responsabilidade civil do Estado é:",
+      "opcoes": { "a": "Subjetiva por culpa", "b": "Objetiva por risco administrativo", "c": "Sem responsabilidade", "d": "Apenas se houver dolo" },
+      "resposta_correta": "b",
+      "comentario": "Art. 37, §6º."
+    },
+    {
+      "id": 35,
+      "pergunta": "Direito Penal: legítima defesa é causa:",
+      "opcoes": { "a": "De aumento de pena", "b": "De exclusão da ilicitude", "c": "De diminuição de pena", "d": "De extinção de punibilidade" },
+      "resposta_correta": "b",
+      "comentario": "Afasta a antijuridicidade."
     },
 
     {
+      "id": 36,
+      "pergunta": "Direito Processual Penal: inquérito policial é:",
+      "opcoes": { "a": "Processo judicial", "b": "Procedimento administrativo preparatório e inquisitivo", "c": "Recurso criminal", "d": "Medida cautelar" },
+      "resposta_correta": "b",
+      "comentario": "Procedimento investigativo."
+    },
+    {
+      "id": 37,
+      "pergunta": "Direito Processual Penal: prisão em flagrante ocorre quando:",
+      "opcoes": { "a": "Após sentença", "b": "Durante ou logo após o crime", "c": "Por denúncia anônima", "d": "Somente por mandado judicial" },
+      "resposta_correta": "b",
+      "comentario": "Flagrante próprio, impróprio e presumido."
+    },
+    {
+      "id": 38,
+      "pergunta": "Direito Processual Penal: ação penal pública incondicionada é proposta por:",
+      "opcoes": { "a": "Ofendido", "b": "Defensor público", "c": "Ministério Público", "d": "Juiz" },
+      "resposta_correta": "c",
+      "comentario": "O MP é o titular."
+    },
+    {
+      "id": 39,
+      "pergunta": "Direito Processual Penal: competência é determinada por:",
+      "opcoes": { "a": "Convenção das partes", "b": "Critérios como matéria, lugar e pessoa", "c": "Escolha do autor", "d": "Preferência do juiz" },
+      "resposta_correta": "b",
+      "comentario": "Critérios legais."
+    },
+    {
+      "id": 40,
+      "pergunta": "Direito Processual Penal: provas ilícitas:",
+      "opcoes": { "a": "São sempre admissíveis", "b": "São inadmissíveis, salvo teorias excepcionais", "c": "Dependem da vontade do réu", "d": "Podem substituir sentença" },
+      "resposta_correta": "b",
+      "comentario": "Regra é inadmissibilidade."
+    },
+
+    {
+      "id": 41,
+      "pergunta": "LEP: o trabalho do preso é:",
+      "opcoes": { "a": "Vedado", "b": "Facultativo", "c": "Dever social e condição de dignidade, com remuneração", "d": "Apenas para regime aberto" },
+      "resposta_correta": "c",
+      "comentario": "Arts. 28 e 29 da LEP."
+    },
+    {
+      "id": 42,
+      "pergunta": "Lei de Drogas: tráfico é crime:",
+      "opcoes": { "a": "Menor potencial ofensivo", "b": "Hediondo por equiparação", "c": "Civil", "d": "De responsabilidade" },
+      "resposta_correta": "b",
+      "comentario": "Lei 8.072/90."
+    },
+    {
+      "id": 43,
+      "pergunta": "Estatuto do Desarmamento regula:",
+      "opcoes": { "a": "Registro, posse e comércio de armas", "b": "Apenas munição", "c": "Uso exclusivo das forças armadas", "d": "Importação de veículos" },
+      "resposta_correta": "a",
+      "comentario": "Lei 10.826/03."
+    },
+    {
+      "id": 44,
+      "pergunta": "Lei de Abuso de Autoridade (13.869/2019) busca:",
+      "opcoes": { "a": "Punir erros formais", "b": "Coibir condutas dolosas que atentem contra direitos e garantias", "c": "Revogar a CF/88", "d": "Criar cargos públicos" },
+      "resposta_correta": "b",
+      "comentario": "Foca em abusos de agentes públicos."
+    },
+    {
+      "id": 45,
+      "pergunta": "Organizações Criminosas (12.850/2013) definem associação de:",
+      "opcoes": { "a": "2 pessoas", "b": "3 pessoas", "c": "4 ou mais pessoas com estrutura e divisão de tarefas", "d": "Qualquer número sem estrutura" },
+      "resposta_correta": "c",
+      "comentario": "Exige estrutura organizada."
+    },
+
+    {
+      "id": 46,
+      "pergunta": "Lei de Tortura (9.455/1997) pune:",
+      "opcoes": { "a": "Somente agentes públicos", "b": "Qualquer pessoa que cometa atos de tortura", "c": "Apenas omissão de socorro", "d": "Somente pessoas jurídicas" },
+      "resposta_correta": "b",
+      "comentario": "Lei se aplica a qualquer pessoa."
+    },
+    {
+      "id": 47,
+      "pergunta": "Crimes Ambientais (Lei 9.605/1998) incluem:",
+      "opcoes": { "a": "Furto simples", "b": "Poluição e dano à fauna/flora", "c": "Tráfico de pessoas", "d": "Desarmamento" },
+      "resposta_correta": "b",
+      "comentario": "Protege meio ambiente."
+    },
+    {
+      "id": 48,
+      "pergunta": "Lei Estadual 1.059/2023 trata:",
+      "opcoes": { "a": "Criação do cargo de Policial Penal e plano de carreira", "b": "Código Penal estadual", "c": "Execução fiscal", "d": "Lei de trânsito estadual" },
+      "resposta_correta": "a",
+      "comentario": "Institui o cargo e a carreira."
+    },
+    {
+      "id": 49,
+      "pergunta": "Lei Estadual 1.061/2023 cria:",
+      "opcoes": { "a": "Secretaria de Segurança", "b": "Polícia Penal do Espírito Santo como órgão de segurança pública", "c": "Lei de Improbidade estadual", "d": "Defensoria municipal" },
+      "resposta_correta": "b",
+      "comentario": "Inclui a Polícia Penal no sistema de segurança."
+    },
+    {
+      "id": 50,
+      "pergunta": "Direito Constitucional: cláusulas pétreas protegem, entre outros, os:",
+      "opcoes": { "a": "Direitos e garantias individuais", "b": "Impostos municipais", "c": "Decretos do Executivo", "d": "Atos administrativos discricionários" },
+      "resposta_correta": "a",
+      "comentario": "Art. 60, §4º."
+    },
+
+    {
+      "id": 51,
+      "pergunta": "Direito Administrativo: poder de polícia é a atividade estatal que:",
+      "opcoes": { "a": "Amplia liberdades sem limites", "b": "Limita direitos em prol do interesse público", "c": "Julga ações penais", "d": "Cria leis orçamentárias" },
+      "resposta_correta": "b",
+      "comentario": "Limita direitos em favor do bem comum."
+    },
+    {
+      "id": 52,
+      "pergunta": "Direito Penal: concurso de pessoas pressupõe:",
+      "opcoes": { "a": "Apenas presença física", "b": "Pluralidade de agentes, vínculo subjetivo e relevância causal", "c": "Ordem de superior hierárquico apenas", "d": "Ausência de cooperação" },
+      "resposta_correta": "b",
+      "comentario": "Requer vinculação e contribuição efetiva."
+    },
+    {
+      "id": 53,
+      "pergunta": "Direito Processual Penal: ação penal privada é proposta por:",
+      "opcoes": { "a": "Juiz", "b": "Ministério Público", "c": "Ofendido ou seu representante legal", "d": "Delegado de polícia" },
+      "resposta_correta": "c",
+      "comentario": "Titular é o ofendido."
+    },
+    {
+      "id": 54,
+      "pergunta": "Direito Processual Penal: progressão de regime depende:",
+      "opcoes": { "a": "De confissão", "b": "De cumprimento de fração da pena e bom comportamento carcerário", "c": "De autorização do juiz sem requisitos", "d": "Apenas de parecer do diretor do presídio" },
+      "resposta_correta": "b",
+      "comentario": "Requisitos objetivo e subjetivo."
+    },
+    {
+      "id": 55,
+      "pergunta": "Informática: uma VPN é utilizada para:",
+      "opcoes": { "a": "Acelerar downloads", "b": "Criar uma conexão segura e criptografada em rede pública", "c": "Excluir arquivos temporários", "d": "Instalar impressoras" },
+      "resposta_correta": "b",
+      "comentario": "Garante segurança em redes públicas."
+    },
+
+    {
+      "id": 56,
+      "pergunta": "Excel: a função =CONT.SE(intervalo; critério) retorna:",
+      "opcoes": { "a": "A soma dos valores do intervalo", "b": "A média dos valores", "c": "A contagem de células que atendem ao critério", "d": "O valor máximo do intervalo" },
+      "resposta_correta": "c",
+      "comentario": "Faz contagem condicional."
+    },
+    {
+      "id": 57,
+      "pergunta": "Atualidades: transição energética tem como objetivo principal:",
+      "opcoes": { "a": "Expandir combustíveis fósseis", "b": "Reduzir emissões e ampliar fontes renováveis", "c": "Suspender a energia elétrica", "d": "Aumentar o consumo per capita" },
+      "resposta_correta": "b",
+      "comentario": "Busca reduzir carbono."
+    },
+    {
+      "id": 58,
+      "pergunta": "Ética no serviço público: conflito de interesses exige:",
+      "opcoes": { "a": "Atuar mesmo com benefício próprio", "b": "Abstenção de atuar e comunicação à autoridade competente", "c": "Decisão individual e sigilosa", "d": "Delegação a subordinado sem informar" },
+      "resposta_correta": "b",
+      "comentario": "Preserva a imparcialidade."
+    },
+    {
+      "id": 59,
+      "pergunta": "Direitos Humanos: as Regras de Mandela referem-se a:",
+      "opcoes": { "a": "Trânsito urbano", "b": "Tratamento de pessoas privadas de liberdade", "c": "Direitos trabalhistas gerais", "d": "Impostos e contribuições" },
+      "resposta_correta": "b",
+      "comentario": "Normas mínimas para pessoas presas."
+    },
+    {
       "id": 60,
-      "pergunta": "Tipicidade penal significa:",
-      "opcoes": {
-        "a": "Adequação da conduta à norma penal incriminadora",
-        "b": "Culpabilidade do agente",
-        "c": "Ilicitude da ação",
-        "d": "Sanção aplicada"
-      },
-      "resposta": "a",
-      "comentario": "Tipicidade é a subsunção da conduta ao tipo penal."
+      "pergunta": "Direito Constitucional: direitos e garantias fundamentais estão previstos nos artigos:",
+      "opcoes": { "a": "1º a 4º", "b": "5º a 17", "c": "18 a 24", "d": "144 a 150" },
+      "resposta_correta": "b",
+      "comentario": "Título II da CF/88."
     }
   ]
 }
