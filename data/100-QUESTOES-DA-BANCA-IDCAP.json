@@ -1,5 +1,5 @@
 {
-  "titulo": "Simulado PPES 2025 (versão JSON com gabarito e comentários) — Bloco 1",
+  "titulo": "Simulado PPES 2025 (versão JSON com gabarito e comentários)",
   "fonte": "0",
   "questoes": [
     {
@@ -140,27 +140,131 @@
     },
     {
       "id": 18,
-      "pergunta": "Intertextualidade ocorre quando:",
-      "opcoes": { "a": "Um texto não se relaciona a outros", "b": "Um texto dialoga com outros textos", "c": "Um texto é totalmente literal", "d": "Um texto apresenta apenas enumeração" },
+      "pergunta": "Concordância correta:",
+      "opcoes": { "a": "Fazem dois anos que trabalho aqui.", "b": "Faz dois anos que trabalho aqui.", "c": "Haviam muitas pessoas.", "d": "Devem haver soluções." },
       "resposta": "b",
-      "resposta_texto": "Um texto dialoga com outros textos",
-      "comentario": "Pode ocorrer por citação, alusão, paródia ou referência explícita/implícita."
+      "resposta_texto": "Faz dois anos que trabalho aqui.",
+      "comentario": "‘Fazer’ e ‘haver’ impessoais ficam no singular."
     },
     {
       "id": 19,
-      "pergunta": "Em 'Vende-se apartamento', o elemento 'se' funciona como:",
-      "opcoes": { "a": "Pronome reflexivo", "b": "Partícula expletiva", "c": "Índice de indeterminação do sujeito", "d": "Conjunção subordinativa" },
-      "resposta": "c",
-      "resposta_texto": "Índice de indeterminação do sujeito",
-      "comentario": "Indetermina o agente da ação em construções impessoais com verbo transitivo."
+      "pergunta": "Regra de três simples: se 4 máquinas produzem 100 peças, 6 máquinas produzirão:",
+      "opcoes": { "a": "150", "b": "125", "c": "200", "d": "75" },
+      "resposta": "a",
+      "resposta_texto": "150",
+      "comentario": "Proporção direta: 6/4 = 1,5; 1,5×100 = 150."
     },
     {
       "id": 20,
-      "pergunta": "‘Há’ com sentido de ‘existir’ deve ficar:",
-      "opcoes": { "a": "No plural quando o objeto é plural", "b": "No singular sempre", "c": "No futuro do presente", "d": "Com pronome tônico obrigatório" },
+      "pergunta": "Porcentagem: 30% de 250 =",
+      "opcoes": { "a": "60", "b": "65", "c": "70", "d": "75" },
+      "resposta": "d",
+      "resposta_texto": "75",
+      "comentario": "0,3×250 = 75."
+    },
+    {
+      "id": 21,
+      "pergunta": "Sistema linear: x+y=10 e x−y=2 ⇒ x=",
+      "opcoes": { "a": "6", "b": "4", "c": "8", "d": "12" },
+      "resposta": "a",
+      "resposta_texto": "6",
+      "comentario": "Somando: 2x=12 ⇒ x=6."
+    },
+    {
+      "id": 22,
+      "pergunta": "Área de um retângulo 7×9:",
+      "opcoes": { "a": "16", "b": "63", "c": "72", "d": "81" },
       "resposta": "b",
-      "resposta_texto": "No singular sempre",
-      "comentario": "Verbo ‘haver’ impessoal (existencial) é invariável: ‘Há muitas pessoas’, nunca ‘Haviam’."
+      "resposta_texto": "63",
+      "comentario": "A=7×9=63."
+    },
+    {
+      "id": 23,
+      "pergunta": "Sequência lógica: 2, 6, 18, 54, ...",
+      "opcoes": { "a": "72", "b": "108", "c": "162", "d": "216" },
+      "resposta": "c",
+      "resposta_texto": "162",
+      "comentario": "Multiplica por 3: próximo 54×3=162."
+    },
+    {
+      "id": 24,
+      "pergunta": "No Word, ‘Cabeçalho’ serve para:",
+      "opcoes": { "a": "Inserir conteúdo no topo das páginas", "b": "Aumentar margem esquerda", "c": "Exportar PDF", "d": "Traduzir textos" },
+      "resposta": "a",
+      "resposta_texto": "Inserir conteúdo no topo das páginas",
+      "comentario": "Cabeçalho aparece no topo de todas as páginas."
+    },
+    {
+      "id": 25,
+      "pergunta": "Formatação condicional no Excel permite:",
+      "opcoes": { "a": "Alterar senha", "b": "Aplicar estilos com base em regras sobre valores", "c": "Criar macros automaticamente", "d": "Imprimir em massa" },
+      "resposta": "b",
+      "resposta_texto": "Aplicar estilos com base em regras sobre valores",
+      "comentario": "Destaca células conforme critérios (maior que, igual, etc.)."
+    },
+    {
+      "id": 26,
+      "pergunta": "Atalho para salvar:",
+      "opcoes": { "a": "Ctrl+S", "b": "Ctrl+P", "c": "Ctrl+Z", "d": "Ctrl+X" },
+      "resposta": "a",
+      "resposta_texto": "Ctrl+S",
+      "comentario": "Salvar: Ctrl+S."
+    },
+    {
+      "id": 27,
+      "pergunta": "Relações internacionais tratam de:",
+      "opcoes": { "a": "Interações entre Estados e atores globais", "b": "Apenas comércio interno", "c": "Política municipal", "d": "Tributos locais" },
+      "resposta": "a",
+      "resposta_texto": "Interações entre Estados e atores globais",
+      "comentario": "Diplomacia, comércio, segurança, organismos internacionais."
+    },
+    {
+      "id": 28,
+      "pergunta": "Impessoalidade significa:",
+      "opcoes": { "a": "Favorecer conhecidos", "b": "Atuar sem discriminação ou promoção pessoal", "c": "Ocultar informações", "d": "Ser sempre formal" },
+      "resposta": "b",
+      "resposta_texto": "Atuar sem discriminação ou promoção pessoal",
+      "comentario": "Foco no interesse público, vedação à promoção pessoal."
+    },
+    {
+      "id": 29,
+      "pergunta": "Aplicabilidade dos DH no sistema prisional implica:",
+      "opcoes": { "a": "Suspensão total de direitos", "b": "Respeito às garantias remanescentes e vedação a violações", "c": "Regime militar integral", "d": "Incomunicabilidade obrigatória" },
+      "resposta": "b",
+      "resposta_texto": "Respeito às garantias remanescentes e vedação a violações",
+      "comentario": "Pessoas privadas de liberdade mantêm direitos fundamentais não incompatíveis."
+    },
+    {
+      "id": 30,
+      "pergunta": "Art. 144 prevê órgãos como:",
+      "opcoes": { "a": "MP e Defensoria", "b": "Polícias Federal, Rodoviária, Ferroviária, Civis, Militares, Corpo de Bombeiros", "c": "Justiça Eleitoral", "d": "Receita Federal" },
+      "resposta": "b",
+      "resposta_texto": "Polícias Federal, Rodoviária, Ferroviária, Civis, Militares, Corpo de Bombeiros",
+      "comentario": "Rol de órgãos da segurança pública."
+    },
+    {
+      "id": 31,
+      "pergunta": "Anulação de ato administrativo ocorre quando:",
+      "opcoes": { "a": "Ato válido e conveniente", "b": "Ato é ilegal", "c": "Ato é perfeito", "d": "Há interesse político" },
+      "resposta": "b",
+      "resposta_texto": "Ato é ilegal",
+      "comentario": "A anulação é feita quando há vício de legalidade; já a revogação ocorre por conveniência e oportunidade."
+    },
+    {
+      "id": 32,
+      "pergunta": "Teoria do crime envolve:",
+      "opcoes": { "a": "Fato típico, ilicitude e culpabilidade", "b": "Ilicitude e pena apenas", "c": "Tipicidade e sanção apenas", "d": "Culpabilidade e execução" },
+      "resposta": "a",
+      "resposta_texto": "Fato típico, ilicitude e culpabilidade",
+      "comentario": "A teoria tripartida do crime considera esses três elementos essenciais."
+    },
+    {
+      "id": 60,
+      "pergunta": "Tipicidade penal significa:",
+      "opcoes": { "a": "Adequação da conduta à norma penal incriminadora", "b": "Culpabilidade do agente", "c": "Ilicitude da ação", "d": "Sanção aplicada" },
+      "resposta": "a",
+      "resposta_texto": "Adequação da conduta à norma penal incriminadora",
+      "comentario": "Tipicidade é a subsunção da conduta ao tipo penal previsto em lei."
     }
   ]
 }
