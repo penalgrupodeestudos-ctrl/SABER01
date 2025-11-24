@@ -1,5 +1,6 @@
 
 [
+  "LEI-1059-CARREIRA-POLICIA-PENAL.json",
   "SIMULADO-DIREITOS-HUMANOS-JSON.json",
   "SIMULADO-IASES-JSON-COM-GABARITO.json",
   "SIMULADO-POLICIA-PENAL02-JSON.json",
@@ -18,9 +19,11 @@
   "002-IDCAP-60-QUESTOES.json",
   "ESPECIES-DE-PENAS.json", 
   "100-QUESTOES-DA-BANCA-IDCAP.json",
-  "DOSIMETRIA-DA-PENA.json","simulado_idcap_agente_socioeducativo.json",
+  "DOSIMETRIA-DA-PENA.json",
+  "simulado_idcap_agente_socioeducativo.json",
   "ESTRATEGIA.json"
 ]
+
 
 
 
