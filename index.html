@@ -730,7 +730,7 @@
             const list = document.getElementById('simulados-list');
             
             // LISTA DE MANIFESTO FINALIZADA (Seus arquivos conhecidos e o novo ESTRATEGIA.json)
-            const fallbackFiles = [
+            const fallbackFiles = [x
                 "ULTMA-CHANCE-26-11-2025.json",
                 "ESTRATEGIA.json", 
                 "SIMULADO-DIREITOS-HUMANOS-JSON.json",
@@ -757,7 +757,7 @@
                 "INFORMATICA.json",
                 "DIREITO-ADMINISTRATIVO-REFORCO.json",
                 "simulado_idcap_agente_socioeducativo.json"
-            ];
+          x  ];
             
             list.innerHTML = '';
             fallbackFiles.forEach(filename => {
@@ -775,6 +775,7 @@
     </script>
 </body>
 </html>
+
 
 
 
